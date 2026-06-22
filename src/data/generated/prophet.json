@@ -1,0 +1,474 @@
+[
+  {
+    "id": "CAT-prophet-el-emin-guvenilirlik",
+    "category": "prophet",
+    "icon": "shield-checkmark-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["el-emin", "trust", "doğruluk", "honesty", "güven"],
+    "content": {
+      "tr": {
+        "title": "El-Emin: Güvenin İnsanı",
+        "shortDescription": "Henüz peygamberlik gelmeden önce bile toplumu ona 'el-Emin', yani güvenilir diyordu. Doğruluğu, hayatının değişmeyen imzasıydı.",
+        "mainPrinciple": "Sözü ile özü hep aynı kalan kişi, gönüllerin en güvendiği kişidir.",
+        "summaryPoints": [
+          "Daha vahiy gelmeden 'el-Emin' lakabıyla tanınmış, doğruluğu herkesçe kabul görmüştü.",
+          "Şaka yaparken bile yalana başvurmamış, eminliğini düşmanları dahi inkâr edememiştir.",
+          "Güvenilirlik, ona inanan için olduğu kadar onu yeni tanıyan için de en açık kapıdır."
+        ],
+        "dailyReflection": "Bugün küçük de olsa hiçbir konuda abartı ya da yarım gerçek söylemeden konuş.",
+        "dawahTip": "Onun güvenilirliğini anlatırken karşındakine 'sözünde duran birinin huzuru'ndan bahset; ahlakın evrensel diliyle buluşmak kapıları açar.",
+        "questionAnswer": {
+          "question": "Peygamberlik gelmeden önce nasıl tanınıyordu?",
+          "answer": "Toplumun her kesimi onu 'el-Emin' yani güvenilir diye çağırıyordu; insanlar değerli eşyalarını gönül rahatlığıyla ona emanet ediyordu."
+        },
+        "referenceNote": "Siyer kaynakları, onun gençlik yıllarındaki güvenilirlik ve dürüstlük vasfını ortak biçimde aktarır.",
+        "shareText": "Sözü ile özü bir olan insan, gönüllerin en çok güvendiği insandır. O, daha peygamber olmadan 'el-Emin' diye anılıyordu."
+      },
+      "en": {
+        "title": "Al-Amin: The Trustworthy One",
+        "shortDescription": "Even before prophethood, his community called him 'al-Amin' the trustworthy. Honesty was the unchanging signature of his life.",
+        "mainPrinciple": "The one whose words always match their heart is the one whom hearts trust most.",
+        "summaryPoints": [
+          "He was known as 'al-Amin' before any revelation, his honesty acknowledged by everyone.",
+          "He never resorted to lying even in jest, and even his foes could not deny his integrity.",
+          "Trustworthiness is the clearest doorway both for those who believe in him and those just meeting him."
+        ],
+        "dailyReflection": "Today, speak about everything, however small, without exaggeration or half-truths.",
+        "dawahTip": "When sharing his trustworthiness, speak of 'the peace of being around someone who keeps their word'; meeting people in the universal language of character opens doors.",
+        "questionAnswer": {
+          "question": "How was he known before prophethood?",
+          "answer": "Every part of society called him 'al-Amin', the trustworthy; people would leave their valuables with him with complete peace of mind."
+        },
+        "referenceNote": "Biographical sources consistently relate his quality of trustworthiness and honesty from his youth.",
+        "shareText": "A person whose words match their heart is the one hearts trust most. He was called 'al-Amin', the trustworthy, even before he became a prophet."
+      },
+      "fr": {
+        "title": "Al-Amin : l'homme de confiance",
+        "shortDescription": "Avant même la prophétie, sa communauté l'appelait 'al-Amin', le digne de confiance. La droiture fut la signature constante de sa vie.",
+        "mainPrinciple": "Celui dont les paroles s'accordent toujours avec le cœur est celui en qui les cœurs ont le plus confiance.",
+        "summaryPoints": [
+          "Il était connu comme 'al-Amin' avant toute révélation, son honnêteté reconnue de tous.",
+          "Il n'a jamais menti, même en plaisantant, et même ses adversaires ne pouvaient nier son intégrité.",
+          "La fiabilité est la porte la plus claire, autant pour celui qui croit en lui que pour celui qui le découvre."
+        ],
+        "dailyReflection": "Aujourd'hui, parle de tout, même des petites choses, sans exagération ni demi-vérités.",
+        "dawahTip": "En évoquant sa fiabilité, parle de 'la paix d'être auprès de quelqu'un qui tient parole' ; rencontrer les gens dans le langage universel du caractère ouvre les portes.",
+        "questionAnswer": {
+          "question": "Comment était-il connu avant la prophétie ?",
+          "answer": "Toute la société l'appelait 'al-Amin', le digne de confiance ; les gens lui confiaient leurs biens précieux en toute tranquillité."
+        },
+        "referenceNote": "Les sources biographiques rapportent de façon constante sa qualité de fiabilité et d'honnêteté dès sa jeunesse.",
+        "shareText": "Celui dont les paroles s'accordent avec le cœur est celui en qui les cœurs ont le plus confiance. On l'appelait 'al-Amin', le digne de confiance, avant même qu'il ne soit prophète."
+      },
+      "pt-BR": {
+        "title": "Al-Amin: o homem de confiança",
+        "shortDescription": "Antes mesmo da profecia, sua comunidade o chamava de 'al-Amin', o confiável. A retidão foi a assinatura constante de sua vida.",
+        "mainPrinciple": "Aquele cujas palavras sempre combinam com o coração é aquele em quem os corações mais confiam.",
+        "summaryPoints": [
+          "Era conhecido como 'al-Amin' antes de qualquer revelação, sua honestidade reconhecida por todos.",
+          "Nunca recorreu à mentira nem em brincadeiras, e até seus adversários não podiam negar sua integridade.",
+          "A confiabilidade é a porta mais clara, tanto para quem crê nele quanto para quem o conhece agora."
+        ],
+        "dailyReflection": "Hoje, fale sobre tudo, por menor que seja, sem exageros nem meias-verdades.",
+        "dawahTip": "Ao compartilhar sua confiabilidade, fale sobre 'a paz de estar perto de alguém que cumpre a palavra'; encontrar as pessoas na linguagem universal do caráter abre portas.",
+        "questionAnswer": {
+          "question": "Como ele era conhecido antes da profecia?",
+          "answer": "Toda a sociedade o chamava de 'al-Amin', o confiável; as pessoas deixavam seus bens valiosos com ele com total tranquilidade."
+        },
+        "referenceNote": "As fontes biográficas relatam de forma consistente sua qualidade de confiabilidade e honestidade desde a juventude.",
+        "shareText": "Aquele cujas palavras combinam com o coração é em quem os corações mais confiam. Ele era chamado de 'al-Amin', o confiável, antes mesmo de se tornar profeta."
+      },
+      "de": {
+        "title": "Al-Amin: der Vertrauenswürdige",
+        "shortDescription": "Schon vor der Prophetie nannte ihn seine Gemeinschaft 'al-Amin', den Vertrauenswürdigen. Aufrichtigkeit war die unveränderliche Signatur seines Lebens.",
+        "mainPrinciple": "Wer mit seinen Worten stets mit dem Herzen übereinstimmt, ist der, dem die Herzen am meisten vertrauen.",
+        "summaryPoints": [
+          "Er war schon vor jeder Offenbarung als 'al-Amin' bekannt, seine Ehrlichkeit von allen anerkannt.",
+          "Selbst im Scherz griff er nie zur Lüge, und sogar seine Gegner konnten seine Aufrichtigkeit nicht leugnen.",
+          "Vertrauenswürdigkeit ist die klarste Tür, sowohl für den Gläubigen als auch für den, der ihn neu kennenlernt."
+        ],
+        "dailyReflection": "Sprich heute über alles, so klein es auch sei, ohne Übertreibung und ohne halbe Wahrheiten.",
+        "dawahTip": "Wenn du von seiner Vertrauenswürdigkeit erzählst, sprich von 'dem Frieden, bei jemandem zu sein, der sein Wort hält'; Menschen in der universellen Sprache des Charakters zu begegnen, öffnet Türen.",
+        "questionAnswer": {
+          "question": "Wie war er vor der Prophetie bekannt?",
+          "answer": "Die ganze Gesellschaft nannte ihn 'al-Amin', den Vertrauenswürdigen; die Menschen vertrauten ihm ihre Wertsachen mit völliger Gelassenheit an."
+        },
+        "referenceNote": "Die Biografiequellen überliefern übereinstimmend seine Eigenschaft der Vertrauenswürdigkeit und Ehrlichkeit aus seiner Jugend.",
+        "shareText": "Wer mit Worten und Herzen eins ist, dem vertrauen die Herzen am meisten. Schon bevor er Prophet wurde, nannte man ihn 'al-Amin', den Vertrauenswürdigen."
+      },
+      "es": {
+        "title": "Al-Amín: el hombre de confianza",
+        "shortDescription": "Aun antes de la profecía, su comunidad lo llamaba 'al-Amín', el confiable. La rectitud fue la firma constante de su vida.",
+        "mainPrinciple": "Aquel cuyas palabras siempre coinciden con su corazón es en quien más confían los corazones.",
+        "summaryPoints": [
+          "Era conocido como 'al-Amín' antes de cualquier revelación, y su honestidad era reconocida por todos.",
+          "Nunca recurrió a la mentira ni en broma, y ni siquiera sus adversarios podían negar su integridad.",
+          "La confiabilidad es la puerta más clara, tanto para quien cree en él como para quien apenas lo conoce."
+        ],
+        "dailyReflection": "Hoy, habla de todo, por pequeño que sea, sin exageraciones ni medias verdades.",
+        "dawahTip": "Al compartir su confiabilidad, habla de 'la paz de estar cerca de alguien que cumple su palabra'; encontrarse con las personas en el lenguaje universal del carácter abre puertas.",
+        "questionAnswer": {
+          "question": "¿Cómo era conocido antes de la profecía?",
+          "answer": "Toda la sociedad lo llamaba 'al-Amín', el confiable; las personas dejaban sus bienes valiosos con él con total tranquilidad."
+        },
+        "referenceNote": "Las fuentes biográficas relatan de manera constante su cualidad de confiabilidad y honestidad desde su juventud.",
+        "shareText": "Aquel cuyas palabras coinciden con su corazón es en quien más confían los corazones. Lo llamaban 'al-Amín', el confiable, aun antes de ser profeta."
+      }
+    }
+  },
+  {
+    "id": "CAT-prophet-adalet-hakkaniyet",
+    "category": "prophet",
+    "icon": "scale-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["adalet", "justice", "hakkaniyet", "fairness", "eşitlik"],
+    "content": {
+      "tr": {
+        "title": "Herkese Eşit Bir Terazi",
+        "shortDescription": "Onun adaleti yakına da uzağa da, dosta da yabancıya da aynı ölçüyle davranırdı. Hak, kişiye göre değişmezdi.",
+        "mainPrinciple": "Gerçek adalet, sevdiğine de sevmediğine de aynı hakkı tanımakla başlar.",
+        "summaryPoints": [
+          "Liderliğini adalet üzerine kurmuş, yönetimde istişareyi, görevde liyakati esas almıştır.",
+          "Hakkı korurken yakınlık, makam ya da düşmanlık ölçüyü hiç değiştirmemiştir.",
+          "Veda Hutbesi'nde insanların eşitliğini, can ve mal dokunulmazlığını evrensel bir ilke olarak bırakmıştır."
+        ],
+        "dailyReflection": "Bugün bir anlaşmazlıkta, sevmediğin tarafın da haklı olabileceğini dürüstçe düşün.",
+        "dawahTip": "Adaletini anlatırken taraf tutmadan hüküm vermenin nadirliğine dikkat çek; herkesin özlediği bir değeri paylaşırsın.",
+        "questionAnswer": {
+          "question": "Adaleti neye göre şekillenirdi?",
+          "answer": "Sevgiye, akrabalığa ya da güce göre değil; yalnızca hakkın kendisine göre. Sevdiği biri haksızsa onu, sevmediği biri haklıysa onu korurdu."
+        },
+        "referenceNote": "Veda Hutbesi'nde özetlenen eşitlik ve hakların korunması ilkeleri, onun adalet anlayışının özünü yansıtır.",
+        "shareText": "Gerçek adalet, sevdiğine de sevmediğine de aynı hakkı tanımaktır. Onun terazisi kişiye göre değil, hakka göre tartardı."
+      },
+      "en": {
+        "title": "One Scale for Everyone",
+        "shortDescription": "His justice treated the near and the far, friend and stranger, by the same measure. Right did not change from person to person.",
+        "mainPrinciple": "True justice begins by granting the same right to the one you love and the one you do not.",
+        "summaryPoints": [
+          "He built his leadership on justice, basing rule on consultation and appointment on merit.",
+          "In upholding what was right, closeness, rank, or enmity never shifted the measure.",
+          "In the Farewell Sermon he left the equality of people and the sanctity of life and property as a universal principle."
+        ],
+        "dailyReflection": "Today, in a disagreement, honestly consider that the side you dislike may also be right.",
+        "dawahTip": "When describing his justice, point to the rarity of judging without taking sides; you share a value everyone longs for.",
+        "questionAnswer": {
+          "question": "What shaped his justice?",
+          "answer": "Not affection, kinship, or power, but only the truth itself. If someone he loved was wrong, he ruled against them; if someone he disliked was right, he protected them."
+        },
+        "referenceNote": "The principles of equality and protection of rights summarized in the Farewell Sermon reflect the core of his understanding of justice.",
+        "shareText": "True justice means granting the same right to the one you love and the one you don't. His scale weighed by truth, not by the person."
+      },
+      "fr": {
+        "title": "Une seule balance pour tous",
+        "shortDescription": "Sa justice traitait le proche et le lointain, l'ami et l'étranger, à la même mesure. Le droit ne changeait pas selon la personne.",
+        "mainPrinciple": "La vraie justice commence en accordant le même droit à celui qu'on aime et à celui qu'on n'aime pas.",
+        "summaryPoints": [
+          "Il a fondé son autorité sur la justice, basant le gouvernement sur la concertation et les charges sur le mérite.",
+          "En défendant le droit, la proximité, le rang ou l'inimitié n'ont jamais déplacé la mesure.",
+          "Dans le Sermon d'adieu, il a laissé l'égalité des hommes et l'inviolabilité de la vie et des biens comme principe universel."
+        ],
+        "dailyReflection": "Aujourd'hui, dans un désaccord, envisage honnêtement que le camp que tu n'apprécies pas puisse aussi avoir raison.",
+        "dawahTip": "En décrivant sa justice, souligne la rareté de juger sans prendre parti ; tu partages une valeur que tout le monde désire.",
+        "questionAnswer": {
+          "question": "Selon quoi se façonnait sa justice ?",
+          "answer": "Non selon l'affection, la parenté ou le pouvoir, mais selon la vérité seule. Si un proche avait tort, il jugeait contre lui ; si un adversaire avait raison, il le protégeait."
+        },
+        "referenceNote": "Les principes d'égalité et de protection des droits résumés dans le Sermon d'adieu reflètent l'essence de sa conception de la justice.",
+        "shareText": "La vraie justice, c'est accorder le même droit à celui qu'on aime et à celui qu'on n'aime pas. Sa balance pesait selon la vérité, non selon la personne."
+      },
+      "pt-BR": {
+        "title": "Uma só balança para todos",
+        "shortDescription": "Sua justiça tratava o próximo e o distante, o amigo e o estranho, pela mesma medida. O direito não mudava de pessoa para pessoa.",
+        "mainPrinciple": "A verdadeira justiça começa ao conceder o mesmo direito a quem se ama e a quem não se ama.",
+        "summaryPoints": [
+          "Fundou sua liderança na justiça, baseando o governo na consulta e os cargos no mérito.",
+          "Ao defender o direito, a proximidade, o cargo ou a inimizade nunca alteraram a medida.",
+          "No Sermão da Despedida, deixou a igualdade das pessoas e a inviolabilidade da vida e dos bens como princípio universal."
+        ],
+        "dailyReflection": "Hoje, em um desentendimento, considere honestamente que o lado de que você não gosta também pode ter razão.",
+        "dawahTip": "Ao descrever sua justiça, aponte a raridade de julgar sem tomar partido; você compartilha um valor que todos anseiam.",
+        "questionAnswer": {
+          "question": "Por que se moldava a sua justiça?",
+          "answer": "Não pela afeição, pelo parentesco ou pelo poder, mas só pela verdade. Se alguém que ele amava estava errado, julgava contra ele; se alguém de quem não gostava tinha razão, o protegia."
+        },
+        "referenceNote": "Os princípios de igualdade e proteção dos direitos resumidos no Sermão da Despedida refletem a essência de sua compreensão da justiça.",
+        "shareText": "A verdadeira justiça é conceder o mesmo direito a quem se ama e a quem não se ama. Sua balança pesava pela verdade, não pela pessoa."
+      },
+      "de": {
+        "title": "Eine Waage für alle",
+        "shortDescription": "Seine Gerechtigkeit behandelte Nahe und Ferne, Freund und Fremden mit demselben Maß. Das Recht änderte sich nicht von Mensch zu Mensch.",
+        "mainPrinciple": "Wahre Gerechtigkeit beginnt damit, dem Geliebten und dem Ungeliebten dasselbe Recht zuzugestehen.",
+        "summaryPoints": [
+          "Er gründete seine Führung auf Gerechtigkeit, die Herrschaft auf Beratung und die Ämter auf Eignung.",
+          "Beim Wahren des Rechts haben Nähe, Rang oder Feindschaft das Maß nie verschoben.",
+          "In der Abschiedspredigt hinterließ er die Gleichheit der Menschen und die Unverletzlichkeit von Leben und Besitz als universelles Prinzip."
+        ],
+        "dailyReflection": "Erwäge heute in einem Streit ehrlich, dass auch die Seite, die du nicht magst, recht haben könnte.",
+        "dawahTip": "Wenn du seine Gerechtigkeit beschreibst, weise auf die Seltenheit hin, ohne Parteinahme zu urteilen; du teilst einen Wert, nach dem sich alle sehnen.",
+        "questionAnswer": {
+          "question": "Wonach richtete sich seine Gerechtigkeit?",
+          "answer": "Nicht nach Zuneigung, Verwandtschaft oder Macht, sondern allein nach der Wahrheit. Hatte ein Geliebter unrecht, urteilte er gegen ihn; hatte ein Ungeliebter recht, schützte er ihn."
+        },
+        "referenceNote": "Die in der Abschiedspredigt zusammengefassten Prinzipien der Gleichheit und des Schutzes der Rechte spiegeln den Kern seines Gerechtigkeitsverständnisses wider.",
+        "shareText": "Wahre Gerechtigkeit heißt, dem Geliebten und dem Ungeliebten dasselbe Recht zuzugestehen. Seine Waage wog nach der Wahrheit, nicht nach der Person."
+      },
+      "es": {
+        "title": "Una sola balanza para todos",
+        "shortDescription": "Su justicia trataba al cercano y al lejano, al amigo y al extraño, con la misma medida. El derecho no cambiaba de una persona a otra.",
+        "mainPrinciple": "La verdadera justicia comienza al conceder el mismo derecho a quien amas y a quien no amas.",
+        "summaryPoints": [
+          "Fundó su liderazgo sobre la justicia, basando el gobierno en la consulta y los cargos en el mérito.",
+          "Al defender el derecho, la cercanía, el rango o la enemistad nunca alteraron la medida.",
+          "En el Sermón de la Despedida dejó la igualdad de las personas y la inviolabilidad de la vida y los bienes como principio universal."
+        ],
+        "dailyReflection": "Hoy, en un desacuerdo, considera con honestidad que el bando que no te agrada también puede tener razón.",
+        "dawahTip": "Al describir su justicia, señala lo raro que es juzgar sin tomar partido; compartes un valor que todos anhelan.",
+        "questionAnswer": {
+          "question": "¿Según qué se guiaba su justicia?",
+          "answer": "No según el afecto, el parentesco o el poder, sino solo según la verdad. Si alguien que amaba estaba equivocado, fallaba en su contra; si alguien que no le agradaba tenía razón, lo protegía."
+        },
+        "referenceNote": "Los principios de igualdad y protección de los derechos resumidos en el Sermón de la Despedida reflejan la esencia de su comprensión de la justicia.",
+        "shareText": "La verdadera justicia es conceder el mismo derecho a quien amas y a quien no amas. Su balanza pesaba según la verdad, no según la persona."
+      }
+    }
+  },
+  {
+    "id": "CAT-prophet-tevazu-sadelik",
+    "category": "prophet",
+    "icon": "leaf-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": ["tevazu", "humility", "sadelik", "simplicity", "alçakgönüllülük"],
+    "content": {
+      "tr": {
+        "title": "Sade Bir Hayatın Vakarı",
+        "shortDescription": "Toplumun en saygın insanı olduğu hâlde sade yaşadı, kendini başkasından üstün görmedi. Tevazu onu küçültmedi, yükseltti.",
+        "mainPrinciple": "Asıl büyüklük, büyüklük taslamaya ihtiyaç duymamaktır.",
+        "summaryPoints": [
+          "Sade ve dengeli yaşamış, dünya malına aşırı değer vermeden gösterişten uzak durmuştur.",
+          "Kibri ve böbürlenmeyi reddetmiş, kendisini aşırı övenleri açıkça uyarmıştır.",
+          "Temizliğe ve ölçülü bir zarafete önem vermiş; sadelik onun için bakımsızlık değil, gönül tokluğuydu."
+        ],
+        "dailyReflection": "Bugün bir işi 'küçük' diye görmeden, övünmeden ve yardım beklemeden kendin yap.",
+        "dawahTip": "Tevazusunu anlatırken makamın değil karakterin asaletinden söz et; herkes gösterişsiz büyüklüğe saygı duyar.",
+        "questionAnswer": {
+          "question": "Saygın bir lider olmasına rağmen nasıl yaşadı?",
+          "answer": "Sade ve mütevazı bir hayat sürdü; kendini hizmetçisinden üstün tutmadı, gösterişe ve kibre dair her tutumu reddetti."
+        },
+        "referenceNote": "Siyer kaynakları onun sade yaşayışını ve alçakgönüllülüğünü tutarlı biçimde aktarır.",
+        "shareText": "Asıl büyüklük, büyüklük taslamaya ihtiyaç duymamaktır. O, en saygın insandı ama en sade hayatı seçti."
+      },
+      "en": {
+        "title": "The Dignity of a Simple Life",
+        "shortDescription": "Though the most respected man in his society, he lived simply and saw himself above no one. Humility did not diminish him; it raised him.",
+        "mainPrinciple": "True greatness is having no need to act great.",
+        "summaryPoints": [
+          "He lived simply and in balance, never overvaluing worldly goods and staying clear of show.",
+          "He rejected arrogance and boasting, and openly cautioned those who praised him excessively.",
+          "He valued cleanliness and measured grace; simplicity for him was not neglect but contentment of heart."
+        ],
+        "dailyReflection": "Today, do a task yourself without calling it 'beneath you', without boasting, and without expecting help.",
+        "dawahTip": "When describing his humility, speak of the nobility of character, not of rank; everyone respects greatness without display.",
+        "questionAnswer": {
+          "question": "Despite being a respected leader, how did he live?",
+          "answer": "He led a simple and humble life; he held himself no higher than his servant and rejected every posture of show and pride."
+        },
+        "referenceNote": "Biographical sources consistently relate his simple living and his humility.",
+        "shareText": "True greatness is having no need to act great. He was the most respected man, yet chose the simplest life."
+      },
+      "fr": {
+        "title": "La dignité d'une vie simple",
+        "shortDescription": "Bien qu'il fût l'homme le plus respecté de sa société, il vivait simplement et ne se croyait supérieur à personne. L'humilité ne l'a pas diminué, elle l'a élevé.",
+        "mainPrinciple": "La vraie grandeur, c'est de n'avoir aucun besoin de paraître grand.",
+        "summaryPoints": [
+          "Il vivait simplement et avec équilibre, sans accorder trop de valeur aux biens et loin de l'ostentation.",
+          "Il rejetait l'orgueil et la vantardise, et avertissait ouvertement ceux qui le louaient à l'excès.",
+          "Il accordait de l'importance à la propreté et à une élégance mesurée ; la simplicité n'était pour lui pas négligence mais contentement du cœur."
+        ],
+        "dailyReflection": "Aujourd'hui, accomplis une tâche toi-même sans la juger 'indigne de toi', sans te vanter et sans attendre d'aide.",
+        "dawahTip": "En décrivant son humilité, parle de la noblesse du caractère, non du rang ; tout le monde respecte une grandeur sans ostentation.",
+        "questionAnswer": {
+          "question": "Bien qu'il fût un chef respecté, comment vivait-il ?",
+          "answer": "Il menait une vie simple et humble ; il ne se plaçait pas au-dessus de son serviteur et rejetait toute attitude d'ostentation et d'orgueil."
+        },
+        "referenceNote": "Les sources biographiques rapportent de façon constante son mode de vie simple et son humilité.",
+        "shareText": "La vraie grandeur, c'est de n'avoir aucun besoin de paraître grand. Il était l'homme le plus respecté, mais a choisi la vie la plus simple."
+      },
+      "pt-BR": {
+        "title": "A dignidade de uma vida simples",
+        "shortDescription": "Embora fosse o homem mais respeitado de sua sociedade, vivia de forma simples e não se via acima de ninguém. A humildade não o diminuiu; o elevou.",
+        "mainPrinciple": "A verdadeira grandeza é não ter necessidade de se mostrar grande.",
+        "summaryPoints": [
+          "Vivia de forma simples e equilibrada, sem valorizar demais os bens e longe da ostentação.",
+          "Rejeitava a arrogância e a vaidade, e advertia abertamente os que o elogiavam em excesso.",
+          "Valorizava a limpeza e uma elegância comedida; a simplicidade, para ele, não era descuido, mas contentamento do coração."
+        ],
+        "dailyReflection": "Hoje, faça uma tarefa você mesmo sem chamá-la de 'inferior a você', sem se gabar e sem esperar ajuda.",
+        "dawahTip": "Ao descrever sua humildade, fale da nobreza do caráter, não do cargo; todos respeitam a grandeza sem ostentação.",
+        "questionAnswer": {
+          "question": "Apesar de ser um líder respeitado, como ele vivia?",
+          "answer": "Levava uma vida simples e humilde; não se colocava acima de seu servo e rejeitava toda postura de ostentação e orgulho."
+        },
+        "referenceNote": "As fontes biográficas relatam de forma consistente seu modo de vida simples e sua humildade.",
+        "shareText": "A verdadeira grandeza é não ter necessidade de se mostrar grande. Ele era o homem mais respeitado, mas escolheu a vida mais simples."
+      },
+      "de": {
+        "title": "Die Würde eines einfachen Lebens",
+        "shortDescription": "Obwohl er der angesehenste Mann seiner Gesellschaft war, lebte er einfach und sah sich über niemanden erhaben. Demut machte ihn nicht kleiner, sie erhob ihn.",
+        "mainPrinciple": "Wahre Größe bedeutet, es nicht nötig zu haben, sich groß zu geben.",
+        "summaryPoints": [
+          "Er lebte einfach und ausgewogen, überschätzte weltliche Güter nie und blieb fern von Prunk.",
+          "Er lehnte Hochmut und Prahlerei ab und warnte offen jene, die ihn übermäßig lobten.",
+          "Er legte Wert auf Sauberkeit und maßvolle Eleganz; Einfachheit war für ihn keine Nachlässigkeit, sondern Genügsamkeit des Herzens."
+        ],
+        "dailyReflection": "Erledige heute eine Aufgabe selbst, ohne sie als 'unter deiner Würde' anzusehen, ohne zu prahlen und ohne Hilfe zu erwarten.",
+        "dawahTip": "Wenn du seine Demut beschreibst, sprich vom Adel des Charakters, nicht vom Rang; jeder achtet Größe ohne Zurschaustellung.",
+        "questionAnswer": {
+          "question": "Wie lebte er, obwohl er ein angesehener Führer war?",
+          "answer": "Er führte ein einfaches und bescheidenes Leben; er stellte sich nicht über seinen Diener und lehnte jede Haltung von Prunk und Stolz ab."
+        },
+        "referenceNote": "Die Biografiequellen überliefern übereinstimmend seine einfache Lebensweise und seine Demut.",
+        "shareText": "Wahre Größe bedeutet, es nicht nötig zu haben, sich groß zu geben. Er war der angesehenste Mann, wählte aber das einfachste Leben."
+      },
+      "es": {
+        "title": "La dignidad de una vida sencilla",
+        "shortDescription": "Aunque era el hombre más respetado de su sociedad, vivía de forma sencilla y no se veía por encima de nadie. La humildad no lo disminuyó; lo elevó.",
+        "mainPrinciple": "La verdadera grandeza es no tener necesidad de aparentar grandeza.",
+        "summaryPoints": [
+          "Vivía de forma sencilla y equilibrada, sin dar valor excesivo a los bienes y lejos de la ostentación.",
+          "Rechazaba la soberbia y la vanidad, y advertía abiertamente a quienes lo elogiaban en exceso.",
+          "Valoraba la limpieza y una elegancia mesurada; para él la sencillez no era descuido, sino contentamiento del corazón."
+        ],
+        "dailyReflection": "Hoy, haz tú mismo una tarea sin considerarla 'inferior a ti', sin presumir y sin esperar ayuda.",
+        "dawahTip": "Al describir su humildad, habla de la nobleza del carácter, no del rango; todos respetan la grandeza sin ostentación.",
+        "questionAnswer": {
+          "question": "A pesar de ser un líder respetado, ¿cómo vivía?",
+          "answer": "Llevaba una vida sencilla y humilde; no se colocaba por encima de su sirviente y rechazaba toda actitud de ostentación y orgullo."
+        },
+        "referenceNote": "Las fuentes biográficas relatan de manera constante su modo de vida sencillo y su humildad.",
+        "shareText": "La verdadera grandeza es no tener necesidad de aparentar grandeza. Era el hombre más respetado, pero eligió la vida más sencilla."
+      }
+    }
+  },
+  {
+    "id": "CAT-prophet-sunnet-ornek-alma",
+    "category": "prophet",
+    "icon": "footsteps-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 4,
+    "tags": ["sünnet", "sunnah", "örnek", "example", "rehberlik"],
+    "content": {
+      "tr": {
+        "title": "Sünnet: Yaşanan Bir Rehber",
+        "shortDescription": "Sünnet, onun sözleri kadar yaşayışıdır; soyut bir kural değil, hayatın içinde görülebilen bir örnektir.",
+        "mainPrinciple": "Sünnet, vahyin nasıl yaşanacağını gösteren canlı bir örnektir.",
+        "summaryPoints": [
+          "Sünnet onun sözlerinde, davranışlarında ve onayladığı tutumlarda beliren örnek yaşam tarzıdır.",
+          "Öğrettiği her şeyi önce kendi hayatında uygulamış, böylece vahyi yaşanır kılmıştır.",
+          "Örnek almak taklit değil, onun ölçü ve niyetini bugünün hayatına taşıyabilmektir."
+        ],
+        "dailyReflection": "Bugün onun bir güzel huyunu seç, ezberlemek yerine sadece bir kez fiilen uygula.",
+        "dawahTip": "Sünneti anlatırken kuru bir kurallar listesi değil, bir karakterin canlı örneğinden söz et; örneklik her insanın kalbine daha kolay dokunur.",
+        "questionAnswer": {
+          "question": "Sünnet neden sadece bir kurallar listesi değildir?",
+          "answer": "Çünkü Sünnet, vahyin kâğıttan hayata nasıl döküldüğünü gösterir; o öğrettiklerini önce kendi yaşamıştır, bu yüzden Sünnet yaşayan bir rehberdir."
+        },
+        "referenceNote": "Sünnetin, Kur'an'dan sonra dinin ikinci temel kaynağı oluşu, klasik usul anlayışında ortak biçimde vurgulanır.",
+        "shareText": "Sünnet, vahyin nasıl yaşanacağını gösteren canlı bir örnektir. Onu örnek almak, ölçüsünü bugünün hayatına taşımaktır."
+      },
+      "en": {
+        "title": "The Sunnah: A Guide That Was Lived",
+        "shortDescription": "The Sunnah is his way of living as much as his sayings; not an abstract rule, but an example you can see within life itself.",
+        "mainPrinciple": "The Sunnah is a living example of how revelation is to be lived.",
+        "summaryPoints": [
+          "The Sunnah is the exemplary way of life seen in his words, his actions, and the conduct he approved.",
+          "He first applied everything he taught in his own life, thus making revelation livable.",
+          "Following his example is not imitation but carrying his measure and intention into today's life."
+        ],
+        "dailyReflection": "Today, choose one of his fine traits and, instead of memorizing it, simply act on it once.",
+        "dawahTip": "When describing the Sunnah, speak not of a dry list of rules but of the living example of a character; an example touches every heart more easily.",
+        "questionAnswer": {
+          "question": "Why is the Sunnah not merely a list of rules?",
+          "answer": "Because the Sunnah shows how revelation is poured from paper into life; he lived what he taught first, so the Sunnah is a guide that breathes."
+        },
+        "referenceNote": "That the Sunnah is the second foundational source of the religion after the Qur'an is commonly emphasized in classical methodology.",
+        "shareText": "The Sunnah is a living example of how revelation is to be lived. Following his example means carrying his measure into today's life."
+      },
+      "fr": {
+        "title": "La Sunna : un guide qui fut vécu",
+        "shortDescription": "La Sunna, c'est sa manière de vivre autant que ses paroles ; non une règle abstraite, mais un exemple visible au sein même de la vie.",
+        "mainPrinciple": "La Sunna est un exemple vivant de la manière dont la révélation doit être vécue.",
+        "summaryPoints": [
+          "La Sunna est le mode de vie exemplaire qui apparaît dans ses paroles, ses actes et les conduites qu'il a approuvées.",
+          "Il a d'abord appliqué dans sa propre vie tout ce qu'il enseignait, rendant ainsi la révélation vivable.",
+          "Suivre son exemple n'est pas une imitation, mais porter sa mesure et son intention dans la vie d'aujourd'hui."
+        ],
+        "dailyReflection": "Aujourd'hui, choisis l'un de ses beaux traits et, au lieu de le mémoriser, mets-le simplement en pratique une fois.",
+        "dawahTip": "En décrivant la Sunna, parle non d'une liste sèche de règles mais de l'exemple vivant d'un caractère ; un exemple touche plus facilement chaque cœur.",
+        "questionAnswer": {
+          "question": "Pourquoi la Sunna n'est-elle pas qu'une liste de règles ?",
+          "answer": "Parce que la Sunna montre comment la révélation passe du papier à la vie ; il a vécu d'abord ce qu'il enseignait, c'est pourquoi la Sunna est un guide qui respire."
+        },
+        "referenceNote": "Le fait que la Sunna soit la deuxième source fondamentale de la religion après le Coran est communément souligné dans la méthodologie classique.",
+        "shareText": "La Sunna est un exemple vivant de la manière dont la révélation doit être vécue. Suivre son exemple, c'est porter sa mesure dans la vie d'aujourd'hui."
+      },
+      "pt-BR": {
+        "title": "A Sunna: um guia que foi vivido",
+        "shortDescription": "A Sunna é o seu modo de viver tanto quanto as suas palavras; não uma regra abstrata, mas um exemplo visível dentro da própria vida.",
+        "mainPrinciple": "A Sunna é um exemplo vivo de como a revelação deve ser vivida.",
+        "summaryPoints": [
+          "A Sunna é o modo de vida exemplar que aparece em suas palavras, em seus atos e nas condutas que aprovou.",
+          "Aplicou primeiro em sua própria vida tudo o que ensinava, tornando assim a revelação vivível.",
+          "Seguir seu exemplo não é imitação, mas levar sua medida e sua intenção para a vida de hoje."
+        ],
+        "dailyReflection": "Hoje, escolha uma de suas belas qualidades e, em vez de memorizá-la, simplesmente pratique-a uma vez.",
+        "dawahTip": "Ao descrever a Sunna, fale não de uma lista seca de regras, mas do exemplo vivo de um caráter; um exemplo toca mais facilmente cada coração.",
+        "questionAnswer": {
+          "question": "Por que a Sunna não é apenas uma lista de regras?",
+          "answer": "Porque a Sunna mostra como a revelação passa do papel para a vida; ele viveu primeiro o que ensinava, por isso a Sunna é um guia que respira."
+        },
+        "referenceNote": "O fato de a Sunna ser a segunda fonte fundamental da religião depois do Alcorão é comumente enfatizado na metodologia clássica.",
+        "shareText": "A Sunna é um exemplo vivo de como a revelação deve ser vivida. Seguir seu exemplo é levar sua medida para a vida de hoje."
+      },
+      "de": {
+        "title": "Die Sunna: ein gelebter Wegweiser",
+        "shortDescription": "Die Sunna ist seine Lebensweise ebenso wie seine Worte; keine abstrakte Regel, sondern ein Beispiel, das man mitten im Leben sehen kann.",
+        "mainPrinciple": "Die Sunna ist ein lebendiges Beispiel dafür, wie die Offenbarung zu leben ist.",
+        "summaryPoints": [
+          "Die Sunna ist die vorbildliche Lebensweise, die in seinen Worten, seinen Taten und dem von ihm gebilligten Verhalten erscheint.",
+          "Er wandte alles, was er lehrte, zuerst in seinem eigenen Leben an und machte so die Offenbarung lebbar.",
+          "Seinem Beispiel zu folgen ist keine Nachahmung, sondern sein Maß und seine Absicht in das heutige Leben zu tragen."
+        ],
+        "dailyReflection": "Wähle heute eine seiner schönen Eigenschaften und setze sie, statt sie auswendig zu lernen, einfach einmal in die Tat um.",
+        "dawahTip": "Wenn du die Sunna beschreibst, sprich nicht von einer trockenen Regelliste, sondern vom lebendigen Beispiel eines Charakters; ein Beispiel berührt jedes Herz leichter.",
+        "questionAnswer": {
+          "question": "Warum ist die Sunna nicht bloß eine Regelliste?",
+          "answer": "Weil die Sunna zeigt, wie die Offenbarung vom Papier ins Leben übergeht; er lebte zuerst, was er lehrte, deshalb ist die Sunna ein atmender Wegweiser."
+        },
+        "referenceNote": "Dass die Sunna nach dem Koran die zweite grundlegende Quelle der Religion ist, wird in der klassischen Methodik übereinstimmend betont.",
+        "shareText": "Die Sunna ist ein lebendiges Beispiel dafür, wie die Offenbarung zu leben ist. Seinem Beispiel zu folgen heißt, sein Maß in das heutige Leben zu tragen."
+      },
+      "es": {
+        "title": "La Sunna: una guía que fue vivida",
+        "shortDescription": "La Sunna es su modo de vivir tanto como sus palabras; no una regla abstracta, sino un ejemplo visible dentro de la vida misma.",
+        "mainPrinciple": "La Sunna es un ejemplo vivo de cómo se ha de vivir la revelación.",
+        "summaryPoints": [
+          "La Sunna es el modo de vida ejemplar que aparece en sus palabras, en sus actos y en las conductas que aprobó.",
+          "Aplicó primero en su propia vida todo lo que enseñaba, haciendo así la revelación vivible.",
+          "Seguir su ejemplo no es imitación, sino llevar su medida y su intención a la vida de hoy."
+        ],
+        "dailyReflection": "Hoy, elige una de sus bellas cualidades y, en vez de memorizarla, simplemente ponla en práctica una vez.",
+        "dawahTip": "Al describir la Sunna, habla no de una lista árida de reglas, sino del ejemplo vivo de un carácter; un ejemplo toca con más facilidad cada corazón.",
+        "questionAnswer": {
+          "question": "¿Por qué la Sunna no es solo una lista de reglas?",
+          "answer": "Porque la Sunna muestra cómo la revelación pasa del papel a la vida; él vivió primero lo que enseñaba, por eso la Sunna es una guía que respira."
+        },
+        "referenceNote": "Que la Sunna sea la segunda fuente fundamental de la religión después del Corán se subraya de manera común en la metodología clásica.",
+        "shareText": "La Sunna es un ejemplo vivo de cómo se ha de vivir la revelación. Seguir su ejemplo es llevar su medida a la vida de hoy."
+      }
+    }
+  }
+]

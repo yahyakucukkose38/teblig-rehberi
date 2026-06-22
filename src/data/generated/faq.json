@@ -1,0 +1,746 @@
+[
+  {
+    "id": "faq-neden-imtihan",
+    "category": "faq",
+    "icon": "leaf-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "imtihan",
+      "trials",
+      "sabır",
+      "patience",
+      "hikmet"
+    ],
+    "content": {
+      "tr": {
+        "title": "Allah Neden İmtihan Eder?",
+        "shortDescription": "Hayatın iniş çıkışları rastgele değildir. İmtihan, insanın olgunlaşmasına ve içindeki güzelliği ortaya çıkarmasına bir vesiledir.",
+        "mainPrinciple": "İmtihan çoğu zaman bir ceza değil; sabrı olgunlaştıran, dereceleri yükselten ve insanın gerçek değerini açığa çıkaran bir vesiledir.",
+        "summaryPoints": [
+          "Zorluklar insanın sabrını, şükrünü ve niyetini görünür kılar.",
+          "Her güçlük, kişiye yeni bir olgunluk ve derinlik kazandırma fırsatıdır.",
+          "İmtihan, kulun Yaratıcısına yönelmesi için açılan bir kapıdır."
+        ],
+        "dailyReflection": "Bugün karşılaştığın küçük bir sıkıntıda şikayet etmeden önce bir an durup 'Bu bana ne öğretiyor?' diye sor.",
+        "dawahTip": "İmtihanı anlatırken kendi zorlu anlarından nasıl ders çıkardığını içtenlikle paylaş; vaaz vermek yerine yol arkadaşı ol.",
+        "questionAnswer": {
+          "question": "İyi bir insan neden zorluk yaşar?",
+          "answer": "Zorluk iyiliğin cezası değildir; çoğu zaman sabrı, merhameti ve gücü ancak zorluk ortaya çıkarır."
+        },
+        "referenceNote": "Bkz. Kur'an'da sabır ve imtihana dair ayetler.",
+        "shareText": "İmtihan, kalbin olgunlaşması için açılan sessiz bir okul olabilir."
+      },
+      "en": {
+        "title": "Why Does God Test Us?",
+        "shortDescription": "Life's ups and downs are not random. Trials are a means for a person to mature and to bring out the goodness within.",
+        "mainPrinciple": "A trial is often not a punishment but a means that matures patience, raises one's degree, and reveals a person's true worth.",
+        "summaryPoints": [
+          "Hardships make a person's patience, gratitude, and intentions visible.",
+          "Every difficulty is a chance to gain new maturity and depth.",
+          "A trial is a door that opens so the heart may turn toward its Creator."
+        ],
+        "dailyReflection": "When a small trouble meets you today, pause before complaining and quietly ask, 'What is this teaching me?'",
+        "dawahTip": "When you speak of trials, sincerely share how your own hard moments shaped you; be a fellow traveler, not a preacher.",
+        "questionAnswer": {
+          "question": "Why does a good person face hardship?",
+          "answer": "Hardship is not a penalty for goodness; often it is only through difficulty that patience, mercy, and strength come to light."
+        },
+        "referenceNote": "See Quranic verses on patience and trials.",
+        "shareText": "A trial can be a quiet school where the heart learns to grow."
+      },
+      "fr": {
+        "title": "Pourquoi Dieu nous éprouve-t-Il ?",
+        "shortDescription": "Les hauts et les bas de la vie ne sont pas le fruit du hasard. L'épreuve aide l'être humain à mûrir et à révéler le bien qui est en lui.",
+        "mainPrinciple": "L'épreuve n'est souvent pas une punition, mais un moyen qui mûrit la patience, élève les degrés et révèle la vraie valeur de la personne.",
+        "summaryPoints": [
+          "Les difficultés rendent visibles la patience, la gratitude et les intentions d'une personne.",
+          "Chaque épreuve est une occasion d'acquérir une nouvelle maturité et une plus grande profondeur.",
+          "L'épreuve est une porte qui s'ouvre pour que le cœur se tourne vers son Créateur."
+        ],
+        "dailyReflection": "Devant un petit souci aujourd'hui, marque une pause avant de te plaindre et demande-toi doucement : « Que m'apprend cela ? »",
+        "dawahTip": "Quand tu parles des épreuves, raconte sincèrement comment tes propres moments difficiles t'ont façonné ; sois un compagnon de route, non un prêcheur.",
+        "questionAnswer": {
+          "question": "Pourquoi une personne bonne rencontre-t-elle des épreuves ?",
+          "answer": "La difficulté n'est pas une sanction pour la bonté ; souvent, c'est seulement par l'épreuve que la patience, la miséricorde et la force se révèlent."
+        },
+        "referenceNote": "Voir les versets coraniques sur la patience et les épreuves.",
+        "shareText": "L'épreuve peut être une école silencieuse où le cœur apprend à grandir."
+      },
+      "pt-BR": {
+        "title": "Por que Deus nos prova?",
+        "shortDescription": "Os altos e baixos da vida não são aleatórios. A provação é um meio para a pessoa amadurecer e revelar o bem que há dentro de si.",
+        "mainPrinciple": "A provação muitas vezes não é um castigo, mas um meio que amadurece a paciência, eleva os graus e revela o verdadeiro valor da pessoa.",
+        "summaryPoints": [
+          "As dificuldades tornam visíveis a paciência, a gratidão e as intenções de uma pessoa.",
+          "Cada dificuldade é uma oportunidade de ganhar nova maturidade e profundidade.",
+          "A provação é uma porta que se abre para que o coração se volte ao seu Criador."
+        ],
+        "dailyReflection": "Diante de um pequeno aborrecimento hoje, faça uma pausa antes de reclamar e pergunte em silêncio: 'O que isto está me ensinando?'",
+        "dawahTip": "Ao falar de provações, compartilhe com sinceridade como seus próprios momentos difíceis o formaram; seja um companheiro de jornada, não um pregador.",
+        "questionAnswer": {
+          "question": "Por que uma pessoa boa enfrenta dificuldades?",
+          "answer": "A dificuldade não é uma pena pela bondade; muitas vezes é só através dela que a paciência, a misericórdia e a força vêm à luz."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre paciência e provações.",
+        "shareText": "A provação pode ser uma escola silenciosa onde o coração aprende a crescer."
+      },
+      "de": {
+        "title": "Warum prüft Gott uns?",
+        "shortDescription": "Die Höhen und Tiefen des Lebens sind nicht zufällig. Eine Prüfung hilft dem Menschen zu reifen und das Gute in ihm hervorzubringen.",
+        "mainPrinciple": "Eine Prüfung ist oft keine Strafe, sondern ein Mittel, das Geduld reifen lässt, die Stufen erhöht und den wahren Wert eines Menschen offenbart.",
+        "summaryPoints": [
+          "Schwierigkeiten machen die Geduld, die Dankbarkeit und die Absichten eines Menschen sichtbar.",
+          "Jede Schwierigkeit ist eine Chance, neue Reife und Tiefe zu gewinnen.",
+          "Eine Prüfung ist eine Tür, die sich öffnet, damit das Herz sich seinem Schöpfer zuwendet."
+        ],
+        "dailyReflection": "Wenn dir heute eine kleine Sorge begegnet, halte vor dem Klagen kurz inne und frage leise: „Was lehrt mich das?“",
+        "dawahTip": "Wenn du über Prüfungen sprichst, erzähle aufrichtig, wie deine eigenen schweren Momente dich geformt haben; sei ein Weggefährte, kein Prediger.",
+        "questionAnswer": {
+          "question": "Warum erlebt ein guter Mensch Schwierigkeiten?",
+          "answer": "Schwierigkeit ist keine Strafe für das Gute; oft kommen Geduld, Barmherzigkeit und Stärke erst durch sie ans Licht."
+        },
+        "referenceNote": "Siehe die Verse des Korans über Geduld und Prüfungen.",
+        "shareText": "Eine Prüfung kann eine stille Schule sein, in der das Herz zu wachsen lernt."
+      },
+      "es": {
+        "title": "¿Por qué Dios nos prueba?",
+        "shortDescription": "Los altibajos de la vida no son al azar. La prueba es un medio para que la persona madure y saque a la luz el bien que lleva dentro.",
+        "mainPrinciple": "La prueba muchas veces no es un castigo, sino un medio que madura la paciencia, eleva los grados y revela el verdadero valor de la persona.",
+        "summaryPoints": [
+          "Las dificultades hacen visibles la paciencia, la gratitud y las intenciones de una persona.",
+          "Cada dificultad es una oportunidad de ganar nueva madurez y profundidad.",
+          "La prueba es una puerta que se abre para que el corazón se vuelva hacia su Creador."
+        ],
+        "dailyReflection": "Ante una pequeña molestia hoy, haz una pausa antes de quejarte y pregúntate en silencio: '¿Qué me está enseñando esto?'",
+        "dawahTip": "Al hablar de las pruebas, comparte con sinceridad cómo tus propios momentos difíciles te formaron; sé un compañero de camino, no un predicador.",
+        "questionAnswer": {
+          "question": "¿Por qué una persona buena enfrenta dificultades?",
+          "answer": "La dificultad no es un castigo por la bondad; muchas veces es solo a través de ella que la paciencia, la misericordia y la fuerza salen a la luz."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la paciencia y las pruebas.",
+        "shareText": "La prueba puede ser una escuela silenciosa donde el corazón aprende a crecer."
+      }
+    }
+  },
+  {
+    "id": "faq-islam-ve-bilim",
+    "category": "faq",
+    "icon": "telescope-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "bilim",
+      "science",
+      "akıl",
+      "knowledge",
+      "merak"
+    ],
+    "content": {
+      "tr": {
+        "title": "İslam Bilime Karşı mı?",
+        "shortDescription": "İslam, evreni anlamaya çalışan aklı bir tehdit değil bir hediye olarak görür. Bilgi aramak değerli bir yolculuktur.",
+        "mainPrinciple": "Yaratılışı gözlemleyip anlamak, Yaratıcının izlerini düşünmeye davet eden bir ibadet ruhu taşır.",
+        "summaryPoints": [
+          "İslam düşünmeyi, gözlem yapmayı ve öğrenmeyi teşvik eder.",
+          "İman ile bilgi birbirini dışlamaz; ikisi de doğruyu arar.",
+          "Evreni incelemek, hikmet ve tevazu kazandıran bir yoldur."
+        ],
+        "dailyReflection": "Bugün doğada gördüğün bir ayrıntıyı, örneğin bir yaprağın damarlarını, bir an dikkatle izle ve arkasındaki düzeni düşün.",
+        "dawahTip": "Bilim ve iman arasında kurgusal bir savaş çizmek yerine, merakın nasıl huzura ve şükre dönüştüğünü sakince anlat.",
+        "questionAnswer": {
+          "question": "İnanmak için bilimi bırakmam mı gerekir?",
+          "answer": "Hayır. Bilgi arayışı ile iman aynı yönde yürüyebilir; ikisi de hakikate ulaşmanın yollarıdır."
+        },
+        "referenceNote": "Bkz. Kur'an'da düşünmeye, gözleme ve bilgiye dair ayetler.",
+        "shareText": "Evreni anlamaya çalışmak imana karşı değildir; çoğu zaman onu derinleştirir."
+      },
+      "en": {
+        "title": "Is Islam Against Science?",
+        "shortDescription": "Islam sees the mind that seeks to understand the universe as a gift, not a threat. Seeking knowledge is a precious journey.",
+        "mainPrinciple": "Observing and understanding creation carries a spirit of worship, inviting us to reflect on the traces of the Creator.",
+        "summaryPoints": [
+          "Islam encourages thinking, observing, and learning.",
+          "Faith and knowledge do not exclude each other; both seek the truth.",
+          "Studying the universe is a path that brings wisdom and humility."
+        ],
+        "dailyReflection": "Today, look closely at one detail in nature, such as the veins of a leaf, and reflect on the order behind it.",
+        "dawahTip": "Instead of drawing an imaginary war between science and faith, calmly share how curiosity can turn into peace and gratitude.",
+        "questionAnswer": {
+          "question": "Do I have to give up science to believe?",
+          "answer": "No. The search for knowledge and faith can walk in the same direction; both are ways of reaching the truth."
+        },
+        "referenceNote": "See Quranic verses on reflection, observation, and knowledge.",
+        "shareText": "Trying to understand the universe is not against faith; often it deepens it."
+      },
+      "fr": {
+        "title": "L'islam est-il contre la science ?",
+        "shortDescription": "L'islam considère l'esprit qui cherche à comprendre l'univers comme un don, non comme une menace. Chercher le savoir est un beau voyage.",
+        "mainPrinciple": "Observer et comprendre la création porte un esprit d'adoration, nous invitant à méditer sur les traces du Créateur.",
+        "summaryPoints": [
+          "L'islam encourage à penser, à observer et à apprendre.",
+          "La foi et le savoir ne s'excluent pas ; tous deux cherchent la vérité.",
+          "Étudier l'univers est un chemin qui apporte sagesse et humilité."
+        ],
+        "dailyReflection": "Aujourd'hui, observe de près un détail de la nature, comme les nervures d'une feuille, et médite sur l'ordre qui s'y cache.",
+        "dawahTip": "Plutôt que de dresser une guerre imaginaire entre science et foi, raconte calmement comment la curiosité peut se changer en paix et en gratitude.",
+        "questionAnswer": {
+          "question": "Dois-je renoncer à la science pour croire ?",
+          "answer": "Non. La recherche du savoir et la foi peuvent avancer dans la même direction ; toutes deux mènent à la vérité."
+        },
+        "referenceNote": "Voir les versets coraniques sur la réflexion, l'observation et le savoir.",
+        "shareText": "Chercher à comprendre l'univers n'est pas contre la foi ; souvent, cela l'approfondit."
+      },
+      "pt-BR": {
+        "title": "O Islã é contra a ciência?",
+        "shortDescription": "O Islã vê a mente que busca compreender o universo como um presente, não uma ameaça. Buscar conhecimento é uma jornada preciosa.",
+        "mainPrinciple": "Observar e compreender a criação carrega um espírito de adoração, convidando-nos a refletir sobre os sinais do Criador.",
+        "summaryPoints": [
+          "O Islã incentiva pensar, observar e aprender.",
+          "Fé e conhecimento não se excluem; ambos buscam a verdade.",
+          "Estudar o universo é um caminho que traz sabedoria e humildade."
+        ],
+        "dailyReflection": "Hoje, observe de perto um detalhe da natureza, como as nervuras de uma folha, e reflita sobre a ordem por trás dele.",
+        "dawahTip": "Em vez de desenhar uma guerra imaginária entre ciência e fé, conte com calma como a curiosidade pode se transformar em paz e gratidão.",
+        "questionAnswer": {
+          "question": "Preciso abandonar a ciência para crer?",
+          "answer": "Não. A busca pelo conhecimento e a fé podem caminhar na mesma direção; ambas são formas de alcançar a verdade."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre reflexão, observação e conhecimento.",
+        "shareText": "Tentar compreender o universo não é contra a fé; muitas vezes a aprofunda."
+      },
+      "de": {
+        "title": "Ist der Islam gegen die Wissenschaft?",
+        "shortDescription": "Der Islam sieht den Verstand, der das Universum verstehen will, als Geschenk, nicht als Bedrohung. Wissen zu suchen ist eine wertvolle Reise.",
+        "mainPrinciple": "Die Schöpfung zu beobachten und zu verstehen trägt einen Geist der Anbetung und lädt uns ein, über die Spuren des Schöpfers nachzudenken.",
+        "summaryPoints": [
+          "Der Islam ermutigt zum Denken, Beobachten und Lernen.",
+          "Glaube und Wissen schließen sich nicht aus; beide suchen die Wahrheit.",
+          "Das Universum zu erforschen ist ein Weg, der Weisheit und Demut schenkt."
+        ],
+        "dailyReflection": "Betrachte heute genau ein Detail in der Natur, etwa die Adern eines Blattes, und denke über die Ordnung dahinter nach.",
+        "dawahTip": "Statt einen erdachten Krieg zwischen Wissenschaft und Glaube zu zeichnen, erzähle ruhig, wie Neugier zu Frieden und Dankbarkeit werden kann.",
+        "questionAnswer": {
+          "question": "Muss ich die Wissenschaft aufgeben, um zu glauben?",
+          "answer": "Nein. Die Suche nach Wissen und der Glaube können in dieselbe Richtung gehen; beide sind Wege zur Wahrheit."
+        },
+        "referenceNote": "Siehe die Verse des Korans über Nachdenken, Beobachten und Wissen.",
+        "shareText": "Das Universum verstehen zu wollen ist nicht gegen den Glauben; oft vertieft es ihn."
+      },
+      "es": {
+        "title": "¿El islam está en contra de la ciencia?",
+        "shortDescription": "El islam ve la mente que busca comprender el universo como un regalo, no como una amenaza. Buscar conocimiento es un viaje valioso.",
+        "mainPrinciple": "Observar y comprender la creación lleva un espíritu de adoración, invitándonos a reflexionar sobre las huellas del Creador.",
+        "summaryPoints": [
+          "El islam fomenta el pensamiento, la observación y el aprendizaje.",
+          "La fe y el conocimiento no se excluyen; ambos buscan la verdad.",
+          "Estudiar el universo es un camino que trae sabiduría y humildad."
+        ],
+        "dailyReflection": "Hoy, observa de cerca un detalle de la naturaleza, como las nervaduras de una hoja, y reflexiona sobre el orden que hay detrás.",
+        "dawahTip": "En lugar de trazar una guerra imaginaria entre la ciencia y la fe, cuenta con calma cómo la curiosidad puede convertirse en paz y gratitud.",
+        "questionAnswer": {
+          "question": "¿Tengo que renunciar a la ciencia para creer?",
+          "answer": "No. La búsqueda del conocimiento y la fe pueden caminar en la misma dirección; ambas son formas de alcanzar la verdad."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la reflexión, la observación y el conocimiento.",
+        "shareText": "Tratar de comprender el universo no va en contra de la fe; muchas veces la profundiza."
+      }
+    }
+  },
+  {
+    "id": "faq-baska-inanclara-bakis",
+    "category": "faq",
+    "icon": "people-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": [
+      "hoşgörü",
+      "tolerance",
+      "diyalog",
+      "respect",
+      "komşuluk"
+    ],
+    "content": {
+      "tr": {
+        "title": "Başka İnançlara Bakış",
+        "shortDescription": "Farklı inançlarla bir arada yaşamak, kendi değerlerinden vazgeçmek demek değildir. Saygı ve nezaket güzel bir köprüdür.",
+        "mainPrinciple": "İnsanlara onurlarıyla, adaletle ve güzel sözle yaklaşmak, inancın doğal bir meyvesidir.",
+        "summaryPoints": [
+          "Her insan, inancı ne olursa olsun saygıyı hak eden bir değerdir.",
+          "İnanç farkı, adaleti ve iyi komşuluğu engellemez.",
+          "Güzel örnek olmak, en etkili ve en nazik davettir."
+        ],
+        "dailyReflection": "Bugün senden farklı düşünen birine içten bir nezaket göster; bir selam ya da küçük bir iyilik yeterli.",
+        "dawahTip": "Tartışıp kazanmaya çalışma; dinleyerek, anlamaya çalışarak ve güzel davranışla gönülde yer aç.",
+        "questionAnswer": {
+          "question": "Farklı inançtaki biriyle dost olabilir miyim?",
+          "answer": "Elbette. Adalet ve iyilik herkese açıktır; saygılı bir dostluk inancına zarar vermez, onu güzelleştirir."
+        },
+        "referenceNote": "Bkz. Kur'an'da adalet, güzel söz ve insanlarla iyi geçinmeye dair ayetler.",
+        "shareText": "Farklılıkları saygıyla karşılamak zayıflık değil, olgun bir kalbin işaretidir."
+      },
+      "en": {
+        "title": "A View of Other Beliefs",
+        "shortDescription": "Living together with different faiths does not mean giving up your own values. Respect and kindness are a beautiful bridge.",
+        "mainPrinciple": "Approaching people with dignity, justice, and good words is a natural fruit of faith.",
+        "summaryPoints": [
+          "Every person, whatever their belief, is worthy of respect.",
+          "A difference of belief does not block justice or good neighborliness.",
+          "Being a good example is the most effective and gentlest invitation."
+        ],
+        "dailyReflection": "Today, show sincere kindness to someone who thinks differently from you; a greeting or a small good deed is enough.",
+        "dawahTip": "Do not try to argue and win; make room in the heart by listening, seeking to understand, and acting beautifully.",
+        "questionAnswer": {
+          "question": "Can I be friends with someone of a different faith?",
+          "answer": "Of course. Justice and kindness are open to everyone; a respectful friendship does not harm your faith but adorns it."
+        },
+        "referenceNote": "See Quranic verses on justice, good words, and getting along well with people.",
+        "shareText": "Meeting differences with respect is not weakness but the sign of a mature heart."
+      },
+      "fr": {
+        "title": "Un regard sur les autres croyances",
+        "shortDescription": "Vivre avec des croyances différentes ne signifie pas renoncer à ses propres valeurs. Le respect et la bonté sont un beau pont.",
+        "mainPrinciple": "Approcher les gens avec dignité, justice et de belles paroles est un fruit naturel de la foi.",
+        "summaryPoints": [
+          "Chaque personne, quelle que soit sa croyance, mérite le respect.",
+          "Une différence de croyance ne fait pas obstacle à la justice ni au bon voisinage.",
+          "Être un bon exemple est l'invitation la plus efficace et la plus douce."
+        ],
+        "dailyReflection": "Aujourd'hui, montre une bonté sincère à quelqu'un qui pense autrement que toi ; un salut ou un petit bienfait suffit.",
+        "dawahTip": "Ne cherche pas à débattre pour gagner ; fais une place dans le cœur en écoutant, en cherchant à comprendre et en agissant avec bonté.",
+        "questionAnswer": {
+          "question": "Puis-je être ami avec une personne d'une autre croyance ?",
+          "answer": "Bien sûr. La justice et la bonté sont ouvertes à tous ; une amitié respectueuse ne nuit pas à ta foi, elle l'embellit."
+        },
+        "referenceNote": "Voir les versets coraniques sur la justice, la belle parole et le bon comportement envers autrui.",
+        "shareText": "Accueillir les différences avec respect n'est pas une faiblesse, mais le signe d'un cœur mûr."
+      },
+      "pt-BR": {
+        "title": "Um olhar sobre outras crenças",
+        "shortDescription": "Conviver com crenças diferentes não significa abrir mão dos próprios valores. O respeito e a gentileza são uma bela ponte.",
+        "mainPrinciple": "Aproximar-se das pessoas com dignidade, justiça e boas palavras é um fruto natural da fé.",
+        "summaryPoints": [
+          "Toda pessoa, qualquer que seja sua crença, merece respeito.",
+          "Uma diferença de crença não impede a justiça nem a boa vizinhança.",
+          "Ser um bom exemplo é o convite mais eficaz e mais gentil."
+        ],
+        "dailyReflection": "Hoje, mostre gentileza sincera a alguém que pensa diferente de você; um cumprimento ou uma pequena boa ação já bastam.",
+        "dawahTip": "Não tente discutir para vencer; abra espaço no coração ouvindo, buscando compreender e agindo com bondade.",
+        "questionAnswer": {
+          "question": "Posso ser amigo de alguém de outra crença?",
+          "answer": "Claro. A justiça e a bondade estão abertas a todos; uma amizade respeitosa não prejudica sua fé, mas a embeleza."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre justiça, boas palavras e o bom convívio com as pessoas.",
+        "shareText": "Acolher as diferenças com respeito não é fraqueza, mas sinal de um coração maduro."
+      },
+      "de": {
+        "title": "Ein Blick auf andere Glaubensrichtungen",
+        "shortDescription": "Mit anderen Glaubensrichtungen zusammenzuleben bedeutet nicht, die eigenen Werte aufzugeben. Respekt und Freundlichkeit sind eine schöne Brücke.",
+        "mainPrinciple": "Menschen mit Würde, Gerechtigkeit und guten Worten zu begegnen, ist eine natürliche Frucht des Glaubens.",
+        "summaryPoints": [
+          "Jeder Mensch ist, gleich welchen Glaubens, des Respekts würdig.",
+          "Ein Unterschied im Glauben verhindert weder Gerechtigkeit noch gute Nachbarschaft.",
+          "Ein gutes Vorbild zu sein ist die wirksamste und sanfteste Einladung."
+        ],
+        "dailyReflection": "Zeige heute jemandem, der anders denkt als du, aufrichtige Freundlichkeit; ein Gruß oder eine kleine gute Tat genügt.",
+        "dawahTip": "Versuche nicht, zu streiten und zu gewinnen; schaffe Raum im Herzen durch Zuhören, Verstehenwollen und schönes Handeln.",
+        "questionAnswer": {
+          "question": "Darf ich mit jemandem anderen Glaubens befreundet sein?",
+          "answer": "Natürlich. Gerechtigkeit und Güte stehen allen offen; eine respektvolle Freundschaft schadet deinem Glauben nicht, sondern schmückt ihn."
+        },
+        "referenceNote": "Siehe die Verse des Korans über Gerechtigkeit, gutes Wort und ein gutes Miteinander.",
+        "shareText": "Unterschieden mit Respekt zu begegnen ist keine Schwäche, sondern das Zeichen eines reifen Herzens."
+      },
+      "es": {
+        "title": "Una mirada a otras creencias",
+        "shortDescription": "Convivir con creencias diferentes no significa renunciar a los propios valores. El respeto y la amabilidad son un hermoso puente.",
+        "mainPrinciple": "Acercarse a las personas con dignidad, justicia y buenas palabras es un fruto natural de la fe.",
+        "summaryPoints": [
+          "Toda persona, cualquiera que sea su creencia, es digna de respeto.",
+          "Una diferencia de creencia no impide la justicia ni la buena vecindad.",
+          "Ser un buen ejemplo es la invitación más eficaz y más amable."
+        ],
+        "dailyReflection": "Hoy, muestra una amabilidad sincera a alguien que piensa distinto de ti; un saludo o una pequeña buena acción ya bastan.",
+        "dawahTip": "No trates de discutir para ganar; abre espacio en el corazón escuchando, buscando comprender y actuando con bondad.",
+        "questionAnswer": {
+          "question": "¿Puedo ser amigo de alguien de otra creencia?",
+          "answer": "Por supuesto. La justicia y la bondad están abiertas a todos; una amistad respetuosa no daña tu fe, sino que la embellece."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la justicia, la buena palabra y la buena convivencia con las personas.",
+        "shareText": "Recibir las diferencias con respeto no es debilidad, sino la señal de un corazón maduro."
+      }
+    }
+  },
+  {
+    "id": "faq-islam-siddet-mi",
+    "category": "faq",
+    "icon": "leaf-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "barış",
+      "şiddet",
+      "merhamet",
+      "yanlış anlama",
+      "islam"
+    ],
+    "content": {
+      "tr": {
+        "title": "İslam Şiddet Dini mi?",
+        "shortDescription": "Sık duyulan, kimi zaman haklı kaygılardan doğan bir sorudur. Sakin bir bakışla: 'İslam' kelimesi 'barış' ve 'esenlik' ile aynı kökten gelir; din, masumun korunmasını ve merhameti emreder.",
+        "mainPrinciple": "İslam, bir tek cana haksız yere kıymayı tüm insanlığa kıymak kadar ağır görür; özü adalet, merhamet ve barıştır.",
+        "summaryPoints": [
+          "'İslam' kelimesi, 'barış' ve 'esenlik' ile aynı kökü paylaşır.",
+          "Bir insanın haksızca öldürülmesi, en büyük günahlardan biri sayılır.",
+          "Kimi kişilerin yanlışları, bir dinin özüyle karıştırılmamalıdır."
+        ],
+        "dailyReflection": "Bugün bir haber başlığına hemen hüküm vermeden önce bir an dur ve 'Bunun ardındaki gerçek hikâye ve insan kim?' diye sor.",
+        "dawahTip": "Bu önyargıyla karşılaşınca savunmaya geçme; 'Bu kaygıyı anlıyorum' diyerek başla, sonra dinin gerçek değerlerini sakince ve somut örneklerle göster.",
+        "questionAnswer": {
+          "question": "Madem barışı emrediyor, neden bazıları İslam adına kötülük yapıyor?",
+          "answer": "Her toplulukta dinini yanlış kullananlar çıkabilir; ama bir öğretiyi, onu çarpıtanlarla değil, asıl kaynağı ve özüyle tanımak daha adildir."
+        },
+        "referenceNote": "Bkz. Kur'an'da bir cana kıymanın ağırlığına, adalete ve merhamete dair ayetler.",
+        "shareText": "Bir dini tanımak için onu en kötü temsil edene değil, asıl kaynağına ve özüne bakmak gerekir."
+      },
+      "en": {
+        "title": "Is Islam a Religion of Violence?",
+        "shortDescription": "A question many people ask, sometimes from understandable concerns. Seen calmly: the word 'Islam' shares its root with 'peace' and 'wholeness,' and the faith commands mercy and the protection of the innocent.",
+        "mainPrinciple": "Islam regards the unjust taking of a single life as grave as harming all of humanity; its essence is justice, mercy, and peace.",
+        "summaryPoints": [
+          "The word 'Islam' shares its root with 'peace' and 'wholeness.'",
+          "To kill a person unjustly is counted among the greatest of sins.",
+          "The wrongs of some people should not be confused with the heart of a faith."
+        ],
+        "dailyReflection": "Before passing quick judgment on a headline today, pause and ask, 'What is the real story here, and who is the human being behind it?'",
+        "dawahTip": "When you meet this prejudice, do not become defensive; begin with 'I understand that concern,' then calmly show the faith's true values through concrete examples.",
+        "questionAnswer": {
+          "question": "If it commands peace, why do some commit harm in the name of Islam?",
+          "answer": "In every community some misuse their religion; but it is fairer to know a teaching by its true source and essence, not by those who distort it."
+        },
+        "referenceNote": "See Quranic verses on the gravity of taking a life, and on justice and mercy.",
+        "shareText": "To know a faith, look not at the one who represents it worst, but at its true source and essence."
+      },
+      "fr": {
+        "title": "L'islam est-il une religion de violence ?",
+        "shortDescription": "Une question que beaucoup posent, parfois par des inquiétudes compréhensibles. Vue avec calme : le mot « islam » partage sa racine avec « paix » et « plénitude », et la foi ordonne la miséricorde et la protection des innocents.",
+        "mainPrinciple": "L'islam considère le meurtre injuste d'une seule vie aussi grave que le mal fait à toute l'humanité ; son essence est justice, miséricorde et paix.",
+        "summaryPoints": [
+          "Le mot « islam » partage sa racine avec « paix » et « plénitude ».",
+          "Tuer une personne injustement compte parmi les plus grands péchés.",
+          "Les torts de certains ne doivent pas être confondus avec le cœur d'une foi."
+        ],
+        "dailyReflection": "Avant de juger trop vite un titre que tu vois aujourd'hui, marque une pause et demande-toi : « Quelle est la véritable histoire, et qui est l'être humain derrière elle ? »",
+        "dawahTip": "Face à ce préjugé, ne te mets pas sur la défensive ; commence par « Je comprends cette inquiétude », puis montre calmement les vraies valeurs de la foi par des exemples concrets.",
+        "questionAnswer": {
+          "question": "S'il ordonne la paix, pourquoi certains font-ils le mal au nom de l'islam ?",
+          "answer": "Dans toute communauté, certains détournent leur religion ; mais il est plus juste de connaître un enseignement par sa vraie source et son essence, non par ceux qui le déforment."
+        },
+        "referenceNote": "Voir les versets coraniques sur la gravité d'ôter une vie, et sur la justice et la miséricorde.",
+        "shareText": "Pour connaître une foi, ne regarde pas celui qui la représente le plus mal, mais sa vraie source et son essence."
+      },
+      "pt-BR": {
+        "title": "O Islã é uma religião de violência?",
+        "shortDescription": "Uma pergunta que muitos fazem, às vezes por preocupações compreensíveis. Vista com calma: a palavra 'Islã' compartilha a raiz com 'paz' e 'plenitude', e a fé ordena a misericórdia e a proteção dos inocentes.",
+        "mainPrinciple": "O Islã considera tirar injustamente uma única vida tão grave quanto prejudicar toda a humanidade; sua essência é justiça, misericórdia e paz.",
+        "summaryPoints": [
+          "A palavra 'Islã' compartilha a raiz com 'paz' e 'plenitude'.",
+          "Matar uma pessoa injustamente está entre os maiores pecados.",
+          "Os erros de algumas pessoas não devem ser confundidos com o coração de uma fé."
+        ],
+        "dailyReflection": "Antes de julgar depressa uma manchete que vir hoje, faça uma pausa e pergunte: 'Qual é a verdadeira história, e quem é o ser humano por trás dela?'",
+        "dawahTip": "Diante desse preconceito, não fique na defensiva; comece com 'Eu entendo essa preocupação' e, então, mostre com calma os verdadeiros valores da fé por meio de exemplos concretos.",
+        "questionAnswer": {
+          "question": "Se ordena a paz, por que alguns fazem o mal em nome do Islã?",
+          "answer": "Em toda comunidade há quem use mal a sua religião; mas é mais justo conhecer um ensinamento por sua verdadeira fonte e essência, não por quem o distorce."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a gravidade de tirar uma vida e sobre justiça e misericórdia.",
+        "shareText": "Para conhecer uma fé, não olhe para quem a representa pior, mas para sua verdadeira fonte e essência."
+      },
+      "de": {
+        "title": "Ist der Islam eine Religion der Gewalt?",
+        "shortDescription": "Eine Frage, die viele stellen, manchmal aus verständlichen Sorgen. Ruhig betrachtet: Das Wort „Islam“ teilt seine Wurzel mit „Frieden“ und „Heilsein“, und der Glaube gebietet Barmherzigkeit und den Schutz der Unschuldigen.",
+        "mainPrinciple": "Der Islam wertet das ungerechte Töten eines einzigen Lebens so schwer wie das Verletzen der ganzen Menschheit; sein Wesen ist Gerechtigkeit, Barmherzigkeit und Frieden.",
+        "summaryPoints": [
+          "Das Wort „Islam“ teilt seine Wurzel mit „Frieden“ und „Heilsein“.",
+          "Einen Menschen ungerecht zu töten zählt zu den größten Sünden.",
+          "Das Unrecht Einzelner sollte nicht mit dem Herzen eines Glaubens verwechselt werden."
+        ],
+        "dailyReflection": "Bevor du heute über eine Schlagzeile schnell urteilst, halte kurz inne und frage: „Was ist die wahre Geschichte, und wer ist der Mensch dahinter?“",
+        "dawahTip": "Wenn dir dieses Vorurteil begegnet, gehe nicht in die Verteidigung; beginne mit „Ich verstehe diese Sorge“ und zeige dann ruhig die wahren Werte des Glaubens anhand konkreter Beispiele.",
+        "questionAnswer": {
+          "question": "Wenn er Frieden gebietet, warum tun manche im Namen des Islam Böses?",
+          "answer": "In jeder Gemeinschaft missbrauchen einige ihre Religion; doch es ist gerechter, eine Lehre an ihrer wahren Quelle und ihrem Wesen zu erkennen, nicht an denen, die sie verzerren."
+        },
+        "referenceNote": "Siehe die Verse des Korans über das Gewicht, ein Leben zu nehmen, und über Gerechtigkeit und Barmherzigkeit.",
+        "shareText": "Um einen Glauben zu kennen, schaue nicht auf den, der ihn am schlechtesten vertritt, sondern auf seine wahre Quelle und sein Wesen."
+      },
+      "es": {
+        "title": "¿El islam es una religión de violencia?",
+        "shortDescription": "Una pregunta que muchos hacen, a veces por preocupaciones comprensibles. Vista con calma: la palabra 'islam' comparte su raíz con 'paz' y 'plenitud', y la fe ordena la misericordia y la protección de los inocentes.",
+        "mainPrinciple": "El islam considera quitar injustamente una sola vida tan grave como dañar a toda la humanidad; su esencia es justicia, misericordia y paz.",
+        "summaryPoints": [
+          "La palabra 'islam' comparte su raíz con 'paz' y 'plenitud'.",
+          "Matar a una persona injustamente se cuenta entre los pecados más grandes.",
+          "Los errores de algunas personas no deben confundirse con el corazón de una fe."
+        ],
+        "dailyReflection": "Antes de juzgar deprisa un titular que veas hoy, haz una pausa y pregúntate: '¿Cuál es la verdadera historia, y quién es el ser humano detrás de ella?'",
+        "dawahTip": "Ante este prejuicio, no te pongas a la defensiva; comienza con 'Entiendo esa preocupación' y, luego, muestra con calma los verdaderos valores de la fe mediante ejemplos concretos.",
+        "questionAnswer": {
+          "question": "Si ordena la paz, ¿por qué algunos hacen el mal en nombre del islam?",
+          "answer": "En toda comunidad hay quien usa mal su religión; pero es más justo conocer una enseñanza por su verdadera fuente y esencia, no por quienes la distorsionan."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la gravedad de quitar una vida y sobre la justicia y la misericordia.",
+        "shareText": "Para conocer una fe, no mires a quien peor la representa, sino a su verdadera fuente y esencia."
+      }
+    }
+  },
+  {
+    "id": "faq-islamda-kadin",
+    "category": "faq",
+    "icon": "flower-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "kadın",
+      "haklar",
+      "onur",
+      "merhamet",
+      "islam"
+    ],
+    "content": {
+      "tr": {
+        "title": "İslam'da Kadının Yeri Nedir?",
+        "shortDescription": "Çok konuşulan ama sık yanlış anlaşılan bir konu. İslam, kadına ruhsal değer, ilim, mülkiyet ve saygı bakımından onurlu bir yer verir.",
+        "mainPrinciple": "Kadın ve erkek, Yaratıcı katında aynı insanlık onurunu ve ruhsal değeri taşır; biri diğerinden değerce eksik değildir.",
+        "summaryPoints": [
+          "Kadına ilim öğrenme, mülk sahibi olma ve kendi seçimlerini yapma hakkı tanınır.",
+          "Anneye gösterilen hürmet özellikle vurgulanır; iyilik öncelikle ona yönelir.",
+          "Bazı yerel ve kültürel haksızlıklar, dinin özüyle karıştırılmamalıdır."
+        ],
+        "dailyReflection": "Bugün hayatındaki bir kadına -annene, eşine, kız kardeşine ya da bir arkadaşına- içten bir teşekkür ya da küçük bir nezaket göster.",
+        "dawahTip": "Bir haksızlık örneğiyle karşılaşınca savunmaya geçmek yerine, 'Bu kültürel bir uygulama mı, yoksa dinin öğretisi mi?' diye birlikte ayırt etmeye nazikçe davet et.",
+        "questionAnswer": {
+          "question": "İslam kadını ikinci sınıf mı görür?",
+          "answer": "Hayır. İnsanlık onuru ve ruhsal değer bakımından eşit görülür; bazen kültürel uygulamalar dinin öğretisiyle karıştırılır, oysa ikisi aynı şey değildir."
+        },
+        "referenceNote": "Bkz. Kur'an'da anneye saygı, adalet ve kadının onuruna dair ayetler.",
+        "shareText": "Bir toplumun inceliği, kadınlarına ve annelerine gösterdiği saygıda görülür."
+      },
+      "en": {
+        "title": "What Is the Place of Women in Islam?",
+        "shortDescription": "A much-discussed yet often misunderstood subject. Islam gives women an honored place in spiritual worth, learning, ownership, and respect.",
+        "mainPrinciple": "Women and men carry the same human dignity and spiritual worth before the Creator; neither is lesser than the other in value.",
+        "summaryPoints": [
+          "A woman has the right to seek knowledge, to own property, and to make her own choices.",
+          "The honor shown to the mother is especially emphasized; kindness turns to her first.",
+          "Some local and cultural injustices should not be confused with the heart of the faith."
+        ],
+        "dailyReflection": "Today, show sincere thanks or a small kindness to a woman in your life - your mother, your spouse, your sister, or a friend.",
+        "dawahTip": "When an example of injustice comes up, instead of becoming defensive, gently invite the other person to discern together: 'Is this a cultural practice, or a teaching of the faith?'",
+        "questionAnswer": {
+          "question": "Does Islam see women as second class?",
+          "answer": "No. In human dignity and spiritual worth they are seen as equal; cultural practices are sometimes confused with the teaching of the faith, yet the two are not the same."
+        },
+        "referenceNote": "See Quranic verses on respect for the mother, justice, and the dignity of women.",
+        "shareText": "The gentleness of a society is seen in the respect it shows to its women and its mothers."
+      },
+      "fr": {
+        "title": "Quelle est la place de la femme en islam ?",
+        "shortDescription": "Un sujet très débattu, mais souvent mal compris. L'islam accorde à la femme une place honorée en valeur spirituelle, savoir, propriété et respect.",
+        "mainPrinciple": "La femme et l'homme portent la même dignité humaine et la même valeur spirituelle devant le Créateur ; aucun n'a moins de valeur que l'autre.",
+        "summaryPoints": [
+          "La femme a le droit de chercher le savoir, de posséder des biens et de faire ses propres choix.",
+          "L'honneur dû à la mère est particulièrement souligné ; la bonté se tourne d'abord vers elle.",
+          "Certaines injustices locales et culturelles ne doivent pas être confondues avec le cœur de la foi."
+        ],
+        "dailyReflection": "Aujourd'hui, témoigne un remerciement sincère ou une petite gentillesse à une femme de ta vie : ta mère, ton épouse, ta sœur ou une amie.",
+        "dawahTip": "Face à un exemple d'injustice, au lieu de te mettre sur la défensive, invite doucement à distinguer ensemble : « Est-ce une pratique culturelle ou un enseignement de la foi ? »",
+        "questionAnswer": {
+          "question": "L'islam considère-t-il la femme comme inférieure ?",
+          "answer": "Non. En dignité humaine et en valeur spirituelle, elle est vue comme égale ; on confond parfois des pratiques culturelles avec l'enseignement de la foi, alors que ce ne sont pas la même chose."
+        },
+        "referenceNote": "Voir les versets coraniques sur le respect de la mère, la justice et la dignité de la femme.",
+        "shareText": "La délicatesse d'une société se voit dans le respect qu'elle témoigne à ses femmes et à ses mères."
+      },
+      "pt-BR": {
+        "title": "Qual é o lugar da mulher no Islã?",
+        "shortDescription": "Um tema muito debatido, mas frequentemente mal compreendido. O Islã concede à mulher um lugar honrado em valor espiritual, conhecimento, propriedade e respeito.",
+        "mainPrinciple": "A mulher e o homem carregam a mesma dignidade humana e o mesmo valor espiritual diante do Criador; nenhum vale menos que o outro.",
+        "summaryPoints": [
+          "A mulher tem o direito de buscar conhecimento, de possuir bens e de fazer as próprias escolhas.",
+          "A honra prestada à mãe é especialmente destacada; a bondade se volta primeiro a ela.",
+          "Algumas injustiças locais e culturais não devem ser confundidas com o coração da fé."
+        ],
+        "dailyReflection": "Hoje, demonstre um agradecimento sincero ou uma pequena gentileza a uma mulher da sua vida: sua mãe, sua esposa, sua irmã ou uma amiga.",
+        "dawahTip": "Ao se deparar com um exemplo de injustiça, em vez de se colocar na defensiva, convide gentilmente a outra pessoa a distinguir juntos: 'Isto é uma prática cultural ou um ensinamento da fé?'",
+        "questionAnswer": {
+          "question": "O Islã vê a mulher como inferior?",
+          "answer": "Não. Em dignidade humana e valor espiritual, ela é vista como igual; às vezes práticas culturais são confundidas com o ensinamento da fé, mas não são a mesma coisa."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre o respeito à mãe, a justiça e a dignidade da mulher.",
+        "shareText": "A delicadeza de uma sociedade se vê no respeito que ela demonstra às suas mulheres e às suas mães."
+      },
+      "de": {
+        "title": "Welchen Platz hat die Frau im Islam?",
+        "shortDescription": "Ein viel besprochenes, doch oft missverstandenes Thema. Der Islam gibt der Frau einen würdevollen Platz in geistigem Wert, Wissen, Besitz und Respekt.",
+        "mainPrinciple": "Frau und Mann tragen vor dem Schöpfer dieselbe Menschenwürde und denselben geistigen Wert; keiner ist im Wert geringer als der andere.",
+        "summaryPoints": [
+          "Eine Frau hat das Recht, Wissen zu suchen, Eigentum zu besitzen und ihre eigenen Entscheidungen zu treffen.",
+          "Die Ehre gegenüber der Mutter wird besonders betont; die Güte wendet sich zuerst ihr zu.",
+          "Manche örtliche und kulturelle Ungerechtigkeit sollte nicht mit dem Kern des Glaubens verwechselt werden."
+        ],
+        "dailyReflection": "Zeige heute einer Frau in deinem Leben aufrichtigen Dank oder eine kleine Freundlichkeit: deiner Mutter, deiner Frau, deiner Schwester oder einer Freundin.",
+        "dawahTip": "Wenn dir ein Beispiel von Ungerechtigkeit begegnet, gehe nicht in die Verteidigung, sondern lade dein Gegenüber sanft dazu ein, gemeinsam zu unterscheiden: „Ist das ein kultureller Brauch oder eine Lehre des Glaubens?“",
+        "questionAnswer": {
+          "question": "Sieht der Islam die Frau als zweitklassig an?",
+          "answer": "Nein. In Menschenwürde und geistigem Wert wird sie als gleich angesehen; manchmal werden kulturelle Bräuche mit der Lehre des Glaubens verwechselt, doch beides ist nicht dasselbe."
+        },
+        "referenceNote": "Siehe die Verse des Korans über die Achtung der Mutter, Gerechtigkeit und die Würde der Frau.",
+        "shareText": "Die Feinheit einer Gesellschaft zeigt sich im Respekt, den sie ihren Frauen und ihren Müttern entgegenbringt."
+      },
+      "es": {
+        "title": "¿Cuál es el lugar de la mujer en el islam?",
+        "shortDescription": "Un tema muy debatido, pero a menudo mal comprendido. El islam concede a la mujer un lugar honrado en valor espiritual, conocimiento, propiedad y respeto.",
+        "mainPrinciple": "La mujer y el hombre llevan la misma dignidad humana y el mismo valor espiritual ante el Creador; ninguno vale menos que el otro.",
+        "summaryPoints": [
+          "La mujer tiene derecho a buscar conocimiento, a poseer bienes y a tomar sus propias decisiones.",
+          "La honra hacia la madre se destaca de manera especial; la bondad se vuelve primero hacia ella.",
+          "Algunas injusticias locales y culturales no deben confundirse con el corazón de la fe."
+        ],
+        "dailyReflection": "Hoy, muestra un agradecimiento sincero o una pequeña amabilidad a una mujer de tu vida: tu madre, tu esposa, tu hermana o una amiga.",
+        "dawahTip": "Ante un ejemplo de injusticia, en lugar de ponerte a la defensiva, invita con gentileza a la otra persona a distinguir juntos: '¿Esto es una práctica cultural o una enseñanza de la fe?'",
+        "questionAnswer": {
+          "question": "¿El islam ve a la mujer como de segunda clase?",
+          "answer": "No. En dignidad humana y valor espiritual se la considera igual; a veces las prácticas culturales se confunden con la enseñanza de la fe, pero no son lo mismo."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre el respeto a la madre, la justicia y la dignidad de la mujer.",
+        "shareText": "La delicadeza de una sociedad se ve en el respeto que muestra a sus mujeres y a sus madres."
+      }
+    }
+  },
+  {
+    "id": "faq-nasil-musluman-olunur",
+    "category": "faq",
+    "icon": "walk-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "şehadet",
+      "iman",
+      "baskısızlık",
+      "tercih",
+      "islam"
+    ],
+    "content": {
+      "tr": {
+        "title": "Bir Kişi Nasıl Müslüman Olur?",
+        "shortDescription": "Çok doğal bir soru. Cevabı sade: İslam'a girmek, kalpten inanarak ve özgür iradeyle yapılan içten bir şahitlikle başlar.",
+        "mainPrinciple": "Müslüman olmak, kimsenin baskısı altında değil, kişinin kendi aklı ve kalbiyle hazır olduğunda verdiği özgür ve bilinçli bir karardır.",
+        "summaryPoints": [
+          "İslam'a giriş, tek olan Allah'a ve Hz. Muhammed'in Allah'ın son elçisi oluşuna kalpten şahitlik etmekle (kelime-i şehadet) başlar.",
+          "Bu, anlık bir duygu değil; özgürce ve gönülden verilen bilinçli bir tercihtir, çünkü dinde zorlama yoktur.",
+          "Karardan sonra öğrenmek tedrici ve kolaydır; kimse her şeyi bir günde bilmek zorunda değildir."
+        ],
+        "dailyReflection": "Bugün bir an dur ve sor: Bir inanca yöneldiğimde bunu korkudan mı, yoksa kalbim huzur bulduğu için mi yaparım?",
+        "dawahTip": "Birini asla acele ettirme. 'Hazır olduğunda, kendi kalbinle' diyerek alanı ona bırak; merak eden kişiye baskı değil, sabırlı bir yoldaşlık sun.",
+        "questionAnswer": {
+          "question": "Müslüman olmak için karmaşık bir tören mi gerekir?",
+          "answer": "Hayır. Tek Yaratıcı'ya yürekten inanmak ve Hz. Muhammed'i Allah'ın son elçisi olarak kabul edip bunu içtenlikle dile getirmek başlangıçtır; gerisi sevgiyle, adım adım öğrenilir."
+        },
+        "referenceNote": "Bkz. Kur'an'da dinde zorlamanın olmadığına dair ayet (Bakara, 256).",
+        "shareText": "İmana giden yol baskıyla değil, kalbin özgürce 'evet' demesiyle açılır."
+      },
+      "en": {
+        "title": "How Does a Person Become Muslim?",
+        "shortDescription": "A very natural question. The answer is simple: entering Islam begins with a sincere testimony made wholeheartedly and by free will.",
+        "mainPrinciple": "Becoming Muslim is a free and conscious decision a person makes with their own mind and heart when ready, never under anyone's pressure.",
+        "summaryPoints": [
+          "Entering Islam begins by testifying from the heart (the shahada) that there is no god but God and that Muhammad is His messenger.",
+          "This is not a passing emotion but a conscious choice made freely and willingly, for there is no compulsion in religion.",
+          "After the decision, learning is gradual and easy; no one has to know everything in a single day."
+        ],
+        "dailyReflection": "Pause for a moment today and ask: when I turn toward a belief, do I do it out of fear, or because my heart finds peace?",
+        "dawahTip": "Never rush anyone. Leave the choice with them by saying, 'when you are ready, with your own heart'; offer a curious person patient companionship, not pressure.",
+        "questionAnswer": {
+          "question": "Does becoming Muslim require a complicated ceremony?",
+          "answer": "No. Sincerely believing in the one Creator and that Muhammad is His messenger, and saying so, is the beginning; the rest is learned gently, step by step."
+        },
+        "referenceNote": "See the Quranic verse that there is no compulsion in religion (Al-Baqarah, 256).",
+        "shareText": "The path to faith opens not through pressure, but when the heart freely says 'yes'."
+      },
+      "fr": {
+        "title": "Comment devient-on musulman ?",
+        "shortDescription": "Une question très naturelle. La réponse est simple : entrer dans l'islam commence par un témoignage sincère, fait de tout cœur et en toute liberté.",
+        "mainPrinciple": "Devenir musulman est une décision libre et consciente que l'on prend avec son propre esprit et son cœur, quand on est prêt, jamais sous la pression de quiconque.",
+        "summaryPoints": [
+          "Entrer dans l'islam commence par témoigner du fond du cœur (la chahada) qu'il n'y a de divinité que Dieu et que Muhammad est Son messager.",
+          "Ce n'est pas une émotion passagère, mais un choix conscient fait librement et de bon cœur, car il n'y a pas de contrainte en religion.",
+          "Après la décision, l'apprentissage est progressif et facile ; nul n'a à tout savoir en un seul jour."
+        ],
+        "dailyReflection": "Marque une pause aujourd'hui et demande-toi : quand je me tourne vers une croyance, est-ce par peur ou parce que mon cœur y trouve la paix ?",
+        "dawahTip": "Ne presse jamais personne. Laisse-lui le choix en disant : « quand tu seras prêt, avec ton propre cœur » ; offre à la personne curieuse un compagnonnage patient, non une pression.",
+        "questionAnswer": {
+          "question": "Devenir musulman exige-t-il une cérémonie compliquée ?",
+          "answer": "Non. Croire sincèrement au Créateur unique et que Muhammad est Son messager, puis le dire, voilà le commencement ; le reste s'apprend avec douceur, pas à pas."
+        },
+        "referenceNote": "Voir le verset coranique selon lequel il n'y a pas de contrainte en religion (Al-Baqara, 256).",
+        "shareText": "Le chemin vers la foi s'ouvre non par la pression, mais quand le cœur dit librement « oui »."
+      },
+      "pt-BR": {
+        "title": "Como uma pessoa se torna muçulmana?",
+        "shortDescription": "Uma pergunta muito natural. A resposta é simples: entrar no Islã começa com um testemunho sincero, feito de coração e por livre vontade.",
+        "mainPrinciple": "Tornar-se muçulmano é uma decisão livre e consciente que a pessoa toma com a própria mente e o próprio coração, quando está pronta, nunca sob a pressão de ninguém.",
+        "summaryPoints": [
+          "Entrar no Islã começa testemunhando do fundo do coração (a shahada) que não há divindade senão Deus e que Muhammad é Seu mensageiro.",
+          "Isso não é uma emoção passageira, mas uma escolha consciente feita com liberdade e de bom coração, pois não há coação na religião.",
+          "Depois da decisão, o aprendizado é gradual e tranquilo; ninguém precisa saber tudo em um único dia."
+        ],
+        "dailyReflection": "Faça uma pausa hoje e pergunte: quando me volto para uma crença, faço isso por medo ou porque meu coração encontra paz?",
+        "dawahTip": "Nunca apresse ninguém. Deixe a escolha com a pessoa, dizendo: 'quando você estiver pronto, com o seu próprio coração'; ofereça a quem é curioso uma companhia paciente, não pressão.",
+        "questionAnswer": {
+          "question": "Tornar-se muçulmano exige uma cerimônia complicada?",
+          "answer": "Não. Crer com sinceridade no único Criador e que Muhammad é Seu mensageiro, e dizê-lo, é o começo; o resto se aprende com carinho, passo a passo."
+        },
+        "referenceNote": "Veja o versículo do Alcorão de que não há coação na religião (Al-Baqara, 256).",
+        "shareText": "O caminho para a fé se abre não pela pressão, mas quando o coração diz 'sim' com liberdade."
+      },
+      "de": {
+        "title": "Wie wird ein Mensch Muslim?",
+        "shortDescription": "Eine ganz natürliche Frage. Die Antwort ist schlicht: Der Eintritt in den Islam beginnt mit einem aufrichtigen Bekenntnis, von Herzen und aus freiem Willen.",
+        "mainPrinciple": "Muslim zu werden ist eine freie und bewusste Entscheidung, die ein Mensch mit eigenem Verstand und Herzen trifft, wenn er bereit ist, niemals unter dem Druck eines anderen.",
+        "summaryPoints": [
+          "Der Eintritt in den Islam beginnt mit dem Bekenntnis von Herzen (der Schahada), dass es keinen Gott außer Gott gibt und dass Muhammad Sein Gesandter ist.",
+          "Das ist kein flüchtiges Gefühl, sondern eine bewusste, frei und gern getroffene Wahl, denn es gibt keinen Zwang im Glauben.",
+          "Nach der Entscheidung ist das Lernen schrittweise und leicht; niemand muss an einem einzigen Tag alles wissen."
+        ],
+        "dailyReflection": "Halte heute einen Moment inne und frage dich: Wenn ich mich einem Glauben zuwende, tue ich es aus Angst oder weil mein Herz Frieden findet?",
+        "dawahTip": "Dränge niemanden. Lass ihm die Entscheidung mit den Worten: „Wenn du bereit bist, mit deinem eigenen Herzen“; biete einem neugierigen Menschen geduldige Begleitung an, keinen Druck.",
+        "questionAnswer": {
+          "question": "Braucht es eine komplizierte Zeremonie, um Muslim zu werden?",
+          "answer": "Nein. Aufrichtig an den einen Schöpfer und daran zu glauben, dass Muhammad Sein Gesandter ist, und dies auszusprechen, ist der Anfang; der Rest wird liebevoll, Schritt für Schritt gelernt."
+        },
+        "referenceNote": "Siehe den Koranvers, dass es keinen Zwang im Glauben gibt (Al-Baqara, 256).",
+        "shareText": "Der Weg zum Glauben öffnet sich nicht durch Druck, sondern wenn das Herz frei „ja“ sagt."
+      },
+      "es": {
+        "title": "¿Cómo se hace musulmana una persona?",
+        "shortDescription": "Una pregunta muy natural. La respuesta es sencilla: entrar en el islam comienza con un testimonio sincero, hecho de todo corazón y por libre voluntad.",
+        "mainPrinciple": "Hacerse musulmán es una decisión libre y consciente que la persona toma con su propia mente y su propio corazón, cuando está lista, nunca bajo la presión de nadie.",
+        "summaryPoints": [
+          "Entrar en el islam comienza testimoniando desde el fondo del corazón (la shahada) que no hay divinidad sino Dios y que Muhammad es Su mensajero.",
+          "Esto no es una emoción pasajera, sino una elección consciente hecha con libertad y de buen corazón, pues no hay coacción en la religión.",
+          "Después de la decisión, el aprendizaje es gradual y sencillo; nadie tiene que saberlo todo en un solo día."
+        ],
+        "dailyReflection": "Haz una pausa hoy y pregúntate: cuando me vuelvo hacia una creencia, ¿lo hago por miedo o porque mi corazón encuentra paz?",
+        "dawahTip": "Nunca apresures a nadie. Deja la elección en sus manos diciendo: 'cuando estés listo, con tu propio corazón'; ofrece a quien siente curiosidad una compañía paciente, no presión.",
+        "questionAnswer": {
+          "question": "¿Hacerse musulmán exige una ceremonia complicada?",
+          "answer": "No. Creer con sinceridad en el único Creador y que Muhammad es Su mensajero, y decirlo, es el comienzo; el resto se aprende con cariño, paso a paso."
+        },
+        "referenceNote": "Véase el versículo del Corán que dice que no hay coacción en la religión (Al-Baqara, 256).",
+        "shareText": "El camino hacia la fe se abre no por la presión, sino cuando el corazón dice 'sí' con libertad."
+      }
+    }
+  }
+]

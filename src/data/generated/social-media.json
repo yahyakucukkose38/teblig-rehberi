@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "social-media-dogrula-once-paylas",
+    "category": "social-media",
+    "icon": "shield-checkmark-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["dogrulama", "emanet", "söz", "verify", "trust"],
+    "content": {
+      "tr": {
+        "title": "Paylaşmadan Önce Doğrula",
+        "shortDescription": "Bir bilgiyi paylaşmadan önce doğruluğunu araştırmak, sözü emanet bilmenin gereğidir. Her ekran görüntüsü, her haber bir sorumluluktur.",
+        "mainPrinciple": "Doğruluğunu bilmediğin bir sözü taşımak, taşımakla yetinmek değil, ona ortak olmaktır.",
+        "summaryPoints": [
+          "Bir haberi yaymadan önce kaynağını ve doğruluğunu sakince araştır.",
+          "Şüpheli bir bilgide susmak, yanlışı çoğaltmaktan daha hayırlıdır.",
+          "Paylaştığın her söz, hesabını vereceğin bir emanettir."
+        ],
+        "dailyReflection": "Bugün paylaşmak istediğin bir gönderiyi göndermeden önce dur ve kendine sor: Bunun doğru olduğundan emin miyim?",
+        "dawahTip": "İnsanları suçlamadan, 'Birlikte doğrulayalım mı?' diyerek nazik bir alışkanlık öner; örnek olmak suçlamaktan daha kalıcıdır.",
+        "questionAnswer": {
+          "question": "Doğruluğundan emin olmadığım bir haberi paylaşmamak yeterli mi?",
+          "answer": "Evet, susmak çoğu zaman en güvenli yoldur; çünkü yaymadığın bir yanlıştan sorumlu olmazsın."
+        },
+        "referenceNote": "Bkz. Kur'an'da bir haber geldiğinde araştırmaya ve sözde dikkatli olmaya dair ayetler.",
+        "shareText": "Paylaşmadan önce bir nefes al ve doğrula. Söz emanettir; taşıdığın her haber senin sorumluluğundur."
+      },
+      "en": {
+        "title": "Verify Before You Share",
+        "shortDescription": "Checking whether something is true before sharing it is part of treating words as a trust. Every screenshot and every headline carries responsibility.",
+        "mainPrinciple": "Carrying a message you have not verified is not merely passing it on; it is taking part in it.",
+        "summaryPoints": [
+          "Calmly check the source and accuracy of news before spreading it.",
+          "Staying silent about doubtful information is better than multiplying an error.",
+          "Every word you share is a trust you will be answerable for."
+        ],
+        "dailyReflection": "Before sending a post you want to share today, pause and ask yourself: Am I certain this is true?",
+        "dawahTip": "Without blaming anyone, gently suggest the habit by saying, 'Shall we verify this together?' Setting an example lasts longer than accusing.",
+        "questionAnswer": {
+          "question": "Is it enough simply not to share news I am unsure about?",
+          "answer": "Yes, silence is often the safest path, because you are not responsible for an error you did not spread."
+        },
+        "referenceNote": "See Quranic verses on investigating news when it arrives and being careful with one's words.",
+        "shareText": "Take a breath before you share, then verify. Words are a trust; every message you carry is your responsibility."
+      },
+      "fr": {
+        "title": "Vérifie avant de partager",
+        "shortDescription": "Vérifier la véracité d'une information avant de la partager fait partie du respect de la parole comme un dépôt. Chaque capture d'écran, chaque titre porte une responsabilité.",
+        "mainPrinciple": "Transmettre un message que tu n'as pas vérifié, ce n'est pas seulement le relayer, c'est y prendre part.",
+        "summaryPoints": [
+          "Vérifie calmement la source et l'exactitude d'une nouvelle avant de la diffuser.",
+          "Se taire face à une information douteuse vaut mieux que de multiplier une erreur.",
+          "Chaque mot que tu partages est un dépôt dont tu auras à répondre."
+        ],
+        "dailyReflection": "Avant d'envoyer aujourd'hui une publication que tu veux partager, arrête-toi et demande-toi : suis-je certain que c'est vrai ?",
+        "dawahTip": "Sans accuser personne, propose doucement cette habitude en disant : 'Et si on vérifiait ensemble ?' Donner l'exemple dure plus longtemps qu'accuser.",
+        "questionAnswer": {
+          "question": "Suffit-il de simplement ne pas partager une nouvelle dont je ne suis pas sûr ?",
+          "answer": "Oui, le silence est souvent la voie la plus sûre, car tu n'es pas responsable d'une erreur que tu n'as pas diffusée."
+        },
+        "referenceNote": "Voir les versets coraniques sur la vérification d'une nouvelle qui arrive et la prudence dans les paroles.",
+        "shareText": "Respire avant de partager, puis vérifie. La parole est un dépôt ; chaque message que tu transmets est ta responsabilité."
+      },
+      "pt-BR": {
+        "title": "Verifique antes de compartilhar",
+        "shortDescription": "Conferir se algo é verdadeiro antes de compartilhar faz parte de tratar a palavra como um depósito de confiança. Cada captura de tela e cada manchete trazem responsabilidade.",
+        "mainPrinciple": "Levar adiante uma mensagem que você não verificou não é apenas repassá-la; é tomar parte nela.",
+        "summaryPoints": [
+          "Confira com calma a fonte e a veracidade de uma notícia antes de divulgá-la.",
+          "Ficar em silêncio diante de uma informação duvidosa é melhor do que multiplicar um erro.",
+          "Cada palavra que você compartilha é um depósito do qual prestará contas."
+        ],
+        "dailyReflection": "Antes de enviar hoje uma publicação que deseja compartilhar, pare e pergunte a si mesmo: tenho certeza de que isto é verdade?",
+        "dawahTip": "Sem culpar ninguém, sugira gentilmente o hábito dizendo: 'Vamos verificar isto juntos?' Dar o exemplo dura mais do que acusar.",
+        "questionAnswer": {
+          "question": "Basta simplesmente não compartilhar uma notícia da qual não tenho certeza?",
+          "answer": "Sim, o silêncio costuma ser o caminho mais seguro, pois você não é responsável por um erro que não divulgou."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre investigar uma notícia quando ela chega e ter cuidado com as palavras.",
+        "shareText": "Respire antes de compartilhar e depois verifique. A palavra é um depósito; cada mensagem que você leva é sua responsabilidade."
+      },
+      "de": {
+        "title": "Prüfe, bevor du teilst",
+        "shortDescription": "Zu prüfen, ob etwas wahr ist, bevor man es teilt, gehört dazu, das Wort als ein anvertrautes Gut zu behandeln. Jeder Screenshot und jede Schlagzeile trägt Verantwortung.",
+        "mainPrinciple": "Eine Botschaft weiterzutragen, die du nicht geprüft hast, ist nicht bloß ein Weitergeben, sondern ein Teilhaben daran.",
+        "summaryPoints": [
+          "Prüfe ruhig Quelle und Richtigkeit einer Nachricht, bevor du sie verbreitest.",
+          "Bei zweifelhaften Informationen zu schweigen ist besser, als einen Fehler zu vervielfachen.",
+          "Jedes Wort, das du teilst, ist ein anvertrautes Gut, für das du Rechenschaft trägst."
+        ],
+        "dailyReflection": "Bevor du heute einen Beitrag absendest, den du teilen möchtest, halte inne und frage dich: Bin ich sicher, dass das wahr ist?",
+        "dawahTip": "Schlage die Gewohnheit sanft vor, ohne jemanden zu beschuldigen: 'Wollen wir das gemeinsam prüfen?' Ein Vorbild zu sein wirkt länger als ein Vorwurf.",
+        "questionAnswer": {
+          "question": "Reicht es, eine Nachricht, bei der ich unsicher bin, einfach nicht zu teilen?",
+          "answer": "Ja, Schweigen ist oft der sicherste Weg, denn du bist für einen Fehler, den du nicht verbreitet hast, nicht verantwortlich."
+        },
+        "referenceNote": "Siehe die Verse des Korans über das Prüfen einer eintreffenden Nachricht und die Achtsamkeit mit den eigenen Worten.",
+        "shareText": "Atme durch, bevor du teilst, und prüfe dann. Das Wort ist ein anvertrautes Gut; jede Botschaft, die du trägst, ist deine Verantwortung."
+      },
+      "es": {
+        "title": "Verifica antes de compartir",
+        "shortDescription": "Comprobar si algo es verdadero antes de compartirlo es parte de tratar la palabra como algo que se nos confía. Cada captura de pantalla y cada titular llevan una responsabilidad.",
+        "mainPrinciple": "Llevar adelante un mensaje que no has verificado no es solo transmitirlo; es tomar parte en él.",
+        "summaryPoints": [
+          "Comprueba con calma la fuente y la veracidad de una noticia antes de difundirla.",
+          "Callar ante una información dudosa es mejor que multiplicar un error.",
+          "Cada palabra que compartes es algo confiado de lo que rendirás cuentas."
+        ],
+        "dailyReflection": "Antes de enviar hoy una publicación que deseas compartir, detente y pregúntate: ¿estoy seguro de que esto es verdad?",
+        "dawahTip": "Sin culpar a nadie, sugiere con amabilidad el hábito diciendo: '¿Lo verificamos juntos?'. Dar el ejemplo dura más que acusar.",
+        "questionAnswer": {
+          "question": "¿Basta con simplemente no compartir una noticia de la que no estoy seguro?",
+          "answer": "Sí, el silencio suele ser el camino más seguro, pues no eres responsable de un error que no difundiste."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre investigar una noticia cuando llega y ser cuidadoso con las palabras.",
+        "shareText": "Respira antes de compartir y luego verifica. La palabra es algo confiado; cada mensaje que llevas es tu responsabilidad."
+      }
+    }
+  },
+  {
+    "id": "social-media-cevrimici-guzel-ahlak",
+    "category": "social-media",
+    "icon": "happy-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["ahlak", "temsil", "nezaket", "akhlaq", "example"],
+    "content": {
+      "tr": {
+        "title": "Ekranın Ardındaki Güzel Ahlak",
+        "shortDescription": "İnternette davranışlarımız çoğu insan için İslam'ın ilk yüzüdür. Güzel ahlak, en sessiz ve en etkili tebliğdir.",
+        "mainPrinciple": "Çevrimiçi her yorumun, dinini en güzel şekilde temsil etme fırsatı taşır.",
+        "summaryPoints": [
+          "Tartışmada bile yumuşak söz ve sabırla cevap ver.",
+          "Anlaşmazlıkta hakareti değil, edebi ve adaleti seç.",
+          "Niyetin haklı çıkmak değil, güzel örnek olmak olsun."
+        ],
+        "dailyReflection": "Bugün seni öfkelendiren bir yorumu yanıtlamadan önce kısa bir an dur ve cevabını nezaketle yumuşat.",
+        "dawahTip": "Kimseyi küçük düşürmeden, sakin ve saygılı kalmanın kendisi en güçlü mesajdır; insanlar tartışmayı değil tavrı hatırlar.",
+        "questionAnswer": {
+          "question": "Bana saygısızca yazan birine nasıl davranmalıyım?",
+          "answer": "Sakin ve nazik kalarak; çünkü öfkeye öfkeyle değil, güzel ahlakla karşılık vermek daha güçlüdür."
+        },
+        "referenceNote": "Bkz. Kur'an'da güzel söz, yumuşaklık ve kötülüğü iyilikle savmaya dair ayetler.",
+        "shareText": "Ekranın ardında da güzel ahlak. Çevrimiçi her sözün, dinini en güzel biçimde yansıtan bir örnek olabilir."
+      },
+      "en": {
+        "title": "Good Character Behind the Screen",
+        "shortDescription": "Online, our behavior is the first face of Islam for many people. Good character is the quietest and most effective invitation.",
+        "mainPrinciple": "Every comment you make online carries the chance to represent your faith in its most beautiful form.",
+        "summaryPoints": [
+          "Reply with gentle words and patience, even in disagreement.",
+          "In conflict, choose dignity and fairness, not insult.",
+          "Let your aim be to set a good example, not to win the argument."
+        ],
+        "dailyReflection": "Today, before answering a comment that angers you, pause for a brief moment and soften your reply with kindness.",
+        "dawahTip": "Without belittling anyone, staying calm and respectful is itself the strongest message; people remember the attitude, not the argument.",
+        "questionAnswer": {
+          "question": "How should I treat someone who writes to me disrespectfully?",
+          "answer": "By staying calm and gentle, because responding to anger with good character is stronger than answering anger with anger."
+        },
+        "referenceNote": "See Quranic verses on kind speech, gentleness, and repelling evil with what is better.",
+        "shareText": "Good character behind the screen too. Every word you post online can be an example that represents your faith beautifully."
+      },
+      "fr": {
+        "title": "Le bon caractère derrière l'écran",
+        "shortDescription": "En ligne, notre comportement est le premier visage de l'islam pour beaucoup de gens. Le bon caractère est l'invitation la plus discrète et la plus efficace.",
+        "mainPrinciple": "Chaque commentaire que tu écris en ligne porte la chance de représenter ta foi sous sa plus belle forme.",
+        "summaryPoints": [
+          "Réponds avec des mots doux et de la patience, même dans le désaccord.",
+          "Dans le conflit, choisis la dignité et la justice, non l'insulte.",
+          "Que ton but soit de donner le bon exemple, non de gagner la discussion."
+        ],
+        "dailyReflection": "Aujourd'hui, avant de répondre à un commentaire qui te met en colère, arrête-toi un bref instant et adoucis ta réponse avec bienveillance.",
+        "dawahTip": "Sans rabaisser personne, rester calme et respectueux est en soi le message le plus fort ; les gens retiennent l'attitude, non la dispute.",
+        "questionAnswer": {
+          "question": "Comment dois-je traiter quelqu'un qui m'écrit de façon irrespectueuse ?",
+          "answer": "En restant calme et doux, car répondre à la colère par un bon caractère est plus fort que d'y répondre par la colère."
+        },
+        "referenceNote": "Voir les versets coraniques sur la belle parole, la douceur et le fait de repousser le mal par ce qui est meilleur.",
+        "shareText": "Le bon caractère, même derrière l'écran. Chaque mot que tu publies en ligne peut être un exemple qui représente ta foi avec beauté."
+      },
+      "pt-BR": {
+        "title": "O bom caráter por trás da tela",
+        "shortDescription": "Na internet, nosso comportamento é o primeiro rosto do Islã para muitas pessoas. O bom caráter é o convite mais silencioso e mais eficaz.",
+        "mainPrinciple": "Cada comentário que você faz online traz a chance de representar sua fé em sua forma mais bela.",
+        "summaryPoints": [
+          "Responda com palavras gentis e paciência, mesmo na discordância.",
+          "No conflito, escolha a dignidade e a justiça, não o insulto.",
+          "Que o seu objetivo seja dar um bom exemplo, não vencer a discussão."
+        ],
+        "dailyReflection": "Hoje, antes de responder a um comentário que o irrita, pare por um breve momento e suavize a sua resposta com gentileza.",
+        "dawahTip": "Sem rebaixar ninguém, manter-se calmo e respeitoso é, em si, a mensagem mais forte; as pessoas lembram da atitude, não da discussão.",
+        "questionAnswer": {
+          "question": "Como devo tratar alguém que me escreve de forma desrespeitosa?",
+          "answer": "Mantendo-se calmo e gentil, pois responder à raiva com bom caráter é mais forte do que responder à raiva com raiva."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a boa palavra, a brandura e repelir o mal com o que é melhor.",
+        "shareText": "Bom caráter também por trás da tela. Cada palavra que você publica online pode ser um exemplo que representa sua fé com beleza."
+      },
+      "de": {
+        "title": "Guter Charakter hinter dem Bildschirm",
+        "shortDescription": "Online ist unser Verhalten für viele Menschen das erste Gesicht des Islam. Guter Charakter ist die leiseste und wirksamste Einladung.",
+        "mainPrinciple": "Jeder Kommentar, den du online schreibst, trägt die Chance, deinen Glauben in seiner schönsten Form zu vertreten.",
+        "summaryPoints": [
+          "Antworte mit sanften Worten und Geduld, selbst in der Meinungsverschiedenheit.",
+          "Wähle im Streit Würde und Gerechtigkeit, nicht die Beleidigung.",
+          "Dein Ziel sei es, ein gutes Vorbild zu sein, nicht die Diskussion zu gewinnen."
+        ],
+        "dailyReflection": "Halte heute, bevor du auf einen Kommentar antwortest, der dich wütend macht, einen kurzen Augenblick inne und mildere deine Antwort mit Freundlichkeit.",
+        "dawahTip": "Ohne jemanden herabzusetzen, ist ruhig und respektvoll zu bleiben selbst die stärkste Botschaft; Menschen erinnern sich an die Haltung, nicht an den Streit.",
+        "questionAnswer": {
+          "question": "Wie soll ich jemanden behandeln, der mir respektlos schreibt?",
+          "answer": "Indem du ruhig und sanft bleibst, denn auf Zorn mit gutem Charakter zu antworten ist stärker, als Zorn mit Zorn zu begegnen."
+        },
+        "referenceNote": "Siehe die Verse des Korans über das gute Wort, die Sanftmut und das Abwehren des Bösen mit dem, was besser ist.",
+        "shareText": "Guter Charakter auch hinter dem Bildschirm. Jedes Wort, das du online schreibst, kann ein Vorbild sein, das deinen Glauben schön vertritt."
+      },
+      "es": {
+        "title": "El buen carácter detrás de la pantalla",
+        "shortDescription": "En internet, nuestro comportamiento es el primer rostro del islam para muchas personas. El buen carácter es la invitación más silenciosa y más eficaz.",
+        "mainPrinciple": "Cada comentario que escribes en internet lleva la oportunidad de representar tu fe en su forma más hermosa.",
+        "summaryPoints": [
+          "Responde con palabras suaves y con paciencia, incluso en el desacuerdo.",
+          "En el conflicto, elige la dignidad y la justicia, no el insulto.",
+          "Que tu meta sea dar un buen ejemplo, no ganar la discusión."
+        ],
+        "dailyReflection": "Hoy, antes de responder a un comentario que te enoja, detente un breve instante y suaviza tu respuesta con amabilidad.",
+        "dawahTip": "Sin rebajar a nadie, mantenerse tranquilo y respetuoso es en sí mismo el mensaje más fuerte; la gente recuerda la actitud, no la discusión.",
+        "questionAnswer": {
+          "question": "¿Cómo debo tratar a alguien que me escribe de forma irrespetuosa?",
+          "answer": "Manteniéndote tranquilo y amable, pues responder al enojo con buen carácter es más fuerte que responder al enojo con enojo."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la buena palabra, la suavidad y repeler el mal con lo que es mejor.",
+        "shareText": "Buen carácter también detrás de la pantalla. Cada palabra que publicas en internet puede ser un ejemplo que represente tu fe con belleza."
+      }
+    }
+  },
+  {
+    "id": "social-media-koprudan-baslamak",
+    "category": "social-media",
+    "icon": "compass-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "köprü",
+      "ortak zemin",
+      "common ground",
+      "hikmet",
+      "empati"
+    ],
+    "content": {
+      "tr": {
+        "title": "Köprüden Başlamak: Ortak Zemin",
+        "shortDescription": "Online davete, muhatabın inancını çürütmekle değil, sizi birleştiren ortak değerlerle başlamak daha hayırlıdır. Köprü kurmak, duvar örmekten daha kalıcıdır.",
+        "mainPrinciple": "Davet, bir görüşü çürütmekle değil, iki kalp arasında bir köprü kurmakla başlar.",
+        "summaryPoints": [
+          "Reddeden bir cümle yerine birleştiren bir cümleyle söze başla.",
+          "Tek Allah'a yöneliş, Hz. İsa'ya duyulan saygı ve aile değerleri gibi ortak noktaları vurgula.",
+          "İhtilaflı konuları, ancak muhatap hazır olup sorduğunda usulünce aç."
+        ],
+        "dailyReflection": "Bugün farklı inançtan biriyle konuşurken, onun bakışındaki güzel bir yanı bul ve önce ona saygıyla değin.",
+        "dawahTip": "Bir tartışmaya girmeden önce kendine sor: Amacım haklı çıkmak mı, yoksa bir kalbe köprü kurmak mı? 'Şu yanlıştır' yerine 'şu konuda biz de aynı şeye değer veriyoruz' diyerek başla.",
+        "questionAnswer": {
+          "question": "Muhatabımın inancındaki bir hatayı hemen söylemem gerekmez mi?",
+          "answer": "Hayır; ortak zemin kurulmadan açılan ihtilaf çoğu zaman kapıyı kapatır. Önce buluştuğunuz noktayı bul; ihtilaflı konular, muhatap hazır olunca daha kolay konuşulur."
+        },
+        "referenceNote": "Bkz. Kur'an'da hikmetle ve güzel öğütle davete ve ehl-i kitapla en güzel şekilde konuşmaya dair ayetler.",
+        "shareText": "Davete duvar örerek değil, köprü kurarak başla. Ortak zemin, bir kalbe giden en kısa yoldur."
+      },
+      "en": {
+        "title": "Start From the Bridge: Common Ground",
+        "shortDescription": "It is better to begin online outreach not by refuting another's belief, but with the values that unite you. Building a bridge lasts longer than raising a wall.",
+        "mainPrinciple": "Inviting begins not by refuting an opinion, but by building a bridge between two hearts.",
+        "summaryPoints": [
+          "Open with a sentence that unites rather than one that rejects.",
+          "Highlight what you share: turning to one God, respect for Jesus, and family values.",
+          "Raise contested topics gently, only when the other person is ready and asks."
+        ],
+        "dailyReflection": "Today, while speaking with someone of another faith, find something good in their view and acknowledge it first, with respect.",
+        "dawahTip": "Before entering a debate, ask yourself: Is my aim to be proven right, or to build a bridge to a heart? Instead of 'that is wrong,' begin with 'on this point, we value the same thing too.'",
+        "questionAnswer": {
+          "question": "Shouldn't I point out an error in the other person's belief right away?",
+          "answer": "No; a disagreement raised before common ground is found usually closes the door. Find what you share first, and contested topics become easier to discuss once the person is ready."
+        },
+        "referenceNote": "See Quranic verses on inviting with wisdom and good counsel, and on speaking with the People of the Book in the best manner.",
+        "shareText": "Begin your outreach by building a bridge, not raising a wall. Common ground is the shortest path to a heart."
+      },
+      "fr": {
+        "title": "Commencer par le pont : le terrain commun",
+        "shortDescription": "Il vaut mieux entamer un échange en ligne non pas en réfutant la croyance de l'autre, mais par les valeurs qui vous unissent. Bâtir un pont dure plus longtemps que dresser un mur.",
+        "mainPrinciple": "Inviter ne commence pas en réfutant une opinion, mais en bâtissant un pont entre deux cœurs.",
+        "summaryPoints": [
+          "Commence par une phrase qui rassemble plutôt qu'une phrase qui rejette.",
+          "Mets en avant ce que vous partagez : se tourner vers un Dieu unique, le respect pour Jésus et les valeurs familiales.",
+          "N'aborde les sujets de désaccord qu'avec douceur, lorsque l'autre est prêt et te le demande."
+        ],
+        "dailyReflection": "Aujourd'hui, en parlant avec quelqu'un d'une autre foi, trouve un bon côté dans sa vision et reconnais-le d'abord, avec respect.",
+        "dawahTip": "Avant d'entrer dans un débat, demande-toi : mon but est-il d'avoir raison, ou de bâtir un pont vers un cœur ? Au lieu de 'c'est faux', commence par 'sur ce point, nous attachons de la valeur à la même chose'.",
+        "questionAnswer": {
+          "question": "Ne devrais-je pas signaler tout de suite une erreur dans la croyance de l'autre ?",
+          "answer": "Non ; un désaccord soulevé avant d'avoir trouvé un terrain commun ferme souvent la porte. Trouve d'abord ce qui vous rassemble, et les sujets de désaccord deviendront plus faciles à aborder quand la personne sera prête."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'invitation avec sagesse et bon conseil, et sur le fait de parler aux Gens du Livre de la meilleure manière.",
+        "shareText": "Commence ton invitation en bâtissant un pont, non en dressant un mur. Le terrain commun est le plus court chemin vers un cœur."
+      },
+      "pt-BR": {
+        "title": "Comece pela ponte: o terreno comum",
+        "shortDescription": "É melhor iniciar uma conversa online não refutando a crença do outro, mas pelos valores que unem vocês. Construir uma ponte dura mais do que erguer um muro.",
+        "mainPrinciple": "Convidar não começa refutando uma opinião, mas construindo uma ponte entre dois corações.",
+        "summaryPoints": [
+          "Comece com uma frase que une, em vez de uma frase que rejeita.",
+          "Destaque o que vocês têm em comum: voltar-se para um único Deus, o respeito por Jesus e os valores da família.",
+          "Aborde os temas controversos com delicadeza, apenas quando o outro estiver pronto e perguntar."
+        ],
+        "dailyReflection": "Hoje, ao conversar com alguém de outra fé, encontre algo de bom no ponto de vista dela e reconheça isso primeiro, com respeito.",
+        "dawahTip": "Antes de entrar em um debate, pergunte a si mesmo: meu objetivo é ter razão ou construir uma ponte até um coração? Em vez de 'isso está errado', comece com 'nesse ponto, nós também damos valor à mesma coisa'.",
+        "questionAnswer": {
+          "question": "Não deveria apontar logo um erro na crença do outro?",
+          "answer": "Não; um desacordo levantado antes de encontrar um terreno comum costuma fechar a porta. Encontre primeiro o que vocês têm em comum, e os temas controversos ficam mais fáceis de conversar quando a pessoa estiver pronta."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre convidar com sabedoria e bom conselho, e sobre falar com a Gente do Livro da melhor maneira.",
+        "shareText": "Comece o seu convite construindo uma ponte, não erguendo um muro. O terreno comum é o caminho mais curto até um coração."
+      },
+      "de": {
+        "title": "Von der Brücke aus beginnen: gemeinsamer Boden",
+        "shortDescription": "Es ist besser, ein Online-Gespräch nicht mit der Widerlegung des Glaubens des anderen zu beginnen, sondern mit den Werten, die euch verbinden. Eine Brücke zu bauen hält länger, als eine Mauer zu errichten.",
+        "mainPrinciple": "Einzuladen beginnt nicht damit, eine Meinung zu widerlegen, sondern eine Brücke zwischen zwei Herzen zu bauen.",
+        "summaryPoints": [
+          "Beginne mit einem Satz, der verbindet, statt mit einem, der zurückweist.",
+          "Hebe das Gemeinsame hervor: die Hinwendung zum einen Gott, die Achtung vor Jesus und die Familienwerte.",
+          "Sprich strittige Themen behutsam erst dann an, wenn der andere bereit ist und danach fragt."
+        ],
+        "dailyReflection": "Finde heute im Gespräch mit jemandem anderen Glaubens etwas Gutes in seiner Sichtweise und würdige es zuerst, mit Respekt.",
+        "dawahTip": "Bevor du in eine Debatte gehst, frage dich: Ist mein Ziel, recht zu behalten, oder eine Brücke zu einem Herzen zu bauen? Statt 'das ist falsch' beginne mit 'in diesem Punkt schätzen wir dasselbe'.",
+        "questionAnswer": {
+          "question": "Sollte ich einen Fehler im Glauben des anderen nicht sofort benennen?",
+          "answer": "Nein; ein Widerspruch, der geäußert wird, bevor ein gemeinsamer Boden gefunden ist, verschließt meist die Tür. Finde zuerst das Gemeinsame, dann lassen sich strittige Themen leichter besprechen, sobald der Mensch bereit ist."
+        },
+        "referenceNote": "Siehe die Verse des Korans über das Einladen mit Weisheit und gutem Rat und über das Reden mit den Leuten der Schrift auf die beste Weise.",
+        "shareText": "Beginne deine Einladung, indem du eine Brücke baust, nicht eine Mauer. Gemeinsamer Boden ist der kürzeste Weg zu einem Herzen."
+      },
+      "es": {
+        "title": "Comienza por el puente: el terreno común",
+        "shortDescription": "Es mejor iniciar una conversación en línea no refutando la creencia del otro, sino con los valores que los unen. Construir un puente dura más que levantar un muro.",
+        "mainPrinciple": "Invitar no comienza refutando una opinión, sino construyendo un puente entre dos corazones.",
+        "summaryPoints": [
+          "Empieza con una frase que une, en lugar de una que rechaza.",
+          "Destaca lo que comparten: volverse hacia un solo Dios, el respeto por Jesús y los valores de la familia.",
+          "Aborda los temas controvertidos con delicadeza, solo cuando el otro esté listo y lo pregunte."
+        ],
+        "dailyReflection": "Hoy, al conversar con alguien de otra fe, encuentra algo bueno en su punto de vista y reconócelo primero, con respeto.",
+        "dawahTip": "Antes de entrar en un debate, pregúntate: ¿mi meta es tener razón o construir un puente hacia un corazón? En lugar de 'eso está mal', empieza con 'en este punto, nosotros también valoramos lo mismo'.",
+        "questionAnswer": {
+          "question": "¿No debería señalar de inmediato un error en la creencia del otro?",
+          "answer": "No; un desacuerdo planteado antes de hallar un terreno común suele cerrar la puerta. Encuentra primero lo que comparten, y los temas controvertidos se vuelven más fáciles de conversar cuando la persona está lista."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre invitar con sabiduría y buen consejo, y sobre hablar con la Gente del Libro de la mejor manera.",
+        "shareText": "Comienza tu invitación construyendo un puente, no levantando un muro. El terreno común es el camino más corto hacia un corazón."
+      }
+    }
+  },
+  {
+    "id": "social-media-once-guven-sonra-mesaj",
+    "category": "social-media",
+    "icon": "people-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "güven",
+      "samimiyet",
+      "trust",
+      "ilişki",
+      "sabır"
+    ],
+    "content": {
+      "tr": {
+        "title": "Önce Güven, Sonra Mesaj",
+        "shortDescription": "İnsanlar önce kişiye, sonra onun taşıdığı mesaja güvenir. Çevrimiçi bir bağ kurulmadan gönderilen söz çoğu zaman kapıyı çalmadan girmeye benzer.",
+        "mainPrinciple": "Aralarında güven oluşmadan iletilen söz, ne kadar doğru olursa olsun, çoğu kez kalbe ulaşamaz.",
+        "summaryPoints": [
+          "Önce insani bağı kur; tutarlı bir hâl ve samimi ilgiyle güveni besle.",
+          "Ekranın ardında gerçek bir insan olduğunu hissettiren doğal paylaşımlar yap.",
+          "Acele etme; muhatabını bir 'hedef' değil, değer verdiğin biri olarak gör."
+        ],
+        "dailyReflection": "Bugün dini bir içerik göndermeden önce o kişiyle daha önce gerçek bir bağ kurup kurmadığını kendine sor; gerekirse önce hâlini hatırını sor.",
+        "dawahTip": "Karşındakine sürekli mesaj yağdırmak yerine onu gerçekten dinleyip ilgilenmekle başla; güven oluştuğunda aynı söz çok daha dikkatle okunur.",
+        "questionAnswer": {
+          "question": "Güzel bir içeriği hemen paylaşmak yerine neden beklemeliyim?",
+          "answer": "Çünkü güven oluşmadan gelen söz çoğu zaman duvara çarpar; bağ kurulduğunda ise aynı söz açık bir kalbe ulaşır."
+        },
+        "referenceNote": "Bkz. Kur'an'da yumuşak söze, güzel davranışa ve insanlara şefkatle yaklaşmaya dair ayetler.",
+        "shareText": "İnsanlar önce kişiye güvenir, sonra mesajına. Önce kalbe uzanan güveni kur; söz arkasından kendiliğinden gelir."
+      },
+      "en": {
+        "title": "Trust First, Then the Message",
+        "shortDescription": "People trust the person before they trust the message that person carries. A word sent online before any bond is formed is like walking in without knocking.",
+        "mainPrinciple": "However true it may be, a word delivered before trust has grown rarely reaches the heart.",
+        "summaryPoints": [
+          "Build the human bond first; nurture trust with a consistent manner and genuine interest.",
+          "Share naturally, so people feel there is a real person behind the screen.",
+          "Don't rush; see the other person as someone you value, not a 'target'."
+        ],
+        "dailyReflection": "Before sending a religious post today, ask yourself whether you have ever built a real bond with that person; if not, start by simply asking how they are.",
+        "dawahTip": "Begin not by flooding someone with messages, but by truly listening and showing interest; once trust grows, the same words are read with far more care.",
+        "questionAnswer": {
+          "question": "Why should I wait instead of sharing a beautiful piece of content right away?",
+          "answer": "Because a word that arrives before trust often hits a wall, but once a bond is formed, the same word reaches an open heart."
+        },
+        "referenceNote": "See Quranic verses on gentle speech, beautiful conduct, and approaching people with compassion.",
+        "shareText": "People trust the person first, then the message. Build the trust that reaches the heart, and the words will follow on their own."
+      },
+      "fr": {
+        "title": "D'abord la confiance, ensuite le message",
+        "shortDescription": "Les gens font confiance à la personne avant de faire confiance au message qu'elle porte. Un mot envoyé en ligne avant qu'un lien ne soit créé, c'est entrer sans frapper.",
+        "mainPrinciple": "Aussi vrai soit-il, un mot transmis avant que la confiance n'ait grandi atteint rarement le cœur.",
+        "summaryPoints": [
+          "Crée d'abord le lien humain ; nourris la confiance par une attitude constante et un intérêt sincère.",
+          "Partage avec naturel, pour qu'on sente une vraie personne derrière l'écran.",
+          "Ne te précipite pas ; vois l'autre comme quelqu'un que tu estimes, non comme une 'cible'."
+        ],
+        "dailyReflection": "Avant d'envoyer aujourd'hui une publication religieuse, demande-toi si tu as déjà créé un vrai lien avec cette personne ; sinon, commence simplement par prendre de ses nouvelles.",
+        "dawahTip": "Commence non pas en submergeant quelqu'un de messages, mais en l'écoutant vraiment et en t'intéressant à lui ; quand la confiance grandit, les mêmes mots sont lus avec bien plus d'attention.",
+        "questionAnswer": {
+          "question": "Pourquoi attendre au lieu de partager tout de suite un beau contenu ?",
+          "answer": "Parce qu'un mot qui arrive avant la confiance se heurte souvent à un mur, mais une fois le lien créé, le même mot atteint un cœur ouvert."
+        },
+        "referenceNote": "Voir les versets coraniques sur la parole douce, le beau comportement et l'approche des gens avec compassion.",
+        "shareText": "Les gens font d'abord confiance à la personne, puis au message. Construis d'abord la confiance qui atteint le cœur, et les mots suivront d'eux-mêmes."
+      },
+      "pt-BR": {
+        "title": "Primeiro a confiança, depois a mensagem",
+        "shortDescription": "As pessoas confiam na pessoa antes de confiar na mensagem que ela carrega. Uma palavra enviada online antes de se criar qualquer vínculo é como entrar sem bater à porta.",
+        "mainPrinciple": "Por mais verdadeira que seja, uma palavra transmitida antes de a confiança crescer raramente chega ao coração.",
+        "summaryPoints": [
+          "Crie primeiro o vínculo humano; alimente a confiança com uma postura coerente e interesse sincero.",
+          "Compartilhe com naturalidade, para que se sinta que há uma pessoa real por trás da tela.",
+          "Não tenha pressa; veja o outro como alguém que você valoriza, não como um 'alvo'."
+        ],
+        "dailyReflection": "Antes de enviar hoje uma publicação religiosa, pergunte a si mesmo se já criou um vínculo real com essa pessoa; se não, comece simplesmente perguntando como ela está.",
+        "dawahTip": "Comece não inundando alguém de mensagens, mas ouvindo de verdade e demonstrando interesse; quando a confiança cresce, as mesmas palavras são lidas com muito mais cuidado.",
+        "questionAnswer": {
+          "question": "Por que devo esperar em vez de compartilhar logo um conteúdo bonito?",
+          "answer": "Porque uma palavra que chega antes da confiança costuma bater numa parede, mas, depois que o vínculo é criado, a mesma palavra alcança um coração aberto."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a palavra branda, o bom comportamento e aproximar-se das pessoas com compaixão.",
+        "shareText": "As pessoas confiam primeiro na pessoa, depois na mensagem. Construa primeiro a confiança que chega ao coração, e as palavras virão por si mesmas."
+      },
+      "de": {
+        "title": "Erst Vertrauen, dann die Botschaft",
+        "shortDescription": "Menschen vertrauen erst der Person und dann der Botschaft, die sie trägt. Ein online gesendetes Wort, bevor eine Verbindung entstanden ist, gleicht dem Eintreten, ohne anzuklopfen.",
+        "mainPrinciple": "So wahr es auch sein mag: Ein Wort, das übermittelt wird, bevor Vertrauen gewachsen ist, erreicht selten das Herz.",
+        "summaryPoints": [
+          "Baue zuerst die menschliche Verbindung; nähre Vertrauen durch eine beständige Haltung und aufrichtiges Interesse.",
+          "Teile auf natürliche Weise, damit man spürt, dass ein echter Mensch hinter dem Bildschirm steht.",
+          "Überstürze nichts; sieh den anderen als jemanden, den du schätzt, nicht als ein 'Ziel'."
+        ],
+        "dailyReflection": "Bevor du heute einen religiösen Beitrag sendest, frage dich, ob du je eine echte Verbindung zu dieser Person aufgebaut hast; wenn nicht, frage zuerst einfach, wie es ihr geht.",
+        "dawahTip": "Beginne nicht damit, jemanden mit Nachrichten zu überschütten, sondern damit, wirklich zuzuhören und Interesse zu zeigen; wächst das Vertrauen, werden dieselben Worte mit weit mehr Sorgfalt gelesen.",
+        "questionAnswer": {
+          "question": "Warum sollte ich warten, statt einen schönen Inhalt sofort zu teilen?",
+          "answer": "Weil ein Wort, das vor dem Vertrauen ankommt, oft gegen eine Wand stößt; ist die Verbindung aber da, erreicht dasselbe Wort ein offenes Herz."
+        },
+        "referenceNote": "Siehe die Verse des Korans über das sanfte Wort, das schöne Verhalten und den mitfühlenden Umgang mit den Menschen.",
+        "shareText": "Menschen vertrauen erst der Person, dann der Botschaft. Baue zuerst das Vertrauen, das bis zum Herzen reicht, und die Worte folgen von selbst."
+      },
+      "es": {
+        "title": "Primero la confianza, luego el mensaje",
+        "shortDescription": "Las personas confían en la persona antes de confiar en el mensaje que esa persona lleva. Una palabra enviada en línea antes de crear algún vínculo es como entrar sin tocar la puerta.",
+        "mainPrinciple": "Por más verdadera que sea, una palabra transmitida antes de que crezca la confianza rara vez llega al corazón.",
+        "summaryPoints": [
+          "Crea primero el vínculo humano; alimenta la confianza con una actitud constante y un interés sincero.",
+          "Comparte con naturalidad, para que se sienta que hay una persona real detrás de la pantalla.",
+          "No te apresures; mira al otro como alguien a quien valoras, no como un 'objetivo'."
+        ],
+        "dailyReflection": "Antes de enviar hoy una publicación religiosa, pregúntate si alguna vez has creado un vínculo real con esa persona; si no, comienza simplemente preguntando cómo está.",
+        "dawahTip": "Comienza no inundando a alguien de mensajes, sino escuchando de verdad y mostrando interés; cuando la confianza crece, las mismas palabras se leen con mucho más cuidado.",
+        "questionAnswer": {
+          "question": "¿Por qué debo esperar en vez de compartir de inmediato un contenido hermoso?",
+          "answer": "Porque una palabra que llega antes de la confianza suele chocar contra un muro, pero, una vez creado el vínculo, la misma palabra alcanza un corazón abierto."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la palabra suave, el buen comportamiento y acercarse a las personas con compasión.",
+        "shareText": "Las personas confían primero en la persona, luego en el mensaje. Construye primero la confianza que llega al corazón, y las palabras vendrán por sí solas."
+      }
+    }
+  },
+  {
+    "id": "social-media-seffaf-niyet",
+    "category": "social-media",
+    "icon": "eye-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "şeffaflık",
+      "niyet",
+      "dürüstlük",
+      "transparency",
+      "samimiyet"
+    ],
+    "content": {
+      "tr": {
+        "title": "Şeffaf Niyet: Gizli Gündem Yok",
+        "shortDescription": "Davetçi niyetini gizlemez. Şeffaflık bir zaaf değil, güveni güçlendiren bir dürüstlüktür; baskı ise hiçbir zaman onun parçası olamaz.",
+        "mainPrinciple": "Niyetin baştan açık, üslubun ise baskısız ve tedrici olsun.",
+        "summaryPoints": [
+          "İlk temastan itibaren inancını paylaşan biri olduğun açıkça bilinsin.",
+          "Şeffaf ol ama asla baskı, beklenti ya da yönlendirme ekleme.",
+          "Kabul de ret de tamamen muhataba aittir; karar onun elindedir."
+        ],
+        "dailyReflection": "Bugün biriyle inancına dair konuşurken kendine sor: Niyetim onun için açık mı, yoksa bir köşesini mi sakladım?",
+        "dawahTip": "Profilinde ve ilk sohbetlerinde kim olduğunu doğal biçimde belli et; gizli bir gündem hissi, fark edildiği an güveni kökünden sarsar.",
+        "questionAnswer": {
+          "question": "Önce arkadaş olup amacımı sonra açıklasam daha mı etkili olur?",
+          "answer": "Hayır; gizlenen niyet fark edildiğinde güveni yıkar. Baştan açık olmak ve baskısız kalmak hem daha dürüst hem daha kalıcıdır."
+        },
+        "referenceNote": "Bkz. Kur'an'da dürüstlük, sözde açıklık ve dinde zorlamanın olmadığına dair ayetler.",
+        "shareText": "Niyetin baştan açık, üslubun baskısız olsun. Şeffaflık bir zaaf değil, güveni büyüten bir dürüstlüktür."
+      },
+      "en": {
+        "title": "Transparent Intentions: No Hidden Agenda",
+        "shortDescription": "One who invites does not hide their intention. Transparency is not a weakness but an honesty that strengthens trust, and pressure is never part of it.",
+        "mainPrinciple": "Let your intention be clear from the start, while your manner stays gentle and gradual.",
+        "summaryPoints": [
+          "From the first contact, let it be plain that you are someone who shares their faith.",
+          "Be transparent, but never add pressure, expectation, or steering.",
+          "Acceptance and refusal both belong entirely to the other person; the choice is theirs."
+        ],
+        "dailyReflection": "Today, when you speak with someone about your faith, ask yourself: Is my intention clear to them, or have I tucked a part of it away?",
+        "dawahTip": "Let who you are show naturally in your profile and first conversations; a sense of hidden agenda, once noticed, shakes trust at its root.",
+        "questionAnswer": {
+          "question": "Wouldn't it be more effective to become friends first and reveal my aim later?",
+          "answer": "No; a hidden intention destroys trust once it is noticed. Being open from the start and staying gentle is both more honest and more lasting."
+        },
+        "referenceNote": "See Quranic verses on honesty, plainness in speech, and that there is no compulsion in religion.",
+        "shareText": "Let your intention be clear from the start and your manner free of pressure. Transparency is not a weakness but an honesty that grows trust."
+      },
+      "fr": {
+        "title": "Une intention transparente : aucun agenda caché",
+        "shortDescription": "Celui qui invite ne cache pas son intention. La transparence n'est pas une faiblesse mais une honnêteté qui renforce la confiance, et la pression n'en fait jamais partie.",
+        "mainPrinciple": "Que ton intention soit claire dès le départ, tandis que ta manière reste douce et progressive.",
+        "summaryPoints": [
+          "Dès le premier contact, qu'il soit clair que tu es quelqu'un qui partage sa foi.",
+          "Sois transparent, mais n'ajoute jamais de pression, d'attente ni d'influence dissimulée.",
+          "L'acceptation comme le refus appartiennent entièrement à l'autre ; le choix lui revient."
+        ],
+        "dailyReflection": "Aujourd'hui, en parlant de ta foi avec quelqu'un, demande-toi : mon intention lui est-elle claire, ou en ai-je dissimulé une part ?",
+        "dawahTip": "Laisse paraître naturellement qui tu es dans ton profil et tes premières conversations ; un sentiment d'agenda caché, une fois perçu, ébranle la confiance à la racine.",
+        "questionAnswer": {
+          "question": "Ne serait-il pas plus efficace de devenir ami d'abord et de révéler mon but ensuite ?",
+          "answer": "Non ; une intention cachée détruit la confiance dès qu'elle est perçue. Être ouvert dès le départ tout en restant doux est plus honnête et plus durable."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'honnêteté, la clarté dans la parole et l'absence de contrainte en religion.",
+        "shareText": "Que ton intention soit claire dès le départ et ta manière sans pression. La transparence n'est pas une faiblesse mais une honnêteté qui fait grandir la confiance."
+      },
+      "pt-BR": {
+        "title": "Intenção transparente: nenhuma agenda oculta",
+        "shortDescription": "Quem convida não esconde a sua intenção. A transparência não é uma fraqueza, mas uma honestidade que fortalece a confiança, e a pressão nunca faz parte dela.",
+        "mainPrinciple": "Que a sua intenção seja clara desde o início, enquanto a sua maneira permanece suave e gradual.",
+        "summaryPoints": [
+          "Desde o primeiro contato, deixe claro que você é alguém que compartilha a sua fé.",
+          "Seja transparente, mas nunca acrescente pressão, expectativa ou manipulação.",
+          "A aceitação e a recusa pertencem inteiramente ao outro; a escolha é dele."
+        ],
+        "dailyReflection": "Hoje, ao falar com alguém sobre a sua fé, pergunte a si mesmo: a minha intenção está clara para essa pessoa, ou escondi uma parte dela?",
+        "dawahTip": "Deixe transparecer com naturalidade quem você é no seu perfil e nas primeiras conversas; a sensação de uma agenda oculta, assim que percebida, abala a confiança pela raiz.",
+        "questionAnswer": {
+          "question": "Não seria mais eficaz me tornar amigo primeiro e revelar o meu objetivo depois?",
+          "answer": "Não; uma intenção escondida destrói a confiança assim que é percebida. Ser aberto desde o início e permanecer suave é mais honesto e mais duradouro."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre honestidade, clareza na palavra e a ausência de imposição na religião.",
+        "shareText": "Que a sua intenção seja clara desde o início e a sua maneira, sem pressão. A transparência não é fraqueza, mas uma honestidade que faz crescer a confiança."
+      },
+      "de": {
+        "title": "Transparente Absicht: keine versteckte Agenda",
+        "shortDescription": "Wer einlädt, verbirgt seine Absicht nicht. Transparenz ist keine Schwäche, sondern eine Ehrlichkeit, die Vertrauen stärkt, und Druck gehört niemals dazu.",
+        "mainPrinciple": "Lass deine Absicht von Anfang an klar sein, während deine Art sanft und schrittweise bleibt.",
+        "summaryPoints": [
+          "Vom ersten Kontakt an sei deutlich, dass du jemand bist, der seinen Glauben teilt.",
+          "Sei transparent, aber füge niemals Druck, Erwartung oder Beeinflussung hinzu.",
+          "Annahme und Ablehnung gehören ganz dem anderen; die Entscheidung liegt bei ihm."
+        ],
+        "dailyReflection": "Frage dich heute, wenn du mit jemandem über deinen Glauben sprichst: Ist meine Absicht für ihn klar, oder habe ich einen Teil davon verborgen?",
+        "dawahTip": "Lass in deinem Profil und in den ersten Gesprächen natürlich erkennen, wer du bist; das Gefühl einer versteckten Agenda erschüttert das Vertrauen an der Wurzel, sobald es bemerkt wird.",
+        "questionAnswer": {
+          "question": "Wäre es nicht wirkungsvoller, zuerst Freund zu werden und mein Ziel später zu offenbaren?",
+          "answer": "Nein; eine verborgene Absicht zerstört das Vertrauen, sobald sie bemerkt wird. Von Anfang an offen zu sein und dabei sanft zu bleiben ist ehrlicher und beständiger."
+        },
+        "referenceNote": "Siehe die Verse des Korans über Ehrlichkeit, Klarheit im Wort und dass es keinen Zwang in der Religion gibt.",
+        "shareText": "Lass deine Absicht von Anfang an klar und deine Art frei von Druck sein. Transparenz ist keine Schwäche, sondern eine Ehrlichkeit, die Vertrauen wachsen lässt."
+      },
+      "es": {
+        "title": "Intención transparente: ninguna agenda oculta",
+        "shortDescription": "Quien invita no esconde su intención. La transparencia no es una debilidad, sino una honestidad que fortalece la confianza, y la presión nunca forma parte de ella.",
+        "mainPrinciple": "Que tu intención sea clara desde el principio, mientras tu manera permanece suave y gradual.",
+        "summaryPoints": [
+          "Desde el primer contacto, que quede claro que eres alguien que comparte su fe.",
+          "Sé transparente, pero nunca añadas presión, expectativa ni manipulación.",
+          "La aceptación y el rechazo pertenecen por completo al otro; la decisión es suya."
+        ],
+        "dailyReflection": "Hoy, al hablar con alguien sobre tu fe, pregúntate: ¿está clara mi intención para esa persona, o escondí una parte de ella?",
+        "dawahTip": "Deja que se note con naturalidad quién eres en tu perfil y en las primeras conversaciones; la sensación de una agenda oculta, en cuanto se percibe, sacude la confianza de raíz.",
+        "questionAnswer": {
+          "question": "¿No sería más eficaz hacerme amigo primero y revelar mi objetivo después?",
+          "answer": "No; una intención escondida destruye la confianza en cuanto se percibe. Ser abierto desde el principio y permanecer suave es más honesto y más duradero."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la honestidad, la claridad en la palabra y que no hay coacción en la religión.",
+        "shareText": "Que tu intención sea clara desde el principio y tu manera, libre de presión. La transparencia no es una debilidad, sino una honestidad que hace crecer la confianza."
+      }
+    }
+  },
+  {
+    "id": "social-media-yeni-kardesi-yalniz-birakmamak",
+    "category": "social-media",
+    "icon": "walk-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "kardeşlik",
+      "takip",
+      "yeni Müslüman",
+      "merhamet",
+      "süreklilik"
+    ],
+    "content": {
+      "tr": {
+        "title": "Davet Bitiş Değil, Başlangıçtır",
+        "shortDescription": "Biri İslam'ı seçtiğinde iş bitmez, asıl orada başlar. Yeni kardeş yalnız bırakılmaz; ilk günler kırılgandır ve sıcak bir eşlik ister.",
+        "mainPrinciple": "Bir kalp İslam'ı seçtiğinde önündeki yol kapanmaz, kardeşliğin yolu yeni açılır.",
+        "summaryPoints": [
+          "Yeni kardeşi bir anda çok şeyle yüklemeden, adım adım ve sabırla eşlik et.",
+          "Suçlama yerine kolaylaştır; zorluk değil, yaşanabilir bir dindarlık göster.",
+          "Ona sayı değil, sana emanet edilen bir kardeş gözüyle bak."
+        ],
+        "dailyReflection": "Bugün yolun başındaki bir kardeşe küçük bir hâl hatır mesajı gönder; 'nasılsın, bir ihtiyacın var mı?' demek bile bir köprüdür.",
+        "dawahTip": "Birinin kararını 'kapanan bir dosya' gibi görme; ilk haftalarda sıcak ilgini sürdür, sorularına yargısızca alan aç ve onun hızına saygı göster.",
+        "questionAnswer": {
+          "question": "Yeni Müslüman olan birine her şeyi hemen anlatmalı mıyım?",
+          "answer": "Hayır; bir anda çok şey yüklemek yorar. Önce kardeşlik ve güven kur, bilgiyi onun taşıyabileceği bir ritimde, adım adım paylaş."
+        },
+        "referenceNote": "Bkz. Kur'an'da kardeşlik, kolaylaştırma ve müminlerin birbirine yumuşaklığına dair ayetler.",
+        "shareText": "Birinin İslam'ı seçmesi yolun sonu değil, kardeşliğin başlangıcıdır. Yeni kardeşi yalnız bırakma; adım adım, sabırla eşlik et."
+      },
+      "en": {
+        "title": "The Invitation Is a Beginning, Not an End",
+        "shortDescription": "When someone chooses Islam, the work is not finished; it truly begins there. A new brother or sister is not left alone, for the first days are fragile and call for warm company.",
+        "mainPrinciple": "When a heart chooses Islam, the road ahead does not close; the path of brotherhood has only just opened.",
+        "summaryPoints": [
+          "Walk beside the new brother or sister step by step and with patience, without burdening them with everything at once.",
+          "Make things easy instead of blaming; show a faith that can be lived, not a heavy weight.",
+          "See them not as a number, but as a brother or sister entrusted to your care."
+        ],
+        "dailyReflection": "Today, send a small message to someone who is at the start of the path; even asking 'How are you, do you need anything?' is a bridge.",
+        "dawahTip": "Do not treat someone's decision as a 'closed file'; keep your warm attention through the first weeks, make room for their questions without judgment, and respect their own pace.",
+        "questionAnswer": {
+          "question": "Should I explain everything at once to someone who has just become Muslim?",
+          "answer": "No; loading too much at once wears a person out. First build brotherhood and trust, then share knowledge step by step, at a pace they can carry."
+        },
+        "referenceNote": "See Quranic verses on brotherhood, making things easy, and the gentleness of the believers toward one another.",
+        "shareText": "Someone choosing Islam is not the end of the road but the beginning of brotherhood. Do not leave a new brother or sister alone; walk beside them, step by step, with patience."
+      },
+      "fr": {
+        "title": "L'invitation est un commencement, non une fin",
+        "shortDescription": "Quand quelqu'un choisit l'islam, le travail n'est pas terminé ; c'est là qu'il commence vraiment. On ne laisse pas seul un nouveau frère ou une nouvelle sœur, car les premiers jours sont fragiles et appellent une présence chaleureuse.",
+        "mainPrinciple": "Quand un cœur choisit l'islam, la route ne se ferme pas ; le chemin de la fraternité vient seulement de s'ouvrir.",
+        "summaryPoints": [
+          "Accompagne le nouveau frère ou la nouvelle sœur pas à pas et avec patience, sans le charger de tout d'un coup.",
+          "Facilite plutôt que d'accuser ; montre une foi que l'on peut vivre, non un poids accablant.",
+          "Vois en cette personne non un nombre, mais un frère ou une sœur confié à ta garde."
+        ],
+        "dailyReflection": "Aujourd'hui, envoie un petit message à quelqu'un qui est au début du chemin ; même demander 'Comment vas-tu, as-tu besoin de quelque chose ?' est un pont.",
+        "dawahTip": "Ne traite pas la décision de quelqu'un comme un 'dossier clos' ; maintiens ton attention chaleureuse durant les premières semaines, ouvre un espace à ses questions sans jugement et respecte son propre rythme.",
+        "questionAnswer": {
+          "question": "Dois-je tout expliquer d'un coup à quelqu'un qui vient de devenir musulman ?",
+          "answer": "Non ; tout dire d'un coup épuise. Construis d'abord la fraternité et la confiance, puis partage le savoir pas à pas, à un rythme qu'il peut porter."
+        },
+        "referenceNote": "Voir les versets coraniques sur la fraternité, la facilitation et la douceur des croyants les uns envers les autres.",
+        "shareText": "Quand quelqu'un choisit l'islam, ce n'est pas la fin de la route mais le début de la fraternité. Ne laisse pas seul un nouveau frère ou une nouvelle sœur ; accompagne-le, pas à pas, avec patience."
+      },
+      "pt-BR": {
+        "title": "O convite é um começo, não um fim",
+        "shortDescription": "Quando alguém escolhe o Islã, o trabalho não termina; é ali que ele de fato começa. Um novo irmão ou irmã não é deixado sozinho, pois os primeiros dias são frágeis e pedem uma companhia acolhedora.",
+        "mainPrinciple": "Quando um coração escolhe o Islã, o caminho à frente não se fecha; a estrada da irmandade acaba de se abrir.",
+        "summaryPoints": [
+          "Caminhe ao lado do novo irmão ou irmã passo a passo e com paciência, sem sobrecarregá-lo com tudo de uma vez.",
+          "Facilite em vez de culpar; mostre uma fé que se pode viver, não um fardo pesado.",
+          "Veja a pessoa não como um número, mas como um irmão ou irmã confiado aos seus cuidados."
+        ],
+        "dailyReflection": "Hoje, envie uma pequena mensagem a alguém que está no início do caminho; até perguntar 'Como você está, precisa de algo?' já é uma ponte.",
+        "dawahTip": "Não trate a decisão de alguém como um 'caso encerrado'; mantenha sua atenção acolhedora durante as primeiras semanas, abra espaço para as perguntas da pessoa sem julgamento e respeite o ritmo dela.",
+        "questionAnswer": {
+          "question": "Devo explicar tudo de uma vez a alguém que acabou de se tornar muçulmano?",
+          "answer": "Não; dizer tudo de uma vez cansa a pessoa. Primeiro construa irmandade e confiança, depois compartilhe o conhecimento passo a passo, num ritmo que ela consiga sustentar."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a irmandade, a facilitação e a brandura dos crentes uns com os outros.",
+        "shareText": "Alguém escolher o Islã não é o fim do caminho, mas o começo da irmandade. Não deixe um novo irmão ou irmã sozinho; caminhe ao seu lado, passo a passo, com paciência."
+      },
+      "de": {
+        "title": "Die Einladung ist ein Anfang, kein Ende",
+        "shortDescription": "Wenn jemand den Islam wählt, ist die Arbeit nicht zu Ende; dort beginnt sie erst wirklich. Ein neuer Bruder oder eine neue Schwester wird nicht allein gelassen, denn die ersten Tage sind zerbrechlich und verlangen nach warmer Begleitung.",
+        "mainPrinciple": "Wenn ein Herz den Islam wählt, schließt sich der Weg nicht; der Pfad der Geschwisterlichkeit hat sich gerade erst geöffnet.",
+        "summaryPoints": [
+          "Geh dem neuen Bruder oder der neuen Schwester Schritt für Schritt und geduldig zur Seite, ohne ihn mit allem auf einmal zu beladen.",
+          "Mach es leicht, statt zu beschuldigen; zeige einen Glauben, den man leben kann, keine erdrückende Last.",
+          "Sieh den Menschen nicht als eine Zahl, sondern als einen Bruder oder eine Schwester, die deiner Obhut anvertraut ist."
+        ],
+        "dailyReflection": "Schreibe heute jemandem, der am Anfang des Weges steht, eine kleine Nachricht; schon ein 'Wie geht es dir, brauchst du etwas?' ist eine Brücke.",
+        "dawahTip": "Behandle die Entscheidung eines Menschen nicht wie eine 'geschlossene Akte'; bewahre deine warme Aufmerksamkeit über die ersten Wochen, gib seinen Fragen ohne Urteil Raum und achte sein eigenes Tempo.",
+        "questionAnswer": {
+          "question": "Soll ich jemandem, der gerade Muslim geworden ist, alles auf einmal erklären?",
+          "answer": "Nein; alles auf einmal zu sagen ermüdet. Baue zuerst Geschwisterlichkeit und Vertrauen auf und teile das Wissen dann Schritt für Schritt, in einem Tempo, das er tragen kann."
+        },
+        "referenceNote": "Siehe die Verse des Korans über die Geschwisterlichkeit, das Erleichtern und die Sanftmut der Gläubigen zueinander.",
+        "shareText": "Wenn jemand den Islam wählt, ist das nicht das Ende des Weges, sondern der Anfang der Geschwisterlichkeit. Lass einen neuen Bruder oder eine neue Schwester nicht allein; geh an seiner Seite, Schritt für Schritt, mit Geduld."
+      },
+      "es": {
+        "title": "La invitación es un comienzo, no un final",
+        "shortDescription": "Cuando alguien elige el islam, el trabajo no termina; es ahí donde de verdad comienza. A un nuevo hermano o hermana no se le deja solo, pues los primeros días son frágiles y piden una compañía cálida.",
+        "mainPrinciple": "Cuando un corazón elige el islam, el camino por delante no se cierra; la senda de la hermandad acaba de abrirse.",
+        "summaryPoints": [
+          "Camina junto al nuevo hermano o hermana paso a paso y con paciencia, sin abrumarlo con todo a la vez.",
+          "Facilita en lugar de culpar; muestra una fe que se puede vivir, no una carga pesada.",
+          "Mira a la persona no como un número, sino como un hermano o hermana confiado a tu cuidado."
+        ],
+        "dailyReflection": "Hoy, envía un breve mensaje a alguien que está al inicio del camino; hasta preguntar '¿cómo estás, necesitas algo?' ya es un puente.",
+        "dawahTip": "No trates la decisión de alguien como un 'caso cerrado'; mantén tu atención cálida durante las primeras semanas, abre espacio a sus preguntas sin juzgar y respeta su propio ritmo.",
+        "questionAnswer": {
+          "question": "¿Debo explicarle todo de una vez a alguien que acaba de hacerse musulmán?",
+          "answer": "No; decirlo todo de golpe cansa a la persona. Construye primero hermandad y confianza, y luego comparte el conocimiento paso a paso, a un ritmo que pueda sostener."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la hermandad, la facilitación y la suavidad de los creyentes entre sí.",
+        "shareText": "Que alguien elija el islam no es el final del camino, sino el comienzo de la hermandad. No dejes solo a un nuevo hermano o hermana; camina a su lado, paso a paso, con paciencia."
+      }
+    }
+  },
+  {
+    "id": "social-media-muhatabin-guvenligini-gozetmek",
+    "category": "social-media",
+    "icon": "shield-checkmark-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "güvenlik",
+      "mahremiyet",
+      "safety",
+      "merhamet",
+      "sorumluluk"
+    ],
+    "content": {
+      "tr": {
+        "title": "Muhatabın Güvenliğini Gözetmek",
+        "shortDescription": "Online davette muhatabın güvenliği ve mahremiyeti, her görünür 'başarı'nın önünde gelir. Bir insanı korumak, onu kazanmaktan önce gelir.",
+        "mainPrinciple": "Bir kalbe uzanırken o kalbin sahibini riske atmak değil, onu korumak davetçinin önceliğidir.",
+        "summaryPoints": [
+          "İnancına dair düşünen biri, ailesi ve çevresi karşısında ağır bir sosyal ya da duygusal risk altında olabilir.",
+          "Mahremiyetine sahip çık; özel sözlerini, ekran görüntülerini ve kararını izinsiz kimseyle paylaşma.",
+          "Bir tehlike ya da ifşa riski sezdiğinde sözünü ve adımını dikkatle ölç; kişinin güvenliği her şeyin önündedir."
+        ],
+        "dailyReflection": "Bugün biriyle inancına dair konuşurken kendine sor: Onun bana açıldığı bir şeyi başkasına aktarmak ona zarar verebilir mi? Şüphe varsa, sözünü kendine sakla.",
+        "dawahTip": "Birini kararını alelacele herkese duyurmaya teşvik etme; 'bunu kiminle, ne zaman paylaşacağın sana kalmış' diyerek ona güvenli bir alan ve mahremiyetini koruma hakkı bırak.",
+        "questionAnswer": {
+          "question": "Biri ilgi gösteriyorsa, onu hemen herkese açılması için cesaretlendirmem iyi olmaz mı?",
+          "answer": "Hayır; bu adım onu ailesi ve çevresi karşısında ciddi bir zorlukta, hatta tehlikede bırakabilir. Kararını kime ve ne zaman açacağı tamamen ona aittir; senin işin onu korumak ve mahremiyetini gözetmektir."
+        },
+        "referenceNote": "Bkz. Kur'an'da bir cana sahip çıkmaya, mahremiyete saygıya ve insanlara merhametle yaklaşmaya dair ayetler.",
+        "shareText": "Online davette bir insanı korumak, onu kazanmaktan önce gelir. Muhatabın güvenliği ve mahremiyeti, görünür her başarının önündedir."
+      },
+      "en": {
+        "title": "Safeguarding the Other Person's Wellbeing",
+        "shortDescription": "In online outreach, the other person's safety and privacy come before any visible 'success'. Protecting a person matters more than winning them over.",
+        "mainPrinciple": "As you reach toward a heart, your priority is not to put its owner at risk, but to keep them safe.",
+        "summaryPoints": [
+          "Someone reflecting on faith may face serious social or emotional risk before their family and surroundings.",
+          "Guard their privacy; never share their private words, screenshots, or decision with anyone without permission.",
+          "When you sense danger or the risk of exposure, weigh your words and steps with care; a person's safety comes before everything."
+        ],
+        "dailyReflection": "Today, while speaking with someone about faith, ask yourself: Could passing on what they confided to me bring them harm? If there is any doubt, keep their words to yourself.",
+        "dawahTip": "Do not push someone to announce their decision to everyone in haste; tell them, 'It is up to you with whom and when you share this,' leaving them a safe space and the right to protect their privacy.",
+        "questionAnswer": {
+          "question": "If someone shows interest, isn't it good to encourage them to come out to everyone right away?",
+          "answer": "No; that step can leave them in serious difficulty, even danger, before their family and surroundings. To whom and when they reveal their decision is entirely theirs; your task is to protect them and guard their privacy."
+        },
+        "referenceNote": "See Quranic verses on preserving a life, respecting privacy, and approaching people with mercy.",
+        "shareText": "In online outreach, protecting a person comes before winning them over. The other person's safety and privacy come before any visible success."
+      },
+      "fr": {
+        "title": "Veiller à la sécurité de l'autre",
+        "shortDescription": "Dans l'invitation en ligne, la sécurité et l'intimité de l'autre passent avant toute 'réussite' visible. Protéger une personne compte plus que de la gagner à sa cause.",
+        "mainPrinciple": "En tendant la main vers un cœur, ta priorité n'est pas de mettre en danger celui à qui il appartient, mais de le protéger.",
+        "summaryPoints": [
+          "Quelqu'un qui réfléchit à la foi peut courir un grave risque social ou émotionnel face à sa famille et à son entourage.",
+          "Veille sur son intimité ; ne partage jamais ses paroles privées, ses captures d'écran ni sa décision avec quiconque sans sa permission.",
+          "Lorsque tu perçois un danger ou un risque d'exposition, pèse tes mots et tes pas avec soin ; la sécurité d'une personne passe avant tout."
+        ],
+        "dailyReflection": "Aujourd'hui, en parlant de foi avec quelqu'un, demande-toi : transmettre ce qu'il m'a confié pourrait-il lui nuire ? Au moindre doute, garde ses paroles pour toi.",
+        "dawahTip": "Ne pousse pas quelqu'un à annoncer sa décision à tous dans la précipitation ; dis-lui : 'C'est à toi de décider avec qui et quand tu partages cela', en lui laissant un espace sûr et le droit de préserver son intimité.",
+        "questionAnswer": {
+          "question": "Si quelqu'un montre de l'intérêt, n'est-il pas bon de l'encourager à l'annoncer tout de suite à tout le monde ?",
+          "answer": "Non ; ce pas peut le mettre en grande difficulté, voire en danger, face à sa famille et à son entourage. À qui et quand il révèle sa décision lui appartient entièrement ; ton rôle est de le protéger et de veiller sur son intimité."
+        },
+        "referenceNote": "Voir les versets coraniques sur la préservation d'une vie, le respect de l'intimité et l'approche des gens avec miséricorde.",
+        "shareText": "Dans l'invitation en ligne, protéger une personne passe avant de la gagner à sa cause. La sécurité et l'intimité de l'autre priment sur toute réussite visible."
+      },
+      "pt-BR": {
+        "title": "Zelar pela segurança do outro",
+        "shortDescription": "No convite online, a segurança e a privacidade do outro vêm antes de qualquer 'sucesso' visível. Proteger uma pessoa importa mais do que conquistá-la.",
+        "mainPrinciple": "Ao estender a mão a um coração, a sua prioridade não é pôr em risco quem o possui, mas mantê-lo seguro.",
+        "summaryPoints": [
+          "Alguém que reflete sobre a fé pode enfrentar um sério risco social ou emocional diante da família e do meio em que vive.",
+          "Zele pela privacidade da pessoa; nunca compartilhe suas palavras particulares, capturas de tela ou decisão com ninguém sem permissão.",
+          "Quando perceber perigo ou risco de exposição, pese suas palavras e seus passos com cuidado; a segurança de uma pessoa vem acima de tudo."
+        ],
+        "dailyReflection": "Hoje, ao conversar com alguém sobre a fé, pergunte a si mesmo: repassar o que essa pessoa me confiou poderia prejudicá-la? Na menor dúvida, guarde as palavras dela para si.",
+        "dawahTip": "Não empurre alguém a anunciar sua decisão a todos às pressas; diga: 'Cabe a você decidir com quem e quando compartilhar isso', deixando-lhe um espaço seguro e o direito de preservar a própria privacidade.",
+        "questionAnswer": {
+          "question": "Se alguém demonstra interesse, não é bom incentivá-lo a se assumir logo para todos?",
+          "answer": "Não; esse passo pode deixá-lo em séria dificuldade, ou até em perigo, diante da família e do meio em que vive. A quem e quando revela sua decisão pertence inteiramente a ele; o seu papel é protegê-lo e zelar pela privacidade dele."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre preservar uma vida, respeitar a privacidade e aproximar-se das pessoas com misericórdia.",
+        "shareText": "No convite online, proteger uma pessoa vem antes de conquistá-la. A segurança e a privacidade do outro estão acima de qualquer sucesso visível."
+      },
+      "de": {
+        "title": "Auf die Sicherheit des anderen achten",
+        "shortDescription": "Bei der Einladung im Netz stehen die Sicherheit und die Privatsphäre des anderen vor jedem sichtbaren 'Erfolg'. Einen Menschen zu schützen wiegt mehr, als ihn zu gewinnen.",
+        "mainPrinciple": "Während du nach einem Herzen greifst, ist es deine Priorität, dessen Inhaber nicht zu gefährden, sondern zu schützen.",
+        "summaryPoints": [
+          "Wer über den Glauben nachdenkt, kann gegenüber Familie und Umfeld einem ernsten sozialen oder emotionalen Risiko ausgesetzt sein.",
+          "Wahre seine Privatsphäre; teile seine privaten Worte, Screenshots oder seine Entscheidung niemals ohne Erlaubnis mit jemandem.",
+          "Wenn du Gefahr oder das Risiko einer Bloßstellung spürst, wäge deine Worte und Schritte sorgfältig ab; die Sicherheit eines Menschen geht allem voran."
+        ],
+        "dailyReflection": "Frage dich heute, wenn du mit jemandem über den Glauben sprichst: Könnte es ihm schaden, wenn ich weitergebe, was er mir anvertraut hat? Behalte im Zweifel seine Worte für dich.",
+        "dawahTip": "Dränge niemanden, seine Entscheidung übereilt allen zu verkünden; sag ihm: 'Es liegt bei dir, mit wem und wann du das teilst', und lass ihm einen sicheren Raum und das Recht, seine Privatsphäre zu wahren.",
+        "questionAnswer": {
+          "question": "Wenn jemand Interesse zeigt, ist es nicht gut, ihn zu ermutigen, sich sofort allen zu offenbaren?",
+          "answer": "Nein; dieser Schritt kann ihn gegenüber Familie und Umfeld in ernste Schwierigkeiten, ja sogar in Gefahr bringen. Wem und wann er seine Entscheidung offenbart, gehört ganz ihm; deine Aufgabe ist es, ihn zu schützen und seine Privatsphäre zu wahren."
+        },
+        "referenceNote": "Siehe die Verse des Korans über den Schutz eines Lebens, die Achtung der Privatsphäre und den barmherzigen Umgang mit den Menschen.",
+        "shareText": "Bei der Einladung im Netz steht der Schutz eines Menschen vor seinem Gewinn. Die Sicherheit und die Privatsphäre des anderen stehen über jedem sichtbaren Erfolg."
+      },
+      "es": {
+        "title": "Velar por la seguridad del otro",
+        "shortDescription": "En la invitación en línea, la seguridad y la privacidad del otro están por encima de cualquier 'éxito' visible. Proteger a una persona importa más que conquistarla.",
+        "mainPrinciple": "Al tender la mano hacia un corazón, tu prioridad no es poner en riesgo a su dueño, sino mantenerlo a salvo.",
+        "summaryPoints": [
+          "Quien reflexiona sobre la fe puede enfrentar un grave riesgo social o emocional ante su familia y su entorno.",
+          "Cuida su privacidad; nunca compartas sus palabras privadas, sus capturas de pantalla ni su decisión con nadie sin permiso.",
+          "Cuando percibas peligro o riesgo de exposición, pesa tus palabras y tus pasos con cuidado; la seguridad de una persona está por encima de todo."
+        ],
+        "dailyReflection": "Hoy, al conversar con alguien sobre la fe, pregúntate: ¿transmitir lo que esa persona me confió podría perjudicarla? Ante la menor duda, guarda sus palabras para ti.",
+        "dawahTip": "No empujes a nadie a anunciar su decisión a todos con prisa; dile: 'A ti te corresponde decidir con quién y cuándo compartir esto', dejándole un espacio seguro y el derecho a preservar su propia privacidad.",
+        "questionAnswer": {
+          "question": "Si alguien muestra interés, ¿no es bueno animarlo a manifestarse de inmediato ante todos?",
+          "answer": "No; ese paso puede dejarlo en una seria dificultad, incluso en peligro, ante su familia y su entorno. A quién y cuándo revela su decisión le pertenece por completo; tu tarea es protegerlo y velar por su privacidad."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre preservar una vida, respetar la privacidad y acercarse a las personas con misericordia.",
+        "shareText": "En la invitación en línea, proteger a una persona está antes que conquistarla. La seguridad y la privacidad del otro están por encima de cualquier éxito visible."
+      }
+    }
+  },
+  {
+    "id": "social-media-sayi-degil-niyet",
+    "category": "social-media",
+    "icon": "heart-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "niyet",
+      "ihlas",
+      "riya",
+      "beğeni",
+      "samimiyet"
+    ],
+    "content": {
+      "tr": {
+        "title": "Sayı Değil Niyet: Beğeni Tuzağı",
+        "shortDescription": "Sosyal medyada beğeni, takipçi ve izlenme sayıları sessizce bir amaca dönüşüp niyeti yavaşça gösterişe çevirebilir. Oysa davette ölçü sayı değil, ihlastır.",
+        "mainPrinciple": "Davetin değeri kaç kişiye ulaştığınla değil, ne kadar samimiyetle ulaştığınla ölçülür.",
+        "summaryPoints": [
+          "Sayıları bir amaç değil, neyin faydalı olduğunu gösteren bir geri bildirim olarak gör.",
+          "Beğeni arzusu içe sızdığında niyet sessizce gösterişe kayabilir; ara sıra kalbini yokla.",
+          "Az kişiye ulaşan ihlaslı bir söz, çoğa ulaşan gösterişli bir sözden hayırlıdır."
+        ],
+        "dailyReflection": "Bugün bir gönderi paylaşmadan önce kendine sor: Bunu beğenilmek için mi, yoksa gerçekten faydalı olmak için mi paylaşıyorum?",
+        "dawahTip": "Bir gönderinin az ilgi görmesi seni üzdüğünde dur ve niyetini hatırla; sayıları paylaşımının faydasını ölçmek için kullan, kendi değerini ölçmek için değil.",
+        "questionAnswer": {
+          "question": "Paylaşımlarımın çok beğeni almasını istemem yanlış mı?",
+          "answer": "İstemek değil, asıl amacın bu olması tehlikelidir. Sayılara faydayı görmek için bakabilirsin; yeter ki niyetin Allah rızası olsun, alkış değil."
+        },
+        "referenceNote": "Bkz. Kur'an'da ihlasa, niyetin önemine ve amellerin gösterişten arındırılmasına dair ayetler.",
+        "shareText": "Davette ölçü sayı değil, samimiyettir. Kalbini ara sıra yokla: beğenilmek için mi paylaşıyorsun, yoksa faydalı olmak için mi?"
+      },
+      "en": {
+        "title": "Intention Over Numbers: The Trap of Likes",
+        "shortDescription": "On social media, likes, followers, and view counts can quietly become a goal and slowly turn intention into display. Yet in inviting, the measure is not numbers but sincerity.",
+        "mainPrinciple": "The worth of your call is measured not by how many you reach, but by how sincerely you reach them.",
+        "summaryPoints": [
+          "See numbers not as a goal, but as feedback that shows you what is genuinely helpful.",
+          "When the craving for likes seeps in, intention can quietly slide toward display; check your heart now and then.",
+          "A sincere word that reaches a few is better than a showy one that reaches many."
+        ],
+        "dailyReflection": "Before sharing a post today, ask yourself: Am I posting this to be liked, or to be genuinely helpful?",
+        "dawahTip": "When a post gets little attention and it stings, pause and recall your intention; use numbers to measure the benefit of what you share, not to measure your own worth.",
+        "questionAnswer": {
+          "question": "Is it wrong to want my posts to get many likes?",
+          "answer": "Wanting it is not the danger; making it your real aim is. You may look at the numbers to see what helps, as long as your intention stays God's pleasure, not applause."
+        },
+        "referenceNote": "See Quranic verses on sincerity, the importance of intention, and freeing deeds from any wish to be seen.",
+        "shareText": "In inviting, the measure is sincerity, not numbers. Check your heart now and then: are you posting to be liked, or to be helpful?"
+      },
+      "fr": {
+        "title": "L'intention plutôt que les chiffres : le piège des « j'aime »",
+        "shortDescription": "Sur les réseaux sociaux, les « j'aime », les abonnés et les vues peuvent discrètement devenir un but et changer peu à peu l'intention en ostentation. Or, en matière d'invitation, la mesure n'est pas le nombre mais la sincérité.",
+        "mainPrinciple": "La valeur de ton appel se mesure non au nombre de ceux que tu touches, mais à la sincérité avec laquelle tu les touches.",
+        "summaryPoints": [
+          "Vois les chiffres non comme un but, mais comme un retour qui te montre ce qui est réellement utile.",
+          "Quand le désir d'être aimé s'infiltre, l'intention peut glisser sans bruit vers l'ostentation ; sonde ton cœur de temps en temps.",
+          "Une parole sincère qui touche quelques-uns vaut mieux qu'une parole ostentatoire qui en touche beaucoup."
+        ],
+        "dailyReflection": "Avant de partager une publication aujourd'hui, demande-toi : est-ce que je publie cela pour être aimé, ou pour être vraiment utile ?",
+        "dawahTip": "Quand une publication reçoit peu d'attention et que cela te blesse, arrête-toi et rappelle-toi ton intention ; sers-toi des chiffres pour mesurer l'utilité de ce que tu partages, non pour mesurer ta propre valeur.",
+        "questionAnswer": {
+          "question": "Est-ce mal de vouloir que mes publications reçoivent beaucoup de « j'aime » ?",
+          "answer": "Le vouloir n'est pas le danger ; en faire ton vrai but l'est. Tu peux regarder les chiffres pour voir ce qui aide, tant que ton intention reste l'agrément de Dieu, non les applaudissements."
+        },
+        "referenceNote": "Voir les versets coraniques sur la sincérité, l'importance de l'intention et le fait de purifier les actes de tout désir d'être vu.",
+        "shareText": "En matière d'invitation, la mesure est la sincérité, non les chiffres. Sonde ton cœur de temps en temps : publies-tu pour être aimé, ou pour être utile ?"
+      },
+      "pt-BR": {
+        "title": "Intenção acima dos números: a armadilha das curtidas",
+        "shortDescription": "Nas redes sociais, curtidas, seguidores e visualizações podem se tornar silenciosamente um objetivo e aos poucos transformar a intenção em ostentação. No entanto, no convite, a medida não são os números, mas a sinceridade.",
+        "mainPrinciple": "O valor do seu chamado se mede não por quantos você alcança, mas pela sinceridade com que os alcança.",
+        "summaryPoints": [
+          "Veja os números não como um objetivo, mas como um retorno que mostra o que é realmente útil.",
+          "Quando o desejo de ser curtido se infiltra, a intenção pode escorregar em silêncio para a ostentação; examine o seu coração de vez em quando.",
+          "Uma palavra sincera que alcança poucos vale mais do que uma palavra ostentosa que alcança muitos."
+        ],
+        "dailyReflection": "Antes de compartilhar uma publicação hoje, pergunte a si mesmo: estou postando isto para ser curtido, ou para ser realmente útil?",
+        "dawahTip": "Quando uma publicação recebe pouca atenção e isso o magoa, pare e lembre-se da sua intenção; use os números para medir o benefício do que você compartilha, não para medir o seu próprio valor.",
+        "questionAnswer": {
+          "question": "É errado querer que as minhas publicações recebam muitas curtidas?",
+          "answer": "Querer não é o perigo; fazer disso o seu verdadeiro objetivo é. Você pode olhar os números para ver o que ajuda, desde que a sua intenção continue sendo a satisfação de Deus, não os aplausos."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a sinceridade, a importância da intenção e purificar as ações de qualquer desejo de ser visto.",
+        "shareText": "No convite, a medida é a sinceridade, não os números. Examine o seu coração de vez em quando: você posta para ser curtido ou para ser útil?"
+      },
+      "de": {
+        "title": "Absicht statt Zahlen: die Falle der Likes",
+        "shortDescription": "In sozialen Medien können Likes, Follower und Aufrufzahlen still zu einem Ziel werden und die Absicht allmählich in Zurschaustellung verwandeln. Doch beim Einladen ist das Maß nicht die Zahl, sondern die Aufrichtigkeit.",
+        "mainPrinciple": "Der Wert deines Rufes bemisst sich nicht daran, wie viele du erreichst, sondern wie aufrichtig du sie erreichst.",
+        "summaryPoints": [
+          "Sieh Zahlen nicht als Ziel, sondern als eine Rückmeldung, die dir zeigt, was wirklich nützlich ist.",
+          "Wenn das Verlangen nach Likes sich einschleicht, kann die Absicht leise zur Zurschaustellung gleiten; prüfe ab und zu dein Herz.",
+          "Ein aufrichtiges Wort, das wenige erreicht, ist besser als ein prahlerisches, das viele erreicht."
+        ],
+        "dailyReflection": "Bevor du heute einen Beitrag teilst, frage dich: Teile ich das, um gemocht zu werden, oder um wirklich nützlich zu sein?",
+        "dawahTip": "Wenn ein Beitrag wenig Beachtung findet und dich das schmerzt, halte inne und erinnere dich an deine Absicht; nutze Zahlen, um den Nutzen dessen zu messen, was du teilst, nicht um deinen eigenen Wert zu messen.",
+        "questionAnswer": {
+          "question": "Ist es falsch, sich viele Likes für seine Beiträge zu wünschen?",
+          "answer": "Der Wunsch ist nicht die Gefahr; ihn zu deinem eigentlichen Ziel zu machen, schon. Du darfst die Zahlen ansehen, um zu erkennen, was hilft, solange deine Absicht das Wohlgefallen Gottes bleibt und nicht der Applaus."
+        },
+        "referenceNote": "Siehe die Verse des Korans über die Aufrichtigkeit, die Bedeutung der Absicht und das Reinigen der Taten von jedem Wunsch, gesehen zu werden.",
+        "shareText": "Beim Einladen ist das Maß die Aufrichtigkeit, nicht die Zahl. Prüfe ab und zu dein Herz: Teilst du, um gemocht zu werden, oder um nützlich zu sein?"
+      },
+      "es": {
+        "title": "La intención por encima de los números: la trampa de los 'me gusta'",
+        "shortDescription": "En las redes sociales, los 'me gusta', los seguidores y las vistas pueden convertirse silenciosamente en un objetivo y transformar poco a poco la intención en ostentación. Sin embargo, en la invitación, la medida no son los números, sino la sinceridad.",
+        "mainPrinciple": "El valor de tu llamado no se mide por cuántos alcanzas, sino por la sinceridad con que los alcanzas.",
+        "summaryPoints": [
+          "Mira los números no como un objetivo, sino como una respuesta que te muestra lo que es realmente útil.",
+          "Cuando el deseo de gustar se infiltra, la intención puede deslizarse en silencio hacia la ostentación; examina tu corazón de vez en cuando.",
+          "Una palabra sincera que alcanza a pocos vale más que una palabra ostentosa que alcanza a muchos."
+        ],
+        "dailyReflection": "Antes de compartir una publicación hoy, pregúntate: ¿la publico para gustar o para ser realmente útil?",
+        "dawahTip": "Cuando una publicación recibe poca atención y eso te duele, detente y recuerda tu intención; usa los números para medir el beneficio de lo que compartes, no para medir tu propio valor.",
+        "questionAnswer": {
+          "question": "¿Está mal querer que mis publicaciones reciban muchos 'me gusta'?",
+          "answer": "Quererlo no es el peligro; hacer de ello tu verdadero objetivo, sí. Puedes mirar los números para ver qué ayuda, mientras tu intención siga siendo la complacencia de Dios y no los aplausos."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la sinceridad, la importancia de la intención y purificar las obras de todo deseo de ser visto.",
+        "shareText": "En la invitación, la medida es la sinceridad, no los números. Examina tu corazón de vez en cuando: ¿publicas para gustar o para ser útil?"
+      }
+    }
+  },
+  {
+    "id": "social-media-tukenmeden-hizmet",
+    "category": "social-media",
+    "icon": "leaf-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "sürdürülebilirlik",
+      "denge",
+      "tevekkül",
+      "self-care",
+      "dua"
+    ],
+    "content": {
+      "tr": {
+        "title": "Tükenmeden Hizmet: Davetçinin Dengesi",
+        "shortDescription": "Sürekli mesajlaşma, reddedilme ve duygusal yük bir davetçiyi yorabilir. Uzun soluklu ve bereketli bir hizmet, davetçinin kendini de korumasıyla mümkün olur.",
+        "mainPrinciple": "Sen üzerine düşeni yap; sonucu ve hidayeti Allah'a bırak, kendine merhamet de hizmetin bir parçasıdır.",
+        "summaryPoints": [
+          "Makul sınırlar koy ve dijital molalara izin ver; dinlenmek hizmetin bir parçasıdır.",
+          "'Herkese yetişmeliyim, her şeyi tek başıma yapmalıyım' baskısını bırak.",
+          "Sonucu dua ile Allah'a bırak; senin görevin tebliğ, hidayet O'nundur."
+        ],
+        "dailyReflection": "Bugün telefonu bir süreliğine kenara bırak ve kısa bir dijital mola ver; bu sırada davet ettiğin kalpler için içtenlikle dua et.",
+        "dawahTip": "Her bildirimi anında cevaplama baskısından kurtul; günün belli saatlerinde sakince yaz, gerisini ise gönül rahatlığıyla tevekküle bırak.",
+        "questionAnswer": {
+          "question": "Yorulduğumda ara vermek tebliğden kaçmak ya da zayıflık mıdır?",
+          "answer": "Hayır; yorgunlukta yenilenmek bir kusur değil, hizmeti sürdürülebilir kılan bir hikmettir. Dolu bir kalp, başkasına daha bereketli verir."
+        },
+        "referenceNote": "Bkz. Kur'an'da hidayetin Allah'a ait olduğuna, tevekküle ve davetçinin sorumluluğunun yalnızca tebliğ olduğuna dair ayetler.",
+        "shareText": "Sen üzerine düşeni yap, gerisini O'na bırak. Tükenmeden hizmet; kendine merhamet, başkasına merhametin de kaynağıdır."
+      },
+      "en": {
+        "title": "Serving Without Burning Out: The Caller's Balance",
+        "shortDescription": "Constant messaging, rejection, and emotional weight can wear a caller down. A lasting, blessed service becomes possible when the caller looks after themselves too.",
+        "mainPrinciple": "Do your part and leave the outcome and the guidance to God; mercy toward yourself is part of the service.",
+        "summaryPoints": [
+          "Set reasonable limits and allow yourself digital breaks; rest is part of the service.",
+          "Let go of the pressure to 'reach everyone and do everything alone'.",
+          "Leave the outcome to God in prayer; your task is to convey, guidance is His."
+        ],
+        "dailyReflection": "Today, set the phone aside for a while and take a short digital break; during it, sincerely pray for the hearts you are inviting.",
+        "dawahTip": "Free yourself from the pressure to answer every notification instantly; write calmly at set times of the day, and leave the rest to God with a peaceful heart.",
+        "questionAnswer": {
+          "question": "When I am tired, is taking a break a way of fleeing the work, or a weakness?",
+          "answer": "No; renewing yourself when weary is not a flaw but a wisdom that keeps the service sustainable. A full heart gives to others more abundantly."
+        },
+        "referenceNote": "See Quranic verses on guidance belonging to God, on trust in Him, and on the caller's responsibility being only to convey.",
+        "shareText": "Do your part, and leave the rest to Him. Serve without burning out; mercy toward yourself is the source of mercy toward others."
+      },
+      "fr": {
+        "title": "Servir sans s'épuiser : l'équilibre de celui qui invite",
+        "shortDescription": "Les messages constants, le rejet et la charge émotionnelle peuvent épuiser celui qui invite. Un service durable et béni devient possible quand celui qui invite prend aussi soin de lui-même.",
+        "mainPrinciple": "Fais ta part et confie le résultat et la guidance à Dieu ; la miséricorde envers toi-même fait partie du service.",
+        "summaryPoints": [
+          "Fixe des limites raisonnables et accorde-toi des pauses numériques ; le repos fait partie du service.",
+          "Lâche la pression d'« atteindre tout le monde et de tout faire seul ».",
+          "Confie le résultat à Dieu dans la prière ; ta tâche est de transmettre, la guidance est à Lui."
+        ],
+        "dailyReflection": "Aujourd'hui, pose le téléphone un moment et accorde-toi une courte pause numérique ; pendant ce temps, prie sincèrement pour les cœurs que tu invites.",
+        "dawahTip": "Libère-toi de la pression de répondre à chaque notification à l'instant ; écris calmement à des heures précises de la journée, et confie le reste à Dieu, le cœur en paix.",
+        "questionAnswer": {
+          "question": "Quand je suis fatigué, faire une pause est-ce fuir le travail ou une faiblesse ?",
+          "answer": "Non ; se renouveler dans la fatigue n'est pas un défaut mais une sagesse qui rend le service durable. Un cœur plein donne aux autres avec plus d'abondance."
+        },
+        "referenceNote": "Voir les versets coraniques sur la guidance qui appartient à Dieu, sur la confiance en Lui, et sur le fait que la responsabilité de celui qui invite est seulement de transmettre.",
+        "shareText": "Fais ta part, et laisse-Lui le reste. Sers sans t'épuiser ; la miséricorde envers toi-même est la source de la miséricorde envers les autres."
+      },
+      "pt-BR": {
+        "title": "Servir sem se esgotar: o equilíbrio de quem convida",
+        "shortDescription": "Mensagens constantes, rejeição e peso emocional podem esgotar quem convida. Um serviço duradouro e abençoado se torna possível quando quem convida também cuida de si mesmo.",
+        "mainPrinciple": "Faça a sua parte e entregue o resultado e a orientação a Deus; a misericórdia consigo mesmo faz parte do serviço.",
+        "summaryPoints": [
+          "Estabeleça limites razoáveis e permita-se pausas digitais; o descanso faz parte do serviço.",
+          "Solte a pressão de 'alcançar todo mundo e fazer tudo sozinho'.",
+          "Entregue o resultado a Deus na oração; a sua tarefa é transmitir, a orientação é d'Ele."
+        ],
+        "dailyReflection": "Hoje, deixe o celular de lado por um tempo e faça uma breve pausa digital; durante ela, ore com sinceridade pelos corações que você convida.",
+        "dawahTip": "Liberte-se da pressão de responder a cada notificação na hora; escreva com calma em horários definidos do dia e entregue o resto a Deus, com o coração tranquilo.",
+        "questionAnswer": {
+          "question": "Quando estou cansado, fazer uma pausa é fugir do trabalho ou uma fraqueza?",
+          "answer": "Não; renovar-se no cansaço não é um defeito, mas uma sabedoria que torna o serviço sustentável. Um coração pleno dá ao outro de forma mais abundante."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a orientação pertencer a Deus, sobre a confiança n'Ele e sobre a responsabilidade de quem convida ser apenas transmitir.",
+        "shareText": "Faça a sua parte e deixe o resto com Ele. Sirva sem se esgotar; a misericórdia consigo mesmo é a fonte da misericórdia com os outros."
+      },
+      "de": {
+        "title": "Dienen, ohne auszubrennen: die Balance des Einladenden",
+        "shortDescription": "Ständiges Schreiben, Ablehnung und emotionale Last können einen Einladenden erschöpfen. Ein langfristiger, gesegneter Dienst wird möglich, wenn der Einladende auch auf sich selbst achtet.",
+        "mainPrinciple": "Tu deinen Teil und überlass das Ergebnis und die Rechtleitung Gott; Barmherzigkeit dir selbst gegenüber gehört zum Dienst.",
+        "summaryPoints": [
+          "Setze vernünftige Grenzen und gönne dir digitale Pausen; Ruhe ist ein Teil des Dienstes.",
+          "Lass den Druck los, 'alle zu erreichen und alles allein zu tun'.",
+          "Überlass das Ergebnis Gott im Gebet; deine Aufgabe ist das Übermitteln, die Rechtleitung ist Sein."
+        ],
+        "dailyReflection": "Leg heute das Telefon eine Weile beiseite und gönne dir eine kurze digitale Pause; bete in dieser Zeit aufrichtig für die Herzen, die du einlädst.",
+        "dawahTip": "Befreie dich vom Druck, jede Benachrichtigung sofort zu beantworten; schreibe ruhig zu festen Zeiten des Tages und überlass den Rest mit ruhigem Herzen Gott.",
+        "questionAnswer": {
+          "question": "Ist eine Pause, wenn ich müde bin, eine Flucht vor der Arbeit oder eine Schwäche?",
+          "answer": "Nein; sich in der Müdigkeit zu erneuern ist kein Mangel, sondern eine Weisheit, die den Dienst tragfähig hält. Ein erfülltes Herz gibt anderen reichlicher."
+        },
+        "referenceNote": "Siehe die Verse des Korans darüber, dass die Rechtleitung Gott gehört, über das Vertrauen auf Ihn und darüber, dass die Verantwortung des Einladenden nur das Übermitteln ist.",
+        "shareText": "Tu deinen Teil und überlass Ihm den Rest. Diene, ohne auszubrennen; Barmherzigkeit dir selbst gegenüber ist die Quelle der Barmherzigkeit für andere."
+      },
+      "es": {
+        "title": "Servir sin agotarse: el equilibrio de quien invita",
+        "shortDescription": "Los mensajes constantes, el rechazo y la carga emocional pueden agotar a quien invita. Un servicio duradero y bendecido se vuelve posible cuando quien invita también cuida de sí mismo.",
+        "mainPrinciple": "Haz tu parte y deja el resultado y la guía en manos de Dios; la misericordia contigo mismo es parte del servicio.",
+        "summaryPoints": [
+          "Pon límites razonables y permítete pausas digitales; el descanso es parte del servicio.",
+          "Suelta la presión de 'alcanzar a todos y hacerlo todo solo'.",
+          "Deja el resultado a Dios en la oración; tu tarea es transmitir, la guía es suya."
+        ],
+        "dailyReflection": "Hoy, deja el teléfono a un lado por un rato y date una breve pausa digital; durante ella, ora con sinceridad por los corazones que invitas.",
+        "dawahTip": "Libérate de la presión de responder cada notificación al instante; escribe con calma en horarios fijos del día y deja el resto a Dios, con el corazón en paz.",
+        "questionAnswer": {
+          "question": "Cuando estoy cansado, ¿tomar una pausa es huir del trabajo o una debilidad?",
+          "answer": "No; renovarse en el cansancio no es un defecto, sino una sabiduría que hace que el servicio sea sostenible. Un corazón pleno da a los demás con más abundancia."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre que la guía pertenece a Dios, sobre la confianza en Él y sobre que la responsabilidad de quien invita es solo transmitir.",
+        "shareText": "Haz tu parte y déjale el resto a Él. Sirve sin agotarte; la misericordia contigo mismo es la fuente de la misericordia con los demás."
+      }
+    }
+  },
+  {
+    "id": "social-media-baskisiz-davet",
+    "category": "social-media",
+    "icon": "hand-left-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "baskısızlık",
+      "özgür irade",
+      "sabır",
+      "saygı",
+      "tevekkül"
+    ],
+    "content": {
+      "tr": {
+        "title": "Baskısız Davet: Kararı Kalbe Bırakmak",
+        "shortDescription": "Davette zorlama yoktur. Sözünü güzelce ulaştır, sonra kararı özgür vicdana bırak; aceleyle koparılmış bir 'evet' değil, kişinin kendi aklı ve kalbiyle ulaştığı kanaat esastır.",
+        "mainPrinciple": "Senin işin kapıyı nazikçe çalmaktır; açmak ise Allah'ın ve muhatabın elindedir.",
+        "summaryPoints": [
+          "Sözünü güzelce söyle, sonra karar için baskısız bir alan bırak.",
+          "Israr çoğu zaman kapıyı kapatır; sabır ise kalbi açık tutar.",
+          "Sonucu Allah'a bırak; senden istenen kandırmak değil, içtenlikle ulaştırmaktır."
+        ],
+        "dailyReflection": "Bugün birine inancından söz ederken cevap için onu sıkıştırma; 'düşünmen için zamanın var, ne zaman istersen konuşuruz' demeyi dene.",
+        "dawahTip": "Mesajının sonuna görünmez bir baskı koyma; 'karar tamamen sana ait, ben yalnızca paylaştım' diyerek özgür iradeye saygını açıkça göster.",
+        "questionAnswer": {
+          "question": "Karşımdaki neredeyse ikna olmuşken biraz ısrar etsem daha iyi olmaz mı?",
+          "answer": "Hayır; tam o anda gelen baskı çoğu kez geri çevirir. Alan tanı, dua et ve bekle; özgürce verilen karar en sağlam olandır."
+        },
+        "referenceNote": "Bkz. Kur'an'da dinde zorlama olmadığına ve sadece tebliğle yükümlü olunduğuna dair ayetler.",
+        "shareText": "Davette zorlama yoktur. Sen sözünü güzelce ulaştır, kararı özgür kalbe ve Allah'a bırak; baskı kapatır, sabır açar."
+      },
+      "en": {
+        "title": "Inviting Without Pressure: Leaving the Decision to the Heart",
+        "shortDescription": "There is no compulsion in inviting. Deliver your word beautifully, then leave the decision to a free conscience; what matters is not a hurried 'yes' but a conviction reached with one's own mind and heart.",
+        "mainPrinciple": "Your task is to knock gently at the door; the opening of it rests with God and with the other person.",
+        "summaryPoints": [
+          "Say your word well, then leave a pressure-free space for the decision.",
+          "Insistence often closes the door, while patience keeps the heart open.",
+          "Leave the outcome to God; you are asked to convey sincerely, not to win anyone over."
+        ],
+        "dailyReflection": "Today, when you speak of your faith to someone, do not press them for an answer; try saying, 'You have all the time you need, and we can talk whenever you wish.'",
+        "dawahTip": "Do not slip an invisible pressure into the end of your message; show your respect for free will plainly by saying, 'The decision is entirely yours; I have only shared.'",
+        "questionAnswer": {
+          "question": "When someone is almost convinced, wouldn't a little insistence help?",
+          "answer": "No; pressure at that very moment often pushes people away. Give space, make a prayer, and wait; a freely made decision is the most firmly rooted."
+        },
+        "referenceNote": "See Quranic verses on there being no compulsion in religion and on being charged only with conveying the message.",
+        "shareText": "There is no compulsion in inviting. Deliver your word beautifully and leave the decision to a free heart and to God; pressure closes, patience opens."
+      },
+      "fr": {
+        "title": "Inviter sans pression : laisser la décision au cœur",
+        "shortDescription": "Il n'y a pas de contrainte dans l'invitation. Transmets ta parole avec beauté, puis laisse la décision à une conscience libre ; ce qui compte n'est pas un 'oui' précipité, mais une conviction atteinte par son propre esprit et son propre cœur.",
+        "mainPrinciple": "Ton rôle est de frapper doucement à la porte ; l'ouvrir appartient à Dieu et à l'autre.",
+        "summaryPoints": [
+          "Dis bien ta parole, puis laisse un espace sans pression pour la décision.",
+          "L'insistance ferme souvent la porte, tandis que la patience garde le cœur ouvert.",
+          "Confie le résultat à Dieu ; il t'est demandé de transmettre avec sincérité, non de convaincre à tout prix."
+        ],
+        "dailyReflection": "Aujourd'hui, en parlant de ta foi à quelqu'un, ne le presse pas de répondre ; essaie de dire : 'Tu as tout le temps qu'il te faut, on en reparlera quand tu voudras.'",
+        "dawahTip": "Ne glisse pas une pression invisible à la fin de ton message ; montre clairement ton respect du libre arbitre en disant : 'La décision t'appartient entièrement ; je n'ai fait que partager.'",
+        "questionAnswer": {
+          "question": "Quand l'autre est presque convaincu, un peu d'insistance ne serait-elle pas utile ?",
+          "answer": "Non ; une pression à ce moment précis fait souvent reculer. Laisse de l'espace, fais une prière et attends ; une décision prise librement est la plus solidement enracinée."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'absence de contrainte en religion et sur le fait de n'être chargé que de transmettre le message.",
+        "shareText": "Il n'y a pas de contrainte dans l'invitation. Transmets ta parole avec beauté et laisse la décision à un cœur libre et à Dieu ; la pression ferme, la patience ouvre."
+      },
+      "pt-BR": {
+        "title": "Convidar sem pressão: deixar a decisão ao coração",
+        "shortDescription": "Não há imposição no convite. Transmita a sua palavra com beleza e depois deixe a decisão a uma consciência livre; o que importa não é um 'sim' apressado, mas uma convicção alcançada com a própria mente e o próprio coração.",
+        "mainPrinciple": "O seu papel é bater suavemente à porta; abri-la cabe a Deus e ao outro.",
+        "summaryPoints": [
+          "Diga bem a sua palavra e depois deixe um espaço sem pressão para a decisão.",
+          "A insistência muitas vezes fecha a porta, enquanto a paciência mantém o coração aberto.",
+          "Deixe o resultado com Deus; o que se pede de você é transmitir com sinceridade, não convencer a todo custo."
+        ],
+        "dailyReflection": "Hoje, ao falar da sua fé com alguém, não a pressione por uma resposta; tente dizer: 'Você tem todo o tempo de que precisa, e podemos conversar quando quiser.'",
+        "dawahTip": "Não coloque uma pressão invisível no fim da sua mensagem; mostre com clareza o seu respeito pelo livre-arbítrio dizendo: 'A decisão é inteiramente sua; eu apenas compartilhei.'",
+        "questionAnswer": {
+          "question": "Quando a pessoa está quase convencida, não ajudaria insistir um pouco?",
+          "answer": "Não; a pressão exatamente nesse momento muitas vezes afasta. Dê espaço, faça uma oração e espere; uma decisão tomada em liberdade é a mais firmemente enraizada."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre não haver imposição na religião e sobre ter-se apenas o encargo de transmitir a mensagem.",
+        "shareText": "Não há imposição no convite. Transmita a sua palavra com beleza e deixe a decisão a um coração livre e a Deus; a pressão fecha, a paciência abre."
+      },
+      "de": {
+        "title": "Einladen ohne Druck: die Entscheidung dem Herzen überlassen",
+        "shortDescription": "Im Einladen gibt es keinen Zwang. Überbringe dein Wort auf schöne Weise und überlass die Entscheidung dann einem freien Gewissen; es zählt nicht ein hastiges 'Ja', sondern eine Überzeugung, zu der man mit dem eigenen Verstand und Herzen gelangt.",
+        "mainPrinciple": "Deine Aufgabe ist es, sanft an die Tür zu klopfen; sie zu öffnen liegt bei Gott und beim anderen.",
+        "summaryPoints": [
+          "Sprich dein Wort gut aus und lass dann einen druckfreien Raum für die Entscheidung.",
+          "Beharren verschließt oft die Tür, während Geduld das Herz offen hält.",
+          "Überlass das Ergebnis Gott; von dir wird verlangt, aufrichtig zu übermitteln, nicht jemanden zu überreden."
+        ],
+        "dailyReflection": "Wenn du heute mit jemandem über deinen Glauben sprichst, dränge ihn nicht zu einer Antwort; versuche zu sagen: 'Du hast alle Zeit, die du brauchst, und wir reden, wann immer du möchtest.'",
+        "dawahTip": "Lege keinen unsichtbaren Druck an das Ende deiner Nachricht; zeige deine Achtung vor dem freien Willen deutlich, indem du sagst: 'Die Entscheidung liegt ganz bei dir; ich habe nur geteilt.'",
+        "questionAnswer": {
+          "question": "Wenn jemand fast überzeugt ist, würde ein wenig Beharren nicht helfen?",
+          "answer": "Nein; Druck genau in diesem Augenblick stößt oft ab. Gib Raum, sprich ein Bittgebet und warte; eine frei getroffene Entscheidung ist die am festesten verwurzelte."
+        },
+        "referenceNote": "Siehe die Verse des Korans darüber, dass es keinen Zwang in der Religion gibt und dass man nur mit der Übermittlung der Botschaft beauftragt ist.",
+        "shareText": "Im Einladen gibt es keinen Zwang. Überbringe dein Wort auf schöne Weise und überlass die Entscheidung einem freien Herzen und Gott; Druck verschließt, Geduld öffnet."
+      },
+      "es": {
+        "title": "Invitar sin presión: dejar la decisión al corazón",
+        "shortDescription": "No hay coacción en la invitación. Transmite tu palabra con belleza y luego deja la decisión a una conciencia libre; lo que importa no es un 'sí' apresurado, sino una convicción a la que se llega con la propia mente y el propio corazón.",
+        "mainPrinciple": "Tu papel es llamar suavemente a la puerta; abrirla corresponde a Dios y al otro.",
+        "summaryPoints": [
+          "Di bien tu palabra y luego deja un espacio sin presión para la decisión.",
+          "La insistencia a menudo cierra la puerta, mientras que la paciencia mantiene el corazón abierto.",
+          "Deja el resultado a Dios; lo que se te pide es transmitir con sinceridad, no convencer a toda costa."
+        ],
+        "dailyReflection": "Hoy, al hablar de tu fe con alguien, no lo presiones por una respuesta; prueba a decir: 'Tienes todo el tiempo que necesites, y podemos hablar cuando quieras.'",
+        "dawahTip": "No pongas una presión invisible al final de tu mensaje; muestra con claridad tu respeto por el libre albedrío diciendo: 'La decisión es enteramente tuya; yo solo he compartido.'",
+        "questionAnswer": {
+          "question": "Cuando la persona está casi convencida, ¿no ayudaría insistir un poco?",
+          "answer": "No; la presión justo en ese momento muchas veces aleja. Da espacio, haz una oración y espera; una decisión tomada en libertad es la más firmemente arraigada."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre que no hay coacción en la religión y que solo se tiene el encargo de transmitir el mensaje.",
+        "shareText": "No hay coacción en la invitación. Transmite tu palabra con belleza y deja la decisión a un corazón libre y a Dios; la presión cierra, la paciencia abre."
+      }
+    }
+  },
+  {
+    "id": "social-media-nitelikli-icerik",
+    "category": "social-media",
+    "icon": "ribbon-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "kalite",
+      "özen",
+      "estetik",
+      "quality",
+      "itina"
+    ],
+    "content": {
+      "tr": {
+        "title": "Nitelikli ve Özenli İçerik",
+        "shortDescription": "Dijital davette içeriğin özeni, taşıdığı mesajın güzelliğini destekler. Güzel bir mesaj, güzel ve özenli bir biçimi hak eder.",
+        "mainPrinciple": "İçeriğine gösterdiğin özen, aslında mesaja duyduğun saygının ve muhataba verdiğin değerin görünür hâlidir.",
+        "summaryPoints": [
+          "Metni, görseli ve videoyu acele etmeden, anlaşılır ve özenli bir biçimde hazırla.",
+          "Çok ama özensiz yerine, az ama nitelikli olanı seç.",
+          "Özen gösteriş için değil; mesaja saygı ve muhataba kolaylık için olsun."
+        ],
+        "dailyReflection": "Bugün bir içerik paylaşmadan önce sakince bir kez daha bak: yazımı temiz mi, görseli net mi, okuyan kişi rahatça anlayabilir mi?",
+        "dawahTip": "Hızlıca on özensiz gönderi yerine, üzerinde emek verdiğin tek bir nitelikli gönderi paylaş; özenli bir biçim, mesajın kendisine duyulan güveni sessizce büyütür.",
+        "questionAnswer": {
+          "question": "Niyetim güzelken içeriğin biçimi gerçekten bu kadar önemli mi?",
+          "answer": "Önemlidir; çünkü özensiz bir biçim, en güzel mesajı bile gölgeleyip okuyanı yorabilir. İtinayla hazırlanan bir içerik, mesajın güzelliğini olduğu gibi yansıtır."
+        },
+        "referenceNote": "Bkz. Kur'an'da işi güzel yapmaya (ihsan) ve sözün en güzelini söylemeye dair ayetler.",
+        "shareText": "Güzel bir mesaj, güzel bir biçimi hak eder. Özenli içerik gösteriş değil, mesaja saygı ve muhataba verilen değerdir."
+      },
+      "en": {
+        "title": "Content Made With Quality and Care",
+        "shortDescription": "In digital outreach, the care put into content supports the beauty of the message it carries. A beautiful message deserves a beautiful, carefully made form.",
+        "mainPrinciple": "The care you put into your content is, in truth, the visible form of your respect for the message and the value you place on the other person.",
+        "summaryPoints": [
+          "Prepare your text, image, and video without rushing, in a clear and careful way.",
+          "Choose few but excellent over many but careless.",
+          "Let care be not for show, but for respect toward the message and ease for the other person."
+        ],
+        "dailyReflection": "Before sharing a piece of content today, calmly look once more: Is the writing clean, the image clear, and can the reader understand it with ease?",
+        "dawahTip": "Instead of quickly posting ten careless pieces, share a single one you have truly worked on; a careful form quietly grows the trust placed in the message itself.",
+        "questionAnswer": {
+          "question": "When my intention is good, does the form of the content really matter this much?",
+          "answer": "It does matter; because a careless form can overshadow even the finest message and tire the reader. Content prepared with care reflects the beauty of the message just as it is."
+        },
+        "referenceNote": "See Quranic verses on doing things with excellence (ihsan) and on speaking in the best manner.",
+        "shareText": "A beautiful message deserves a beautiful form. Careful content is not for show, but respect for the message and value for the one who receives it."
+      },
+      "fr": {
+        "title": "Un contenu de qualité et soigné",
+        "shortDescription": "Dans l'invitation numérique, le soin apporté au contenu soutient la beauté du message qu'il porte. Un beau message mérite une forme belle et soignée.",
+        "mainPrinciple": "Le soin que tu apportes à ton contenu est, en vérité, la forme visible de ton respect pour le message et de la valeur que tu accordes à l'autre.",
+        "summaryPoints": [
+          "Prépare ton texte, ton image et ta vidéo sans te presser, de façon claire et soignée.",
+          "Choisis le peu mais excellent plutôt que le beaucoup mais négligé.",
+          "Que le soin ne soit pas pour paraître, mais par respect du message et pour faciliter la tâche à l'autre."
+        ],
+        "dailyReflection": "Aujourd'hui, avant de partager un contenu, regarde calmement une fois de plus : l'écriture est-elle propre, l'image nette, et le lecteur peut-il comprendre aisément ?",
+        "dawahTip": "Plutôt que de publier vite dix contenus négligés, partage-en un seul que tu as vraiment travaillé ; une forme soignée fait grandir discrètement la confiance accordée au message lui-même.",
+        "questionAnswer": {
+          "question": "Quand mon intention est bonne, la forme du contenu compte-t-elle vraiment autant ?",
+          "answer": "Elle compte ; car une forme négligée peut éclipser le plus beau des messages et lasser le lecteur. Un contenu préparé avec soin reflète la beauté du message telle qu'elle est."
+        },
+        "referenceNote": "Voir les versets coraniques sur le fait d'accomplir les choses avec excellence (ihsan) et de parler de la meilleure manière.",
+        "shareText": "Un beau message mérite une belle forme. Un contenu soigné n'est pas pour paraître, mais du respect pour le message et de l'estime pour celui qui le reçoit."
+      },
+      "pt-BR": {
+        "title": "Conteúdo de qualidade e feito com cuidado",
+        "shortDescription": "No convite digital, o cuidado dedicado ao conteúdo sustenta a beleza da mensagem que ele carrega. Uma bela mensagem merece uma forma bela e bem cuidada.",
+        "mainPrinciple": "O cuidado que você dedica ao seu conteúdo é, na verdade, a forma visível do seu respeito pela mensagem e do valor que você dá ao outro.",
+        "summaryPoints": [
+          "Prepare o seu texto, a sua imagem e o seu vídeo sem pressa, de forma clara e cuidadosa.",
+          "Escolha o pouco, porém excelente, em vez do muito, porém descuidado.",
+          "Que o cuidado não seja para aparecer, mas por respeito à mensagem e para facilitar a vida do outro."
+        ],
+        "dailyReflection": "Hoje, antes de compartilhar um conteúdo, olhe com calma mais uma vez: a escrita está limpa, a imagem está nítida e quem lê consegue entender com facilidade?",
+        "dawahTip": "Em vez de postar depressa dez conteúdos descuidados, compartilhe um único no qual você realmente se empenhou; uma forma cuidadosa faz crescer em silêncio a confiança depositada na própria mensagem.",
+        "questionAnswer": {
+          "question": "Quando a minha intenção é boa, a forma do conteúdo importa mesmo tanto assim?",
+          "answer": "Importa, sim; porque uma forma descuidada pode ofuscar até a mais bela mensagem e cansar quem lê. Um conteúdo preparado com cuidado reflete a beleza da mensagem tal como ela é."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre fazer as coisas com excelência (ihsan) e sobre falar da melhor maneira.",
+        "shareText": "Uma bela mensagem merece uma bela forma. Um conteúdo cuidadoso não é para aparecer, mas respeito pela mensagem e apreço por quem a recebe."
+      },
+      "de": {
+        "title": "Inhalte mit Qualität und Sorgfalt",
+        "shortDescription": "Bei der Einladung im Netz stützt die Sorgfalt, die in einen Inhalt fließt, die Schönheit der Botschaft, die er trägt. Eine schöne Botschaft verdient eine schöne, sorgfältig gestaltete Form.",
+        "mainPrinciple": "Die Sorgfalt, die du in deinen Inhalt legst, ist in Wahrheit die sichtbare Form deiner Achtung vor der Botschaft und des Wertes, den du dem anderen beimisst.",
+        "summaryPoints": [
+          "Bereite deinen Text, dein Bild und dein Video ohne Eile vor, klar und sorgfältig.",
+          "Wähle wenig, aber hochwertig, statt viel, aber nachlässig.",
+          "Sorgfalt sei nicht zur Schau, sondern aus Achtung vor der Botschaft und um es dem anderen leichter zu machen."
+        ],
+        "dailyReflection": "Sieh dir heute, bevor du einen Inhalt teilst, in Ruhe noch einmal an: Ist der Text sauber, das Bild klar, und kann der Leser es mühelos verstehen?",
+        "dawahTip": "Statt rasch zehn nachlässige Beiträge zu posten, teile einen einzigen, an dem du wirklich gearbeitet hast; eine sorgfältige Form lässt das Vertrauen in die Botschaft selbst leise wachsen.",
+        "questionAnswer": {
+          "question": "Wenn meine Absicht gut ist, kommt es auf die Form des Inhalts wirklich so sehr an?",
+          "answer": "Ja, es kommt darauf an; denn eine nachlässige Form kann selbst die schönste Botschaft überschatten und den Leser ermüden. Ein mit Sorgfalt vorbereiteter Inhalt spiegelt die Schönheit der Botschaft so wider, wie sie ist."
+        },
+        "referenceNote": "Siehe die Verse des Korans über das Tun mit Vortrefflichkeit (Ihsan) und über das Reden auf die beste Weise.",
+        "shareText": "Eine schöne Botschaft verdient eine schöne Form. Ein sorgfältiger Inhalt ist nicht zur Schau, sondern Achtung vor der Botschaft und Wertschätzung für den, der sie empfängt."
+      },
+      "es": {
+        "title": "Contenido de calidad y hecho con cuidado",
+        "shortDescription": "En la invitación digital, el cuidado puesto en el contenido sostiene la belleza del mensaje que lleva. Un hermoso mensaje merece una forma hermosa y bien cuidada.",
+        "mainPrinciple": "El cuidado que pones en tu contenido es, en verdad, la forma visible de tu respeto por el mensaje y del valor que das al otro.",
+        "summaryPoints": [
+          "Prepara tu texto, tu imagen y tu video sin prisa, de forma clara y cuidadosa.",
+          "Elige lo poco pero excelente en lugar de lo mucho pero descuidado.",
+          "Que el cuidado no sea para aparentar, sino por respeto al mensaje y para facilitarle las cosas al otro."
+        ],
+        "dailyReflection": "Hoy, antes de compartir un contenido, mira con calma una vez más: ¿la escritura está limpia, la imagen está nítida y quien lo lee puede entenderlo con facilidad?",
+        "dawahTip": "En lugar de publicar deprisa diez contenidos descuidados, comparte uno solo en el que de verdad te hayas esforzado; una forma cuidada hace crecer en silencio la confianza depositada en el mensaje mismo.",
+        "questionAnswer": {
+          "question": "Cuando mi intención es buena, ¿de verdad importa tanto la forma del contenido?",
+          "answer": "Sí importa; porque una forma descuidada puede opacar incluso el mensaje más hermoso y cansar a quien lo lee. Un contenido preparado con cuidado refleja la belleza del mensaje tal como es."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre hacer las cosas con excelencia (ihsan) y sobre hablar de la mejor manera.",
+        "shareText": "Un hermoso mensaje merece una hermosa forma. Un contenido cuidado no es para aparentar, sino respeto por el mensaje y aprecio por quien lo recibe."
+      }
+    }
+  },
+  {
+    "id": "social-media-medya-okuryazarligi",
+    "category": "social-media",
+    "icon": "bulb-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "medya okuryazarlığı",
+      "dürüstlük",
+      "manipülasyon",
+      "farkındalık",
+      "hakikat"
+    ],
+    "content": {
+      "tr": {
+        "title": "Medya Okuryazarlığı: Dürüst ve Uyanık",
+        "shortDescription": "Sosyal medyada hem gördüğüne karşı uyanık olmak hem de paylaşırken dürüst kalmak gerekir. Hakikati taşıyanın, dikkat çekmek için hileye ihtiyacı yoktur.",
+        "mainPrinciple": "Dürüst sunum uzun vadede en güçlü tesirdir; doğru sözün süse ihtiyacı yoktur.",
+        "summaryPoints": [
+          "Paylaşırken abartı, korku ya da bağlamdan koparma gibi duyguyu kışkırtan tekniklere başvurma.",
+          "Görürken uyanık ol; bir içerik seni bilgilendirmek için mi, yoksa öfkelendirmek için mi tasarlanmış, fark et.",
+          "Kendi görüşüne uyan bilgiye bile temkinli yaklaş; hoşuna gitti diye doğru sanma."
+        ],
+        "dailyReflection": "Bugün bir başlık ya da kısa video seni bir anda öfkelendirdiğinde dur ve sor: Bu beni bilgilendirmek için mi, yoksa tepki vermem için mi kurgulanmış?",
+        "dawahTip": "Bir gönderiyi daha çarpıcı kılmak için sözü abartma ya da bağlamından koparma; insanlar bir gün hileyi fark eder ve o an yalnız o paylaşıma değil, sana da olan güven sarsılır.",
+        "questionAnswer": {
+          "question": "Daha çok kişiye ulaşmak için biraz dikkat çekici, abartılı bir başlık kullanmamda sakınca var mı?",
+          "answer": "Vardır; abartı kısa vadede ilgi çekse de fark edildiğinde hem mesajını hem seni güvenilmez kılar. Sade ve dürüst sunum daha az parlar ama çok daha derin iz bırakır."
+        },
+        "referenceNote": "Bkz. Kur'an'da doğru sözlü olmaya, hakkı bâtılla karıştırmamaya ve hile ile aldatmamaya dair ayetler.",
+        "shareText": "Hakikati anlatanın hileye ihtiyacı yoktur. Sosyal medyada hem gördüğüne uyanık ol hem de paylaşırken dürüst kal."
+      },
+      "en": {
+        "title": "Media Literacy: Honest and Alert",
+        "shortDescription": "On social media you must be both alert to what you see and honest in what you share. One who carries the truth has no need of tricks to draw attention.",
+        "mainPrinciple": "Honest presentation is the strongest influence over time; a true word needs no ornament.",
+        "summaryPoints": [
+          "When sharing, do not reach for techniques that inflame emotion: exaggeration, fear, or stripping things of context.",
+          "When watching, stay alert; notice whether a piece of content was made to inform you or to anger you.",
+          "Be cautious even with information that fits your own view; do not assume it is true just because you like it."
+        ],
+        "dailyReflection": "Today, when a headline or short video instantly angers you, pause and ask: Was this made to inform me, or to make me react?",
+        "dawahTip": "Do not exaggerate your words or strip them of context to make a post more striking; people eventually notice the trick, and in that moment trust is shaken not only in that post but in you.",
+        "questionAnswer": {
+          "question": "Is there any harm in using a slightly catchy, exaggerated headline to reach more people?",
+          "answer": "Yes; exaggeration may draw interest in the short term, but once noticed it makes both your message and you untrustworthy. A plain, honest presentation shines less but leaves a far deeper mark."
+        },
+        "referenceNote": "See Quranic verses on truthful speech, not mixing truth with falsehood, and not deceiving through trickery.",
+        "shareText": "One who tells the truth has no need of tricks. On social media, be alert to what you see and honest in what you share."
+      },
+      "fr": {
+        "title": "Éducation aux médias : honnête et vigilant",
+        "shortDescription": "Sur les réseaux sociaux, il faut être à la fois vigilant face à ce qu'on voit et honnête dans ce qu'on partage. Celui qui porte la vérité n'a pas besoin de ruses pour attirer l'attention.",
+        "mainPrinciple": "Une présentation honnête est l'influence la plus forte sur la durée ; une parole vraie n'a pas besoin d'ornement.",
+        "summaryPoints": [
+          "En partageant, ne recours pas aux techniques qui attisent l'émotion : l'exagération, la peur ou le fait de couper du contexte.",
+          "En regardant, reste vigilant ; remarque si un contenu a été fait pour t'informer ou pour te mettre en colère.",
+          "Sois prudent même avec une information qui conforte ton point de vue ; ne la crois pas vraie simplement parce qu'elle te plaît."
+        ],
+        "dailyReflection": "Aujourd'hui, quand un titre ou une courte vidéo te met aussitôt en colère, arrête-toi et demande-toi : est-ce fait pour m'informer, ou pour me faire réagir ?",
+        "dawahTip": "N'exagère pas tes mots et ne les coupe pas de leur contexte pour rendre une publication plus frappante ; les gens finissent par remarquer la ruse, et à cet instant la confiance est ébranlée non seulement envers cette publication, mais envers toi.",
+        "questionAnswer": {
+          "question": "Y a-t-il du mal à utiliser un titre un peu accrocheur et exagéré pour toucher plus de gens ?",
+          "answer": "Oui ; l'exagération peut susciter de l'intérêt à court terme, mais une fois perçue, elle rend ton message et toi-même peu fiables. Une présentation simple et honnête brille moins, mais laisse une marque bien plus profonde."
+        },
+        "referenceNote": "Voir les versets coraniques sur la parole véridique, le fait de ne pas mêler le vrai au faux et de ne pas tromper par la ruse.",
+        "shareText": "Celui qui dit la vérité n'a pas besoin de ruses. Sur les réseaux sociaux, sois vigilant face à ce que tu vois et honnête dans ce que tu partages."
+      },
+      "pt-BR": {
+        "title": "Letramento midiático: honesto e atento",
+        "shortDescription": "Nas redes sociais é preciso ser ao mesmo tempo atento ao que se vê e honesto no que se compartilha. Quem carrega a verdade não precisa de truques para chamar a atenção.",
+        "mainPrinciple": "Uma apresentação honesta é a influência mais forte a longo prazo; uma palavra verdadeira não precisa de enfeite.",
+        "summaryPoints": [
+          "Ao compartilhar, não recorra às técnicas que inflamam a emoção: o exagero, o medo ou a retirada do contexto.",
+          "Ao assistir, fique atento; perceba se um conteúdo foi feito para informá-lo ou para irritá-lo.",
+          "Seja cauteloso até com a informação que combina com a sua própria opinião; não a tenha como verdadeira só porque agrada a você."
+        ],
+        "dailyReflection": "Hoje, quando uma manchete ou um vídeo curto o irritar de imediato, pare e pergunte: isto foi feito para me informar ou para me fazer reagir?",
+        "dawahTip": "Não exagere as palavras nem as tire do contexto para deixar uma publicação mais chamativa; as pessoas acabam percebendo o truque, e nesse momento a confiança se abala não só naquela publicação, mas em você.",
+        "questionAnswer": {
+          "question": "Há algum mal em usar um título um pouco chamativo e exagerado para alcançar mais gente?",
+          "answer": "Há; o exagero pode despertar interesse no curto prazo, mas, uma vez percebido, torna a sua mensagem e você mesmo pouco confiáveis. Uma apresentação simples e honesta brilha menos, mas deixa uma marca muito mais profunda."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a palavra verdadeira, não misturar a verdade com a falsidade e não enganar por meio de ardis.",
+        "shareText": "Quem diz a verdade não precisa de truques. Nas redes sociais, esteja atento ao que vê e honesto no que compartilha."
+      },
+      "de": {
+        "title": "Medienkompetenz: ehrlich und wachsam",
+        "shortDescription": "In den sozialen Medien gilt es, sowohl wachsam gegenüber dem zu sein, was man sieht, als auch ehrlich in dem, was man teilt. Wer die Wahrheit trägt, braucht keine Tricks, um Aufmerksamkeit zu erregen.",
+        "mainPrinciple": "Eine ehrliche Darstellung ist auf Dauer die stärkste Wirkung; ein wahres Wort braucht keinen Schmuck.",
+        "summaryPoints": [
+          "Greife beim Teilen nicht zu Techniken, die Gefühle anstacheln: Übertreibung, Angst oder das Herauslösen aus dem Zusammenhang.",
+          "Bleibe beim Betrachten wachsam; erkenne, ob ein Inhalt gemacht wurde, um dich zu informieren, oder um dich wütend zu machen.",
+          "Sei selbst bei Informationen vorsichtig, die zu deiner eigenen Sicht passen; halte sie nicht für wahr, nur weil sie dir gefällt."
+        ],
+        "dailyReflection": "Halte heute inne, wenn dich eine Schlagzeile oder ein kurzes Video sofort wütend macht, und frage: Wurde das gemacht, um mich zu informieren, oder um mich reagieren zu lassen?",
+        "dawahTip": "Übertreibe deine Worte nicht und reiße sie nicht aus dem Zusammenhang, um einen Beitrag eindrucksvoller zu machen; Menschen bemerken den Trick irgendwann, und in diesem Augenblick ist das Vertrauen erschüttert, nicht nur in diesen Beitrag, sondern in dich.",
+        "questionAnswer": {
+          "question": "Ist es schlimm, eine etwas reißerische, übertriebene Überschrift zu verwenden, um mehr Menschen zu erreichen?",
+          "answer": "Ja; Übertreibung mag kurzfristig Interesse wecken, doch sobald sie bemerkt wird, macht sie deine Botschaft und dich unglaubwürdig. Eine schlichte, ehrliche Darstellung glänzt weniger, hinterlässt aber eine weit tiefere Spur."
+        },
+        "referenceNote": "Siehe die Verse des Korans über wahrhaftige Rede, das Nichtvermischen von Wahrheit und Falschheit und das Nichttäuschen durch List.",
+        "shareText": "Wer die Wahrheit sagt, braucht keine Tricks. Sei in den sozialen Medien wachsam gegenüber dem, was du siehst, und ehrlich in dem, was du teilst."
+      },
+      "es": {
+        "title": "Alfabetización mediática: honesto y atento",
+        "shortDescription": "En las redes sociales hay que ser a la vez atento ante lo que se ve y honesto en lo que se comparte. Quien lleva la verdad no necesita trucos para llamar la atención.",
+        "mainPrinciple": "Una presentación honesta es la influencia más fuerte a largo plazo; una palabra verdadera no necesita adorno.",
+        "summaryPoints": [
+          "Al compartir, no recurras a las técnicas que inflaman la emoción: la exageración, el miedo o el sacar las cosas de contexto.",
+          "Al ver, mantente atento; date cuenta de si un contenido se hizo para informarte o para enojarte.",
+          "Sé cauteloso incluso con la información que coincide con tu propia opinión; no la des por verdadera solo porque te agrada."
+        ],
+        "dailyReflection": "Hoy, cuando un titular o un video corto te enoje de inmediato, detente y pregunta: ¿esto se hizo para informarme o para hacerme reaccionar?",
+        "dawahTip": "No exageres tus palabras ni las saques de contexto para hacer una publicación más llamativa; la gente acaba notando el truco, y en ese momento se sacude la confianza no solo en esa publicación, sino en ti.",
+        "questionAnswer": {
+          "question": "¿Hay algún mal en usar un titular un poco llamativo y exagerado para llegar a más gente?",
+          "answer": "Sí; la exageración puede despertar interés a corto plazo, pero una vez notada vuelve poco fiables tanto a tu mensaje como a ti. Una presentación sencilla y honesta brilla menos, pero deja una huella mucho más profunda."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la palabra veraz, no mezclar la verdad con la falsedad y no engañar mediante artimañas.",
+        "shareText": "Quien dice la verdad no necesita trucos. En las redes sociales, mantente atento ante lo que ves y honesto en lo que compartes."
+      }
+    }
+  },
+  {
+    "id": "social-media-yalniz-degil-danisarak",
+    "category": "social-media",
+    "icon": "chatbubbles-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "danışma",
+      "istişare",
+      "ehliyet",
+      "dayanışma",
+      "tevazu"
+    ],
+    "content": {
+      "tr": {
+        "title": "Yalnız Değil, Danışarak",
+        "shortDescription": "Online davet, her şeyi tek başına bilmek ve her soruya anında cevap vermek değildir. Hassas bir konuda 'bunu daha iyi bilen birine danışıp döneyim' demek dürüstlüktür; istişare davetçiyi zayıf değil güçlü kılar.",
+        "mainPrinciple": "Bilmediğini danışmak bir zaaf değil, davetçiyi hatadan koruyan ve hizmeti bereketlendiren bir olgunluktur.",
+        "summaryPoints": [
+          "Her soruya o an cevap verme baskısından kurtul; 'araştırıp döneyim' demek bir emniyettir.",
+          "Hassas itikadi ve kelami konuları ehline danış; gerektiğinde muhatabı da ehil birine yönlendir.",
+          "Deneyimli kardeşlerle istişare ederek yükü paylaş; danışmak davetçiyi yalnızlıktan kurtarır."
+        ],
+        "dailyReflection": "Bugün cevabından emin olmadığın bir soruyla karşılaşırsan, tahmin yürütmek yerine 'bunu öğrenip sana döneyim' de ve ehil bir kardeşine danışmayı dene.",
+        "dawahTip": "Bir sohbette zorlandığında 'bu güzel soruyu daha iyi bilen biriyle netleştirip sana döneyim' demekten çekinme; bu dürüstlük, gelişigüzel bir cevap uydurmaktan çok daha fazla güven kazandırır.",
+        "questionAnswer": {
+          "question": "Bir soruya anında cevap veremezsem davet zayıflamaz mı?",
+          "answer": "Hayır; 'bilmiyorum, danışıp döneceğim' demek tevazudur ve güveni artırır. Yanlış bir cevabı sonradan düzeltmek, en baştan dürüst olmaktan çok daha zordur."
+        },
+        "referenceNote": "Bkz. Kur'an'da işlerde danışmaya (şûra) ve bilmeyenlerin ehil olanlara sormasına dair ayetler.",
+        "shareText": "Davet bir yarış değil, bir dayanışmadır. Bilmediğini danışmak, ehline yöneltmek ve yükü paylaşmak seni zayıf değil, güçlü kılar."
+      },
+      "en": {
+        "title": "Not Alone, but in Consultation",
+        "shortDescription": "Online outreach does not mean knowing everything alone and answering every question on the spot. On a sensitive matter, saying 'let me ask someone who knows this better and get back to you' is honesty; consultation makes a caller stronger, not weaker.",
+        "mainPrinciple": "Consulting on what you do not know is not a weakness but a maturity that guards the caller from error and brings blessing to the work.",
+        "summaryPoints": [
+          "Free yourself from the pressure to answer every question on the spot; 'let me look into it and get back to you' is a safeguard.",
+          "Consult those who are qualified on sensitive matters of creed and theology; when needed, guide the other person to someone qualified too.",
+          "Share the load by consulting experienced brothers and sisters; seeking counsel frees the caller from going it alone."
+        ],
+        "dailyReflection": "Today, if you meet a question you are unsure of, instead of guessing, say 'let me learn this and get back to you,' and try asking a qualified brother or sister.",
+        "dawahTip": "When a conversation gets difficult, do not hesitate to say, 'Let me clarify this fine question with someone who knows it better and get back to you'; this honesty earns far more trust than improvising an answer.",
+        "questionAnswer": {
+          "question": "If I cannot answer a question on the spot, doesn't the invitation weaken?",
+          "answer": "No; saying 'I don't know, let me ask and get back to you' is humility, and it deepens trust. Correcting a wrong answer later is far harder than being honest from the start."
+        },
+        "referenceNote": "See Quranic verses on mutual consultation (shura) in affairs and on asking those who know when you do not.",
+        "shareText": "Inviting is not a race but a partnership. To consult on what you do not know, to point to those qualified, and to share the load makes you stronger, not weaker."
+      },
+      "fr": {
+        "title": "Pas seul, mais en concertation",
+        "shortDescription": "Inviter en ligne ne veut pas dire tout savoir seul et répondre à chaque question sur-le-champ. Sur un sujet délicat, dire 'laisse-moi demander à quelqu'un qui s'y connaît mieux et je reviens vers toi' est une honnêteté ; la concertation rend celui qui invite plus fort, non plus faible.",
+        "mainPrinciple": "Demander conseil sur ce que l'on ignore n'est pas une faiblesse, mais une maturité qui préserve celui qui invite de l'erreur et apporte une bénédiction à l'œuvre.",
+        "summaryPoints": [
+          "Libère-toi de la pression de répondre à chaque question sur-le-champ ; 'laisse-moi me renseigner et je reviens vers toi' est une protection.",
+          "Consulte les personnes compétentes sur les sujets sensibles de croyance et de théologie ; au besoin, oriente l'autre vers une personne qualifiée.",
+          "Partage la charge en te concertant avec des frères et sœurs expérimentés ; demander conseil délivre celui qui invite de la solitude."
+        ],
+        "dailyReflection": "Aujourd'hui, si tu rencontres une question dont la réponse t'échappe, au lieu de deviner, dis 'laisse-moi l'apprendre et je reviens vers toi', et essaie d'en parler à un frère ou une sœur compétent.",
+        "dawahTip": "Quand une conversation devient difficile, n'hésite pas à dire : 'laisse-moi clarifier cette belle question avec quelqu'un qui s'y connaît mieux et je reviens vers toi' ; cette honnêteté inspire bien plus de confiance qu'une réponse improvisée.",
+        "questionAnswer": {
+          "question": "Si je ne peux pas répondre à une question sur-le-champ, l'invitation ne s'affaiblit-elle pas ?",
+          "answer": "Non ; dire 'je ne sais pas, je me renseigne et je reviens vers toi' est de l'humilité, et cela renforce la confiance. Corriger ensuite une mauvaise réponse est bien plus difficile que d'être honnête dès le départ."
+        },
+        "referenceNote": "Voir les versets coraniques sur la concertation (choura) dans les affaires et sur le fait d'interroger ceux qui savent quand on ignore.",
+        "shareText": "Inviter n'est pas une course, mais une solidarité. Demander conseil sur ce que tu ignores, orienter vers les personnes compétentes et partager la charge te rend plus fort, non plus faible."
+      },
+      "pt-BR": {
+        "title": "Não sozinho, mas em consulta",
+        "shortDescription": "Convidar online não significa saber tudo sozinho e responder a cada pergunta na hora. Em um assunto delicado, dizer 'deixe-me consultar quem entende melhor disso e depois volto a você' é honestidade; a consulta torna quem convida mais forte, não mais fraco.",
+        "mainPrinciple": "Consultar sobre o que não se sabe não é fraqueza, mas uma maturidade que protege quem convida do erro e traz bênção ao trabalho.",
+        "summaryPoints": [
+          "Liberte-se da pressão de responder a cada pergunta na hora; 'deixe-me pesquisar e depois volto a você' é uma proteção.",
+          "Consulte quem é capacitado nos assuntos sensíveis de crença e teologia; quando preciso, oriente o outro também a alguém qualificado.",
+          "Reparta a carga consultando irmãos e irmãs experientes; buscar conselho livra quem convida de seguir sozinho."
+        ],
+        "dailyReflection": "Hoje, se você se deparar com uma pergunta cuja resposta não tem certeza, em vez de adivinhar, diga 'deixe-me aprender isso e depois volto a você' e tente consultar um irmão ou irmã capacitado.",
+        "dawahTip": "Quando uma conversa ficar difícil, não hesite em dizer: 'deixe-me esclarecer esta boa pergunta com quem entende melhor disso e depois volto a você'; essa honestidade conquista muito mais confiança do que improvisar uma resposta.",
+        "questionAnswer": {
+          "question": "Se eu não consigo responder a uma pergunta na hora, o convite não se enfraquece?",
+          "answer": "Não; dizer 'não sei, vou consultar e depois volto a você' é humildade, e isso aprofunda a confiança. Corrigir depois uma resposta errada é bem mais difícil do que ser honesto desde o início."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a consulta mútua (shura) nos assuntos e sobre perguntar aos que sabem quando não se sabe.",
+        "shareText": "Convidar não é uma corrida, mas uma parceria. Consultar sobre o que você não sabe, indicar quem é capacitado e repartir a carga torna você mais forte, não mais fraco."
+      },
+      "de": {
+        "title": "Nicht allein, sondern beratend",
+        "shortDescription": "Online einzuladen heißt nicht, alles allein zu wissen und jede Frage auf der Stelle zu beantworten. Bei einem heiklen Thema zu sagen 'lass mich jemanden fragen, der sich damit besser auskennt, und ich komme auf dich zurück' ist Ehrlichkeit; Beratung macht den Einladenden stärker, nicht schwächer.",
+        "mainPrinciple": "Sich über das, was man nicht weiß, beraten zu lassen, ist keine Schwäche, sondern eine Reife, die den Einladenden vor Fehlern bewahrt und dem Werk Segen bringt.",
+        "summaryPoints": [
+          "Befreie dich vom Druck, jede Frage auf der Stelle zu beantworten; 'lass mich nachschauen und ich komme auf dich zurück' ist ein Schutz.",
+          "Berate dich mit Sachkundigen über heikle Fragen des Glaubens und der Theologie; verweise den anderen bei Bedarf ebenfalls an jemanden Befähigten.",
+          "Teile die Last, indem du dich mit erfahrenen Geschwistern berätst; Rat zu suchen befreit den Einladenden vom Alleingang."
+        ],
+        "dailyReflection": "Wenn dir heute eine Frage begegnet, deren Antwort du nicht sicher kennst, sage statt zu raten 'lass mich das lernen und ich komme auf dich zurück' und versuche, einen sachkundigen Bruder oder eine sachkundige Schwester zu fragen.",
+        "dawahTip": "Wenn ein Gespräch schwierig wird, zögere nicht zu sagen: 'Lass mich diese gute Frage mit jemandem klären, der sich besser auskennt, und ich komme auf dich zurück'; diese Ehrlichkeit gewinnt weit mehr Vertrauen, als eine Antwort zu erfinden.",
+        "questionAnswer": {
+          "question": "Wird die Einladung nicht schwächer, wenn ich eine Frage nicht auf der Stelle beantworten kann?",
+          "answer": "Nein; zu sagen 'ich weiß es nicht, ich frage nach und komme auf dich zurück' ist Demut und vertieft das Vertrauen. Eine falsche Antwort später zu berichtigen ist weit schwerer, als von Anfang an ehrlich zu sein."
+        },
+        "referenceNote": "Siehe die Verse des Korans über die gegenseitige Beratung (Schura) in den Angelegenheiten und darüber, die Wissenden zu fragen, wenn man selbst nicht weiß.",
+        "shareText": "Einladen ist kein Wettlauf, sondern ein Miteinander. Sich über das Unbekannte zu beraten, an Befähigte zu verweisen und die Last zu teilen macht dich stärker, nicht schwächer."
+      },
+      "es": {
+        "title": "No en solitario, sino consultando",
+        "shortDescription": "Invitar en línea no significa saberlo todo solo y responder a cada pregunta en el acto. En un asunto delicado, decir 'déjame consultar a alguien que sepa más de esto y vuelvo a ti' es honestidad; la consulta hace más fuerte a quien invita, no más débil.",
+        "mainPrinciple": "Consultar sobre lo que no sabes no es una debilidad, sino una madurez que protege a quien invita del error y trae bendición a la labor.",
+        "summaryPoints": [
+          "Libérate de la presión de responder a cada pregunta en el acto; 'déjame investigarlo y vuelvo a ti' es una protección.",
+          "Consulta a quienes están capacitados en los asuntos sensibles de la creencia y la teología; cuando haga falta, orienta también al otro hacia alguien cualificado.",
+          "Reparte la carga consultando con hermanos y hermanas con experiencia; buscar consejo libra a quien invita de andar solo."
+        ],
+        "dailyReflection": "Hoy, si te encuentras con una pregunta cuya respuesta no tienes clara, en lugar de adivinar di 'déjame aprenderlo y vuelvo a ti', e intenta consultar a un hermano o hermana capacitado.",
+        "dawahTip": "Cuando una conversación se ponga difícil, no dudes en decir: 'déjame aclarar esta buena pregunta con alguien que sepa más de esto y vuelvo a ti'; esa honestidad gana mucha más confianza que improvisar una respuesta.",
+        "questionAnswer": {
+          "question": "Si no puedo responder a una pregunta en el acto, ¿no se debilita la invitación?",
+          "answer": "No; decir 'no lo sé, voy a consultarlo y vuelvo a ti' es humildad, y profundiza la confianza. Corregir después una respuesta equivocada es mucho más difícil que ser honesto desde el principio."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la consulta mutua (shura) en los asuntos y sobre preguntar a quienes saben cuando uno no sabe.",
+        "shareText": "Invitar no es una carrera, sino una colaboración. Consultar sobre lo que no sabes, remitir a los capacitados y repartir la carga te hace más fuerte, no más débil."
+      }
+    }
+  }
+]

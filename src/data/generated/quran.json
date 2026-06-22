@@ -1,0 +1,356 @@
+[
+  {
+    "id": "quran-ahlaki-yurumeyen-okumayi-tamamlar",
+    "category": "quran",
+    "icon": "footsteps-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["ahlak", "character", "davranis", "conduct", "ornek"],
+    "content": {
+      "tr": {
+        "title": "Kur'an Ahlakı: Sözden Yürüyüşe",
+        "shortDescription": "Kur'an okumanın asıl meyvesi, dilde kalan güzel sözlerin yürüyüşe, bakışa ve elin verdiği selama dönüşmesidir. Ahlak, okunanın hayata düşen gölgesidir.",
+        "mainPrinciple": "Okuduğumuz her güzel haslet davranışımıza dönüştüğünde, Kur'an gerçekten içimize yerleşmiş olur.",
+        "summaryPoints": [
+          "Kur'an ahlakı doğruluk, vefa, tevazu ve cömertlik gibi sade davranışlarda görünür.",
+          "Bir ayet, ancak hayata dokunduğunda bizde iz bırakır.",
+          "İnsanların en kolay okuduğu metin, güzel ahlakla yaşanan bir hayattır."
+        ],
+        "dailyReflection": "Bugün okuduğun ya da bildiğin tek bir güzel hasleti seç ve onu bir kişiye karşı bilinçle uygula.",
+        "dawahTip": "Anlattığın güzelliği önce kendi sözünde ve davranışında tutarlı kıl; söz ile hâlin uyumu en güçlü çağrıdır.",
+        "questionAnswer": {
+          "question": "Kur'an'ı yaşamak, sadece okumaktan nasıl ayrılır?",
+          "answer": "Okumak bilgiyi getirir; yaşamak ise o bilgiyi doğruluk, sabır ve merhamet olarak davranışa dönüştürür."
+        },
+        "referenceNote": "Bkz. Kur'an'da güzel ahlakı ve örnek davranışı öven temalar",
+        "shareText": "Kur'an'ın en güzel okunuşu, onunla güzelleşen bir ahlaktır. Bugün tek bir güzel hasleti yürüyüşe geçir."
+      },
+      "en": {
+        "title": "Quranic Character: From Words to Steps",
+        "shortDescription": "The real fruit of reading the Quran is when beautiful words become a walk, a glance, and a kind greeting. Character is the shadow that the recited verse casts onto life.",
+        "mainPrinciple": "When every good trait we read turns into our conduct, the Quran has truly settled within us.",
+        "summaryPoints": [
+          "Quranic character shows in simple acts like honesty, loyalty, humility, and generosity.",
+          "A verse leaves its mark on us only when it touches our daily life.",
+          "The text people read most easily is a life lived with good character."
+        ],
+        "dailyReflection": "Today, pick one good trait you have read or know, and consciously practice it toward one person.",
+        "dawahTip": "Make the beauty you describe consistent in your own words and conduct first; harmony between speech and state is the strongest call.",
+        "questionAnswer": {
+          "question": "How does living the Quran differ from merely reading it?",
+          "answer": "Reading brings knowledge; living turns that knowledge into conduct as honesty, patience, and mercy."
+        },
+        "referenceNote": "See the Quranic themes that praise good character and exemplary conduct",
+        "shareText": "The finest recitation of the Quran is a character beautified by it. Today, put one good trait into motion."
+      },
+      "fr": {
+        "title": "Le caractère coranique : des mots aux pas",
+        "shortDescription": "Le vrai fruit de la lecture du Coran, c'est quand de belles paroles deviennent une démarche, un regard et un salut bienveillant. Le caractère est l'ombre que le verset récité projette sur la vie.",
+        "mainPrinciple": "Quand chaque belle qualité que nous lisons devient notre conduite, le Coran s'est vraiment installé en nous.",
+        "summaryPoints": [
+          "Le caractère coranique se voit dans des actes simples comme l'honnêteté, la fidélité, l'humilité et la générosité.",
+          "Un verset ne laisse sa marque que lorsqu'il touche notre vie quotidienne.",
+          "Le texte que les gens lisent le plus aisément est une vie vécue avec un bon caractère."
+        ],
+        "dailyReflection": "Aujourd'hui, choisis une belle qualité que tu as lue ou que tu connais, et applique-la consciemment envers une personne.",
+        "dawahTip": "Rends d'abord cohérente dans tes paroles et ta conduite la beauté que tu décris ; l'accord entre la parole et l'état est l'appel le plus fort.",
+        "questionAnswer": {
+          "question": "En quoi vivre le Coran diffère-t-il de simplement le lire ?",
+          "answer": "Lire apporte le savoir ; vivre transforme ce savoir en conduite : honnêteté, patience et miséricorde."
+        },
+        "referenceNote": "Voir les thèmes coraniques qui louent le bon caractère et la conduite exemplaire",
+        "shareText": "La plus belle récitation du Coran est un caractère embelli par lui. Aujourd'hui, mets en mouvement une seule belle qualité."
+      },
+      "pt-BR": {
+        "title": "O caráter do Alcorão: das palavras aos passos",
+        "shortDescription": "O verdadeiro fruto de ler o Alcorão é quando as belas palavras se tornam um caminhar, um olhar e um cumprimento gentil. O caráter é a sombra que o versículo recitado projeta sobre a vida.",
+        "mainPrinciple": "Quando cada boa qualidade que lemos se torna a nossa conduta, o Alcorão realmente se firmou em nós.",
+        "summaryPoints": [
+          "O caráter do Alcorão aparece em atos simples como honestidade, lealdade, humildade e generosidade.",
+          "Um versículo só deixa marca em nós quando toca a nossa vida diária.",
+          "O texto que as pessoas leem com mais facilidade é uma vida vivida com bom caráter."
+        ],
+        "dailyReflection": "Hoje, escolha uma boa qualidade que leu ou conhece e pratique-a conscientemente com uma pessoa.",
+        "dawahTip": "Torne primeiro coerente em suas próprias palavras e conduta a beleza que descreve; a harmonia entre a fala e o estado é o chamado mais forte.",
+        "questionAnswer": {
+          "question": "Como viver o Alcorão difere de apenas lê-lo?",
+          "answer": "Ler traz conhecimento; viver transforma esse conhecimento em conduta: honestidade, paciência e misericórdia."
+        },
+        "referenceNote": "Veja os temas do Alcorão que louvam o bom caráter e a conduta exemplar",
+        "shareText": "A mais bela recitação do Alcorão é um caráter embelezado por ele. Hoje, ponha em movimento uma única boa qualidade."
+      },
+      "de": {
+        "title": "Koranischer Charakter: von Worten zu Schritten",
+        "shortDescription": "Die wahre Frucht des Koranlesens ist, wenn schöne Worte zu einem Gang, einem Blick und einem freundlichen Gruß werden. Charakter ist der Schatten, den der rezitierte Vers auf das Leben wirft.",
+        "mainPrinciple": "Wenn jede gute Eigenschaft, die wir lesen, zu unserem Verhalten wird, hat sich der Koran wirklich in uns niedergelassen.",
+        "summaryPoints": [
+          "Koranischer Charakter zeigt sich in einfachen Taten wie Ehrlichkeit, Treue, Demut und Großzügigkeit.",
+          "Ein Vers hinterlässt nur dann seine Spur in uns, wenn er unser tägliches Leben berührt.",
+          "Der Text, den Menschen am leichtesten lesen, ist ein Leben mit gutem Charakter."
+        ],
+        "dailyReflection": "Wähle heute eine gute Eigenschaft, die du gelesen hast oder kennst, und übe sie bewusst gegenüber einem Menschen.",
+        "dawahTip": "Mach die Schönheit, die du beschreibst, zuerst in deinen eigenen Worten und deinem Verhalten stimmig; der Einklang von Wort und Zustand ist der stärkste Ruf.",
+        "questionAnswer": {
+          "question": "Wie unterscheidet sich das Leben des Korans vom bloßen Lesen?",
+          "answer": "Lesen bringt Wissen; Leben verwandelt dieses Wissen in Verhalten: Ehrlichkeit, Geduld und Barmherzigkeit."
+        },
+        "referenceNote": "Siehe die koranischen Themen, die guten Charakter und vorbildliches Verhalten loben",
+        "shareText": "Die schönste Rezitation des Korans ist ein durch ihn verschönerter Charakter. Setze heute eine einzige gute Eigenschaft in Bewegung."
+      },
+      "es": {
+        "title": "El carácter del Corán: de las palabras a los pasos",
+        "shortDescription": "El verdadero fruto de leer el Corán es cuando las palabras hermosas se vuelven un andar, una mirada y un saludo amable. El carácter es la sombra que el versículo recitado proyecta sobre la vida.",
+        "mainPrinciple": "Cuando cada buena cualidad que leemos se convierte en nuestra conducta, el Corán realmente se ha asentado en nuestro interior.",
+        "summaryPoints": [
+          "El carácter del Corán se ve en actos sencillos como la honestidad, la lealtad, la humildad y la generosidad.",
+          "Un versículo solo deja huella en nosotros cuando toca nuestra vida diaria.",
+          "El texto que la gente lee con más facilidad es una vida vivida con buen carácter."
+        ],
+        "dailyReflection": "Hoy, elige una buena cualidad que hayas leído o que conozcas, y practícala conscientemente con una persona.",
+        "dawahTip": "Haz que la belleza que describes sea primero coherente en tus propias palabras y en tu conducta; la armonía entre lo que se dice y lo que se vive es el llamado más fuerte.",
+        "questionAnswer": {
+          "question": "¿En qué se diferencia vivir el Corán de simplemente leerlo?",
+          "answer": "Leer aporta conocimiento; vivir transforma ese conocimiento en conducta: honestidad, paciencia y misericordia."
+        },
+        "referenceNote": "Véanse los temas del Corán que elogian el buen carácter y la conducta ejemplar",
+        "shareText": "La más bella recitación del Corán es un carácter embellecido por él. Hoy, pon en movimiento una sola buena cualidad."
+      }
+    }
+  },
+  {
+    "id": "quran-her-gune-bir-avuc-su",
+    "category": "quran",
+    "icon": "water-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": ["istikrar", "consistency", "alismak", "habit", "gunluk"],
+    "content": {
+      "tr": {
+        "title": "Her Güne Bir Avuç Su",
+        "shortDescription": "Bir bahçeyi sel değil, her gün düşen küçük damlalar yeşertir. Kur'an'la bağ da seyrek ve uzun seferlerle değil, her güne sığan küçük ve düzenli bir vakitle canlanır.",
+        "mainPrinciple": "Gönlü besleyen şey, ara sıra yapılan büyük okumalar değil, hiç kesilmeyen küçük ama düzenli buluşmalardır.",
+        "summaryPoints": [
+          "Küçük ama her gün tekrarlanan bir vakit, gönülde sürekli ve diri bir bağ kurar.",
+          "Düzenlilik, miktarın azlığını telafi eden gizli bir berekettir.",
+          "Sürdürülebilir küçük bir adım, yarım kalan büyük niyetlerden daha hayırlıdır."
+        ],
+        "dailyReflection": "Bugün günün sabit bir anına minik bir Kur'an vakti yerleştir; mesela kahvaltıdan önce bir ayeti manasıyla oku.",
+        "dawahTip": "Birine okumayı önerirken büyük hedefler yerine 'günde bir ayet' gibi kolay başlanabilir bir kapı göster.",
+        "questionAnswer": {
+          "question": "Az ama düzenli okumanın sırrı nedir?",
+          "answer": "Sırrı süreklilikte gizlidir; her gün tekrarlanan küçük bir temas, gönüldeki bağı asla soğumaya bırakmaz."
+        },
+        "referenceNote": "Bkz. Kur'an'da süreklilik ve istikrarla yapılan amellerin değerine işaret eden manalar",
+        "shareText": "Bir bahçeyi her gün düşen damlalar yeşertir. Bugün Kur'an'la bağını küçük ve düzenli bir vakte bağla."
+      },
+      "en": {
+        "title": "A Handful of Water Each Day",
+        "shortDescription": "A garden is greened not by a flood but by small drops falling each day. Our bond with the Quran also comes alive not through rare long journeys but through a small, regular time that fits into every day.",
+        "mainPrinciple": "What nourishes the heart is not occasional large readings but small yet regular meetings that never break off.",
+        "summaryPoints": [
+          "A small time repeated every day forms a continuous and living bond in the heart.",
+          "Regularity is a hidden blessing that makes up for a small amount.",
+          "A sustainable small step is better than great intentions left unfinished."
+        ],
+        "dailyReflection": "Today, place a tiny Quran time at a fixed point in your day; for example, read a verse with its meaning before breakfast.",
+        "dawahTip": "When suggesting reading to someone, show an easy door to begin with, like 'one verse a day,' instead of grand goals.",
+        "questionAnswer": {
+          "question": "What is the secret of reading little but regularly?",
+          "answer": "The secret lies in continuity; a small daily contact never lets the bond in the heart grow cold."
+        },
+        "referenceNote": "See the Quranic meanings that point to the value of deeds done with constancy and steadfastness",
+        "shareText": "A garden is greened by drops that fall each day. Today, tie your bond with the Quran to a small and regular time."
+      },
+      "fr": {
+        "title": "Une poignée d'eau chaque jour",
+        "shortDescription": "Un jardin verdit non par une crue, mais par de petites gouttes qui tombent chaque jour. Notre lien avec le Coran s'anime aussi non par de rares longs voyages, mais par un petit temps régulier qui tient dans chaque journée.",
+        "mainPrinciple": "Ce qui nourrit le cœur, ce ne sont pas de grandes lectures occasionnelles, mais de petites rencontres régulières qui ne s'interrompent jamais.",
+        "summaryPoints": [
+          "Un petit temps répété chaque jour forme dans le cœur un lien continu et vivant.",
+          "La régularité est une bénédiction cachée qui compense la petitesse de la quantité.",
+          "Un petit pas tenable vaut mieux que de grandes intentions laissées inachevées."
+        ],
+        "dailyReflection": "Aujourd'hui, place un petit temps de Coran à un moment fixe de ta journée ; par exemple, lis un verset avec son sens avant le petit-déjeuner.",
+        "dawahTip": "En proposant la lecture à quelqu'un, montre une porte facile pour commencer, comme « un verset par jour », plutôt que de grands objectifs.",
+        "questionAnswer": {
+          "question": "Quel est le secret de lire peu mais régulièrement ?",
+          "answer": "Le secret réside dans la continuité ; un petit contact quotidien ne laisse jamais refroidir le lien dans le cœur."
+        },
+        "referenceNote": "Voir les sens coraniques qui indiquent la valeur des actes accomplis avec constance et persévérance",
+        "shareText": "Un jardin verdit grâce aux gouttes qui tombent chaque jour. Aujourd'hui, attache ton lien avec le Coran à un temps petit et régulier."
+      },
+      "pt-BR": {
+        "title": "Um punhado de água a cada dia",
+        "shortDescription": "Um jardim verdeja não por uma enchente, mas por pequenas gotas que caem a cada dia. O nosso vínculo com o Alcorão também ganha vida não por raras jornadas longas, mas por um pequeno tempo regular que cabe em cada dia.",
+        "mainPrinciple": "O que nutre o coração não são grandes leituras ocasionais, mas pequenos encontros regulares que nunca se interrompem.",
+        "summaryPoints": [
+          "Um pequeno tempo repetido todos os dias forma no coração um vínculo contínuo e vivo.",
+          "A regularidade é uma bênção oculta que compensa a pequenez da quantidade.",
+          "Um pequeno passo sustentável vale mais do que grandes intenções deixadas pela metade."
+        ],
+        "dailyReflection": "Hoje, coloque um pequeno tempo de Alcorão em um ponto fixo do seu dia; por exemplo, leia um versículo com o seu significado antes do café da manhã.",
+        "dawahTip": "Ao sugerir a leitura a alguém, mostre uma porta fácil para começar, como 'um versículo por dia', em vez de grandes metas.",
+        "questionAnswer": {
+          "question": "Qual é o segredo de ler pouco, mas com regularidade?",
+          "answer": "O segredo está na continuidade; um pequeno contato diário nunca deixa esfriar o vínculo no coração."
+        },
+        "referenceNote": "Veja os significados do Alcorão que apontam para o valor das ações feitas com constância e perseverança",
+        "shareText": "Um jardim verdeja pelas gotas que caem a cada dia. Hoje, ligue o seu vínculo com o Alcorão a um tempo pequeno e regular."
+      },
+      "de": {
+        "title": "Jeden Tag eine Handvoll Wasser",
+        "shortDescription": "Ein Garten ergrünt nicht durch eine Flut, sondern durch kleine Tropfen, die jeden Tag fallen. Auch unsere Bindung zum Koran lebt nicht durch seltene lange Reisen auf, sondern durch eine kleine, regelmäßige Zeit, die in jeden Tag passt.",
+        "mainPrinciple": "Was das Herz nährt, sind nicht gelegentliche große Lesungen, sondern kleine, aber regelmäßige Begegnungen, die niemals abreißen.",
+        "summaryPoints": [
+          "Eine kleine, täglich wiederholte Zeit bildet im Herzen eine fortwährende und lebendige Bindung.",
+          "Regelmäßigkeit ist ein verborgener Segen, der die geringe Menge ausgleicht.",
+          "Ein durchhaltbarer kleiner Schritt ist besser als große, unvollendet gelassene Vorsätze."
+        ],
+        "dailyReflection": "Setze heute eine winzige Koranzeit an einen festen Punkt deines Tages; lies zum Beispiel vor dem Frühstück einen Vers mit seiner Bedeutung.",
+        "dawahTip": "Wenn du jemandem das Lesen vorschlägst, zeige eine leichte Einstiegstür wie 'ein Vers am Tag' statt großer Ziele.",
+        "questionAnswer": {
+          "question": "Was ist das Geheimnis, wenig, aber regelmäßig zu lesen?",
+          "answer": "Das Geheimnis liegt in der Beständigkeit; ein kleiner täglicher Kontakt lässt die Bindung im Herzen nie erkalten."
+        },
+        "referenceNote": "Siehe die koranischen Bedeutungen, die auf den Wert beständig und stetig verrichteter Taten hinweisen",
+        "shareText": "Ein Garten ergrünt durch Tropfen, die jeden Tag fallen. Binde heute deine Verbindung zum Koran an eine kleine und regelmäßige Zeit."
+      },
+      "es": {
+        "title": "Un puñado de agua cada día",
+        "shortDescription": "Un jardín reverdece no por una inundación, sino por las pequeñas gotas que caen cada día. Nuestro vínculo con el Corán también cobra vida no por raras jornadas largas, sino por un pequeño tiempo regular que cabe en cada día.",
+        "mainPrinciple": "Lo que nutre el corazón no son las grandes lecturas ocasionales, sino los pequeños encuentros regulares que nunca se interrumpen.",
+        "summaryPoints": [
+          "Un pequeño tiempo repetido cada día forma en el corazón un vínculo continuo y vivo.",
+          "La regularidad es una bendición oculta que compensa lo escaso de la cantidad.",
+          "Un pequeño paso sostenible vale más que las grandes intenciones dejadas a medias."
+        ],
+        "dailyReflection": "Hoy, coloca un pequeño tiempo de Corán en un punto fijo de tu día; por ejemplo, lee un versículo con su significado antes del desayuno.",
+        "dawahTip": "Al sugerirle la lectura a alguien, muéstrale una puerta fácil para comenzar, como 'un versículo al día', en lugar de grandes metas.",
+        "questionAnswer": {
+          "question": "¿Cuál es el secreto de leer poco, pero con regularidad?",
+          "answer": "El secreto está en la continuidad; un pequeño contacto diario nunca deja que se enfríe el vínculo en el corazón."
+        },
+        "referenceNote": "Véanse los significados del Corán que señalan el valor de las acciones realizadas con constancia y perseverancia",
+        "shareText": "Un jardín reverdece por las gotas que caen cada día. Hoy, ata tu vínculo con el Corán a un tiempo pequeño y regular."
+      }
+    }
+  },
+  {
+    "id": "quran-butun-insanliga-acilan-merhamet-kapisi",
+    "category": "quran",
+    "icon": "people-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["evrensel", "universal", "merhamet", "mercy", "onur"],
+    "content": {
+      "tr": {
+        "title": "Bütün İnsanlığa Açılan Merhamet Kapısı",
+        "shortDescription": "Kur'an'ın çağrısı tek bir ırka, çağa ya da bölgeye sığmaz; bütün insanlığa açık bir kapıdır. Bu kapının eşiğinde duran ilk söz ise merhamettir.",
+        "mainPrinciple": "Kur'an herkese seslenir ve özünde rahmet taşır; bu yüzden mesajı da ancak şefkat diliyle yakışır biçimde taşınır.",
+        "summaryPoints": [
+          "Kur'an'ın daveti zaman ve coğrafya tanımaz, her insanı muhatap görür.",
+          "Merhamet, bu evrensel mesajın hem rengi hem de tercüme dilidir.",
+          "Her insanın onurunu gözetmek, çağrının kalbindeki rahmetin işaretidir."
+        ],
+        "dailyReflection": "Bugün seninle aynı düşünmeyen bir kişiye karşı, hak vermesen de saygılı ve yumuşak bir dil kullanmayı dene.",
+        "dawahTip": "Mesajı paylaşırken kazanmak değil, karşındakini değerli görmek niyetiyle konuş; onur gören kalp, dinlemeye daha açıktır.",
+        "questionAnswer": {
+          "question": "Kur'an'ın evrenselliği ile merhameti nasıl bir araya gelir?",
+          "answer": "Bütün insanlığı muhatap alan bir çağrı, ancak herkesi kuşatan bir merhametle anlamlı olur; bu ikisi birbirini tamamlar."
+        },
+        "referenceNote": "Bkz. Kur'an'da âlemlere rahmet ve bütün insanlığa hitap temasını işleyen ifadeler",
+        "shareText": "Kur'an, bütün insanlığa açılan bir merhamet kapısıdır. Bugün bir kişiye onurunu gözeten bir şefkatle yaklaş."
+      },
+      "en": {
+        "title": "A Door of Mercy Open to All Humanity",
+        "shortDescription": "The Quran's call cannot be confined to one race, age, or region; it is a door open to all of humanity. And the first word standing at its threshold is mercy.",
+        "mainPrinciple": "The Quran addresses everyone and carries mercy at its core; so its message too is fittingly conveyed only in the language of compassion.",
+        "summaryPoints": [
+          "The Quran's invitation knows no era or geography; it regards every human as its audience.",
+          "Mercy is both the color and the translating language of this universal message.",
+          "Honoring the dignity of every person is the mark of the mercy at the call's heart."
+        ],
+        "dailyReflection": "Today, try to use a respectful and gentle tone toward someone who does not think as you do, even when you disagree.",
+        "dawahTip": "When sharing the message, speak with the intent to value the other person rather than to win; a heart that feels honored is more open to listening.",
+        "questionAnswer": {
+          "question": "How do the Quran's universality and its mercy come together?",
+          "answer": "A call that addresses all humanity becomes meaningful only through a mercy that embraces everyone; the two complete each other."
+        },
+        "referenceNote": "See the Quranic expressions on the theme of mercy to the worlds and addressing all humanity",
+        "shareText": "The Quran is a door of mercy open to all humanity. Today, approach one person with a compassion that honors their dignity."
+      },
+      "fr": {
+        "title": "Une porte de miséricorde ouverte à toute l'humanité",
+        "shortDescription": "L'appel du Coran ne peut se réduire à une race, une époque ou une région ; c'est une porte ouverte à toute l'humanité. Et le premier mot qui se tient sur son seuil est la miséricorde.",
+        "mainPrinciple": "Le Coran s'adresse à tous et porte la miséricorde en son cœur ; aussi son message ne se transmet-il dignement que dans le langage de la compassion.",
+        "summaryPoints": [
+          "L'invitation du Coran ne connaît ni époque ni géographie ; elle considère chaque être humain comme son destinataire.",
+          "La miséricorde est à la fois la couleur et la langue de traduction de ce message universel.",
+          "Honorer la dignité de chaque personne est la marque de la miséricorde au cœur de l'appel."
+        ],
+        "dailyReflection": "Aujourd'hui, essaie d'employer un ton respectueux et doux envers une personne qui ne pense pas comme toi, même en cas de désaccord.",
+        "dawahTip": "En partageant le message, parle avec l'intention de valoriser l'autre plutôt que de l'emporter ; un cœur qui se sent honoré est plus ouvert à l'écoute.",
+        "questionAnswer": {
+          "question": "Comment l'universalité du Coran et sa miséricorde se rejoignent-elles ?",
+          "answer": "Un appel qui s'adresse à toute l'humanité ne prend sens que par une miséricorde qui embrasse chacun ; les deux se complètent."
+        },
+        "referenceNote": "Voir les expressions coraniques sur le thème de la miséricorde pour les mondes et de l'adresse à toute l'humanité",
+        "shareText": "Le Coran est une porte de miséricorde ouverte à toute l'humanité. Aujourd'hui, approche une personne avec une compassion qui honore sa dignité."
+      },
+      "pt-BR": {
+        "title": "Uma porta de misericórdia aberta a toda a humanidade",
+        "shortDescription": "O chamado do Alcorão não cabe em uma só raça, época ou região; é uma porta aberta a toda a humanidade. E a primeira palavra que se ergue em seu limiar é a misericórdia.",
+        "mainPrinciple": "O Alcorão dirige-se a todos e carrega a misericórdia no seu cerne; por isso a sua mensagem só é transmitida com dignidade na linguagem da compaixão.",
+        "summaryPoints": [
+          "O convite do Alcorão não conhece época nem geografia; vê cada ser humano como seu destinatário.",
+          "A misericórdia é, ao mesmo tempo, a cor e a língua de tradução dessa mensagem universal.",
+          "Honrar a dignidade de cada pessoa é a marca da misericórdia no coração do chamado."
+        ],
+        "dailyReflection": "Hoje, tente usar um tom respeitoso e brando com alguém que não pensa como você, mesmo quando discordar.",
+        "dawahTip": "Ao partilhar a mensagem, fale com a intenção de valorizar o outro em vez de vencer; um coração que se sente honrado está mais aberto a ouvir.",
+        "questionAnswer": {
+          "question": "Como a universalidade do Alcorão e a sua misericórdia se encontram?",
+          "answer": "Um chamado dirigido a toda a humanidade só ganha sentido por uma misericórdia que abraça a todos; os dois se completam."
+        },
+        "referenceNote": "Veja as expressões do Alcorão sobre o tema da misericórdia para os mundos e do apelo a toda a humanidade",
+        "shareText": "O Alcorão é uma porta de misericórdia aberta a toda a humanidade. Hoje, aproxime-se de uma pessoa com uma compaixão que honra a sua dignidade."
+      },
+      "de": {
+        "title": "Eine Tür der Barmherzigkeit, offen für die ganze Menschheit",
+        "shortDescription": "Der Ruf des Korans lässt sich nicht auf eine Rasse, ein Zeitalter oder eine Region beschränken; er ist eine Tür, offen für die ganze Menschheit. Und das erste Wort an ihrer Schwelle ist Barmherzigkeit.",
+        "mainPrinciple": "Der Koran wendet sich an alle und trägt Barmherzigkeit in seinem Kern; daher wird auch seine Botschaft nur in der Sprache des Mitgefühls würdig vermittelt.",
+        "summaryPoints": [
+          "Die Einladung des Korans kennt weder Zeitalter noch Geografie; sie sieht jeden Menschen als ihren Adressaten.",
+          "Barmherzigkeit ist zugleich die Farbe und die Übersetzungssprache dieser universellen Botschaft.",
+          "Die Würde jedes Menschen zu achten, ist das Zeichen der Barmherzigkeit im Herzen des Rufs."
+        ],
+        "dailyReflection": "Versuche heute, gegenüber einem Menschen, der nicht denkt wie du, einen respektvollen und sanften Ton zu wahren, auch wenn du anderer Meinung bist.",
+        "dawahTip": "Sprich beim Teilen der Botschaft mit der Absicht, den anderen wertzuschätzen, statt zu gewinnen; ein Herz, das sich geachtet fühlt, ist offener zum Zuhören.",
+        "questionAnswer": {
+          "question": "Wie kommen die Universalität des Korans und seine Barmherzigkeit zusammen?",
+          "answer": "Ein Ruf, der sich an die ganze Menschheit wendet, wird erst durch eine Barmherzigkeit sinnvoll, die jeden umfängt; beide ergänzen einander."
+        },
+        "referenceNote": "Siehe die koranischen Ausdrücke zum Thema der Barmherzigkeit für die Welten und der Ansprache an die ganze Menschheit",
+        "shareText": "Der Koran ist eine Tür der Barmherzigkeit, offen für die ganze Menschheit. Begegne heute einem Menschen mit einem Mitgefühl, das seine Würde achtet."
+      },
+      "es": {
+        "title": "Una puerta de misericordia abierta a toda la humanidad",
+        "shortDescription": "El llamado del Corán no cabe en una sola raza, época o región; es una puerta abierta a toda la humanidad. Y la primera palabra que se yergue en su umbral es la misericordia.",
+        "mainPrinciple": "El Corán se dirige a todos y lleva la misericordia en su esencia; por eso su mensaje solo se transmite con dignidad en el lenguaje de la compasión.",
+        "summaryPoints": [
+          "La invitación del Corán no conoce época ni geografía; ve a cada ser humano como su destinatario.",
+          "La misericordia es, a la vez, el color y la lengua de traducción de este mensaje universal.",
+          "Honrar la dignidad de cada persona es la señal de la misericordia en el corazón del llamado."
+        ],
+        "dailyReflection": "Hoy, intenta usar un tono respetuoso y suave con alguien que no piensa como tú, aun cuando estés en desacuerdo.",
+        "dawahTip": "Al compartir el mensaje, habla con la intención de valorar a la otra persona en lugar de vencer; un corazón que se siente honrado está más abierto a escuchar.",
+        "questionAnswer": {
+          "question": "¿Cómo se unen la universalidad del Corán y su misericordia?",
+          "answer": "Un llamado dirigido a toda la humanidad solo cobra sentido por una misericordia que abraza a todos; ambas se completan mutuamente."
+        },
+        "referenceNote": "Véanse las expresiones del Corán sobre el tema de la misericordia para los mundos y del llamado a toda la humanidad",
+        "shareText": "El Corán es una puerta de misericordia abierta a toda la humanidad. Hoy, acércate a una persona con una compasión que honra su dignidad."
+      }
+    }
+  }
+]

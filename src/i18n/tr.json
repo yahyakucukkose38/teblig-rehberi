@@ -1,0 +1,148 @@
+{
+  "common": {
+    "appName": "Tebliğ Rehberi",
+    "start": "Başla",
+    "next": "İleri",
+    "back": "Geri",
+    "skip": "Atla",
+    "save": "Kaydet",
+    "cancel": "Vazgeç",
+    "done": "Tamam",
+    "search": "Ara",
+    "seeAll": "Tümünü gör",
+    "readMinutes": "{{count}} dk okuma",
+    "share": "Paylaş",
+    "loading": "Yükleniyor…"
+  },
+  "tabs": {
+    "home": "Ana Sayfa",
+    "categories": "Kategoriler",
+    "search": "Ara",
+    "favorites": "Favoriler",
+    "settings": "Ayarlar"
+  },
+  "onboarding": {
+    "title": "Hikmetle Tebliğ",
+    "subtitle": "İslam'ı sade, zarif ve özgün bir dille anlatmaya yardımcı kısa bir rehber.",
+    "purposeTitle": "Amaç",
+    "purpose": "Bu rehber, ikna etmeye zorlamak için değil; hikmetle anlatmak, güzel örnek olmak, muhatabı tanımak ve doğru zamanda doğru sözü söylemek için hazırlandı.",
+    "point1Title": "Önce hâl, sonra söz",
+    "point1": "En güçlü tebliğ, güzel bir örnek olmaktır.",
+    "point2Title": "Hikmetle ve nezaketle",
+    "point2": "Sert ve yargılayıcı değil; sade, saygılı ve kuşatıcı bir dil.",
+    "point3Title": "Özgün ve kaynağa saygılı",
+    "point3": "Kısa, özgün içerikler; ayet ve hadislerde yalnızca kaynak gösterimi.",
+    "chooseLanguage": "Dilinizi seçin",
+    "copyrightTitle": "Telif ve Kaynak Notu",
+    "copyrightNote": "Bu uygulamadaki metinler, temel İslami kaynaklardan ve faydalanılan eserlerden hareketle özgün olarak hazırlanmış kısa eğitim içerikleridir. Hiçbir kitap metni aynen aktarılmamıştır.",
+    "startButton": "Başla"
+  },
+  "home": {
+    "greeting": "Selâmün aleyküm",
+    "intro": "Bugün hangi güzelliği paylaşmak istersin?",
+    "todayNote": "Günün Tebliğ Notu",
+    "openDailyNote": "Günün notunu aç",
+    "exploreCategories": "Kategoriler",
+    "continueReading": "Son Okunanlar",
+    "favoritesShort": "Favorilerin",
+    "emptyRecents": "Henüz bir konu okumadın.",
+    "emptyFavorites": "Henüz favori eklemedin."
+  },
+  "categories": {
+    "title": "Kategoriler",
+    "subtitle": "Bir konu başlığı seçerek başla.",
+    "topicsCount": "{{count}} konu"
+  },
+  "topic": {
+    "shortDescription": "Kısa Açıklama",
+    "mainPrinciple": "Ana İlke",
+    "summary": "Özet",
+    "dailyReflection": "Günlük Hayata Yansıması",
+    "dawahTip": "Tebliğ Ederken",
+    "qa": "Soru - Cevap",
+    "question": "Soru",
+    "answer": "Cevap",
+    "reference": "Ayet / Hadis Referansı",
+    "shareMessage": "Paylaşılabilir Mesaj",
+    "sourceNote": "Kaynak Notu",
+    "addFavorite": "Favorilere ekle",
+    "removeFavorite": "Favorilerden çıkar",
+    "notFound": "Konu bulunamadı."
+  },
+  "search": {
+    "title": "Ara",
+    "placeholder": "Başlık, açıklama veya etiket ara…",
+    "empty": "Sonuç bulunamadı.",
+    "hint": "Aramak için yazmaya başlayın.",
+    "resultsCount": "{{count}} sonuç"
+  },
+  "favorites": {
+    "title": "Favoriler",
+    "empty": "Henüz favori konun yok.",
+    "emptyHint": "Konu detayında kalp simgesine dokunarak favori ekleyebilirsin."
+  },
+  "daily": {
+    "title": "Günün Notu",
+    "subtitle": "Her gün kısa bir tebliğ ilkesi.",
+    "share": "Notu paylaş"
+  },
+  "language": {
+    "title": "Dil",
+    "subtitle": "Uygulama dilini seçin. Seçiminiz cihazda saklanır.",
+    "current": "Seçili"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "appearance": "Görünüm",
+    "theme": "Tema",
+    "themeLight": "Açık",
+    "themeDark": "Koyu",
+    "themeSystem": "Sistem",
+    "fontSize": "Yazı Boyutu",
+    "fontSmall": "Küçük",
+    "fontMedium": "Orta",
+    "fontLarge": "Büyük",
+    "content": "İçerik",
+    "language": "Dil",
+    "notifications": "Bildirimler",
+    "notificationsDesc": "Günün notu için hatırlatma.",
+    "about": "Hakkında",
+    "aboutTitle": "Hakkında",
+    "aboutBody": "Tebliğ Rehberi; İslam'ı sade, hikmetli ve zarif bir dille anlatmak isteyenler için hazırlanmış, çevrimdışı çalışan bir rehberdir. İçerikler kısa ders, özet, ilke ve tebliğ önerisi biçimindedir.",
+    "sources": "Kaynakça",
+    "sourcesTitle": "Faydalanılan Kaynaklar",
+    "sourcesIntro": "Aşağıdaki eserlerden yararlanılmıştır. Bu kitapların metinleri uygulamada gösterilmez; içerikler özgün biçimde yeniden yazılmıştır.",
+    "copyright": "Telif ve Kaynak Notu",
+    "version": "Sürüm",
+    "notificationTime": "Hatırlatma saati",
+    "permissionNeeded": "Bildirim izni verilmedi. Lütfen telefon ayarlarından izin verin."
+  },
+  "copyright": {
+    "title": "Telif ve Kaynak Notu",
+    "body": "Bu uygulamadaki metinler, temel İslami kaynaklardan ve faydalanılan eserlerden hareketle özgün olarak hazırlanmış kısa eğitim içerikleridir. Hiçbir kitap metni aynen aktarılmamıştır.",
+    "shortNote": "Bu içerik, temel İslami kaynaklardan yararlanılarak özgün biçimde hazırlanmıştır."
+  },
+  "card": {
+    "title": "Paylaşım Kartı",
+    "shareText": "Metni paylaş",
+    "shareImage": "Görüntü olarak paylaş",
+    "screenshotHint": "İpucu: Kartın ekran görüntüsünü alıp paylaşabilirsiniz.",
+    "open": "Kart oluştur"
+  },
+  "share": {
+    "cta": "İslam'ı sade ve güzel bir dille keşfetmek istersen, kapımız her zaman açık. 🤍"
+  },
+  "notif": {
+    "title": "Günün Tebliğ Notu 🌙",
+    "body": "Bugünün kısa ilkesine göz at, üzerine bir an düşün; dilersen güzelce paylaş."
+  },
+  "disclaimer": {
+    "title": "Bilgilendirme Notu",
+    "body": "Bu içerikler bilgilendirme ve genel rehberlik amaçlıdır; kesin/bağlayıcı hüküm (fetva) niteliği taşımaz. Özel durumlarda ve ihtilaflı meselelerde ehil bir hocaya veya müftülüğe danışınız."
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "body": "Aradığınız sayfa burada değil.",
+    "goHome": "Ana sayfaya dön"
+  }
+}

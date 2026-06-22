@@ -1,0 +1,846 @@
+[
+  {
+    "id": "what-is-islam-meaning-of-religion",
+    "category": "what-is-islam",
+    "icon": "compass-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["islam", "din", "meaning", "submission", "peace"],
+    "content": {
+      "tr": {
+        "title": "İslam ve Dinin Anlamı",
+        "shortDescription": "İslam, kalbin huzura kavuşması için Allah'a gönülden teslim olmaktır; din ise hayata yön veren bir bağdır.",
+        "mainPrinciple": "İslam, zorla değil gönülle, Allah'a güvenip teslim olmaktır.",
+        "summaryPoints": [
+          "İslam kelimesinin kökü, teslimiyet ve barıştır.",
+          "Din, insanı yaratıcısına ve hayatın anlamına bağlayan bir yoldur.",
+          "Teslimiyet bir kaybetmek değil, gerçek huzuru bulmaktır."
+        ],
+        "dailyReflection": "Bugün küçük bir endişeni Allah'a bırakıp 'O'na güveniyorum' de.",
+        "dawahTip": "Dini bir kural listesi gibi değil, kalbi dinlendiren bir bağ olarak anlat.",
+        "questionAnswer": {
+          "question": "İslam'ın kelime anlamı nedir?",
+          "answer": "İslam; teslim olmak, esenlik ve barış anlamlarını taşır. İnsan Allah'a teslim oldukça içine huzur dolar."
+        },
+        "referenceNote": "Tevhid ve gönüllü teslimiyet ilkeleri üzerine.",
+        "shareText": "İslam, kalbi yorgunluktan kurtaran tatlı bir teslimiyettir."
+      },
+      "en": {
+        "title": "The Meaning of Islam and Religion",
+        "shortDescription": "Islam is a heartfelt surrender to God that brings the heart to peace; religion is the bond that gives life direction.",
+        "mainPrinciple": "Islam is surrendering to God willingly, not by force, with trust.",
+        "summaryPoints": [
+          "The root of the word Islam means surrender and peace.",
+          "Religion is a path that connects a person to their Creator and to life's meaning.",
+          "Surrender is not a loss; it is finding true serenity."
+        ],
+        "dailyReflection": "Today, hand one small worry over to God and say, 'I trust in You.'",
+        "dawahTip": "Present faith not as a list of rules, but as a bond that gives the heart rest.",
+        "questionAnswer": {
+          "question": "What does the word Islam mean?",
+          "answer": "Islam carries the meanings of surrender, well-being, and peace. As a person surrenders to God, peace fills the heart."
+        },
+        "referenceNote": "Based on the principles of Tawhid and willing surrender.",
+        "shareText": "Islam is a gentle surrender that frees the heart from its weariness."
+      },
+      "fr": {
+        "title": "Le sens de l'islam et de la religion",
+        "shortDescription": "L'islam est un abandon sincère à Dieu qui apaise le cœur ; la religion est le lien qui donne un sens à la vie.",
+        "mainPrinciple": "L'islam, c'est se remettre à Dieu de plein gré, avec confiance, sans contrainte.",
+        "summaryPoints": [
+          "La racine du mot islam signifie soumission et paix.",
+          "La religion est un chemin qui relie l'être humain à son Créateur et au sens de la vie.",
+          "S'abandonner n'est pas perdre ; c'est trouver la véritable sérénité."
+        ],
+        "dailyReflection": "Aujourd'hui, confie un petit souci à Dieu et dis : « Je me fie à Toi. »",
+        "dawahTip": "Présente la foi non comme une liste de règles, mais comme un lien qui apaise le cœur.",
+        "questionAnswer": {
+          "question": "Que signifie le mot islam ?",
+          "answer": "L'islam porte les sens de soumission, de bien-être et de paix. À mesure que l'on se remet à Dieu, la paix emplit le cœur."
+        },
+        "referenceNote": "D'après les principes du Tawhid et de l'abandon volontaire.",
+        "shareText": "L'islam est un doux abandon qui libère le cœur de sa fatigue."
+      },
+      "pt-BR": {
+        "title": "O significado do Islã e da religião",
+        "shortDescription": "O Islã é uma entrega sincera a Deus que traz paz ao coração; a religião é o vínculo que dá direção à vida.",
+        "mainPrinciple": "O Islã é entregar-se a Deus de boa vontade, com confiança, sem imposição.",
+        "summaryPoints": [
+          "A raiz da palavra Islã significa entrega e paz.",
+          "A religião é um caminho que liga a pessoa ao seu Criador e ao sentido da vida.",
+          "Entregar-se não é perder; é encontrar a verdadeira serenidade."
+        ],
+        "dailyReflection": "Hoje, entregue uma pequena preocupação a Deus e diga: 'Confio em Ti.'",
+        "dawahTip": "Apresente a fé não como uma lista de regras, mas como um vínculo que dá descanso ao coração.",
+        "questionAnswer": {
+          "question": "O que significa a palavra Islã?",
+          "answer": "Islã carrega os sentidos de entrega, bem-estar e paz. À medida que a pessoa se entrega a Deus, a paz preenche o coração."
+        },
+        "referenceNote": "Baseado nos princípios do Tawhid e da entrega voluntária.",
+        "shareText": "O Islã é uma entrega suave que liberta o coração do seu cansaço."
+      },
+      "de": {
+        "title": "Die Bedeutung von Islam und Religion",
+        "shortDescription": "Der Islam ist eine herzliche Hingabe an Gott, die dem Herzen Frieden schenkt; Religion ist das Band, das dem Leben Richtung gibt.",
+        "mainPrinciple": "Islam bedeutet, sich Gott freiwillig und vertrauensvoll hinzugeben, nicht aus Zwang.",
+        "summaryPoints": [
+          "Die Wurzel des Wortes Islam bedeutet Hingabe und Frieden.",
+          "Religion ist ein Weg, der den Menschen mit seinem Schöpfer und dem Sinn des Lebens verbindet.",
+          "Hingabe ist kein Verlust; sie ist das Finden wahrer Gelassenheit."
+        ],
+        "dailyReflection": "Übergib heute eine kleine Sorge Gott und sage: 'Ich vertraue auf Dich.'",
+        "dawahTip": "Stelle den Glauben nicht als Regelliste dar, sondern als ein Band, das dem Herzen Ruhe gibt.",
+        "questionAnswer": {
+          "question": "Was bedeutet das Wort Islam?",
+          "answer": "Islam trägt die Bedeutungen von Hingabe, Wohlergehen und Frieden. In dem Maße, wie der Mensch sich Gott hingibt, erfüllt Frieden sein Herz."
+        },
+        "referenceNote": "Auf Grundlage der Prinzipien des Tawhid und der freiwilligen Hingabe.",
+        "shareText": "Der Islam ist eine sanfte Hingabe, die das Herz von seiner Müdigkeit befreit."
+      },
+      "es": {
+        "title": "El significado del islam y de la religión",
+        "shortDescription": "El islam es una entrega sincera a Dios que trae paz al corazón; la religión es el vínculo que da dirección a la vida.",
+        "mainPrinciple": "El islam es entregarse a Dios de buena voluntad, con confianza, no por imposición.",
+        "summaryPoints": [
+          "La raíz de la palabra islam significa entrega y paz.",
+          "La religión es un camino que une a la persona con su Creador y con el sentido de la vida.",
+          "Entregarse no es perder; es encontrar la verdadera serenidad."
+        ],
+        "dailyReflection": "Hoy, entrégale a Dios una pequeña preocupación y di: 'Confío en Ti.'",
+        "dawahTip": "Presenta la fe no como una lista de reglas, sino como un vínculo que da descanso al corazón.",
+        "questionAnswer": {
+          "question": "¿Qué significa la palabra islam?",
+          "answer": "La palabra islam encierra los significados de entrega, bienestar y paz. A medida que la persona se entrega a Dios, la paz llena su corazón."
+        },
+        "referenceNote": "Basado en los principios del Tawhid y de la entrega voluntaria.",
+        "shareText": "El islam es una entrega suave que libera al corazón de su cansancio."
+      }
+    }
+  },
+  {
+    "id": "what-is-islam-religion-and-fitrah",
+    "category": "what-is-islam",
+    "icon": "leaf-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["fitrah", "fıtrat", "nature", "din", "innate"],
+    "content": {
+      "tr": {
+        "title": "Din ve Fıtrat: İçimizdeki Pusula",
+        "shortDescription": "İnsan, içinde yaratıcısını arayan bir duyguyla doğar; din bu fıtrî arayışa cevap verir.",
+        "mainPrinciple": "Din, fıtrata aykırı değil, onun saf sesine kulak vermektir.",
+        "summaryPoints": [
+          "Her insan, anlam ve yaratıcı arayışıyla dünyaya gelir.",
+          "İslam bu doğal arayışı bastırmaz, ona yön verir.",
+          "Fıtrata uygun yaşamak, insanı kendine ve huzura yaklaştırır."
+        ],
+        "dailyReflection": "Bugün bir doğa manzarasına bakıp 'Bunu kim bu kadar düzenli yarattı?' diye düşün.",
+        "dawahTip": "İnsanın içindeki o derin anlam arayışını hatırlat; din onu zorlamaz, doğrular.",
+        "questionAnswer": {
+          "question": "Fıtrat ne demektir?",
+          "answer": "Fıtrat, insanın yaratılıştan gelen temiz doğasıdır. İslam, bu doğanın yaratıcısına yönelen sesine cevap verir."
+        },
+        "referenceNote": "İnsanın yaratılış doğası ve teslimiyet ilkeleri üzerine.",
+        "shareText": "İçindeki anlam arayışı tesadüf değil; o, fıtratının sesidir."
+      },
+      "en": {
+        "title": "Religion and Fitrah: The Compass Within",
+        "shortDescription": "A person is born with a longing that searches for their Creator; religion answers this innate quest.",
+        "mainPrinciple": "Religion does not oppose human nature; it listens to its pure voice.",
+        "summaryPoints": [
+          "Every person comes into the world searching for meaning and a Creator.",
+          "Islam does not suppress this natural search; it gives it direction.",
+          "Living in harmony with one's nature draws a person closer to peace."
+        ],
+        "dailyReflection": "Today, look at a scene of nature and wonder, 'Who created this with such order?'",
+        "dawahTip": "Remind people of the deep search for meaning within them; faith does not force it, it confirms it.",
+        "questionAnswer": {
+          "question": "What does fitrah mean?",
+          "answer": "Fitrah is the pure nature a person is born with. Islam answers the voice of this nature as it turns toward its Creator."
+        },
+        "referenceNote": "Based on the principles of innate human nature and surrender.",
+        "shareText": "The search for meaning inside you is no accident; it is the voice of your nature."
+      },
+      "fr": {
+        "title": "Religion et fitra : la boussole intérieure",
+        "shortDescription": "L'être humain naît avec une aspiration qui cherche son Créateur ; la religion répond à cette quête innée.",
+        "mainPrinciple": "La religion ne s'oppose pas à la nature humaine ; elle écoute sa voix pure.",
+        "summaryPoints": [
+          "Chaque personne vient au monde en quête de sens et d'un Créateur.",
+          "L'islam n'étouffe pas cette recherche naturelle ; il lui donne une direction.",
+          "Vivre en harmonie avec sa nature rapproche l'être humain de la paix."
+        ],
+        "dailyReflection": "Aujourd'hui, contemple un paysage et demande-toi : « Qui a créé cela avec tant d'ordre ? »",
+        "dawahTip": "Rappelle la profonde quête de sens présente en chacun ; la foi ne la force pas, elle la confirme.",
+        "questionAnswer": {
+          "question": "Que signifie la fitra ?",
+          "answer": "La fitra est la nature pure avec laquelle l'être humain naît. L'islam répond à la voix de cette nature qui se tourne vers son Créateur."
+        },
+        "referenceNote": "D'après les principes de la nature humaine originelle et de l'abandon.",
+        "shareText": "La quête de sens en toi n'est pas un hasard ; c'est la voix de ta nature."
+      },
+      "pt-BR": {
+        "title": "Religião e fitrah: a bússola interior",
+        "shortDescription": "A pessoa nasce com um anseio que busca o seu Criador; a religião responde a essa busca inata.",
+        "mainPrinciple": "A religião não se opõe à natureza humana; ela escuta a sua voz pura.",
+        "summaryPoints": [
+          "Toda pessoa vem ao mundo em busca de sentido e de um Criador.",
+          "O Islã não reprime essa busca natural; ele lhe dá direção.",
+          "Viver em harmonia com a própria natureza aproxima a pessoa da paz."
+        ],
+        "dailyReflection": "Hoje, observe uma paisagem natural e pergunte: 'Quem criou isto com tanta ordem?'",
+        "dawahTip": "Lembre as pessoas da profunda busca de sentido dentro delas; a fé não a força, ela a confirma.",
+        "questionAnswer": {
+          "question": "O que significa fitrah?",
+          "answer": "Fitrah é a natureza pura com a qual a pessoa nasce. O Islã responde à voz dessa natureza ao voltar-se para o seu Criador."
+        },
+        "referenceNote": "Baseado nos princípios da natureza humana original e da entrega.",
+        "shareText": "A busca de sentido dentro de você não é acaso; é a voz da sua natureza."
+      },
+      "de": {
+        "title": "Religion und Fitra: Der Kompass im Inneren",
+        "shortDescription": "Der Mensch wird mit einer Sehnsucht geboren, die nach seinem Schöpfer sucht; Religion antwortet auf diese angeborene Suche.",
+        "mainPrinciple": "Religion widerspricht der menschlichen Natur nicht; sie hört auf deren reine Stimme.",
+        "summaryPoints": [
+          "Jeder Mensch kommt auf die Suche nach Sinn und einem Schöpfer zur Welt.",
+          "Der Islam unterdrückt diese natürliche Suche nicht; er gibt ihr Richtung.",
+          "Im Einklang mit der eigenen Natur zu leben bringt den Menschen dem Frieden näher."
+        ],
+        "dailyReflection": "Betrachte heute eine Naturszene und frage: 'Wer hat dies mit solcher Ordnung erschaffen?'",
+        "dawahTip": "Erinnere an die tiefe Sinnsuche im Inneren des Menschen; der Glaube erzwingt sie nicht, er bestätigt sie.",
+        "questionAnswer": {
+          "question": "Was bedeutet Fitra?",
+          "answer": "Fitra ist die reine Natur, mit der der Mensch geboren wird. Der Islam antwortet auf die Stimme dieser Natur, wenn sie sich ihrem Schöpfer zuwendet."
+        },
+        "referenceNote": "Auf Grundlage der Prinzipien der ursprünglichen menschlichen Natur und der Hingabe.",
+        "shareText": "Die Sinnsuche in dir ist kein Zufall; sie ist die Stimme deiner Natur."
+      },
+      "es": {
+        "title": "Religión y fitrah: la brújula interior",
+        "shortDescription": "La persona nace con un anhelo que busca a su Creador; la religión responde a esa búsqueda innata.",
+        "mainPrinciple": "La religión no se opone a la naturaleza humana; escucha su voz pura.",
+        "summaryPoints": [
+          "Toda persona viene al mundo en busca de sentido y de un Creador.",
+          "El islam no reprime esa búsqueda natural; le da dirección.",
+          "Vivir en armonía con la propia naturaleza acerca a la persona a la paz."
+        ],
+        "dailyReflection": "Hoy, observa un paisaje natural y pregúntate: '¿Quién creó esto con tanto orden?'",
+        "dawahTip": "Recuérdale a la gente la profunda búsqueda de sentido que llevan dentro; la fe no la fuerza, la confirma.",
+        "questionAnswer": {
+          "question": "¿Qué significa fitrah?",
+          "answer": "Fitrah es la naturaleza pura con la que nace la persona. El islam responde a la voz de esa naturaleza cuando se vuelve hacia su Creador."
+        },
+        "referenceNote": "Basado en los principios de la naturaleza humana original y de la entrega.",
+        "shareText": "La búsqueda de sentido dentro de ti no es casualidad; es la voz de tu naturaleza."
+      }
+    }
+  },
+  {
+    "id": "what-is-islam-tawhid-balance",
+    "category": "what-is-islam",
+    "icon": "scale-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["tawhid", "tevhid", "balance", "denge", "unity"],
+    "content": {
+      "tr": {
+        "title": "Tevhidin Hayata Kattığı Denge",
+        "shortDescription": "Tek bir Allah'a inanmak, dağınık kalbi tek bir merkeze bağlar ve hayata sükûnet kazandırır.",
+        "mainPrinciple": "Tevhid, kalbi tek kapıya bağlayarak hayata denge ve sükûnet verir.",
+        "summaryPoints": [
+          "Tevhid, sayısız korku ve bağımlılık yerine tek bir güvene yöneltir.",
+          "Tek merkez, insanın önceliklerini sadeleştirir ve karışıklığı azaltır.",
+          "Yalnız Allah'a kulluk, insanı başka şeylerin kölesi olmaktan kurtarır."
+        ],
+        "dailyReflection": "Bugün bir kararını verirken 'Bu Allah'ı razı eder mi?' diye kendine sor.",
+        "dawahTip": "Tevhidi yalnızca bir inanç maddesi değil, kalbi sadeleştiren bir özgürlük olarak anlat.",
+        "questionAnswer": {
+          "question": "Tevhid hayatı nasıl dengeler?",
+          "answer": "Tevhid, kalbi tek bir güven kaynağına bağlar. Böylece insan birçok korkuya ve bağımlılığa dağılmadan iç huzur bulur."
+        },
+        "referenceNote": "Tevhid ve yalnız Allah'a kulluk ilkeleri üzerine.",
+        "shareText": "Tek bir Allah'a bağlanan kalp, bin parçaya bölünmekten kurtulur."
+      },
+      "en": {
+        "title": "The Balance That Tawhid Brings to Life",
+        "shortDescription": "Believing in one God anchors a scattered heart to a single center and brings calm to life.",
+        "mainPrinciple": "Tawhid ties the heart to one door, giving life balance and tranquility.",
+        "summaryPoints": [
+          "Tawhid turns countless fears and dependencies into a single trust.",
+          "One center simplifies a person's priorities and reduces confusion.",
+          "Serving God alone frees a person from being enslaved to other things."
+        ],
+        "dailyReflection": "Today, when making a decision, ask yourself, 'Would this please God?'",
+        "dawahTip": "Present Tawhid not merely as a creed, but as a freedom that simplifies the heart.",
+        "questionAnswer": {
+          "question": "How does Tawhid bring balance to life?",
+          "answer": "Tawhid anchors the heart to a single source of trust. So a person finds inner peace without being scattered among many fears and dependencies."
+        },
+        "referenceNote": "Based on the principles of Tawhid and serving God alone.",
+        "shareText": "A heart tied to one God is saved from being broken into a thousand pieces."
+      },
+      "fr": {
+        "title": "L'équilibre que le Tawhid apporte à la vie",
+        "shortDescription": "Croire en un seul Dieu ancre le cœur dispersé en un centre unique et apporte la sérénité.",
+        "mainPrinciple": "Le Tawhid relie le cœur à une seule porte et offre à la vie équilibre et quiétude.",
+        "summaryPoints": [
+          "Le Tawhid transforme d'innombrables peurs et dépendances en une seule confiance.",
+          "Un centre unique simplifie les priorités et réduit la confusion.",
+          "N'adorer que Dieu libère l'être humain de l'asservissement aux autres choses."
+        ],
+        "dailyReflection": "Aujourd'hui, avant une décision, demande-toi : « Cela plairait-il à Dieu ? »",
+        "dawahTip": "Présente le Tawhid non comme un simple article de foi, mais comme une liberté qui apaise le cœur.",
+        "questionAnswer": {
+          "question": "Comment le Tawhid apporte-t-il l'équilibre à la vie ?",
+          "answer": "Le Tawhid ancre le cœur en une source unique de confiance. Ainsi l'être humain trouve la paix intérieure sans se disperser entre mille peurs et dépendances."
+        },
+        "referenceNote": "D'après les principes du Tawhid et de l'adoration de Dieu seul.",
+        "shareText": "Un cœur relié à un seul Dieu échappe à l'éclatement en mille morceaux."
+      },
+      "pt-BR": {
+        "title": "O equilíbrio que o Tawhid traz à vida",
+        "shortDescription": "Crer em um só Deus ancora o coração disperso em um único centro e traz serenidade à vida.",
+        "mainPrinciple": "O Tawhid liga o coração a uma só porta, dando à vida equilíbrio e tranquilidade.",
+        "summaryPoints": [
+          "O Tawhid transforma inúmeros medos e dependências em uma única confiança.",
+          "Um único centro simplifica as prioridades e reduz a confusão.",
+          "Adorar somente a Deus liberta a pessoa da escravidão a outras coisas."
+        ],
+        "dailyReflection": "Hoje, ao tomar uma decisão, pergunte-se: 'Isto agradaria a Deus?'",
+        "dawahTip": "Apresente o Tawhid não apenas como um artigo de fé, mas como uma liberdade que simplifica o coração.",
+        "questionAnswer": {
+          "question": "Como o Tawhid traz equilíbrio à vida?",
+          "answer": "O Tawhid ancora o coração em uma única fonte de confiança. Assim a pessoa encontra paz interior sem se dispersar entre muitos medos e dependências."
+        },
+        "referenceNote": "Baseado nos princípios do Tawhid e da adoração somente a Deus.",
+        "shareText": "Um coração ligado a um só Deus se livra de partir-se em mil pedaços."
+      },
+      "de": {
+        "title": "Das Gleichgewicht, das Tawhid dem Leben schenkt",
+        "shortDescription": "An einen einzigen Gott zu glauben verankert das zerstreute Herz in einem Zentrum und schenkt dem Leben Ruhe.",
+        "mainPrinciple": "Tawhid bindet das Herz an eine einzige Tür und gibt dem Leben Gleichgewicht und Stille.",
+        "summaryPoints": [
+          "Tawhid verwandelt unzählige Ängste und Abhängigkeiten in ein einziges Vertrauen.",
+          "Ein einziges Zentrum vereinfacht die Prioritäten und mindert die Verwirrung.",
+          "Allein Gott zu dienen befreit den Menschen von der Knechtschaft an andere Dinge."
+        ],
+        "dailyReflection": "Frage dich heute vor einer Entscheidung: 'Würde dies Gott gefallen?'",
+        "dawahTip": "Stelle Tawhid nicht bloß als Glaubenssatz dar, sondern als eine Freiheit, die das Herz vereinfacht.",
+        "questionAnswer": {
+          "question": "Wie bringt Tawhid Gleichgewicht ins Leben?",
+          "answer": "Tawhid verankert das Herz in einer einzigen Quelle des Vertrauens. So findet der Mensch inneren Frieden, ohne sich in viele Ängste und Abhängigkeiten zu zerstreuen."
+        },
+        "referenceNote": "Auf Grundlage der Prinzipien des Tawhid und des Dienens allein an Gott.",
+        "shareText": "Ein Herz, das an einen einzigen Gott gebunden ist, bewahrt sich davor, in tausend Stücke zu zerbrechen."
+      },
+      "es": {
+        "title": "El equilibrio que el Tawhid trae a la vida",
+        "shortDescription": "Creer en un solo Dios ancla el corazón disperso en un único centro y trae serenidad a la vida.",
+        "mainPrinciple": "El Tawhid ata el corazón a una sola puerta, dando a la vida equilibrio y tranquilidad.",
+        "summaryPoints": [
+          "El Tawhid transforma innumerables miedos y dependencias en una sola confianza.",
+          "Un único centro simplifica las prioridades de la persona y reduce la confusión.",
+          "Adorar solo a Dios libera a la persona de la esclavitud a otras cosas."
+        ],
+        "dailyReflection": "Hoy, al tomar una decisión, pregúntate: '¿Esto agradaría a Dios?'",
+        "dawahTip": "Presenta el Tawhid no solo como un artículo de fe, sino como una libertad que simplifica el corazón.",
+        "questionAnswer": {
+          "question": "¿Cómo trae el Tawhid equilibrio a la vida?",
+          "answer": "El Tawhid ancla el corazón en una única fuente de confianza. Así la persona encuentra paz interior sin dispersarse entre muchos miedos y dependencias."
+        },
+        "referenceNote": "Basado en los principios del Tawhid y de la adoración solo a Dios.",
+        "shareText": "Un corazón ligado a un solo Dios se libra de partirse en mil pedazos."
+      }
+    }
+  },
+  {
+    "id": "what-is-islam-this-world-and-hereafter",
+    "category": "what-is-islam",
+    "icon": "infinite-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 4,
+    "tags": ["dünya", "ahiret", "hereafter", "purpose", "responsibility"],
+    "content": {
+      "tr": {
+        "title": "Dünya ve Ahiret Bütünlüğü",
+        "shortDescription": "İslam, dünyayı ahiretin tarlası görür; iki hayat bir bütündür ve bugün attığın tohum yarın meyve verir.",
+        "mainPrinciple": "Dünya ve ahiret düşman değil, aynı yolun iki ucudur.",
+        "summaryPoints": [
+          "İslam dünyayı terk etmeyi değil, onu anlamlı yaşamayı ister.",
+          "Bugünkü iyiliklerimiz, kalıcı bir hayatın hazırlığıdır.",
+          "Sorumluluk bilinci, dünyayı amaçsızlıktan kurtarır."
+        ],
+        "dailyReflection": "Bugün küçük bir iyilik yap ve onu 'kalıcı hayatım için' niyetiyle yap.",
+        "dawahTip": "Ahireti korkuyla değil, hayatı anlamlandıran bir devamlılık olarak anlat.",
+        "questionAnswer": {
+          "question": "İslam dünya hayatını küçümser mi?",
+          "answer": "Hayır. İslam dünyayı, ahirete hazırlanılan değerli bir alan görür. İkisi birbirini tamamlar; biri için diğeri feda edilmez."
+        },
+        "referenceNote": "Sorumluluk bilinci ve dünya-ahiret bütünlüğü ilkeleri üzerine.",
+        "shareText": "Bugün ektiğin iyilik, kalıcı bir hayatta meyve verir."
+      },
+      "en": {
+        "title": "The Wholeness of This World and the Hereafter",
+        "shortDescription": "Islam sees this world as the field of the Hereafter; the two lives are one, and the seed you plant today bears fruit tomorrow.",
+        "mainPrinciple": "This world and the Hereafter are not enemies, but two ends of the same road.",
+        "summaryPoints": [
+          "Islam asks us not to abandon the world, but to live it meaningfully.",
+          "Our good deeds today are preparation for a lasting life.",
+          "A sense of responsibility rescues the world from purposelessness."
+        ],
+        "dailyReflection": "Do one small kindness today, with the intention, 'For my lasting life.'",
+        "dawahTip": "Present the Hereafter not through fear, but as a continuity that gives life meaning.",
+        "questionAnswer": {
+          "question": "Does Islam belittle this worldly life?",
+          "answer": "No. Islam sees the world as a precious field in which one prepares for the Hereafter. The two complete each other; neither is sacrificed for the other."
+        },
+        "referenceNote": "Based on the principles of responsibility and the unity of this world and the Hereafter.",
+        "shareText": "The kindness you sow today bears fruit in a lasting life."
+      },
+      "fr": {
+        "title": "L'unité de ce monde et de l'au-delà",
+        "shortDescription": "L'islam voit ce monde comme le champ de l'au-delà ; les deux vies ne font qu'une, et la graine semée aujourd'hui portera ses fruits demain.",
+        "mainPrinciple": "Ce monde et l'au-delà ne sont pas ennemis, mais les deux bouts d'un même chemin.",
+        "summaryPoints": [
+          "L'islam ne demande pas de fuir le monde, mais de le vivre avec sens.",
+          "Nos bonnes actions d'aujourd'hui préparent une vie durable.",
+          "Le sens des responsabilités délivre le monde de l'absurde."
+        ],
+        "dailyReflection": "Accomplis une petite bonté aujourd'hui, avec l'intention : « Pour ma vie durable. »",
+        "dawahTip": "Présente l'au-delà non par la peur, mais comme une continuité qui donne un sens à la vie.",
+        "questionAnswer": {
+          "question": "L'islam méprise-t-il la vie de ce monde ?",
+          "answer": "Non. L'islam voit le monde comme un champ précieux où l'on se prépare à l'au-delà. Les deux se complètent ; aucun n'est sacrifié pour l'autre."
+        },
+        "referenceNote": "D'après les principes de la responsabilité et de l'unité de ce monde et de l'au-delà.",
+        "shareText": "La bonté que tu sèmes aujourd'hui portera ses fruits dans une vie durable."
+      },
+      "pt-BR": {
+        "title": "A unidade entre este mundo e a vida futura",
+        "shortDescription": "O Islã vê este mundo como o campo da vida futura; as duas vidas são uma só, e a semente que você planta hoje dá fruto amanhã.",
+        "mainPrinciple": "Este mundo e a vida futura não são inimigos, mas duas pontas do mesmo caminho.",
+        "summaryPoints": [
+          "O Islã não pede que abandonemos o mundo, mas que o vivamos com sentido.",
+          "Nossas boas ações de hoje são preparação para uma vida duradoura.",
+          "O senso de responsabilidade resgata o mundo da falta de propósito."
+        ],
+        "dailyReflection": "Faça hoje uma pequena bondade com a intenção: 'Pela minha vida duradoura.'",
+        "dawahTip": "Apresente a vida futura não pelo medo, mas como uma continuidade que dá sentido à vida.",
+        "questionAnswer": {
+          "question": "O Islã despreza a vida deste mundo?",
+          "answer": "Não. O Islã vê o mundo como um campo precioso no qual se prepara para a vida futura. Os dois se completam; nenhum é sacrificado pelo outro."
+        },
+        "referenceNote": "Baseado nos princípios da responsabilidade e da unidade entre este mundo e a vida futura.",
+        "shareText": "A bondade que você semeia hoje dá fruto numa vida duradoura."
+      },
+      "de": {
+        "title": "Die Ganzheit von Diesseits und Jenseits",
+        "shortDescription": "Der Islam sieht diese Welt als das Feld des Jenseits; beide Leben sind eines, und der Same, den du heute pflanzt, trägt morgen Frucht.",
+        "mainPrinciple": "Diesseits und Jenseits sind keine Feinde, sondern zwei Enden desselben Weges.",
+        "summaryPoints": [
+          "Der Islam verlangt nicht, die Welt zu verlassen, sondern sie sinnvoll zu leben.",
+          "Unsere guten Taten heute sind Vorbereitung auf ein bleibendes Leben.",
+          "Verantwortungsbewusstsein rettet die Welt vor der Sinnlosigkeit."
+        ],
+        "dailyReflection": "Tue heute eine kleine Güte mit der Absicht: 'Für mein bleibendes Leben.'",
+        "dawahTip": "Stelle das Jenseits nicht durch Angst dar, sondern als eine Kontinuität, die dem Leben Sinn gibt.",
+        "questionAnswer": {
+          "question": "Geringschätzt der Islam das diesseitige Leben?",
+          "answer": "Nein. Der Islam sieht die Welt als ein kostbares Feld, auf dem man sich auf das Jenseits vorbereitet. Beide ergänzen einander; keines wird für das andere geopfert."
+        },
+        "referenceNote": "Auf Grundlage der Prinzipien der Verantwortung und der Einheit von Diesseits und Jenseits.",
+        "shareText": "Die Güte, die du heute säst, trägt in einem bleibenden Leben Frucht."
+      },
+      "es": {
+        "title": "La unidad entre este mundo y la vida futura",
+        "shortDescription": "El islam ve este mundo como el campo de la vida futura; las dos vidas son una sola, y la semilla que plantas hoy da fruto mañana.",
+        "mainPrinciple": "Este mundo y la vida futura no son enemigos, sino dos extremos del mismo camino.",
+        "summaryPoints": [
+          "El islam no pide que abandonemos el mundo, sino que lo vivamos con sentido.",
+          "Nuestras buenas acciones de hoy son preparación para una vida duradera.",
+          "El sentido de responsabilidad rescata al mundo de la falta de propósito."
+        ],
+        "dailyReflection": "Haz hoy una pequeña bondad con la intención: 'Por mi vida duradera.'",
+        "dawahTip": "Presenta la vida futura no desde el miedo, sino como una continuidad que da sentido a la vida.",
+        "questionAnswer": {
+          "question": "¿El islam desprecia la vida de este mundo?",
+          "answer": "No. El islam ve el mundo como un campo valioso en el cual uno se prepara para la vida futura. Ambas se completan; ninguna se sacrifica por la otra."
+        },
+        "referenceNote": "Basado en los principios de la responsabilidad y de la unidad entre este mundo y la vida futura.",
+        "shareText": "La bondad que siembras hoy da fruto en una vida duradera."
+      }
+    }
+  },
+  {
+    "id": "what-is-islam-hz-isa",
+    "category": "what-is-islam",
+    "icon": "heart-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "Hz. İsa",
+      "Jesus",
+      "köprü",
+      "sevgi",
+      "peygamber"
+    ],
+    "content": {
+      "tr": {
+        "title": "Müslümanlar Hz. İsa'yı Nasıl Görür?",
+        "shortDescription": "Müslümanlar Hz. İsa'yı (Isa) yürekten sever ve sayar; o, Allah'ın seçtiği büyük bir peygamber ve Mesih'tir. Bu sevgi, çoğu kişinin tahmin ettiğinden çok daha derindir.",
+        "mainPrinciple": "Bir Müslüman, Hz. İsa'yı sevip saymadan imanını tamamlamış sayılmaz.",
+        "summaryPoints": [
+          "Kur'an, Hz. İsa'dan hürmetle söz eder ve onu 'Mesih' olarak anar.",
+          "O, Hz. Meryem'den babasız, mucizevi bir doğumla dünyaya gelmiştir.",
+          "Allah'ın izniyle hastaları iyileştirmiş ve nice mucizeler göstermiştir."
+        ],
+        "dailyReflection": "Bugün Hz. İsa'nın merhamet ve şefkat çağrısını hatırla; çevrendeki birine onun ruhuyla küçük bir iyilik yap.",
+        "dawahTip": "Bir Hristiyan dostuna 'Biz de İsa'yı çok severiz' diyerek başla; bu ortak sevgi, kurulabilecek en sıcak köprüdür.",
+        "questionAnswer": {
+          "question": "Müslümanlar Hz. İsa'yı gerçekten sever mi?",
+          "answer": "Evet, yürekten. Onu Allah'ın seçtiği büyük bir peygamber ve Mesih olarak görür, Hz. Meryem'le birlikte hürmetle anarız. Adı geçtiğinde saygıyla 'aleyhisselam' (ona selam olsun) deriz."
+        },
+        "referenceNote": "Bkz. Kur'an'da Hz. İsa ve Hz. Meryem'e dair ayetler (Âl-i İmrân ve Meryem sureleri).",
+        "shareText": "Müslümanlar için Hz. İsa, gönülde özel bir yeri olan, sevgiyle anılan büyük bir peygamberdir."
+      },
+      "en": {
+        "title": "How Do Muslims View Jesus?",
+        "shortDescription": "Muslims love and honor Jesus (Isa) deeply; he is a great prophet chosen by God and the Messiah. This love runs far deeper than most people expect.",
+        "mainPrinciple": "A Muslim's faith is not complete without loving and honoring Jesus.",
+        "summaryPoints": [
+          "The Qur'an speaks of Jesus with reverence and calls him the 'Messiah.'",
+          "He was born of the Virgin Mary through a miraculous, fatherless birth.",
+          "By God's permission, he healed the sick and performed many miracles."
+        ],
+        "dailyReflection": "Today, recall Jesus' call to mercy and compassion, and do a small kindness for someone near you in that same spirit.",
+        "dawahTip": "With a Christian friend, begin by saying, 'We love Jesus too'; that shared love is the warmest bridge you can build.",
+        "questionAnswer": {
+          "question": "Do Muslims really love Jesus?",
+          "answer": "Yes, wholeheartedly. We see him as a great prophet chosen by God and as the Messiah, and we honor him together with Mary. Whenever his name is mentioned, we respectfully say, 'peace be upon him.'"
+        },
+        "referenceNote": "See the verses on Jesus and Mary in the Qur'an (chapters Al-Imran and Maryam).",
+        "shareText": "For Muslims, Jesus is a beloved, great prophet who holds a special place in the heart."
+      },
+      "fr": {
+        "title": "Comment les musulmans voient-ils Jésus ?",
+        "shortDescription": "Les musulmans aiment et honorent profondément Jésus (Isa) ; il est un grand prophète choisi par Dieu et le Messie. Cet amour est bien plus profond que la plupart ne l'imaginent.",
+        "mainPrinciple": "La foi d'un musulman n'est pas complète sans l'amour et le respect de Jésus.",
+        "summaryPoints": [
+          "Le Coran parle de Jésus avec révérence et le nomme le « Messie ».",
+          "Il est né de la Vierge Marie par une naissance miraculeuse, sans père.",
+          "Avec la permission de Dieu, il a guéri les malades et accompli de nombreux miracles."
+        ],
+        "dailyReflection": "Aujourd'hui, rappelle-toi l'appel de Jésus à la miséricorde et à la compassion, et accomplis une petite bonté envers un proche dans ce même esprit.",
+        "dawahTip": "Avec un ami chrétien, commence par dire : « Nous aussi, nous aimons Jésus » ; cet amour partagé est le plus chaleureux des ponts à bâtir.",
+        "questionAnswer": {
+          "question": "Les musulmans aiment-ils vraiment Jésus ?",
+          "answer": "Oui, de tout cœur. Nous le voyons comme un grand prophète choisi par Dieu et comme le Messie, et nous l'honorons aux côtés de Marie. Chaque fois que son nom est cité, nous disons avec respect : « que la paix soit sur lui »."
+        },
+        "referenceNote": "Voir les versets sur Jésus et Marie dans le Coran (sourates Al-Imran et Maryam).",
+        "shareText": "Pour les musulmans, Jésus est un grand prophète bien-aimé qui occupe une place particulière dans le cœur."
+      },
+      "pt-BR": {
+        "title": "Como os muçulmanos veem Jesus?",
+        "shortDescription": "Os muçulmanos amam e honram profundamente Jesus (Isa); ele é um grande profeta escolhido por Deus e o Messias. Esse amor é bem mais profundo do que a maioria imagina.",
+        "mainPrinciple": "A fé de um muçulmano não está completa sem amar e honrar Jesus.",
+        "summaryPoints": [
+          "O Alcorão fala de Jesus com reverência e o chama de 'Messias'.",
+          "Ele nasceu da Virgem Maria por meio de um nascimento milagroso, sem pai.",
+          "Com a permissão de Deus, ele curou os doentes e realizou muitos milagres."
+        ],
+        "dailyReflection": "Hoje, lembre-se do chamado de Jesus à misericórdia e à compaixão, e faça uma pequena bondade a alguém próximo com esse mesmo espírito.",
+        "dawahTip": "Com um amigo cristão, comece dizendo: 'Nós também amamos Jesus'; esse amor que temos em comum é a ponte mais acolhedora que se pode construir.",
+        "questionAnswer": {
+          "question": "Os muçulmanos realmente amam Jesus?",
+          "answer": "Sim, de todo o coração. Nós o vemos como um grande profeta escolhido por Deus e como o Messias, e o honramos junto com Maria. Sempre que seu nome é mencionado, dizemos com respeito: 'a paz esteja com ele'."
+        },
+        "referenceNote": "Veja os versículos sobre Jesus e Maria no Alcorão (suratas Al-Imran e Maryam).",
+        "shareText": "Para os muçulmanos, Jesus é um grande profeta amado que ocupa um lugar especial no coração."
+      },
+      "de": {
+        "title": "Wie sehen Muslime Jesus?",
+        "shortDescription": "Muslime lieben und ehren Jesus (Isa) von Herzen; er ist ein großer Prophet, den Gott erwählt hat, und der Messias. Diese Liebe reicht weit tiefer, als die meisten vermuten.",
+        "mainPrinciple": "Der Glaube eines Muslims ist nicht vollständig, ohne Jesus zu lieben und zu ehren.",
+        "summaryPoints": [
+          "Der Koran spricht von Jesus mit Ehrfurcht und nennt ihn den 'Messias'.",
+          "Er wurde von der Jungfrau Maria durch eine wundersame, vaterlose Geburt geboren.",
+          "Mit Gottes Erlaubnis heilte er Kranke und vollbrachte viele Wunder."
+        ],
+        "dailyReflection": "Erinnere dich heute an Jesu Ruf zu Barmherzigkeit und Mitgefühl und tue jemandem in deiner Nähe in eben diesem Geist eine kleine Güte.",
+        "dawahTip": "Beginne bei einem christlichen Freund mit den Worten: 'Auch wir lieben Jesus'; diese gemeinsame Liebe ist die wärmste Brücke, die man bauen kann.",
+        "questionAnswer": {
+          "question": "Lieben Muslime Jesus wirklich?",
+          "answer": "Ja, von ganzem Herzen. Wir sehen ihn als einen großen Propheten, den Gott erwählt hat, und als den Messias, und wir ehren ihn gemeinsam mit Maria. Wann immer sein Name genannt wird, sagen wir ehrfürchtig: 'Friede sei mit ihm'."
+        },
+        "referenceNote": "Siehe die Verse über Jesus und Maria im Koran (Suren Al-Imran und Maryam).",
+        "shareText": "Für Muslime ist Jesus ein geliebter, großer Prophet, der einen besonderen Platz im Herzen einnimmt."
+      },
+      "es": {
+        "title": "¿Cómo ven los musulmanes a Jesús?",
+        "shortDescription": "Los musulmanes aman y honran profundamente a Jesús (Isa); él es un gran profeta elegido por Dios y el Mesías. Este amor es mucho más profundo de lo que la mayoría imagina.",
+        "mainPrinciple": "La fe de un musulmán no está completa sin amar y honrar a Jesús.",
+        "summaryPoints": [
+          "El Corán habla de Jesús con reverencia y lo llama el 'Mesías'.",
+          "Nació de la Virgen María mediante un nacimiento milagroso, sin padre.",
+          "Con el permiso de Dios, sanó a los enfermos y realizó muchos milagros."
+        ],
+        "dailyReflection": "Hoy, recuerda el llamado de Jesús a la misericordia y la compasión, y haz una pequeña bondad a alguien cercano con ese mismo espíritu.",
+        "dawahTip": "Con un amigo cristiano, comienza diciendo: 'Nosotros también amamos a Jesús'; ese amor en común es el puente más cálido que se puede construir.",
+        "questionAnswer": {
+          "question": "¿Los musulmanes realmente aman a Jesús?",
+          "answer": "Sí, de todo corazón. Lo vemos como un gran profeta elegido por Dios y como el Mesías, y lo honramos junto con María. Cada vez que se menciona su nombre, decimos con respeto: 'la paz sea con él'."
+        },
+        "referenceNote": "Véanse los versículos sobre Jesús y María en el Corán (capítulos Al-Imran y Maryam).",
+        "shareText": "Para los musulmanes, Jesús es un gran profeta amado que ocupa un lugar especial en el corazón."
+      }
+    }
+  },
+  {
+    "id": "what-is-islam-isa-ilahligi",
+    "category": "what-is-islam",
+    "icon": "bulb-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "tevhid",
+      "teslis",
+      "İsa",
+      "Allah",
+      "köprü"
+    ],
+    "content": {
+      "tr": {
+        "title": "Müslümanlar Neden \"İsa Allah'ın Oğlu\" Demez?",
+        "shortDescription": "Müslümanlar Hz. İsa'yı yürekten sever ve onu Allah'ın yüce bir elçisi bilir. Onu Tanrı ya da Tanrı'nın oğlu görmemek, onu küçültmek değil; onu da gönderen tek Yaratıcı'yı yüceltmektir.",
+        "mainPrinciple": "Biz İsa'yı Allah'ın seçkin elçisi olarak severiz; çünkü inancımızın özü, doğmamış ve doğurmamış olan tek Allah'tır.",
+        "summaryPoints": [
+          "Müslümanlar Hz. İsa'yı ve annesi Hz. Meryem'i derin bir sevgi ve saygıyla anar.",
+          "İslam'a göre Allah birdir; eşi, benzeri, ortağı ve evladı yoktur.",
+          "İsa'yı 'oğul' değil 'elçi' bilmek onu eksiltmez; onu gönderen Allah'ı yüceltir."
+        ],
+        "dailyReflection": "Bugün Hz. İsa'nın merhamet ve sabırla dolu hayatını düşün; onu bize tanıtan tek Yaratıcı'ya gönülden şükret.",
+        "dawahTip": "Bu konuyu Hristiyan bir dostuna açarken önce İsa ve Meryem sevginizi paylaştığını söyle; 'biz şöyle anlıyoruz, çünkü...' diliyle, yumuşaklıkla konuş.",
+        "questionAnswer": {
+          "question": "Müslümanlar İsa'yı sevmiyor mu?",
+          "answer": "Aksine, İslam İsa'yı sevmeyi gerekli kılar; onsuz iman tamamlanmaz. Sadece onu Allah'ın yüce bir elçisi olarak görür; Allah'ın kendisi ya da oğlu olarak değil."
+        },
+        "referenceNote": "Bkz. Kur'an'da Allah'ın birliğine ve Hz. İsa ile Hz. Meryem'e dair ayetler.",
+        "shareText": "İsa'yı sevmek ile tek Allah'a inanmak çelişmez; biz onu, kendisini de gönderen Yaratıcı'yı yücelterek severiz."
+      },
+      "en": {
+        "title": "Why Don't Muslims Say \"Jesus Is the Son of God\"?",
+        "shortDescription": "Muslims love Jesus deeply and honor him as a noble messenger of God. Not seeing him as God or the son of God is not to diminish him, but to glorify the one Creator who also sent him.",
+        "mainPrinciple": "We love Jesus as a chosen messenger of God, because the heart of our faith is the one God who was not born and does not give birth.",
+        "summaryPoints": [
+          "Muslims remember Jesus and his mother Mary with deep love and respect.",
+          "In Islam, God is one; He has no equal, no likeness, no partner, and no offspring.",
+          "Knowing Jesus as a 'messenger' rather than a 'son' does not lessen him; it exalts the God who sent him."
+        ],
+        "dailyReflection": "Today, reflect on Jesus's life of mercy and patience, and thank from your heart the one Creator who made him known to us.",
+        "dawahTip": "When you open this topic with a Christian friend, first say that you share their love for Jesus and Mary; speak gently, in the spirit of 'this is how we understand it, because...'",
+        "questionAnswer": {
+          "question": "Don't Muslims love Jesus?",
+          "answer": "On the contrary, Islam makes loving Jesus essential; faith is incomplete without him. It simply sees him as a noble messenger of God, not as God Himself or His son."
+        },
+        "referenceNote": "See Quranic verses on the oneness of God and on Jesus and Mary.",
+        "shareText": "Loving Jesus and believing in one God are not at odds; we love him by glorifying the Creator who sent him too."
+      },
+      "fr": {
+        "title": "Pourquoi les musulmans ne disent-ils pas « Jésus est le Fils de Dieu » ?",
+        "shortDescription": "Les musulmans aiment profondément Jésus et l'honorent comme un noble messager de Dieu. Ne pas le voir comme Dieu ni comme le fils de Dieu, ce n'est pas le rabaisser, mais glorifier le Créateur unique qui l'a aussi envoyé.",
+        "mainPrinciple": "Nous aimons Jésus comme un messager choisi de Dieu, car le cœur de notre foi est le Dieu unique, qui n'a pas été engendré et qui n'engendre pas.",
+        "summaryPoints": [
+          "Les musulmans évoquent Jésus et sa mère Marie avec un profond amour et un grand respect.",
+          "Selon l'islam, Dieu est unique ; Il n'a ni égal, ni semblable, ni associé, ni enfant.",
+          "Reconnaître Jésus comme un « messager » plutôt qu'un « fils » ne le diminue pas ; cela exalte le Dieu qui l'a envoyé."
+        ],
+        "dailyReflection": "Aujourd'hui, médite sur la vie de miséricorde et de patience de Jésus, et remercie de tout cœur le Créateur unique qui nous l'a fait connaître.",
+        "dawahTip": "Quand tu abordes ce sujet avec un ami chrétien, dis d'abord que tu partages son amour pour Jésus et Marie ; parle avec douceur, dans l'esprit de « voici comment nous le comprenons, parce que... ».",
+        "questionAnswer": {
+          "question": "Les musulmans n'aiment-ils pas Jésus ?",
+          "answer": "Au contraire, l'islam fait de l'amour de Jésus une nécessité ; la foi est incomplète sans lui. Il le voit simplement comme un noble messager de Dieu, et non comme Dieu Lui-même ou Son fils."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'unicité de Dieu et sur Jésus et Marie.",
+        "shareText": "Aimer Jésus et croire en un seul Dieu ne s'opposent pas ; nous l'aimons en glorifiant le Créateur qui l'a aussi envoyé."
+      },
+      "pt-BR": {
+        "title": "Por que os muçulmanos não dizem \"Jesus é o Filho de Deus\"?",
+        "shortDescription": "Os muçulmanos amam profundamente Jesus e o honram como um nobre mensageiro de Deus. Não o ver como Deus nem como filho de Deus não é diminuí-lo, mas glorificar o único Criador que também o enviou.",
+        "mainPrinciple": "Amamos Jesus como um mensageiro escolhido de Deus, porque o cerne da nossa fé é o Deus único, que não foi gerado e não gera.",
+        "summaryPoints": [
+          "Os muçulmanos recordam Jesus e sua mãe Maria com profundo amor e respeito.",
+          "Para o Islã, Deus é único; Ele não tem igual, nem semelhante, nem associado, nem filho.",
+          "Reconhecer Jesus como um 'mensageiro', e não como um 'filho', não o diminui; exalta o Deus que o enviou."
+        ],
+        "dailyReflection": "Hoje, reflita sobre a vida de misericórdia e paciência de Jesus, e agradeça de coração ao único Criador que o tornou conhecido para nós.",
+        "dawahTip": "Ao abrir esse tema com um amigo cristão, diga primeiro que você compartilha o amor dele por Jesus e por Maria; fale com suavidade, no espírito de 'é assim que entendemos, porque...'",
+        "questionAnswer": {
+          "question": "Os muçulmanos não amam Jesus?",
+          "answer": "Pelo contrário, o Islã torna o amor a Jesus essencial; a fé fica incompleta sem ele. Apenas o vê como um nobre mensageiro de Deus, e não como o próprio Deus ou Seu filho."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a unicidade de Deus e sobre Jesus e Maria.",
+        "shareText": "Amar Jesus e crer em um só Deus não se opõem; nós o amamos glorificando o Criador que também o enviou."
+      },
+      "de": {
+        "title": "Warum sagen Muslime nicht \"Jesus ist der Sohn Gottes\"?",
+        "shortDescription": "Muslime lieben Jesus zutiefst und ehren ihn als einen edlen Gesandten Gottes. Ihn nicht als Gott oder als Sohn Gottes zu sehen, ist keine Herabsetzung, sondern eine Verherrlichung des einen Schöpfers, der ihn ebenfalls gesandt hat.",
+        "mainPrinciple": "Wir lieben Jesus als einen erwählten Gesandten Gottes, denn der Kern unseres Glaubens ist der eine Gott, der nicht gezeugt wurde und nicht zeugt.",
+        "summaryPoints": [
+          "Muslime gedenken Jesu und seiner Mutter Maria mit tiefer Liebe und großem Respekt.",
+          "Nach dem Islam ist Gott einzig; Er hat keinen Gleichen, kein Ebenbild, keinen Teilhaber und kein Kind.",
+          "Jesus als 'Gesandten' statt als 'Sohn' zu erkennen, schmälert ihn nicht; es erhöht den Gott, der ihn gesandt hat."
+        ],
+        "dailyReflection": "Denke heute über das Leben Jesu voller Barmherzigkeit und Geduld nach und danke von Herzen dem einen Schöpfer, der ihn uns bekannt gemacht hat.",
+        "dawahTip": "Wenn du dieses Thema mit einem christlichen Freund ansprichst, sage zuerst, dass du seine Liebe zu Jesus und Maria teilst; sprich sanft, im Geist von 'so verstehen wir es, weil...'",
+        "questionAnswer": {
+          "question": "Lieben Muslime Jesus etwa nicht?",
+          "answer": "Im Gegenteil, der Islam macht die Liebe zu Jesus unerlässlich; ohne ihn ist der Glaube unvollständig. Er sieht ihn nur als einen edlen Gesandten Gottes, nicht als Gott selbst oder als Seinen Sohn."
+        },
+        "referenceNote": "Siehe die Verse des Korans über die Einheit Gottes und über Jesus und Maria.",
+        "shareText": "Jesus zu lieben und an einen einzigen Gott zu glauben widerspricht sich nicht; wir lieben ihn, indem wir den Schöpfer verherrlichen, der ihn ebenfalls gesandt hat."
+      },
+      "es": {
+        "title": "¿Por qué los musulmanes no dicen \"Jesús es el Hijo de Dios\"?",
+        "shortDescription": "Los musulmanes aman profundamente a Jesús y lo honran como un noble mensajero de Dios. No verlo como Dios ni como hijo de Dios no es disminuirlo, sino glorificar al único Creador que también lo envió.",
+        "mainPrinciple": "Amamos a Jesús como un mensajero elegido de Dios, porque el corazón de nuestra fe es el Dios único, que no fue engendrado y no engendra.",
+        "summaryPoints": [
+          "Los musulmanes recuerdan a Jesús y a su madre María con profundo amor y respeto.",
+          "Según el islam, Dios es único; no tiene igual, ni semejante, ni asociado, ni hijo.",
+          "Reconocer a Jesús como un 'mensajero', y no como un 'hijo', no lo disminuye; exalta al Dios que lo envió."
+        ],
+        "dailyReflection": "Hoy, reflexiona sobre la vida de misericordia y paciencia de Jesús, y agradece de corazón al único Creador que nos lo dio a conocer.",
+        "dawahTip": "Al abrir este tema con un amigo cristiano, di primero que compartes su amor por Jesús y por María; habla con suavidad, en el espíritu de 'así es como lo entendemos, porque...'",
+        "questionAnswer": {
+          "question": "¿Acaso los musulmanes no aman a Jesús?",
+          "answer": "Al contrario, el islam hace esencial el amor a Jesús; la fe queda incompleta sin él. Simplemente lo ve como un noble mensajero de Dios, y no como Dios mismo ni como Su hijo."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la unicidad de Dios y sobre Jesús y María.",
+        "shareText": "Amar a Jesús y creer en un solo Dios no se contradicen; nosotros lo amamos glorificando al Creador que también lo envió."
+      }
+    }
+  },
+  {
+    "id": "what-is-islam-meryem-kitaplar",
+    "category": "what-is-islam",
+    "icon": "book-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "Meryem",
+      "kitaplar",
+      "Tevrat",
+      "İncil",
+      "köprü"
+    ],
+    "content": {
+      "tr": {
+        "title": "Müslümanlar Hz. Meryem ve Önceki Kitaplara Ne Der?",
+        "shortDescription": "Müslümanlar Hz. Meryem'i kadınların en yücelerinden biri olarak büyük bir saygıyla anar ve önceki kitapları aynı kaynaktan gelen ortak bir mirasın halkaları olarak görür.",
+        "mainPrinciple": "Aynı Allah'tan gelen peygamberler ve kitaplar, hepimizi tek bir Yaratıcı'ya çağıran bir zincirin halkalarıdır.",
+        "summaryPoints": [
+          "Kur'an, Hz. Meryem'e adanmış bir sure içerir ve onu kadınların en yücelerinden sayar.",
+          "Müslümanlar Tevrat, Zebur ve İncil'in özünde Allah tarafından gönderildiğine inanır.",
+          "Bütün bu kitaplar tek bir Allah'a çağırır; Kur'an bu zincirin son halkasıdır."
+        ],
+        "dailyReflection": "Bugün Hristiyan bir komşunla konuşurken, Hz. İsa ve annesi Hz. Meryem'e duyduğunuz ortak saygıyı sıcak bir köprü olarak hatırla.",
+        "dawahTip": "Önceki kitapları küçümseyen bir dil kullanma; ortak peygamberleri ve tek Yaratıcı'yı öne çıkaran birleştirici bir çerçeveden konuş.",
+        "questionAnswer": {
+          "question": "Müslümanlar Hz. Meryem ve önceki kitaplara nasıl bakar?",
+          "answer": "Müslümanlar Hz. Meryem'i derin bir saygıyla anar ve Tevrat, Zebur, İncil'i Allah'ın gönderdiği kitaplar olarak kabul eder. Bunların hepsinin tek bir Allah'a çağırdığına inanır; Kur'an'ı da bu mübarek zincirin son halkası olarak görür."
+        },
+        "referenceNote": "Bkz. Kur'an'da Hz. Meryem ve önceki kitaplara dair ayetler (Âl-i İmrân ve Meryem sureleri).",
+        "shareText": "Hz. Meryem'e duyulan saygı ve ortak peygamberler, aramızda çoktan kurulmuş güzel bir köprüdür."
+      },
+      "en": {
+        "title": "What Do Muslims Say About Mary and the Earlier Scriptures?",
+        "shortDescription": "Muslims honor Mary as one of the noblest of women and regard the earlier scriptures as links in a shared heritage from the same source.",
+        "mainPrinciple": "The prophets and scriptures from the same God are links in one chain that calls us all to a single Creator.",
+        "summaryPoints": [
+          "The Qur'an contains a chapter named after Mary and counts her among the noblest of women.",
+          "Muslims believe the Torah, the Psalms, and the Gospel were, at their origin, sent by God.",
+          "All these scriptures call to the one God; the Qur'an is the final link in this chain."
+        ],
+        "dailyReflection": "Today, when speaking with a Christian neighbor, recall the shared reverence you both hold for Jesus and his mother Mary as a warm bridge between you.",
+        "dawahTip": "Avoid any language that belittles the earlier scriptures; speak from a unifying frame that highlights the shared prophets and the one Creator.",
+        "questionAnswer": {
+          "question": "How do Muslims view Mary and the earlier scriptures?",
+          "answer": "Muslims hold Mary in deep reverence and accept the Torah, Psalms, and Gospel as scriptures sent by God. They believe all of them call to the one God, and they see the Qur'an as the final link in this blessed chain."
+        },
+        "referenceNote": "See the verses about Mary and the earlier scriptures in the Qur'an (chapters Al-Imran and Maryam).",
+        "shareText": "Reverence for Mary and shared prophets is a beautiful bridge already built between us."
+      },
+      "fr": {
+        "title": "Que disent les musulmans de Marie et des Écritures antérieures ?",
+        "shortDescription": "Les musulmans honorent Marie comme l'une des femmes les plus nobles et considèrent les Écritures antérieures comme les maillons d'un héritage commun, issu de la même source.",
+        "mainPrinciple": "Les prophètes et les Écritures venus du même Dieu sont les maillons d'une seule chaîne qui nous appelle tous vers un unique Créateur.",
+        "summaryPoints": [
+          "Le Coran contient une sourate qui porte le nom de Marie et la compte parmi les plus nobles des femmes.",
+          "Les musulmans croient que la Torah, les Psaumes et l'Évangile ont été, à l'origine, envoyés par Dieu.",
+          "Toutes ces Écritures appellent vers le Dieu unique ; le Coran est le dernier maillon de cette chaîne."
+        ],
+        "dailyReflection": "Aujourd'hui, en parlant avec un voisin chrétien, rappelle-toi le respect partagé que vous portez tous deux à Jésus et à sa mère Marie, comme un pont chaleureux entre vous.",
+        "dawahTip": "Évite tout langage qui rabaisse les Écritures antérieures ; parle depuis un cadre unificateur qui met en avant les prophètes communs et l'unique Créateur.",
+        "questionAnswer": {
+          "question": "Comment les musulmans considèrent-ils Marie et les Écritures antérieures ?",
+          "answer": "Les musulmans vouent un profond respect à Marie et reconnaissent la Torah, les Psaumes et l'Évangile comme des Écritures envoyées par Dieu. Ils croient qu'elles appellent toutes vers le Dieu unique, et voient le Coran comme le dernier maillon de cette chaîne bénie."
+        },
+        "referenceNote": "Voir les versets sur Marie et les Écritures antérieures dans le Coran (sourates Al-Imran et Maryam).",
+        "shareText": "Le respect pour Marie et les prophètes communs est un beau pont déjà bâti entre nous."
+      },
+      "pt-BR": {
+        "title": "O que os muçulmanos dizem sobre Maria e as Escrituras anteriores?",
+        "shortDescription": "Os muçulmanos honram Maria como uma das mulheres mais nobres e veem as Escrituras anteriores como elos de uma herança em comum, vinda da mesma fonte.",
+        "mainPrinciple": "Os profetas e as Escrituras vindos do mesmo Deus são elos de uma única corrente que nos chama a um só Criador.",
+        "summaryPoints": [
+          "O Alcorão tem um capítulo com o nome de Maria e a conta entre as mulheres mais nobres.",
+          "Os muçulmanos creem que a Torá, os Salmos e o Evangelho foram, em sua origem, enviados por Deus.",
+          "Todas essas Escrituras chamam ao Deus único; o Alcorão é o elo final dessa corrente."
+        ],
+        "dailyReflection": "Hoje, ao conversar com um vizinho cristão, lembre-se do respeito que ambos compartilham por Jesus e por sua mãe Maria, como uma ponte calorosa entre vocês.",
+        "dawahTip": "Evite qualquer linguagem que diminua as Escrituras anteriores; fale a partir de um enquadramento que une, destacando os profetas em comum e o único Criador.",
+        "questionAnswer": {
+          "question": "Como os muçulmanos veem Maria e as Escrituras anteriores?",
+          "answer": "Os muçulmanos têm profundo respeito por Maria e aceitam a Torá, os Salmos e o Evangelho como Escrituras enviadas por Deus. Creem que todas chamam ao Deus único e veem o Alcorão como o elo final dessa corrente abençoada."
+        },
+        "referenceNote": "Ver os versículos sobre Maria e as Escrituras anteriores no Alcorão (capítulos Al-Imran e Maryam).",
+        "shareText": "O respeito por Maria e os profetas em comum é uma bela ponte já construída entre nós."
+      },
+      "de": {
+        "title": "Was sagen Muslime über Maria und die früheren Schriften?",
+        "shortDescription": "Muslime ehren Maria als eine der edelsten Frauen und betrachten die früheren Schriften als Glieder eines gemeinsamen Erbes aus derselben Quelle.",
+        "mainPrinciple": "Die Propheten und Schriften, die vom selben Gott kommen, sind Glieder einer Kette, die uns alle zu einem einzigen Schöpfer ruft.",
+        "summaryPoints": [
+          "Der Koran enthält eine nach Maria benannte Sure und zählt sie zu den edelsten Frauen.",
+          "Muslime glauben, dass die Tora, die Psalmen und das Evangelium in ihrem Ursprung von Gott gesandt wurden.",
+          "All diese Schriften rufen zum einen Gott; der Koran ist das letzte Glied dieser Kette."
+        ],
+        "dailyReflection": "Erinnere dich heute im Gespräch mit einem christlichen Nachbarn an die gemeinsame Verehrung, die ihr beide für Jesus und seine Mutter Maria hegt, als eine warme Brücke zwischen euch.",
+        "dawahTip": "Vermeide jede Sprache, die die früheren Schriften herabsetzt; sprich aus einem verbindenden Rahmen, der die gemeinsamen Propheten und den einen Schöpfer hervorhebt.",
+        "questionAnswer": {
+          "question": "Wie sehen Muslime Maria und die früheren Schriften?",
+          "answer": "Muslime begegnen Maria mit tiefer Ehrfurcht und nehmen die Tora, die Psalmen und das Evangelium als von Gott gesandte Schriften an. Sie glauben, dass sie alle zum einen Gott rufen, und sehen den Koran als das letzte Glied dieser gesegneten Kette."
+        },
+        "referenceNote": "Siehe die Verse über Maria und die früheren Schriften im Koran (Suren Al-Imran und Maryam).",
+        "shareText": "Die Ehrfurcht vor Maria und die gemeinsamen Propheten sind eine schöne Brücke, die bereits zwischen uns gebaut ist."
+      },
+      "es": {
+        "title": "¿Qué dicen los musulmanes sobre María y las Escrituras anteriores?",
+        "shortDescription": "Los musulmanes honran a María como una de las mujeres más nobles y ven las Escrituras anteriores como eslabones de una herencia común, venida de la misma fuente.",
+        "mainPrinciple": "Los profetas y las Escrituras venidos del mismo Dios son eslabones de una sola cadena que nos llama a todos hacia un único Creador.",
+        "summaryPoints": [
+          "El Corán contiene un capítulo con el nombre de María y la cuenta entre las mujeres más nobles.",
+          "Los musulmanes creen que la Torá, los Salmos y el Evangelio fueron, en su origen, enviados por Dios.",
+          "Todas estas Escrituras llaman al Dios único; el Corán es el eslabón final de esta cadena."
+        ],
+        "dailyReflection": "Hoy, al conversar con un vecino cristiano, recuerda el respeto que ambos comparten por Jesús y por su madre María, como un puente cálido entre ustedes.",
+        "dawahTip": "Evita todo lenguaje que menosprecie las Escrituras anteriores; habla desde un marco que une, destacando los profetas en común y al único Creador.",
+        "questionAnswer": {
+          "question": "¿Cómo ven los musulmanes a María y las Escrituras anteriores?",
+          "answer": "Los musulmanes tienen un profundo respeto por María y aceptan la Torá, los Salmos y el Evangelio como Escrituras enviadas por Dios. Creen que todas llaman al Dios único y ven el Corán como el eslabón final de esta cadena bendita."
+        },
+        "referenceNote": "Véanse los versículos sobre María y las Escrituras anteriores en el Corán (capítulos Al-Imran y Maryam).",
+        "shareText": "El respeto por María y los profetas en común es un hermoso puente ya construido entre nosotros."
+      }
+    }
+  }
+]

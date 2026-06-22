@@ -1,0 +1,356 @@
+[
+  {
+    "id": "halal-haram-dilin-afetlerinden-korunmak",
+    "category": "halal-haram",
+    "icon": "chatbubble-ellipses-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["dil", "tongue", "gıybet", "backbiting", "yalan"],
+    "content": {
+      "tr": {
+        "title": "Dilin Afetlerinden Korunmak",
+        "shortDescription": "Gıybet, yalan ve dedikodu kalbi karartan haramlardandır; dili korumak, helal bir hayatın görünmez ama önemli bir parçasıdır.",
+        "mainPrinciple": "Helal sadece tabakta değil, dudaklarda da aranır; söylenmeyen söz, çoğu zaman söylenenden daha hayırlıdır.",
+        "summaryPoints": [
+          "Gıybet, kişinin yokluğunda hoşlanmayacağı şeyi söylemektir ve haram bir kazanç gibi kalbi ağırlaştırır.",
+          "Yalan güveni yıkar; doğru söz ise az olsa da bereketlidir ve gönülleri birbirine bağlar.",
+          "Susmayı bilmek bir olgunluktur; dilini koruyan, çok günahtan da korunmuş olur."
+        ],
+        "dailyReflection": "Bugün biri hakkında olumsuz bir söz söylemek üzereyken dur ve o cümleyi yutarak yerine bir hayır duası getir.",
+        "dawahTip": "İnsanları gıybetten uzaklaştırmak isterken kimseyi ayıplamadan, kendi diline dikkat eden bir örnek olarak söze gir.",
+        "questionAnswer": {
+          "question": "Gıybet ve dedikodu neden bu kadar ağır görülüyor?",
+          "answer": "Çünkü bir insanın gıyabında onurunu zedeler, kardeşlik bağını koparır ve helal hayatın getirdiği kalp temizliğini gölgeler."
+        },
+        "referenceNote": "Bkz. Kur'an'da gıybet ve dilin korunmasına dair ayetler.",
+        "shareText": "Dilini koru; söylemediğin söz çoğu zaman söylediğinden daha hayırlıdır."
+      },
+      "en": {
+        "title": "Guarding Against the Harms of the Tongue",
+        "shortDescription": "Backbiting, lying, and gossip are among the forbidden acts that darken the heart; guarding the tongue is an unseen yet vital part of a lawful life.",
+        "mainPrinciple": "The lawful is sought not only on the plate but on the lips; the word left unsaid is often better than the one spoken.",
+        "summaryPoints": [
+          "Backbiting is saying about someone what they would dislike in their absence, and it weighs on the heart like unlawful gain.",
+          "Lying tears down trust, while a truthful word, though brief, is blessed and binds hearts together.",
+          "Knowing when to stay silent is a mark of maturity; whoever guards their tongue is guarded from much sin."
+        ],
+        "dailyReflection": "Today, when you are about to say something negative about someone, pause, swallow that sentence, and offer a quiet prayer of good in its place.",
+        "dawahTip": "When inviting others away from backbiting, enter the conversation as one who watches their own tongue, without shaming anyone.",
+        "questionAnswer": {
+          "question": "Why are backbiting and gossip regarded so seriously?",
+          "answer": "Because they wound a person's honor in their absence, sever the bond of brotherhood, and overshadow the purity of heart that a lawful life brings."
+        },
+        "referenceNote": "See Quranic verses on backbiting and guarding the tongue.",
+        "shareText": "Guard your tongue; the word you leave unsaid is often better than the one you speak."
+      },
+      "fr": {
+        "title": "Se préserver des maux de la langue",
+        "shortDescription": "La médisance, le mensonge et les commérages comptent parmi les actes interdits qui assombrissent le cœur ; garder sa langue est une part invisible mais essentielle d'une vie licite.",
+        "mainPrinciple": "Le licite ne se cherche pas seulement dans l'assiette, mais aussi sur les lèvres ; la parole tue vaut souvent mieux que celle prononcée.",
+        "summaryPoints": [
+          "La médisance, c'est dire d'autrui en son absence ce qui lui déplairait, et elle alourdit le cœur comme un gain illicite.",
+          "Le mensonge détruit la confiance, tandis qu'une parole vraie, même brève, est bénie et unit les cœurs.",
+          "Savoir se taire est une marque de maturité ; qui garde sa langue est préservé de bien des péchés."
+        ],
+        "dailyReflection": "Aujourd'hui, quand tu es sur le point de dire du mal de quelqu'un, arrête-toi, ravale cette phrase et formule à la place une discrète prière de bien.",
+        "dawahTip": "Pour éloigner autrui de la médisance, engage la conversation comme celui qui surveille sa propre langue, sans blâmer personne.",
+        "questionAnswer": {
+          "question": "Pourquoi la médisance et les commérages sont-ils considérés avec tant de gravité ?",
+          "answer": "Parce qu'ils blessent l'honneur d'une personne en son absence, rompent le lien de fraternité et ternissent la pureté du cœur qu'apporte une vie licite."
+        },
+        "referenceNote": "Voir les versets coraniques sur la médisance et la préservation de la langue.",
+        "shareText": "Garde ta langue ; la parole que tu tais vaut souvent mieux que celle que tu prononces."
+      },
+      "pt-BR": {
+        "title": "Proteger-se dos Males da Língua",
+        "shortDescription": "A maledicência, a mentira e a fofoca estão entre os atos proibidos que escurecem o coração; guardar a língua é uma parte invisível, mas vital, de uma vida lícita.",
+        "mainPrinciple": "O lícito busca-se não só no prato, mas também nos lábios; a palavra que se cala muitas vezes vale mais do que a que se pronuncia.",
+        "summaryPoints": [
+          "A maledicência é dizer de alguém, na sua ausência, o que lhe desagradaria, e pesa no coração como um ganho ilícito.",
+          "A mentira destrói a confiança, enquanto uma palavra verdadeira, ainda que breve, é abençoada e une os corações.",
+          "Saber calar é sinal de maturidade; quem guarda a língua é guardado de muito pecado."
+        ],
+        "dailyReflection": "Hoje, quando estiver prestes a dizer algo negativo sobre alguém, pare, engula essa frase e faça em seu lugar uma discreta prece de bem.",
+        "dawahTip": "Ao convidar os outros a afastar-se da maledicência, entre na conversa como quem vigia a própria língua, sem envergonhar ninguém.",
+        "questionAnswer": {
+          "question": "Por que a maledicência e a fofoca são vistas com tanta seriedade?",
+          "answer": "Porque ferem a honra de uma pessoa na sua ausência, rompem o laço de fraternidade e ofuscam a pureza de coração que uma vida lícita traz."
+        },
+        "referenceNote": "Ver os versículos corânicos sobre a maledicência e a guarda da língua.",
+        "shareText": "Guarde a sua língua; a palavra que você cala muitas vezes vale mais do que a que você pronuncia."
+      },
+      "de": {
+        "title": "Sich vor den Übeln der Zunge bewahren",
+        "shortDescription": "Üble Nachrede, Lüge und Klatsch gehören zu den verbotenen Handlungen, die das Herz verdunkeln; die Zunge zu hüten ist ein unsichtbarer, doch wesentlicher Teil eines erlaubten Lebens.",
+        "mainPrinciple": "Das Erlaubte wird nicht nur auf dem Teller, sondern auch auf den Lippen gesucht; das ungesagte Wort ist oft besser als das ausgesprochene.",
+        "summaryPoints": [
+          "Üble Nachrede heißt, über jemanden in seiner Abwesenheit zu sagen, was ihm missfiele, und sie beschwert das Herz wie unerlaubter Gewinn.",
+          "Die Lüge zerstört das Vertrauen, während ein wahres Wort, so kurz es sei, gesegnet ist und Herzen verbindet.",
+          "Zu wissen, wann man schweigt, ist ein Zeichen der Reife; wer seine Zunge hütet, ist vor vieler Sünde bewahrt."
+        ],
+        "dailyReflection": "Halte heute inne, wenn du im Begriff bist, etwas Negatives über jemanden zu sagen, schlucke diesen Satz hinunter und sprich an seiner Stelle ein leises Gebet des Guten.",
+        "dawahTip": "Wenn du andere von übler Nachrede wegführen möchtest, tritt ins Gespräch als jemand, der die eigene Zunge im Blick hat, ohne jemanden zu beschämen.",
+        "questionAnswer": {
+          "question": "Warum werden üble Nachrede und Klatsch so ernst genommen?",
+          "answer": "Weil sie die Ehre eines Menschen in seiner Abwesenheit verletzen, das Band der Geschwisterlichkeit zerreißen und die Reinheit des Herzens trüben, die ein erlaubtes Leben schenkt."
+        },
+        "referenceNote": "Siehe die Koranverse über üble Nachrede und das Hüten der Zunge.",
+        "shareText": "Hüte deine Zunge; das Wort, das du ungesagt lässt, ist oft besser als das ausgesprochene."
+      },
+      "es": {
+        "title": "Protegerse de los males de la lengua",
+        "shortDescription": "La murmuración, la mentira y el chisme están entre los actos prohibidos que oscurecen el corazón; cuidar la lengua es una parte invisible, pero vital, de una vida lícita.",
+        "mainPrinciple": "Lo lícito no se busca solo en el plato, sino también en los labios; la palabra que se calla muchas veces vale más que la que se pronuncia.",
+        "summaryPoints": [
+          "La murmuración es decir de alguien, en su ausencia, lo que le desagradaría, y pesa en el corazón como una ganancia ilícita.",
+          "La mentira destruye la confianza, mientras que una palabra verdadera, aunque breve, es bendecida y une los corazones.",
+          "Saber callar es señal de madurez; quien cuida su lengua queda protegido de mucho pecado."
+        ],
+        "dailyReflection": "Hoy, cuando estés a punto de decir algo negativo sobre alguien, detente, traga esa frase y, en su lugar, eleva una discreta oración de bien.",
+        "dawahTip": "Al invitar a otros a alejarse de la murmuración, entra en la conversación como quien vigila su propia lengua, sin avergonzar a nadie.",
+        "questionAnswer": {
+          "question": "¿Por qué la murmuración y el chisme se ven con tanta seriedad?",
+          "answer": "Porque hieren la honra de una persona en su ausencia, rompen el lazo de hermandad y empañan la pureza del corazón que trae una vida lícita."
+        },
+        "referenceNote": "Ver los versículos del Corán sobre la murmuración y el cuidado de la lengua.",
+        "shareText": "Cuida tu lengua; la palabra que callas muchas veces vale más que la que pronuncias."
+      }
+    }
+  },
+  {
+    "id": "halal-haram-gozun-ve-mahremiyetin-korunmasi",
+    "category": "halal-haram",
+    "icon": "eye-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["mahremiyet", "privacy", "haya", "göz", "modesty"],
+    "content": {
+      "tr": {
+        "title": "Gözün ve Mahremiyetin Korunması",
+        "shortDescription": "Gözü ve mahremiyeti korumak, hayâdan doğan zarif bir helal duyarlılıktır; bakışı sakınmak kalbi de korur.",
+        "mainPrinciple": "Helal sınır gözde başlar; sakınılan bir bakış, kalbe huzur ve ilişkilere temizlik getirir.",
+        "summaryPoints": [
+          "Gözü harama karşı sakınmak, kalbi gereksiz meşguliyetlerden ve huzursuzluktan korur.",
+          "Başkalarının mahremiyetine, sırrına ve kusuruna göz dikmemek, helal bir edebin gereğidir.",
+          "Hayâ, kişiyi hem dış davranışta hem de yalnızken doğru olmaya çağıran içsel bir korumadır."
+        ],
+        "dailyReflection": "Bugün telefonunda ya da sokakta bakışını gayriihtiyari harama kaydığında, nazikçe gözünü çevir ve bir an Rabbini hatırla.",
+        "dawahTip": "Mahremiyet ve hayâdan söz açarken ayıplayıcı değil, güzelliğini ve kalbe verdiği huzuru öne çıkaran bir dil kullan.",
+        "questionAnswer": {
+          "question": "Gözü korumak neden helal-haram bilincinin bir parçası?",
+          "answer": "Çünkü çoğu yanlış bir bakışla başlar; gözü sakınmak, kalbi temiz tutan ve mahremiyete saygıyı besleyen bir kalkandır."
+        },
+        "referenceNote": "Bkz. Kur'an'da bakışı sakınmaya ve hayâya dair ayetler.",
+        "shareText": "Sakınılan bir bakış, kalbe huzur getirir. Gözünü koru, gönlünü koru."
+      },
+      "en": {
+        "title": "Guarding the Gaze and Privacy",
+        "shortDescription": "Guarding the gaze and respecting privacy is a gentle lawful sensitivity born of modesty; lowering the gaze protects the heart as well.",
+        "mainPrinciple": "The lawful boundary begins in the eye; a gaze restrained brings peace to the heart and purity to one's relationships.",
+        "summaryPoints": [
+          "Restraining the gaze from the forbidden protects the heart from needless preoccupation and unrest.",
+          "Not prying into others' privacy, secrets, or faults is part of a lawful courtesy.",
+          "Modesty is an inner safeguard that calls one to be upright both in conduct and when alone."
+        ],
+        "dailyReflection": "Today, when your gaze drifts unintentionally toward the forbidden, on your phone or in the street, gently turn it away and remember your Lord for a moment.",
+        "dawahTip": "When speaking of privacy and modesty, use language that highlights its beauty and the peace it brings to the heart, rather than blame.",
+        "questionAnswer": {
+          "question": "Why is guarding the gaze part of the awareness of lawful and forbidden?",
+          "answer": "Because most wrong begins with a glance; restraining the gaze is a shield that keeps the heart pure and nurtures respect for privacy."
+        },
+        "referenceNote": "See Quranic verses on lowering the gaze and on modesty.",
+        "shareText": "A gaze restrained brings peace to the heart. Guard your eyes, guard your heart."
+      },
+      "fr": {
+        "title": "Préserver le regard et l'intimité",
+        "shortDescription": "Préserver le regard et respecter l'intimité est une douce sensibilité licite née de la pudeur ; baisser le regard protège aussi le cœur.",
+        "mainPrinciple": "La limite licite commence dans l'œil ; un regard retenu apporte la paix au cœur et la pureté aux relations.",
+        "summaryPoints": [
+          "Retenir le regard de l'interdit protège le cœur des préoccupations inutiles et de l'agitation.",
+          "Ne pas épier l'intimité, les secrets ou les défauts d'autrui relève d'une courtoisie licite.",
+          "La pudeur est une protection intérieure qui appelle à la droiture, tant dans la conduite que dans la solitude."
+        ],
+        "dailyReflection": "Aujourd'hui, quand ton regard glisse involontairement vers l'interdit, sur ton téléphone ou dans la rue, détourne-le avec douceur et rappelle-toi ton Seigneur un instant.",
+        "dawahTip": "Pour parler d'intimité et de pudeur, emploie un langage qui en souligne la beauté et la paix qu'elle apporte au cœur, plutôt que le blâme.",
+        "questionAnswer": {
+          "question": "Pourquoi préserver le regard fait-il partie de la conscience du licite et de l'interdit ?",
+          "answer": "Parce que la plupart des fautes commencent par un coup d'œil ; retenir le regard est un bouclier qui garde le cœur pur et nourrit le respect de l'intimité."
+        },
+        "referenceNote": "Voir les versets coraniques sur le fait de baisser le regard et sur la pudeur.",
+        "shareText": "Un regard retenu apporte la paix au cœur. Préserve tes yeux, préserve ton cœur."
+      },
+      "pt-BR": {
+        "title": "Guardar o Olhar e a Privacidade",
+        "shortDescription": "Guardar o olhar e respeitar a privacidade é uma delicada sensibilidade lícita nascida do pudor; baixar o olhar protege também o coração.",
+        "mainPrinciple": "O limite lícito começa no olho; um olhar contido traz paz ao coração e pureza às relações.",
+        "summaryPoints": [
+          "Conter o olhar diante do proibido protege o coração de preocupações inúteis e de inquietação.",
+          "Não bisbilhotar a privacidade, os segredos ou as falhas alheias faz parte de uma cortesia lícita.",
+          "O pudor é uma salvaguarda interior que chama à retidão tanto na conduta quanto na solidão."
+        ],
+        "dailyReflection": "Hoje, quando o seu olhar deslizar sem querer para o proibido, no celular ou na rua, desvie-o com delicadeza e lembre-se do seu Senhor por um instante.",
+        "dawahTip": "Ao falar de privacidade e pudor, use uma linguagem que realce a sua beleza e a paz que traz ao coração, em vez da censura.",
+        "questionAnswer": {
+          "question": "Por que guardar o olhar faz parte da consciência do lícito e do proibido?",
+          "answer": "Porque a maioria dos erros começa com um olhar; conter o olhar é um escudo que mantém o coração puro e nutre o respeito pela privacidade."
+        },
+        "referenceNote": "Ver os versículos corânicos sobre baixar o olhar e sobre o pudor.",
+        "shareText": "Um olhar contido traz paz ao coração. Guarde os seus olhos, guarde o seu coração."
+      },
+      "de": {
+        "title": "Den Blick und die Privatsphäre wahren",
+        "shortDescription": "Den Blick zu wahren und die Privatsphäre zu achten ist eine sanfte, erlaubte Empfindsamkeit, die aus der Schamhaftigkeit entspringt; den Blick zu senken schützt auch das Herz.",
+        "mainPrinciple": "Die erlaubte Grenze beginnt im Auge; ein zurückgehaltener Blick bringt Frieden ins Herz und Reinheit in die Beziehungen.",
+        "summaryPoints": [
+          "Den Blick vom Verbotenen zurückzuhalten bewahrt das Herz vor unnötiger Beschäftigung und Unruhe.",
+          "Nicht in die Privatsphäre, die Geheimnisse oder die Fehler anderer zu spähen gehört zu einer erlaubten Höflichkeit.",
+          "Schamhaftigkeit ist ein innerer Schutz, der zur Aufrichtigkeit ruft, im Verhalten wie im Alleinsein."
+        ],
+        "dailyReflection": "Wenn dein Blick heute unwillkürlich zum Verbotenen abgleitet, auf dem Handy oder auf der Straße, wende ihn sanft ab und gedenke einen Augenblick deines Herrn.",
+        "dawahTip": "Wenn du von Privatsphäre und Schamhaftigkeit sprichst, gebrauche eine Sprache, die ihre Schönheit und den Frieden hervorhebt, den sie dem Herzen schenkt, statt zu tadeln.",
+        "questionAnswer": {
+          "question": "Warum gehört das Wahren des Blicks zum Bewusstsein für Erlaubtes und Verbotenes?",
+          "answer": "Weil die meisten Verfehlungen mit einem Blick beginnen; den Blick zurückzuhalten ist ein Schild, der das Herz rein hält und die Achtung vor der Privatsphäre nährt."
+        },
+        "referenceNote": "Siehe die Koranverse über das Senken des Blicks und über die Schamhaftigkeit.",
+        "shareText": "Ein zurückgehaltener Blick bringt Frieden ins Herz. Wahre deine Augen, wahre dein Herz."
+      },
+      "es": {
+        "title": "Cuidar la mirada y la intimidad",
+        "shortDescription": "Cuidar la mirada y respetar la intimidad es una delicada sensibilidad lícita nacida del pudor; bajar la mirada protege también el corazón.",
+        "mainPrinciple": "El límite lícito comienza en el ojo; una mirada contenida trae paz al corazón y pureza a las relaciones.",
+        "summaryPoints": [
+          "Contener la mirada ante lo prohibido protege el corazón de preocupaciones inútiles y de inquietud.",
+          "No husmear en la intimidad, los secretos o las faltas ajenas es parte de una cortesía lícita.",
+          "El pudor es una salvaguarda interior que llama a la rectitud tanto en la conducta como en la soledad."
+        ],
+        "dailyReflection": "Hoy, cuando tu mirada se deslice sin querer hacia lo prohibido, en el teléfono o en la calle, apártala con delicadeza y recuerda a tu Señor por un instante.",
+        "dawahTip": "Al hablar de la intimidad y el pudor, usa un lenguaje que resalte su belleza y la paz que trae al corazón, en lugar del reproche.",
+        "questionAnswer": {
+          "question": "¿Por qué cuidar la mirada forma parte de la conciencia de lo lícito y lo prohibido?",
+          "answer": "Porque la mayoría de los errores comienzan con una mirada; contener la mirada es un escudo que mantiene puro el corazón y nutre el respeto por la intimidad."
+        },
+        "referenceNote": "Ver los versículos del Corán sobre bajar la mirada y sobre el pudor.",
+        "shareText": "Una mirada contenida trae paz al corazón. Cuida tus ojos, cuida tu corazón."
+      }
+    }
+  },
+  {
+    "id": "halal-haram-olcu-ve-tartida-durustluk",
+    "category": "halal-haram",
+    "icon": "scale-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["dürüstlük", "honesty", "ölçü", "ticaret", "trade"],
+    "content": {
+      "tr": {
+        "title": "Ölçü ve Tartıda Dürüstlük",
+        "shortDescription": "Alışverişte ölçüyü tam tutmak ve hakkı eksiltmemek, helal kazancın ve güvenilir bir ahlakın canlı bir ölçüsüdür.",
+        "mainPrinciple": "Dürüst ölçü, görünmeyen küçük kararlarda kendini gösterir; eksiltilmeyen her hak, helal bir bereketin tohumudur.",
+        "summaryPoints": [
+          "Ölçüyü ve tartıyı tam tutmak, sözle değil davranışla gösterilen bir dürüstlük imtihanıdır.",
+          "Müşterinin görmediği bir kusuru gizlemek, helalin sınırını zedeleyen bir aldatmadır.",
+          "Şüpheli kazançtan uzak durmak için en güvenli yol, hakkı her zaman tam ve açık vermektir."
+        ],
+        "dailyReflection": "Bugün bir alışverişte ya da işinde, kimse görmese de hakkı tam ver ve küçük bir fazlalıkla cömertçe davran.",
+        "dawahTip": "Dürüstlüğü anlatırken nutuk çekmek yerine, kendi alışverişindeki şeffaflığını sade bir örnek olarak göster.",
+        "questionAnswer": {
+          "question": "Küçük bir eksik tartı neden bu kadar önemli?",
+          "answer": "Çünkü helal-haram, büyük işlerden önce bu küçük ve gizli kararlarda sınanır; eksiltilen her hak, kazancın bereketini götürür."
+        },
+        "referenceNote": "Bkz. Kur'an'da ölçü-tartıda adalete ve dürüstlüğe dair ayetler.",
+        "shareText": "Kimse görmese de hakkı tam ver; dürüst ölçü, helalin görünmeyen mührüdür."
+      },
+      "en": {
+        "title": "Honesty in Measure and Scale",
+        "shortDescription": "Giving full measure in dealings and not diminishing what is due is a living gauge of lawful earning and trustworthy character.",
+        "mainPrinciple": "Honest measure shows itself in small, unseen decisions; every right not shortchanged is the seed of a lawful blessing.",
+        "summaryPoints": [
+          "Keeping the measure and scale full is a test of honesty shown through deeds, not words.",
+          "Concealing a flaw the customer cannot see is a deception that damages the boundary of the lawful.",
+          "The safest way to stay clear of doubtful gain is to give every right in full and openly."
+        ],
+        "dailyReflection": "Today, in a purchase or in your work, give what is due in full even if no one is watching, and be generous with a small extra.",
+        "dawahTip": "When speaking of honesty, instead of preaching, show the transparency of your own dealings as a simple example.",
+        "questionAnswer": {
+          "question": "Why does a small shortfall in weight matter so much?",
+          "answer": "Because the lawful and forbidden are tested in these small, hidden choices before great ones; every right diminished drains the blessing from one's earning."
+        },
+        "referenceNote": "See Quranic verses on justice and honesty in measure and scale.",
+        "shareText": "Give what is due in full even when unseen; honest measure is the hidden seal of the lawful."
+      },
+      "fr": {
+        "title": "L'honnêteté dans la mesure et le poids",
+        "shortDescription": "Donner pleine mesure dans les échanges et ne pas diminuer ce qui est dû est un baromètre vivant du gain licite et d'un caractère digne de confiance.",
+        "mainPrinciple": "La mesure honnête se révèle dans de petites décisions invisibles ; tout droit non rogné est la semence d'une bénédiction licite.",
+        "summaryPoints": [
+          "Tenir la mesure et le poids pleins est une épreuve d'honnêteté qui se montre par les actes, non par les mots.",
+          "Cacher un défaut que le client ne peut voir est une tromperie qui entame la limite du licite.",
+          "Le moyen le plus sûr d'éviter le gain douteux est de donner chaque droit pleinement et ouvertement."
+        ],
+        "dailyReflection": "Aujourd'hui, dans un achat ou dans ton travail, donne pleinement ce qui est dû même si personne ne te regarde, et sois généreux d'un petit surplus.",
+        "dawahTip": "Pour parler d'honnêteté, au lieu de faire la leçon, montre la transparence de tes propres échanges comme un simple exemple.",
+        "questionAnswer": {
+          "question": "Pourquoi un petit manque de poids compte-t-il autant ?",
+          "answer": "Parce que le licite et l'interdit s'éprouvent dans ces petits choix cachés avant les grands ; tout droit diminué fait fuir la bénédiction du gain."
+        },
+        "referenceNote": "Voir les versets coraniques sur la justice et l'honnêteté dans la mesure et le poids.",
+        "shareText": "Donne pleinement ce qui est dû même sans témoin ; la mesure honnête est le sceau invisible du licite."
+      },
+      "pt-BR": {
+        "title": "Honestidade na Medida e no Peso",
+        "shortDescription": "Dar medida cheia nas transações e não diminuir o que é devido é um termômetro vivo do ganho lícito e de um caráter digno de confiança.",
+        "mainPrinciple": "A medida honesta revela-se em pequenas decisões invisíveis; todo direito não reduzido é a semente de uma bênção lícita.",
+        "summaryPoints": [
+          "Manter a medida e o peso cheios é um teste de honestidade mostrado por atos, não por palavras.",
+          "Esconder um defeito que o cliente não pode ver é um engano que fere o limite do lícito.",
+          "O modo mais seguro de evitar o ganho duvidoso é dar cada direito por inteiro e de forma aberta."
+        ],
+        "dailyReflection": "Hoje, numa compra ou no seu trabalho, dê por inteiro o que é devido mesmo que ninguém esteja olhando, e seja generoso com um pequeno acréscimo.",
+        "dawahTip": "Ao falar de honestidade, em vez de pregar, mostre a transparência das suas próprias transações como um exemplo simples.",
+        "questionAnswer": {
+          "question": "Por que uma pequena falta no peso importa tanto?",
+          "answer": "Porque o lícito e o proibido são provados nessas pequenas escolhas ocultas antes das grandes; todo direito diminuído afasta a bênção do ganho."
+        },
+        "referenceNote": "Ver os versículos corânicos sobre a justiça e a honestidade na medida e no peso.",
+        "shareText": "Dê por inteiro o que é devido mesmo sem testemunhas; a medida honesta é o selo invisível do lícito."
+      },
+      "de": {
+        "title": "Ehrlichkeit bei Maß und Gewicht",
+        "shortDescription": "Volles Maß im Handel zu geben und das Geschuldete nicht zu schmälern ist ein lebendiger Maßstab für erlaubten Erwerb und vertrauenswürdigen Charakter.",
+        "mainPrinciple": "Ehrliches Maß zeigt sich in kleinen, unsichtbaren Entscheidungen; jedes nicht verkürzte Recht ist der Same eines erlaubten Segens.",
+        "summaryPoints": [
+          "Maß und Gewicht voll zu halten ist eine Prüfung der Ehrlichkeit, die sich in Taten zeigt, nicht in Worten.",
+          "Einen Mangel zu verbergen, den der Kunde nicht sehen kann, ist ein Betrug, der die Grenze des Erlaubten verletzt.",
+          "Der sicherste Weg, zweifelhaften Gewinn zu meiden, ist, jedes Recht voll und offen zu geben."
+        ],
+        "dailyReflection": "Gib heute bei einem Kauf oder in deiner Arbeit das Geschuldete voll, auch wenn niemand zusieht, und sei großzügig mit einem kleinen Mehr.",
+        "dawahTip": "Wenn du von Ehrlichkeit sprichst, predige nicht, sondern zeige die Aufrichtigkeit deiner eigenen Geschäfte als schlichtes Vorbild.",
+        "questionAnswer": {
+          "question": "Warum wiegt ein kleines Fehlgewicht so schwer?",
+          "answer": "Weil das Erlaubte und das Verbotene in diesen kleinen, verborgenen Entscheidungen vor den großen geprüft werden; jedes geschmälerte Recht treibt den Segen aus dem Erwerb."
+        },
+        "referenceNote": "Siehe die Koranverse über Gerechtigkeit und Ehrlichkeit bei Maß und Gewicht.",
+        "shareText": "Gib das Geschuldete voll, auch wenn niemand zusieht; ehrliches Maß ist das verborgene Siegel des Erlaubten."
+      },
+      "es": {
+        "title": "Honestidad en la medida y el peso",
+        "shortDescription": "Dar medida completa en los tratos y no disminuir lo que es debido es un termómetro vivo de la ganancia lícita y de un carácter digno de confianza.",
+        "mainPrinciple": "La medida honesta se revela en pequeñas decisiones invisibles; todo derecho no recortado es la semilla de una bendición lícita.",
+        "summaryPoints": [
+          "Mantener la medida y el peso completos es una prueba de honestidad que se muestra con hechos, no con palabras.",
+          "Ocultar un defecto que el cliente no puede ver es un engaño que daña el límite de lo lícito.",
+          "El modo más seguro de evitar la ganancia dudosa es dar cada derecho por entero y de forma abierta."
+        ],
+        "dailyReflection": "Hoy, en una compra o en tu trabajo, da por entero lo que es debido aunque nadie te mire, y sé generoso con un pequeño añadido.",
+        "dawahTip": "Al hablar de honestidad, en lugar de sermonear, muestra la transparencia de tus propios tratos como un ejemplo sencillo.",
+        "questionAnswer": {
+          "question": "¿Por qué importa tanto una pequeña falta en el peso?",
+          "answer": "Porque lo lícito y lo prohibido se prueban en estas pequeñas decisiones ocultas antes que en las grandes; todo derecho disminuido aleja la bendición de la ganancia."
+        },
+        "referenceNote": "Ver los versículos del Corán sobre la justicia y la honestidad en la medida y el peso.",
+        "shareText": "Da por entero lo que es debido aunque no haya testigos; la medida honesta es el sello invisible de lo lícito."
+      }
+    }
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "common": {
+    "appName": "Dawa-Leitfaden",
+    "start": "Starten",
+    "next": "Weiter",
+    "back": "Zurück",
+    "skip": "Überspringen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "done": "Fertig",
+    "search": "Suchen",
+    "seeAll": "Alle ansehen",
+    "readMinutes": "{{count}} Min. Lesezeit",
+    "share": "Teilen",
+    "loading": "Wird geladen…"
+  },
+  "tabs": {
+    "home": "Start",
+    "categories": "Kategorien",
+    "search": "Suchen",
+    "favorites": "Favoriten",
+    "settings": "Einstellungen"
+  },
+  "onboarding": {
+    "title": "Mit Weisheit einladen",
+    "subtitle": "Ein kurzer Leitfaden, um den Islam in klarer, sanfter und eigener Sprache zu vermitteln.",
+    "purposeTitle": "Zweck",
+    "purpose": "Dieser Leitfaden dient nicht dazu, jemanden zu drängen, sondern mit Weisheit zu vermitteln, ein gutes Vorbild zu sein, sein Gegenüber zu verstehen und das richtige Wort zur richtigen Zeit zu sagen.",
+    "point1Title": "Haltung vor Worten",
+    "point1": "Die stärkste Einladung ist, ein gutes Vorbild zu sein.",
+    "point2Title": "Mit Weisheit und Freundlichkeit",
+    "point2": "Nicht hart oder verurteilend, sondern einfach, respektvoll und einladend.",
+    "point3Title": "Eigenständig und quellenbewusst",
+    "point3": "Kurze, eigenständige Inhalte; Verse und Hadithe werden nur als Quelle genannt, nie ausführlich zitiert.",
+    "chooseLanguage": "Wählen Sie Ihre Sprache",
+    "copyrightTitle": "Urheberrecht & Quellen",
+    "copyrightNote": "Die Texte in dieser App sind kurze, eigenständige Lehrinhalte, die auf grundlegenden islamischen Quellen und den herangezogenen Werken beruhen. Kein Buchtext wurde wörtlich übernommen.",
+    "startButton": "Starten"
+  },
+  "home": {
+    "greeting": "As-salāmu alaikum",
+    "intro": "Welche schöne Botschaft möchten Sie heute teilen?",
+    "todayNote": "Notiz des Tages",
+    "openDailyNote": "Notiz des Tages öffnen",
+    "exploreCategories": "Kategorien",
+    "continueReading": "Zuletzt gelesen",
+    "favoritesShort": "Ihre Favoriten",
+    "emptyRecents": "Sie haben noch kein Thema gelesen.",
+    "emptyFavorites": "Sie haben noch keine Favoriten hinzugefügt."
+  },
+  "categories": {
+    "title": "Kategorien",
+    "subtitle": "Wählen Sie ein Thema, um zu beginnen.",
+    "topicsCount": "{{count}} Themen"
+  },
+  "topic": {
+    "shortDescription": "Überblick",
+    "mainPrinciple": "Kernprinzip",
+    "summary": "Zusammenfassung",
+    "dailyReflection": "Im Alltag",
+    "dawahTip": "Beim Teilen",
+    "qa": "Frage & Antwort",
+    "question": "Frage",
+    "answer": "Antwort",
+    "reference": "Vers- / Hadith-Quelle",
+    "shareMessage": "Teilbare Nachricht",
+    "sourceNote": "Quellenhinweis",
+    "addFavorite": "Zu Favoriten hinzufügen",
+    "removeFavorite": "Aus Favoriten entfernen",
+    "notFound": "Thema nicht gefunden."
+  },
+  "search": {
+    "title": "Suchen",
+    "placeholder": "Titel, Beschreibung oder Tag suchen…",
+    "empty": "Keine Ergebnisse gefunden.",
+    "hint": "Zum Suchen mit dem Tippen beginnen.",
+    "resultsCount": "{{count}} Ergebnisse"
+  },
+  "favorites": {
+    "title": "Favoriten",
+    "empty": "Sie haben noch keine Lieblingsthemen.",
+    "emptyHint": "Tippen Sie bei einem Thema auf das Herzsymbol, um es zu den Favoriten hinzuzufügen."
+  },
+  "daily": {
+    "title": "Notiz des Tages",
+    "subtitle": "Jeden Tag ein kurzes Prinzip der Dawa.",
+    "share": "Notiz teilen"
+  },
+  "language": {
+    "title": "Sprache",
+    "subtitle": "Wählen Sie die App-Sprache. Ihre Wahl wird auf dem Gerät gespeichert.",
+    "current": "Ausgewählt"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "appearance": "Darstellung",
+    "theme": "Design",
+    "themeLight": "Hell",
+    "themeDark": "Dunkel",
+    "themeSystem": "System",
+    "fontSize": "Schriftgröße",
+    "fontSmall": "Klein",
+    "fontMedium": "Mittel",
+    "fontLarge": "Groß",
+    "content": "Inhalt",
+    "language": "Sprache",
+    "notifications": "Benachrichtigungen",
+    "notificationsDesc": "Eine Erinnerung an die Notiz des Tages.",
+    "about": "Über",
+    "aboutTitle": "Über",
+    "aboutBody": "Der Dawa-Leitfaden ist ein offline nutzbarer Leitfaden für alle, die den Islam in einfacher, weiser und sanfter Sprache vermitteln möchten. Die Inhalte haben die Form kurzer Lektionen, Zusammenfassungen, Prinzipien und Teil-Tipps.",
+    "sources": "Literatur",
+    "sourcesTitle": "Herangezogene Werke",
+    "sourcesIntro": "Die folgenden Werke wurden herangezogen. Ihre Texte werden in der App nicht angezeigt; die Inhalte wurden eigenständig neu verfasst.",
+    "copyright": "Urheberrecht & Quellen",
+    "version": "Version",
+    "notificationTime": "Erinnerungszeit",
+    "permissionNeeded": "Die Benachrichtigungsberechtigung wurde verweigert. Bitte aktiviere sie in den Telefoneinstellungen."
+  },
+  "copyright": {
+    "title": "Urheberrecht & Quellen",
+    "body": "Die Texte in dieser App sind kurze, eigenständige Lehrinhalte, die auf grundlegenden islamischen Quellen und den herangezogenen Werken beruhen. Kein Buchtext wurde wörtlich übernommen.",
+    "shortNote": "Dieser Inhalt wurde eigenständig auf Grundlage grundlegender islamischer Quellen erstellt."
+  },
+  "card": {
+    "title": "Teilen-Karte",
+    "shareText": "Text teilen",
+    "shareImage": "Als Bild teilen",
+    "screenshotHint": "Tipp: Mach einen Screenshot dieser Karte und teile ihn.",
+    "open": "Karte erstellen"
+  },
+  "share": {
+    "cta": "Wenn du den Islam auf einfache, freundliche Weise entdecken möchtest, steht dir unsere Tür immer offen. 🤍"
+  },
+  "notif": {
+    "title": "Notiz des Tages 🌙",
+    "body": "Nimm dir einen Moment für das kurze Prinzip des Tages; wenn du magst, teile es freundlich."
+  },
+  "disclaimer": {
+    "title": "Hinweis",
+    "body": "Diese Inhalte dienen der allgemeinen Information und Orientierung; sie stellen kein verbindliches religiöses Rechtsgutachten (Fatwa) dar. Bei persönlichen Situationen und strittigen Fragen wende dich bitte an eine qualifizierte Gelehrte/einen qualifizierten Gelehrten."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "body": "Die gesuchte Seite ist nicht hier.",
+    "goHome": "Zur Startseite"
+  }
+}

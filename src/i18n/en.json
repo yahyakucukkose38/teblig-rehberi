@@ -1,0 +1,148 @@
+{
+  "common": {
+    "appName": "Dawah Guide",
+    "start": "Start",
+    "next": "Next",
+    "back": "Back",
+    "skip": "Skip",
+    "save": "Save",
+    "cancel": "Cancel",
+    "done": "Done",
+    "search": "Search",
+    "seeAll": "See all",
+    "readMinutes": "{{count}} min read",
+    "share": "Share",
+    "loading": "Loading…"
+  },
+  "tabs": {
+    "home": "Home",
+    "categories": "Categories",
+    "search": "Search",
+    "favorites": "Favorites",
+    "settings": "Settings"
+  },
+  "onboarding": {
+    "title": "Inviting with Wisdom",
+    "subtitle": "A short guide for sharing Islam in a clear, gentle and original voice.",
+    "purposeTitle": "Purpose",
+    "purpose": "This guide is not for pressuring anyone, but for sharing with wisdom, setting a good example, knowing the other person, and saying the right word at the right time.",
+    "point1Title": "Conduct before words",
+    "point1": "The most powerful invitation is to be a good example.",
+    "point2Title": "With wisdom and kindness",
+    "point2": "Not harsh or judgmental, but simple, respectful and welcoming.",
+    "point3Title": "Original and source-respectful",
+    "point3": "Short, original content; verses and hadith are only referenced, never quoted at length.",
+    "chooseLanguage": "Choose your language",
+    "copyrightTitle": "Copyright & Sources",
+    "copyrightNote": "The texts in this app are short, original educational pieces prepared by drawing on core Islamic sources and the referenced works. No book text has been copied verbatim.",
+    "startButton": "Start"
+  },
+  "home": {
+    "greeting": "As-salamu alaykum",
+    "intro": "What goodness would you like to share today?",
+    "todayNote": "Note of the Day",
+    "openDailyNote": "Open today's note",
+    "exploreCategories": "Categories",
+    "continueReading": "Recently Read",
+    "favoritesShort": "Your Favorites",
+    "emptyRecents": "You haven't read any topic yet.",
+    "emptyFavorites": "You haven't added any favorites yet."
+  },
+  "categories": {
+    "title": "Categories",
+    "subtitle": "Pick a topic to begin.",
+    "topicsCount": "{{count}} topics"
+  },
+  "topic": {
+    "shortDescription": "Overview",
+    "mainPrinciple": "Core Principle",
+    "summary": "Summary",
+    "dailyReflection": "In Daily Life",
+    "dawahTip": "When Sharing",
+    "qa": "Question & Answer",
+    "question": "Question",
+    "answer": "Answer",
+    "reference": "Verse / Hadith Reference",
+    "shareMessage": "Shareable Message",
+    "sourceNote": "Source Note",
+    "addFavorite": "Add to favorites",
+    "removeFavorite": "Remove from favorites",
+    "notFound": "Topic not found."
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search title, description or tag…",
+    "empty": "No results found.",
+    "hint": "Start typing to search.",
+    "resultsCount": "{{count}} results"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "empty": "You have no favorite topics yet.",
+    "emptyHint": "Tap the heart icon on a topic to add it to your favorites."
+  },
+  "daily": {
+    "title": "Note of the Day",
+    "subtitle": "A short principle of dawah each day.",
+    "share": "Share the note"
+  },
+  "language": {
+    "title": "Language",
+    "subtitle": "Choose the app language. Your choice is saved on your device.",
+    "current": "Selected"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "fontSize": "Font Size",
+    "fontSmall": "Small",
+    "fontMedium": "Medium",
+    "fontLarge": "Large",
+    "content": "Content",
+    "language": "Language",
+    "notifications": "Notifications",
+    "notificationsDesc": "A reminder for the note of the day.",
+    "about": "About",
+    "aboutTitle": "About",
+    "aboutBody": "Dawah Guide is an offline guide for those who wish to share Islam in a simple, wise and gentle voice. The content takes the form of short lessons, summaries, principles and sharing tips.",
+    "sources": "Bibliography",
+    "sourcesTitle": "Works Consulted",
+    "sourcesIntro": "The following works were consulted. Their texts are not shown in the app; the content has been rewritten in an original form.",
+    "copyright": "Copyright & Sources",
+    "version": "Version",
+    "notificationTime": "Reminder time",
+    "permissionNeeded": "Notification permission was denied. Please enable it in your phone settings."
+  },
+  "copyright": {
+    "title": "Copyright & Sources",
+    "body": "The texts in this app are short, original educational pieces prepared by drawing on core Islamic sources and the referenced works. No book text has been copied verbatim.",
+    "shortNote": "This content was prepared in an original form, drawing on core Islamic sources."
+  },
+  "card": {
+    "title": "Share Card",
+    "shareText": "Share text",
+    "shareImage": "Share as image",
+    "screenshotHint": "Tip: You can screenshot this card and share it.",
+    "open": "Create card"
+  },
+  "share": {
+    "cta": "If you'd like to discover Islam in a simple, gentle way, our door is always open. 🤍"
+  },
+  "notif": {
+    "title": "Note of the Day 🌙",
+    "body": "Take a moment with today's short principle; if you wish, share it kindly."
+  },
+  "disclaimer": {
+    "title": "Disclaimer",
+    "body": "This content is for general information and guidance only; it is not a binding religious ruling (fatwa). For personal situations and disputed matters, please consult a qualified scholar."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you're looking for isn't here.",
+    "goHome": "Go to Home"
+  }
+}

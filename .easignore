@@ -1,0 +1,20 @@
+# EAS build'e yüklenmeyecek dosyalar (yalın yükleme + telif/gizlilik).
+# DİKKAT: Klasör kalıpları KÖK dizine sabitlenmiştir (başında "/"); aksi halde
+# "store/" gibi bir kalıp "src/store/"u da dışlar ve build paketlemesi patlar.
+
+# Her yerde (alt klasörler dahil) güvenle dışlanabilir olanlar:
+node_modules/
+.expo/
+.git/
+*.log
+# Hiçbir .md uygulamaya gerekmez; kaynak kitaplar da buluta yüklenmez (telif).
+*.md
+
+# Yalnızca KÖK dizindeki klasörler (src/* altını ETKİLEMEZ):
+/Resimler/
+/store/
+/docs/
+/scripts/
+/dist/
+/dist-verify/
+/web-build/

@@ -1,0 +1,148 @@
+{
+  "common": {
+    "appName": "Guia da Daawa",
+    "start": "Começar",
+    "next": "Avançar",
+    "back": "Voltar",
+    "skip": "Pular",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "done": "Concluir",
+    "search": "Buscar",
+    "seeAll": "Ver tudo",
+    "readMinutes": "{{count}} min de leitura",
+    "share": "Compartilhar",
+    "loading": "Carregando…"
+  },
+  "tabs": {
+    "home": "Início",
+    "categories": "Categorias",
+    "search": "Buscar",
+    "favorites": "Favoritos",
+    "settings": "Ajustes"
+  },
+  "onboarding": {
+    "title": "Convidar com sabedoria",
+    "subtitle": "Um guia breve para transmitir o Islã com uma voz clara, gentil e original.",
+    "purposeTitle": "Propósito",
+    "purpose": "Este guia não serve para pressionar ninguém, mas para transmitir com sabedoria, dar bom exemplo, conhecer o interlocutor e dizer a palavra certa na hora certa.",
+    "point1Title": "Conduta antes das palavras",
+    "point1": "O convite mais forte é ser um bom exemplo.",
+    "point2Title": "Com sabedoria e gentileza",
+    "point2": "Nem duro nem julgador, mas simples, respeitoso e acolhedor.",
+    "point3Title": "Original e respeitoso às fontes",
+    "point3": "Conteúdos curtos e originais; versículos e hadices são apenas referenciados, nunca citados longamente.",
+    "chooseLanguage": "Escolha o seu idioma",
+    "copyrightTitle": "Direitos e fontes",
+    "copyrightNote": "Os textos deste aplicativo são conteúdos educativos curtos e originais, preparados com base em fontes islâmicas fundamentais e nas obras consultadas. Nenhum texto de livro foi copiado de forma literal.",
+    "startButton": "Começar"
+  },
+  "home": {
+    "greeting": "As-salamu alaykum",
+    "intro": "Que coisa boa você gostaria de compartilhar hoje?",
+    "todayNote": "Nota do dia",
+    "openDailyNote": "Abrir a nota do dia",
+    "exploreCategories": "Categorias",
+    "continueReading": "Lidos recentemente",
+    "favoritesShort": "Seus favoritos",
+    "emptyRecents": "Você ainda não leu nenhum tema.",
+    "emptyFavorites": "Você ainda não adicionou favoritos."
+  },
+  "categories": {
+    "title": "Categorias",
+    "subtitle": "Escolha um tema para começar.",
+    "topicsCount": "{{count}} temas"
+  },
+  "topic": {
+    "shortDescription": "Visão geral",
+    "mainPrinciple": "Princípio central",
+    "summary": "Resumo",
+    "dailyReflection": "No dia a dia",
+    "dawahTip": "Ao compartilhar",
+    "qa": "Pergunta e resposta",
+    "question": "Pergunta",
+    "answer": "Resposta",
+    "reference": "Referência (versículo / hadice)",
+    "shareMessage": "Mensagem para compartilhar",
+    "sourceNote": "Nota de fonte",
+    "addFavorite": "Adicionar aos favoritos",
+    "removeFavorite": "Remover dos favoritos",
+    "notFound": "Tema não encontrado."
+  },
+  "search": {
+    "title": "Buscar",
+    "placeholder": "Buscar título, descrição ou tag…",
+    "empty": "Nenhum resultado encontrado.",
+    "hint": "Comece a digitar para buscar.",
+    "resultsCount": "{{count}} resultados"
+  },
+  "favorites": {
+    "title": "Favoritos",
+    "empty": "Você ainda não tem temas favoritos.",
+    "emptyHint": "Toque no ícone de coração em um tema para adicioná-lo aos favoritos."
+  },
+  "daily": {
+    "title": "Nota do dia",
+    "subtitle": "Um breve princípio de daawa a cada dia.",
+    "share": "Compartilhar a nota"
+  },
+  "language": {
+    "title": "Idioma",
+    "subtitle": "Escolha o idioma do aplicativo. Sua escolha é salva no dispositivo.",
+    "current": "Selecionado"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "appearance": "Aparência",
+    "theme": "Tema",
+    "themeLight": "Claro",
+    "themeDark": "Escuro",
+    "themeSystem": "Sistema",
+    "fontSize": "Tamanho da fonte",
+    "fontSmall": "Pequena",
+    "fontMedium": "Média",
+    "fontLarge": "Grande",
+    "content": "Conteúdo",
+    "language": "Idioma",
+    "notifications": "Notificações",
+    "notificationsDesc": "Um lembrete para a nota do dia.",
+    "about": "Sobre",
+    "aboutTitle": "Sobre",
+    "aboutBody": "Guia da Daawa é um guia offline para quem deseja transmitir o Islã com uma voz simples, sábia e gentil. Os conteúdos têm o formato de lições curtas, resumos, princípios e dicas de compartilhamento.",
+    "sources": "Bibliografia",
+    "sourcesTitle": "Obras consultadas",
+    "sourcesIntro": "As obras a seguir foram consultadas. Seus textos não são exibidos no aplicativo; o conteúdo foi reescrito de forma original.",
+    "copyright": "Direitos e fontes",
+    "version": "Versão",
+    "notificationTime": "Horário do lembrete",
+    "permissionNeeded": "A permissão de notificação foi negada. Ative-a nas configurações do telefone."
+  },
+  "copyright": {
+    "title": "Direitos e fontes",
+    "body": "Os textos deste aplicativo são conteúdos educativos curtos e originais, preparados com base em fontes islâmicas fundamentais e nas obras consultadas. Nenhum texto de livro foi copiado de forma literal.",
+    "shortNote": "Este conteúdo foi preparado de forma original, com base em fontes islâmicas fundamentais."
+  },
+  "card": {
+    "title": "Cartão de compartilhamento",
+    "shareText": "Compartilhar texto",
+    "shareImage": "Compartilhar como imagem",
+    "screenshotHint": "Dica: tire um print deste cartão e compartilhe.",
+    "open": "Criar cartão"
+  },
+  "share": {
+    "cta": "Se quiser conhecer o Islã de forma simples e acolhedora, nossa porta está sempre aberta. 🤍"
+  },
+  "notif": {
+    "title": "Nota do dia 🌙",
+    "body": "Reserve um momento para o breve princípio de hoje; se quiser, compartilhe com gentileza."
+  },
+  "disclaimer": {
+    "title": "Aviso",
+    "body": "Estes conteúdos têm fins informativos e de orientação geral; não constituem um parecer religioso vinculante (fátua). Em situações pessoais e questões controversas, consulte um estudioso qualificado."
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "body": "A página que você procura não está aqui.",
+    "goHome": "Ir para o início"
+  }
+}

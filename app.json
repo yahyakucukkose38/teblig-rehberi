@@ -1,0 +1,57 @@
+{
+  "expo": {
+    "name": "Tebliğ Rehberi",
+    "slug": "teblig-rehberi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "tebligrehberi",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router",
+      "expo-localization",
+      "expo-asset",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0E4D34",
+          "image": "./assets/splash-icon.png",
+          "resizeMode": "cover"
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#0E4D34"
+        }
+      ],
+      "expo-font"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tebligrehberi.app"
+    },
+    "android": {
+      "package": "com.tebligrehberi.app",
+      "edgeToEdgeEnabled": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0E4D34"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3cfdc1f2-7512-4dc9-9186-cdd01e1d906f"
+      }
+    },
+    "owner": "yahyakucukkose"
+  }
+}

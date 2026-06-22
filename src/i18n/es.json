@@ -1,0 +1,148 @@
+{
+  "common": {
+    "appName": "Guía de Da'wah",
+    "start": "Comenzar",
+    "next": "Siguiente",
+    "back": "Atrás",
+    "skip": "Omitir",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "done": "Listo",
+    "search": "Buscar",
+    "seeAll": "Ver todo",
+    "readMinutes": "{{count}} min de lectura",
+    "share": "Compartir",
+    "loading": "Cargando…"
+  },
+  "tabs": {
+    "home": "Inicio",
+    "categories": "Categorías",
+    "search": "Buscar",
+    "favorites": "Favoritos",
+    "settings": "Ajustes"
+  },
+  "onboarding": {
+    "title": "Invitar con sabiduría",
+    "subtitle": "Una guía breve para compartir el islam con una voz clara, amable y original.",
+    "purposeTitle": "Propósito",
+    "purpose": "Esta guía no busca presionar a nadie, sino compartir con sabiduría, dar un buen ejemplo, conocer a la otra persona y decir la palabra justa en el momento justo.",
+    "point1Title": "El obrar antes que las palabras",
+    "point1": "La invitación más poderosa es ser un buen ejemplo.",
+    "point2Title": "Con sabiduría y amabilidad",
+    "point2": "Nada duro ni acusatorio, sino sencillo, respetuoso y acogedor.",
+    "point3Title": "Original y respetuoso de las fuentes",
+    "point3": "Contenidos breves y originales; los versículos y hadices solo se citan como referencia, nunca se reproducen en extenso.",
+    "chooseLanguage": "Elige tu idioma",
+    "copyrightTitle": "Derechos de autor y fuentes",
+    "copyrightNote": "Los textos de esta aplicación son piezas educativas breves y originales, elaboradas a partir de las fuentes islámicas fundamentales y las obras consultadas. No se ha copiado textualmente ningún libro.",
+    "startButton": "Comenzar"
+  },
+  "home": {
+    "greeting": "As-salamu alaykum",
+    "intro": "¿Qué bien te gustaría compartir hoy?",
+    "todayNote": "Nota del día",
+    "openDailyNote": "Abrir la nota de hoy",
+    "exploreCategories": "Categorías",
+    "continueReading": "Leídos recientemente",
+    "favoritesShort": "Tus favoritos",
+    "emptyRecents": "Aún no has leído ningún tema.",
+    "emptyFavorites": "Aún no has agregado favoritos."
+  },
+  "categories": {
+    "title": "Categorías",
+    "subtitle": "Elige un tema para empezar.",
+    "topicsCount": "{{count}} temas"
+  },
+  "topic": {
+    "shortDescription": "Resumen general",
+    "mainPrinciple": "Principio central",
+    "summary": "Resumen",
+    "dailyReflection": "En la vida diaria",
+    "dawahTip": "Al compartir",
+    "qa": "Pregunta y respuesta",
+    "question": "Pregunta",
+    "answer": "Respuesta",
+    "reference": "Referencia de versículo / hadiz",
+    "shareMessage": "Mensaje para compartir",
+    "sourceNote": "Nota de fuente",
+    "addFavorite": "Agregar a favoritos",
+    "removeFavorite": "Quitar de favoritos",
+    "notFound": "Tema no encontrado."
+  },
+  "search": {
+    "title": "Buscar",
+    "placeholder": "Busca por título, descripción o etiqueta…",
+    "empty": "No se encontraron resultados.",
+    "hint": "Empieza a escribir para buscar.",
+    "resultsCount": "{{count}} resultados"
+  },
+  "favorites": {
+    "title": "Favoritos",
+    "empty": "Aún no tienes temas favoritos.",
+    "emptyHint": "Toca el ícono de corazón de un tema para agregarlo a tus favoritos."
+  },
+  "daily": {
+    "title": "Nota del día",
+    "subtitle": "Un breve principio de da'wah cada día.",
+    "share": "Compartir la nota"
+  },
+  "language": {
+    "title": "Idioma",
+    "subtitle": "Elige el idioma de la aplicación. Tu elección se guarda en tu dispositivo.",
+    "current": "Seleccionado"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "appearance": "Apariencia",
+    "theme": "Tema",
+    "themeLight": "Claro",
+    "themeDark": "Oscuro",
+    "themeSystem": "Sistema",
+    "fontSize": "Tamaño de fuente",
+    "fontSmall": "Pequeño",
+    "fontMedium": "Mediano",
+    "fontLarge": "Grande",
+    "content": "Contenido",
+    "language": "Idioma",
+    "notifications": "Notificaciones",
+    "notificationsDesc": "Un recordatorio para la nota del día.",
+    "about": "Acerca de",
+    "aboutTitle": "Acerca de",
+    "aboutBody": "Guía de Da'wah es una guía sin conexión para quienes desean compartir el islam con una voz sencilla, sabia y amable. El contenido toma la forma de lecciones breves, resúmenes, principios y consejos para compartir.",
+    "sources": "Bibliografía",
+    "sourcesTitle": "Obras consultadas",
+    "sourcesIntro": "Se consultaron las siguientes obras. Sus textos no se muestran en la aplicación; el contenido se ha reescrito de forma original.",
+    "copyright": "Derechos de autor y fuentes",
+    "version": "Versión",
+    "notificationTime": "Hora del recordatorio",
+    "permissionNeeded": "Se denegó el permiso de notificaciones. Actívalo en los ajustes de tu teléfono."
+  },
+  "copyright": {
+    "title": "Derechos de autor y fuentes",
+    "body": "Los textos de esta aplicación son piezas educativas breves y originales, elaboradas a partir de las fuentes islámicas fundamentales y las obras consultadas. No se ha copiado textualmente ningún libro.",
+    "shortNote": "Este contenido se elaboró de forma original, a partir de las fuentes islámicas fundamentales."
+  },
+  "card": {
+    "title": "Tarjeta para compartir",
+    "shareText": "Compartir texto",
+    "shareImage": "Compartir como imagen",
+    "screenshotHint": "Consejo: puedes tomar una captura de esta tarjeta y compartirla.",
+    "open": "Crear tarjeta"
+  },
+  "share": {
+    "cta": "Si te gustaría descubrir el islam de una forma sencilla y amable, nuestra puerta siempre está abierta. 🤍"
+  },
+  "notif": {
+    "title": "Nota del día 🌙",
+    "body": "Tómate un momento con el breve principio de hoy; si lo deseas, compártelo con amabilidad."
+  },
+  "disclaimer": {
+    "title": "Aviso",
+    "body": "Este contenido es solo para información y orientación general; no constituye un dictamen religioso vinculante (fatwa). Para situaciones personales y asuntos en disputa, consulta a un erudito cualificado."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "body": "La página que buscas no está aquí.",
+    "goHome": "Ir al inicio"
+  }
+}

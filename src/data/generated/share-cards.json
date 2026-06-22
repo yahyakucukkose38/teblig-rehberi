@@ -1,0 +1,356 @@
+[
+  {
+    "id": "share-cards-mercy-one-line",
+    "category": "share-cards",
+    "icon": "heart-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": ["merhamet", "mercy", "compassion", "ahlak", "kindness"],
+    "content": {
+      "tr": {
+        "title": "Bir Damla Merhamet",
+        "shortDescription": "Merhamet, kalbi yumuşatan ve insanı insana yaklaştıran sessiz bir güçtür. Onu küçük bir davranışla bile yaşatabiliriz.",
+        "mainPrinciple": "Yere düşene el uzatan kalp, gökte sevgiyle anılır.",
+        "summaryPoints": [
+          "Merhamet, gücü olanın zayıfa eğilmesidir.",
+          "En küçük iyilik bile bir kalbi aydınlatabilir.",
+          "Başkasına gösterdiğimiz şefkat, bize döner."
+        ],
+        "dailyReflection": "Bugün karşılaştığın bir kişiye, beklemediği küçük bir nezaket göster: bir tebessüm, bir yardım eli ya da yumuşak bir söz.",
+        "dawahTip": "Merhameti anlatmadan önce yaşa; sözün değil, hâlin en güzel davettir.",
+        "questionAnswer": {
+          "question": "Merhamet zayıflık mıdır?",
+          "answer": "Hayır; gerçek merhamet, gücü elinde tutarken bile yumuşak kalabilmektir."
+        },
+        "referenceNote": "Bkz. Kur'an'da rahmet ve şefkate dair ayetler.",
+        "shareText": "Bir damla merhamet, kuru bir kalbi bahara çevirebilir."
+      },
+      "en": {
+        "title": "A Drop of Mercy",
+        "shortDescription": "Mercy is a quiet strength that softens the heart and draws people closer. We can keep it alive even with the smallest act.",
+        "mainPrinciple": "A heart that reaches down to the fallen is remembered with love above.",
+        "summaryPoints": [
+          "Mercy is the strong bending gently toward the weak.",
+          "Even the smallest kindness can light up a heart.",
+          "The compassion we show others returns to us."
+        ],
+        "dailyReflection": "Today, offer someone an unexpected small kindness: a smile, a helping hand, or a gentle word.",
+        "dawahTip": "Live mercy before you speak of it; your conduct, not your words, is the finest invitation.",
+        "questionAnswer": {
+          "question": "Is mercy a sign of weakness?",
+          "answer": "No; true mercy is staying gentle even when strength is in your hands."
+        },
+        "referenceNote": "See Quranic verses on mercy and compassion.",
+        "shareText": "A single drop of mercy can turn a dry heart into spring."
+      },
+      "fr": {
+        "title": "Une Goutte de Miséricorde",
+        "shortDescription": "La miséricorde est une force tranquille qui adoucit le cœur et rapproche les gens. On peut la faire vivre par le plus petit geste.",
+        "mainPrinciple": "Un cœur qui se penche vers celui qui est tombé est rappelé avec amour dans les cieux.",
+        "summaryPoints": [
+          "La miséricorde, c'est le fort qui s'incline avec douceur vers le faible.",
+          "La plus petite bonté peut illuminer un cœur.",
+          "La compassion que nous offrons nous revient."
+        ],
+        "dailyReflection": "Aujourd'hui, offre à quelqu'un une petite bonté inattendue : un sourire, une main tendue ou un mot doux.",
+        "dawahTip": "Vis la miséricorde avant d'en parler ; ta conduite, et non tes mots, est la plus belle invitation.",
+        "questionAnswer": {
+          "question": "La miséricorde est-elle une faiblesse ?",
+          "answer": "Non ; la vraie miséricorde, c'est rester doux même lorsque la force est entre tes mains."
+        },
+        "referenceNote": "Voir les versets coraniques sur la miséricorde et la compassion.",
+        "shareText": "Une seule goutte de miséricorde peut faire refleurir un cœur desséché."
+      },
+      "pt-BR": {
+        "title": "Uma Gota de Misericórdia",
+        "shortDescription": "A misericórdia é uma força silenciosa que abranda o coração e aproxima as pessoas. Podemos mantê-la viva até com o menor gesto.",
+        "mainPrinciple": "Um coração que se inclina para quem caiu é lembrado com amor lá no alto.",
+        "summaryPoints": [
+          "Misericórdia é o forte curvando-se com delicadeza diante do fraco.",
+          "Até a menor gentileza pode iluminar um coração.",
+          "A compaixão que oferecemos retorna a nós."
+        ],
+        "dailyReflection": "Hoje, ofereça a alguém uma pequena gentileza inesperada: um sorriso, uma mão amiga ou uma palavra suave.",
+        "dawahTip": "Viva a misericórdia antes de falar dela; sua conduta, não suas palavras, é o convite mais belo.",
+        "questionAnswer": {
+          "question": "A misericórdia é sinal de fraqueza?",
+          "answer": "Não; a verdadeira misericórdia é permanecer gentil mesmo quando a força está em suas mãos."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre misericórdia e compaixão.",
+        "shareText": "Uma única gota de misericórdia pode reflorescer um coração ressecado."
+      },
+      "de": {
+        "title": "Ein Tropfen Barmherzigkeit",
+        "shortDescription": "Barmherzigkeit ist eine stille Kraft, die das Herz erweicht und Menschen einander näherbringt. Schon die kleinste Geste hält sie lebendig.",
+        "mainPrinciple": "Ein Herz, das sich zum Gefallenen herabbeugt, wird droben mit Liebe in Erinnerung behalten.",
+        "summaryPoints": [
+          "Barmherzigkeit ist der Starke, der sich sanft zum Schwachen neigt.",
+          "Schon die kleinste Güte kann ein Herz erhellen.",
+          "Das Mitgefühl, das wir zeigen, kehrt zu uns zurück."
+        ],
+        "dailyReflection": "Schenke heute jemandem eine unerwartete kleine Freundlichkeit: ein Lächeln, eine helfende Hand oder ein sanftes Wort.",
+        "dawahTip": "Lebe Barmherzigkeit, bevor du von ihr sprichst; dein Verhalten, nicht deine Worte, ist die schönste Einladung.",
+        "questionAnswer": {
+          "question": "Ist Barmherzigkeit ein Zeichen von Schwäche?",
+          "answer": "Nein; wahre Barmherzigkeit bedeutet, sanft zu bleiben, selbst wenn die Stärke in deinen Händen liegt."
+        },
+        "referenceNote": "Siehe die Koranverse über Barmherzigkeit und Mitgefühl.",
+        "shareText": "Ein einziger Tropfen Barmherzigkeit kann ein vertrocknetes Herz zum Blühen bringen."
+      },
+      "es": {
+        "title": "Una Gota de Misericordia",
+        "shortDescription": "La misericordia es una fuerza serena que ablanda el corazón y acerca a las personas. Podemos mantenerla viva incluso con el gesto más pequeño.",
+        "mainPrinciple": "Un corazón que se inclina hacia el que ha caído es recordado con amor allá en lo alto.",
+        "summaryPoints": [
+          "La misericordia es el fuerte que se inclina con ternura ante el débil.",
+          "Hasta la bondad más pequeña puede iluminar un corazón.",
+          "La compasión que ofrecemos a los demás regresa a nosotros."
+        ],
+        "dailyReflection": "Hoy, ofrécele a alguien una pequeña bondad inesperada: una sonrisa, una mano amiga o una palabra suave.",
+        "dawahTip": "Vive la misericordia antes de hablar de ella; tu conducta, no tus palabras, es la invitación más hermosa.",
+        "questionAnswer": {
+          "question": "¿Es la misericordia una señal de debilidad?",
+          "answer": "No; la verdadera misericordia es permanecer gentil incluso cuando la fuerza está en tus manos."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la misericordia y la compasión.",
+        "shareText": "Una sola gota de misericordia puede hacer florecer de nuevo un corazón reseco."
+      }
+    }
+  },
+  {
+    "id": "share-cards-patience-quiet-strength",
+    "category": "share-cards",
+    "icon": "hourglass-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["sabir", "patience", "metanet", "calmness", "olgunluk"],
+    "content": {
+      "tr": {
+        "title": "Sabrın Sessiz Gücü",
+        "shortDescription": "Sabır, beklemek değil; zorluk içinde dik ve güzel kalabilmektir. O, kalbin en güçlü kasıdır.",
+        "mainPrinciple": "Sabreden kalp kırılmaz; o, fırtınada eğilip yine doğrulan bir daldır.",
+        "summaryPoints": [
+          "Sabır, acıyı inkâr etmek değil, onu güzelce taşımaktır.",
+          "Acele eden çok şey kaybeder; bekleyen çoğu zaman kazanır.",
+          "Her zorluğun ardından bir kolaylık gizlidir."
+        ],
+        "dailyReflection": "Bugün seni sinirlendiren bir an geldiğinde, tepki vermeden önce derin bir nefes al ve sessizce üçe kadar say.",
+        "dawahTip": "Sabrı anlatmanın en güzel yolu, zor anlarda sakin kalarak onu göstermektir.",
+        "questionAnswer": {
+          "question": "Sabır boyun eğmek midir?",
+          "answer": "Hayır; sabır, kırılmadan dik durmayı ve doğru zamanı beklemeyi bilmektir."
+        },
+        "referenceNote": "Bkz. Kur'an'da sabra ve metanete dair ayetler.",
+        "shareText": "Sabır, fırtınanın değil; fırtınadan sonra açan çiçeğin adıdır."
+      },
+      "en": {
+        "title": "The Quiet Strength of Patience",
+        "shortDescription": "Patience is not merely waiting; it is staying upright and gracious within hardship. It is the heart's strongest muscle.",
+        "mainPrinciple": "A patient heart does not break; it is a branch that bends in the storm and rises again.",
+        "summaryPoints": [
+          "Patience is not denying pain, but carrying it beautifully.",
+          "The hasty lose much; the one who waits often gains.",
+          "Behind every hardship a relief is hidden."
+        ],
+        "dailyReflection": "Today, when a moment angers you, take a deep breath before reacting and quietly count to three.",
+        "dawahTip": "The finest way to teach patience is to show it by staying calm in difficult moments.",
+        "questionAnswer": {
+          "question": "Is patience the same as giving up?",
+          "answer": "No; patience is standing firm without breaking and knowing when to wait for the right time."
+        },
+        "referenceNote": "See Quranic verses on patience and perseverance.",
+        "shareText": "Patience is not the name of the storm, but of the flower that blooms after it."
+      },
+      "fr": {
+        "title": "La Force Tranquille de la Patience",
+        "shortDescription": "La patience n'est pas seulement attendre ; c'est rester droit et bienveillant au cœur de l'épreuve. C'est le muscle le plus fort du cœur.",
+        "mainPrinciple": "Un cœur patient ne se brise pas ; c'est une branche qui plie dans la tempête et se redresse.",
+        "summaryPoints": [
+          "La patience ne nie pas la douleur, mais la porte avec grâce.",
+          "Le pressé perd beaucoup ; celui qui attend gagne souvent.",
+          "Derrière chaque épreuve se cache un soulagement."
+        ],
+        "dailyReflection": "Aujourd'hui, quand un instant te met en colère, respire profondément avant de réagir et compte calmement jusqu'à trois.",
+        "dawahTip": "La plus belle façon d'enseigner la patience est de la montrer en restant calme dans les moments difficiles.",
+        "questionAnswer": {
+          "question": "La patience, est-ce renoncer ?",
+          "answer": "Non ; la patience, c'est tenir bon sans se briser et savoir attendre le bon moment."
+        },
+        "referenceNote": "Voir les versets coraniques sur la patience et la persévérance.",
+        "shareText": "La patience n'est pas le nom de la tempête, mais de la fleur qui éclôt après elle."
+      },
+      "pt-BR": {
+        "title": "A Força Silenciosa da Paciência",
+        "shortDescription": "Paciência não é apenas esperar; é permanecer firme e gentil em meio à dificuldade. É o músculo mais forte do coração.",
+        "mainPrinciple": "Um coração paciente não se quebra; é um galho que se curva na tempestade e volta a se erguer.",
+        "summaryPoints": [
+          "Paciência não é negar a dor, mas carregá-la com beleza.",
+          "Quem se apressa perde muito; quem espera muitas vezes ganha.",
+          "Por trás de cada dificuldade esconde-se um alívio."
+        ],
+        "dailyReflection": "Hoje, quando um momento te irritar, respire fundo antes de reagir e conte calmamente até três.",
+        "dawahTip": "A melhor forma de ensinar paciência é demonstrá-la mantendo a calma nos momentos difíceis.",
+        "questionAnswer": {
+          "question": "Paciência é o mesmo que desistir?",
+          "answer": "Não; paciência é manter-se firme sem se quebrar e saber esperar o momento certo."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre paciência e perseverança.",
+        "shareText": "Paciência não é o nome da tempestade, mas da flor que desabrocha depois dela."
+      },
+      "de": {
+        "title": "Die Stille Kraft der Geduld",
+        "shortDescription": "Geduld ist nicht bloßes Warten; sie bedeutet, in der Not aufrecht und gütig zu bleiben. Sie ist der stärkste Muskel des Herzens.",
+        "mainPrinciple": "Ein geduldiges Herz zerbricht nicht; es ist ein Ast, der sich im Sturm beugt und sich wieder aufrichtet.",
+        "summaryPoints": [
+          "Geduld leugnet den Schmerz nicht, sondern trägt ihn auf schöne Weise.",
+          "Der Eilige verliert viel; der Wartende gewinnt oft.",
+          "Hinter jeder Not verbirgt sich eine Erleichterung."
+        ],
+        "dailyReflection": "Atme heute, wenn dich ein Moment erzürnt, tief durch, bevor du reagierst, und zähle still bis drei.",
+        "dawahTip": "Der schönste Weg, Geduld zu lehren, ist sie zu zeigen, indem man in schweren Momenten ruhig bleibt.",
+        "questionAnswer": {
+          "question": "Ist Geduld dasselbe wie Aufgeben?",
+          "answer": "Nein; Geduld bedeutet, fest zu stehen, ohne zu zerbrechen, und den richtigen Augenblick abzuwarten."
+        },
+        "referenceNote": "Siehe die Koranverse über Geduld und Ausdauer.",
+        "shareText": "Geduld ist nicht der Name des Sturms, sondern der Blume, die danach erblüht."
+      },
+      "es": {
+        "title": "La Fuerza Silenciosa de la Paciencia",
+        "shortDescription": "La paciencia no es solo esperar; es permanecer firme y amable en medio de la dificultad. Es el músculo más fuerte del corazón.",
+        "mainPrinciple": "Un corazón paciente no se quiebra; es una rama que se dobla en la tormenta y vuelve a erguirse.",
+        "summaryPoints": [
+          "La paciencia no es negar el dolor, sino llevarlo con belleza.",
+          "Quien se apresura pierde mucho; quien espera muchas veces gana.",
+          "Detrás de cada dificultad se esconde un alivio."
+        ],
+        "dailyReflection": "Hoy, cuando un momento te haga enojar, respira hondo antes de reaccionar y cuenta en silencio hasta tres.",
+        "dawahTip": "La mejor manera de enseñar la paciencia es demostrarla manteniendo la calma en los momentos difíciles.",
+        "questionAnswer": {
+          "question": "¿Es la paciencia lo mismo que rendirse?",
+          "answer": "No; la paciencia es mantenerse firme sin quebrarse y saber esperar el momento adecuado."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la paciencia y la perseverancia.",
+        "shareText": "La paciencia no es el nombre de la tormenta, sino de la flor que florece después de ella."
+      }
+    }
+  },
+  {
+    "id": "share-cards-gratitude-grows",
+    "category": "share-cards",
+    "icon": "sunny-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": ["sukur", "gratitude", "thankfulness", "huzur", "contentment"],
+    "content": {
+      "tr": {
+        "title": "Şükür Çoğaltır",
+        "shortDescription": "Şükür, sahip olduklarımızı görmektir. Görmeyi öğrenen kalp, az ile bile zengin yaşar.",
+        "mainPrinciple": "Şükreden göz, küçük nimette büyük bir hazine görür.",
+        "summaryPoints": [
+          "Şükür, eksiğe değil, var olana bakmaktır.",
+          "Teşekkür edilen nimet bereketle çoğalır.",
+          "Şükür, huzurun en kısa yoludur."
+        ],
+        "dailyReflection": "Bugün uykudan önce, gün içinde seni sevindiren üç küçük şeyi sessizce hatırla ve içinden teşekkür et.",
+        "dawahTip": "Şükrünü içtenlikle dile getir; minnettar bir kalp, çevresine umut bulaştırır.",
+        "questionAnswer": {
+          "question": "Az şeyim varken nasıl şükredebilirim?",
+          "answer": "Şükür, çok şeye değil, fark etmeye bağlıdır; bir nefes bile başlı başına bir nimettir."
+        },
+        "referenceNote": "Bkz. Kur'an'da şükre ve nimete dair ayetler.",
+        "shareText": "Şükür, elindekini azken bile bir hazineye dönüştürür."
+      },
+      "en": {
+        "title": "Gratitude Multiplies",
+        "shortDescription": "Gratitude is seeing what we already have. A heart that learns to see lives richly even with little.",
+        "mainPrinciple": "A grateful eye sees a great treasure in a small blessing.",
+        "summaryPoints": [
+          "Gratitude looks at what is present, not what is missing.",
+          "A blessing that is thanked grows with abundance.",
+          "Gratitude is the shortest path to peace."
+        ],
+        "dailyReflection": "Tonight before sleep, quietly recall three small things that brought you joy today and give thanks within.",
+        "dawahTip": "Express your gratitude sincerely; a thankful heart spreads hope to those around it.",
+        "questionAnswer": {
+          "question": "How can I be grateful when I have so little?",
+          "answer": "Gratitude depends not on having much but on noticing; even a single breath is a blessing in itself."
+        },
+        "referenceNote": "See Quranic verses on gratitude and blessings.",
+        "shareText": "Gratitude turns even a little in your hands into a treasure."
+      },
+      "fr": {
+        "title": "La Gratitude Multiplie",
+        "shortDescription": "La gratitude, c'est voir ce que nous possédons déjà. Un cœur qui apprend à voir vit richement même avec peu.",
+        "mainPrinciple": "Un œil reconnaissant voit un grand trésor dans une petite grâce.",
+        "summaryPoints": [
+          "La gratitude regarde ce qui est présent, non ce qui manque.",
+          "Une grâce dont on remercie croît dans l'abondance.",
+          "La gratitude est le plus court chemin vers la paix."
+        ],
+        "dailyReflection": "Ce soir avant de dormir, rappelle-toi en silence trois petites choses qui t'ont réjoui aujourd'hui et remercie en ton for intérieur.",
+        "dawahTip": "Exprime ta gratitude avec sincérité ; un cœur reconnaissant répand l'espoir autour de lui.",
+        "questionAnswer": {
+          "question": "Comment être reconnaissant quand j'ai si peu ?",
+          "answer": "La gratitude ne dépend pas d'avoir beaucoup, mais de remarquer ; un seul souffle est déjà une grâce."
+        },
+        "referenceNote": "Voir les versets coraniques sur la gratitude et les bienfaits.",
+        "shareText": "La gratitude transforme en trésor même le peu que tu tiens."
+      },
+      "pt-BR": {
+        "title": "A Gratidão Multiplica",
+        "shortDescription": "Gratidão é enxergar o que já temos. Um coração que aprende a ver vive com riqueza mesmo tendo pouco.",
+        "mainPrinciple": "Um olhar grato vê um grande tesouro em uma pequena bênção.",
+        "summaryPoints": [
+          "A gratidão olha para o que está presente, não para o que falta.",
+          "Uma bênção agradecida cresce em abundância.",
+          "A gratidão é o caminho mais curto para a paz."
+        ],
+        "dailyReflection": "Hoje à noite, antes de dormir, lembre em silêncio de três pequenas coisas que te alegraram hoje e agradeça por dentro.",
+        "dawahTip": "Expresse sua gratidão com sinceridade; um coração grato espalha esperança a quem está ao redor.",
+        "questionAnswer": {
+          "question": "Como ser grato quando tenho tão pouco?",
+          "answer": "A gratidão não depende de ter muito, mas de perceber; até um único respiro já é uma bênção."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre gratidão e bênçãos.",
+        "shareText": "A gratidão transforma em tesouro até o pouco que está em suas mãos."
+      },
+      "de": {
+        "title": "Dankbarkeit Vermehrt",
+        "shortDescription": "Dankbarkeit bedeutet, zu sehen, was wir bereits haben. Ein Herz, das zu sehen lernt, lebt reich, selbst mit wenig.",
+        "mainPrinciple": "Ein dankbares Auge erblickt in einer kleinen Gabe einen großen Schatz.",
+        "summaryPoints": [
+          "Dankbarkeit blickt auf das Vorhandene, nicht auf das Fehlende.",
+          "Eine Gabe, für die man dankt, wächst in Fülle.",
+          "Dankbarkeit ist der kürzeste Weg zum Frieden."
+        ],
+        "dailyReflection": "Erinnere dich heute Abend vor dem Schlafen still an drei kleine Dinge, die dich heute erfreut haben, und danke in deinem Inneren.",
+        "dawahTip": "Drücke deine Dankbarkeit aufrichtig aus; ein dankbares Herz verbreitet Hoffnung in seiner Umgebung.",
+        "questionAnswer": {
+          "question": "Wie kann ich dankbar sein, wenn ich so wenig habe?",
+          "answer": "Dankbarkeit hängt nicht vom Vielen ab, sondern vom Bemerken; schon ein einziger Atemzug ist eine Gabe für sich."
+        },
+        "referenceNote": "Siehe die Koranverse über Dankbarkeit und Gaben.",
+        "shareText": "Dankbarkeit verwandelt selbst das Wenige in deinen Händen in einen Schatz."
+      },
+      "es": {
+        "title": "La Gratitud Multiplica",
+        "shortDescription": "La gratitud es ver lo que ya tenemos. Un corazón que aprende a ver vive con riqueza incluso teniendo poco.",
+        "mainPrinciple": "Una mirada agradecida ve un gran tesoro en una pequeña bendición.",
+        "summaryPoints": [
+          "La gratitud mira lo que está presente, no lo que falta.",
+          "Una bendición agradecida crece en abundancia.",
+          "La gratitud es el camino más corto hacia la paz."
+        ],
+        "dailyReflection": "Esta noche, antes de dormir, recuerda en silencio tres pequeñas cosas que te alegraron hoy y da gracias en tu interior.",
+        "dawahTip": "Expresa tu gratitud con sinceridad; un corazón agradecido contagia esperanza a quienes lo rodean.",
+        "questionAnswer": {
+          "question": "¿Cómo puedo ser agradecido cuando tengo tan poco?",
+          "answer": "La gratitud no depende de tener mucho, sino de saber notarlo; hasta un solo aliento ya es una bendición en sí mismo."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la gratitud y las bendiciones.",
+        "shareText": "La gratitud convierte en tesoro incluso lo poco que está en tus manos."
+      }
+    }
+  }
+]

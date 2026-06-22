@@ -1,0 +1,356 @@
+[
+  {
+    "id": "CAT-her-insani-onurlu-gormek",
+    "category": "daily-life",
+    "icon": "person-circle-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["onur", "değer", "dignity", "respect", "emanet"],
+    "content": {
+      "tr": {
+        "title": "Karşındaki İnsanı Onurlu Görmek",
+        "shortDescription": "Karşılaştığın her insan, onurlu yaratılmış değerli bir varlıktır. Ona bu gözle bakmak, günlük ilişkilerine derin bir incelik katar.",
+        "mainPrinciple": "Her insan, küçümseme hakkını kimseye bırakmayan onurlu bir değerdir.",
+        "summaryPoints": [
+          "Karşındaki kişi, makamı ne olursa olsun değerli ve saygıya layıktır.",
+          "Üstünlük soyda ya da statüde değil, gönlün güzelliğindedir.",
+          "İnsana onurlu davranmak, ona emanetmiş gibi özenle yaklaşmaktır."
+        ],
+        "dailyReflection": "Bugün görmezden gelmeye alıştığın birine (bir görevliye, bir komşuya) içten bir selam ya da teşekkürle değer ver.",
+        "dawahTip": "İnsanların kıymetini sözle değil, herkese eşit saygıyla davranarak göster; ayrım gözetmeyen bir tavır en güçlü çağrıdır.",
+        "questionAnswer": {
+          "question": "Bana kötü davranan birine bile onurla mı yaklaşmalıyım?",
+          "answer": "Onun davranışı sana aittir, senin zarafetin sana. İncinsen de incitmemek, haklı olduğun yerde bile inceliğini korumaktır."
+        },
+        "referenceNote": "Bu mesaj, her insanın onurlu yaratıldığını ve gerçek üstünlüğün soyda değil gönül güzelliğinde olduğunu hatırlatan ilkelerden esinlenmiştir.",
+        "shareText": "Karşındaki insan değerlidir. Ona onurla bakmak, önce senin gönlünü güzelleştirir."
+      },
+      "en": {
+        "title": "Seeing the Person Before You as Dignified",
+        "shortDescription": "Every person you meet is a precious being, created with dignity. Seeing them this way adds a deep grace to your daily relationships.",
+        "mainPrinciple": "Every human is a dignified worth that grants no one the right to belittle them.",
+        "summaryPoints": [
+          "The person before you, whatever their rank, is precious and worthy of respect.",
+          "Superiority lies not in lineage or status, but in the beauty of the heart.",
+          "Treating a person with dignity means approaching them with care, as one would a trust."
+        ],
+        "dailyReflection": "Today, honor someone you have grown used to overlooking (a worker, a neighbor) with a sincere greeting or a thank-you.",
+        "dawahTip": "Show the worth of people not with words but by treating everyone with equal respect; an impartial manner is the strongest invitation.",
+        "questionAnswer": {
+          "question": "Should I approach even someone who treats me badly with dignity?",
+          "answer": "Their conduct belongs to them, your grace belongs to you. Not wounding even when wounded means keeping your refinement even when you are in the right."
+        },
+        "referenceNote": "This message draws on principles reminding us that every human is created with dignity and that true superiority lies not in lineage but in the beauty of the heart.",
+        "shareText": "The person before you is precious. Seeing them with dignity first beautifies your own heart."
+      },
+      "fr": {
+        "title": "Voir avec dignité la personne devant toi",
+        "shortDescription": "Chaque personne que tu rencontres est un être précieux, créé avec dignité. La voir ainsi apporte une grâce profonde à tes relations quotidiennes.",
+        "mainPrinciple": "Chaque être humain est une valeur digne qui n'accorde à personne le droit de le rabaisser.",
+        "summaryPoints": [
+          "La personne devant toi, quel que soit son rang, est précieuse et digne de respect.",
+          "La supériorité ne réside pas dans la lignée ou le statut, mais dans la beauté du cœur.",
+          "Traiter une personne avec dignité, c'est l'approcher avec soin, comme un dépôt confié."
+        ],
+        "dailyReflection": "Aujourd'hui, honore quelqu'un que tu as l'habitude d'ignorer (un employé, un voisin) par un salut sincère ou un merci.",
+        "dawahTip": "Montre la valeur des gens non par des mots mais en traitant chacun avec un respect égal ; une attitude sans distinction est l'invitation la plus forte.",
+        "questionAnswer": {
+          "question": "Dois-je traiter avec dignité même quelqu'un qui me traite mal ?",
+          "answer": "Sa conduite lui appartient, ta grâce t'appartient. Ne pas blesser même blessé, c'est garder ta délicatesse même quand tu as raison."
+        },
+        "referenceNote": "Ce message s'inspire de principes rappelant que chaque être humain est créé avec dignité et que la vraie supériorité ne réside pas dans la lignée mais dans la beauté du cœur.",
+        "shareText": "La personne devant toi est précieuse. La voir avec dignité embellit d'abord ton propre cœur."
+      },
+      "pt-BR": {
+        "title": "Ver com dignidade a pessoa diante de você",
+        "shortDescription": "Cada pessoa que você encontra é um ser precioso, criado com dignidade. Vê-la assim acrescenta uma graça profunda às suas relações diárias.",
+        "mainPrinciple": "Cada ser humano é um valor digno que não concede a ninguém o direito de menosprezá-lo.",
+        "summaryPoints": [
+          "A pessoa diante de você, qualquer que seja sua posição, é preciosa e digna de respeito.",
+          "A superioridade não está na linhagem ou no status, mas na beleza do coração.",
+          "Tratar uma pessoa com dignidade é aproximar-se dela com cuidado, como de uma confiança."
+        ],
+        "dailyReflection": "Hoje, honre alguém que você se acostumou a ignorar (um funcionário, um vizinho) com um cumprimento sincero ou um obrigado.",
+        "dawahTip": "Mostre o valor das pessoas não com palavras, mas tratando cada uma com igual respeito; uma atitude sem distinção é o convite mais forte.",
+        "questionAnswer": {
+          "question": "Devo tratar com dignidade até quem me trata mal?",
+          "answer": "A conduta dele pertence a ele, a sua graça pertence a você. Não ferir mesmo ferido é manter o seu refinamento mesmo quando você tem razão."
+        },
+        "referenceNote": "Esta mensagem inspira-se em princípios que nos lembram que cada ser humano é criado com dignidade e que a verdadeira superioridade não está na linhagem, mas na beleza do coração.",
+        "shareText": "A pessoa diante de você é preciosa. Vê-la com dignidade embeleza primeiro o seu próprio coração."
+      },
+      "de": {
+        "title": "Den Menschen vor dir als würdevoll sehen",
+        "shortDescription": "Jeder Mensch, dem du begegnest, ist ein kostbares, mit Würde erschaffenes Wesen. Ihn so zu sehen verleiht deinen täglichen Beziehungen eine tiefe Anmut.",
+        "mainPrinciple": "Jeder Mensch ist ein würdevoller Wert, der niemandem das Recht gibt, ihn herabzusetzen.",
+        "summaryPoints": [
+          "Der Mensch vor dir ist, welchen Rang er auch hat, kostbar und der Achtung würdig.",
+          "Überlegenheit liegt nicht in Abstammung oder Stand, sondern in der Schönheit des Herzens.",
+          "Einen Menschen würdevoll zu behandeln heißt, ihm sorgsam wie einem Anvertrauten zu begegnen."
+        ],
+        "dailyReflection": "Ehre heute jemanden, den du gewohnt bist zu übersehen (einen Angestellten, einen Nachbarn), mit einem aufrichtigen Gruß oder einem Dankeschön.",
+        "dawahTip": "Zeige den Wert der Menschen nicht mit Worten, sondern indem du jeden mit gleicher Achtung behandelst; eine Haltung ohne Unterschied ist die stärkste Einladung.",
+        "questionAnswer": {
+          "question": "Soll ich selbst jemandem, der mich schlecht behandelt, mit Würde begegnen?",
+          "answer": "Sein Verhalten gehört ihm, deine Anmut gehört dir. Selbst verletzt nicht zu verletzen heißt, deine Feinheit zu bewahren, auch wenn du im Recht bist."
+        },
+        "referenceNote": "Diese Botschaft schöpft aus Grundsätzen, die uns daran erinnern, dass jeder Mensch mit Würde erschaffen ist und wahre Überlegenheit nicht in der Abstammung, sondern in der Schönheit des Herzens liegt.",
+        "shareText": "Der Mensch vor dir ist kostbar. Ihn mit Würde zu sehen verschönert zuerst dein eigenes Herz."
+      },
+      "es": {
+        "title": "Ver con dignidad a la persona que tienes delante",
+        "shortDescription": "Cada persona que encuentras es un ser precioso, creado con dignidad. Verla así añade una gracia profunda a tus relaciones diarias.",
+        "mainPrinciple": "Todo ser humano es un valor digno que no concede a nadie el derecho de menospreciarlo.",
+        "summaryPoints": [
+          "La persona que tienes delante, sea cual sea su rango, es preciosa y digna de respeto.",
+          "La superioridad no está en el linaje ni en el estatus, sino en la belleza del corazón.",
+          "Tratar a una persona con dignidad es acercarse a ella con cuidado, como a algo que se nos confía."
+        ],
+        "dailyReflection": "Hoy honra a alguien a quien te has acostumbrado a pasar por alto (un trabajador, un vecino) con un saludo sincero o un gracias.",
+        "dawahTip": "Muestra el valor de las personas no con palabras, sino tratando a cada una con igual respeto; una actitud sin distinciones es la invitación más fuerte.",
+        "questionAnswer": {
+          "question": "¿Debo tratar con dignidad incluso a quien me trata mal?",
+          "answer": "Su conducta le pertenece a él; tu gracia te pertenece a ti. No herir aun estando herido es conservar tu delicadeza incluso cuando tienes la razón."
+        },
+        "referenceNote": "Este mensaje se inspira en principios que nos recuerdan que todo ser humano fue creado con dignidad y que la verdadera superioridad no está en el linaje, sino en la belleza del corazón.",
+        "shareText": "La persona que tienes delante es preciosa. Verla con dignidad embellece primero tu propio corazón."
+      }
+    }
+  },
+  {
+    "id": "CAT-ardinda-guzel-bir-iz-birakmak",
+    "category": "daily-life",
+    "icon": "footsteps-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["ömür", "iz", "legacy", "time", "anlam"],
+    "content": {
+      "tr": {
+        "title": "Ardında Güzel Bir İz Bırakmak",
+        "shortDescription": "Ömrün gerçek ölçüsü, kaç yıl yaşadığın değil, geçtiğin yerlerde nasıl bir iz bıraktığındır. Her gün, bu izi güzelleştirme fırsatıdır.",
+        "mainPrinciple": "Hayatın anlamı, yolu güzel yürümek ve arkanda hoş bir hatıra bırakmaktır.",
+        "summaryPoints": [
+          "Ömür yıllarla değil, bıraktığın güzel izlerle ölçülür.",
+          "Bugün yaptığın küçük bir iyilik, yarın hatırlanan bir hatıra olur.",
+          "Geçici lezzetlere değil, kalıcı izlere gönül vermek huzur getirir."
+        ],
+        "dailyReflection": "Bugün karşılaştığın birinin gününü güzelleştirecek küçük bir söz ya da davranışta bulun; ardında bir tebessüm bırak.",
+        "dawahTip": "İyi bir iz bırakmayı öğütlemek yerine, kendin güzel hatıralar bırakan biri ol; insanlar nasihatten çok yaşanan örnekten etkilenir.",
+        "questionAnswer": {
+          "question": "Büyük işler yapamayan biri de güzel bir iz bırakabilir mi?",
+          "answer": "Elbette. Bir gönle dokunan tatlı bir söz, zamanında uzatılan bir yardım, en küçük haliyle bile kalıcı ve değerli bir izdir."
+        },
+        "referenceNote": "Bu mesaj, hayatın anlamının yolu güzel yürümek ve arkada hoş bir hatıra bırakmak olduğunu hatırlatan ilkelerden esinlenmiştir.",
+        "shareText": "Ömrünü yıllarla değil, bıraktığın güzel izlerle ölç. Bugün bir tebessüm bırak."
+      },
+      "en": {
+        "title": "Leaving a Beautiful Trace Behind",
+        "shortDescription": "The true measure of a life is not how many years you lived, but what kind of trace you left wherever you passed. Each day is a chance to make that trace more beautiful.",
+        "mainPrinciple": "The meaning of life is to walk the path well and leave a pleasant memory behind you.",
+        "summaryPoints": [
+          "A life is measured not in years but in the beautiful traces you leave.",
+          "A small kindness you do today becomes a memory remembered tomorrow.",
+          "Giving your heart to lasting traces rather than fleeting pleasures brings peace."
+        ],
+        "dailyReflection": "Today, offer a small word or gesture that brightens the day of someone you meet; leave a smile behind you.",
+        "dawahTip": "Rather than preaching about leaving a good trace, be someone who leaves beautiful memories; people are moved more by a lived example than by advice.",
+        "questionAnswer": {
+          "question": "Can someone who cannot do great things still leave a beautiful trace?",
+          "answer": "Of course. A kind word that touches a heart, a helping hand offered in time, is a lasting and precious trace even in its smallest form."
+        },
+        "referenceNote": "This message draws on principles reminding us that the meaning of life is to walk the path well and leave a pleasant memory behind.",
+        "shareText": "Measure your life not in years but in the beautiful traces you leave. Leave a smile behind today."
+      },
+      "fr": {
+        "title": "Laisser une belle trace derrière soi",
+        "shortDescription": "La vraie mesure d'une vie n'est pas le nombre d'années vécues, mais la trace que tu as laissée partout où tu es passé. Chaque jour est une occasion d'embellir cette trace.",
+        "mainPrinciple": "Le sens de la vie est de bien parcourir le chemin et de laisser derrière soi un beau souvenir.",
+        "summaryPoints": [
+          "Une vie se mesure non en années mais aux belles traces que tu laisses.",
+          "Une petite bonté que tu accomplis aujourd'hui devient un souvenir rappelé demain.",
+          "Donner son cœur aux traces durables plutôt qu'aux plaisirs fugaces apporte la paix."
+        ],
+        "dailyReflection": "Aujourd'hui, offre un petit mot ou un geste qui illumine la journée de quelqu'un que tu rencontres ; laisse un sourire derrière toi.",
+        "dawahTip": "Plutôt que de prêcher sur le fait de laisser une belle trace, sois quelqu'un qui laisse de beaux souvenirs ; on est touché davantage par un exemple vécu que par un conseil.",
+        "questionAnswer": {
+          "question": "Quelqu'un qui ne peut accomplir de grandes choses peut-il aussi laisser une belle trace ?",
+          "answer": "Bien sûr. Une parole douce qui touche un cœur, une aide tendue au bon moment, est une trace durable et précieuse, même dans sa plus petite forme."
+        },
+        "referenceNote": "Ce message s'inspire de principes rappelant que le sens de la vie est de bien parcourir le chemin et de laisser derrière soi un beau souvenir.",
+        "shareText": "Mesure ta vie non en années mais aux belles traces que tu laisses. Laisse un sourire derrière toi aujourd'hui."
+      },
+      "pt-BR": {
+        "title": "Deixar um belo rastro para trás",
+        "shortDescription": "A verdadeira medida de uma vida não é quantos anos você viveu, mas que tipo de rastro deixou por onde passou. Cada dia é uma chance de tornar esse rastro mais belo.",
+        "mainPrinciple": "O sentido da vida é percorrer bem o caminho e deixar uma boa lembrança para trás.",
+        "summaryPoints": [
+          "Uma vida se mede não em anos, mas nos belos rastros que você deixa.",
+          "Uma pequena bondade que você faz hoje vira uma lembrança recordada amanhã.",
+          "Dar o coração aos rastros duradouros, e não aos prazeres passageiros, traz paz."
+        ],
+        "dailyReflection": "Hoje, ofereça uma pequena palavra ou gesto que ilumine o dia de alguém que você encontra; deixe um sorriso para trás.",
+        "dawahTip": "Em vez de pregar sobre deixar um bom rastro, seja alguém que deixa belas lembranças; as pessoas se comovem mais com um exemplo vivido do que com conselhos.",
+        "questionAnswer": {
+          "question": "Quem não consegue fazer grandes coisas também pode deixar um belo rastro?",
+          "answer": "Claro. Uma palavra gentil que toca um coração, uma ajuda estendida na hora certa, é um rastro duradouro e precioso, mesmo em sua menor forma."
+        },
+        "referenceNote": "Esta mensagem inspira-se em princípios que nos lembram que o sentido da vida é percorrer bem o caminho e deixar uma boa lembrança para trás.",
+        "shareText": "Meça a sua vida não em anos, mas nos belos rastros que deixa. Deixe um sorriso para trás hoje."
+      },
+      "de": {
+        "title": "Eine schöne Spur hinterlassen",
+        "shortDescription": "Das wahre Maß eines Lebens ist nicht, wie viele Jahre du gelebt hast, sondern welche Spur du überall hinterlassen hast, wo du gegangen bist. Jeder Tag ist eine Gelegenheit, diese Spur zu verschönern.",
+        "mainPrinciple": "Der Sinn des Lebens ist, den Weg gut zu gehen und eine schöne Erinnerung zu hinterlassen.",
+        "summaryPoints": [
+          "Ein Leben misst sich nicht in Jahren, sondern an den schönen Spuren, die du hinterlässt.",
+          "Eine kleine Güte, die du heute tust, wird morgen zu einer Erinnerung, an die man sich erinnert.",
+          "Sein Herz an bleibende Spuren statt an flüchtige Genüsse zu hängen, bringt Frieden."
+        ],
+        "dailyReflection": "Schenke heute jemandem, dem du begegnest, ein kleines Wort oder eine Geste, die seinen Tag erhellt; hinterlasse ein Lächeln.",
+        "dawahTip": "Statt über das Hinterlassen einer guten Spur zu predigen, sei jemand, der schöne Erinnerungen hinterlässt; Menschen berührt ein gelebtes Beispiel mehr als ein Ratschlag.",
+        "questionAnswer": {
+          "question": "Kann auch jemand, der keine großen Dinge vollbringen kann, eine schöne Spur hinterlassen?",
+          "answer": "Gewiss. Ein freundliches Wort, das ein Herz berührt, eine zur rechten Zeit gereichte Hilfe, ist selbst in ihrer kleinsten Form eine bleibende und kostbare Spur."
+        },
+        "referenceNote": "Diese Botschaft schöpft aus Grundsätzen, die uns daran erinnern, dass der Sinn des Lebens darin liegt, den Weg gut zu gehen und eine schöne Erinnerung zu hinterlassen.",
+        "shareText": "Miss dein Leben nicht in Jahren, sondern an den schönen Spuren, die du hinterlässt. Hinterlasse heute ein Lächeln."
+      },
+      "es": {
+        "title": "Dejar una hermosa huella tras de ti",
+        "shortDescription": "La verdadera medida de una vida no es cuántos años viviste, sino qué clase de huella dejaste por donde pasaste. Cada día es una oportunidad para hacer esa huella más hermosa.",
+        "mainPrinciple": "El sentido de la vida es recorrer bien el camino y dejar un grato recuerdo tras de ti.",
+        "summaryPoints": [
+          "Una vida se mide no en años, sino en las hermosas huellas que dejas.",
+          "Una pequeña bondad que haces hoy se convierte mañana en un recuerdo que perdura.",
+          "Entregar el corazón a las huellas duraderas, y no a los placeres pasajeros, trae paz."
+        ],
+        "dailyReflection": "Hoy ofrece una pequeña palabra o gesto que ilumine el día de alguien que encuentres; deja una sonrisa tras de ti.",
+        "dawahTip": "En lugar de predicar sobre dejar una buena huella, sé alguien que deja hermosos recuerdos; a las personas las conmueve más un ejemplo vivido que un consejo.",
+        "questionAnswer": {
+          "question": "¿Puede dejar una hermosa huella también quien no logra hacer grandes cosas?",
+          "answer": "Por supuesto. Una palabra amable que toca un corazón, una ayuda tendida a tiempo, es una huella duradera y preciosa, aun en su forma más pequeña."
+        },
+        "referenceNote": "Este mensaje se inspira en principios que nos recuerdan que el sentido de la vida es recorrer bien el camino y dejar un grato recuerdo tras de sí.",
+        "shareText": "Mide tu vida no en años, sino en las hermosas huellas que dejas. Deja una sonrisa tras de ti hoy."
+      }
+    }
+  },
+  {
+    "id": "CAT-dili-gibetten-ve-zandan-korumak",
+    "category": "daily-life",
+    "icon": "chatbubble-ellipses-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["gıybet", "zan", "backbiting", "kul hakkı", "dil"],
+    "content": {
+      "tr": {
+        "title": "Dilini Gıybetten ve Zandan Korumak",
+        "shortDescription": "Çoğu zaman fark etmeden bir başkasının hakkına dokunduğumuz yer dilimizdir. Gıybet, zan ve dedikodudan sakınmak, gönülleri ve ilişkileri korur.",
+        "mainPrinciple": "Bir insanı arkasından konuşmak, görünmez ama gerçek bir hak ihlalidir.",
+        "summaryPoints": [
+          "Kesin bilmediğin bir şeyi konuşmamak, kimseyi zanla töhmet altında bırakmamaktır.",
+          "Gıybet ve dedikodu, insan onurunu sessizce yaralar.",
+          "Başkasının özel hâllerini araştırmamak, dilini olduğu gibi gözünü de korumaktır."
+        ],
+        "dailyReflection": "Bugün biri hakkında olumsuz bir söz söylemek istediğinde bir an dur ve o sözü söylemeden geç; sessizliğin bir hayır olsun.",
+        "dawahTip": "Bir mecliste gıybet başladığında nazikçe konuyu değiştir ya da güzel bir söz söyle; kınamadan örnek olmak en etkili yoldur.",
+        "questionAnswer": {
+          "question": "Doğru olan bir şeyi söylemek de gıybet midir?",
+          "answer": "Evet; bir kişinin gerçekten var olan ama hoşlanmayacağı bir hâlini arkasından söylemek de gıybettir. Doğruluk, onu konuşma hakkını vermez."
+        },
+        "referenceNote": "Bu mesaj, dili gıybetten ve zandan korumayı, başkalarının gizliliklerinin peşine düşmemeyi öğütleyen ilkelerden esinlenmiştir.",
+        "shareText": "Bir gönlü incitmemenin en kolay yolu, dilini gıybetten ve zandan korumaktır."
+      },
+      "en": {
+        "title": "Guarding Your Tongue from Backbiting and Suspicion",
+        "shortDescription": "Often the place where we touch another's right without noticing is our tongue. Avoiding backbiting, suspicion, and gossip protects both hearts and relationships.",
+        "mainPrinciple": "Speaking about a person behind their back is an invisible but real violation of their right.",
+        "summaryPoints": [
+          "Not speaking of what you do not truly know means not casting suspicion or blame on anyone.",
+          "Backbiting and gossip quietly wound a person's dignity.",
+          "Not prying into another's private affairs means guarding your eyes as well as your tongue."
+        ],
+        "dailyReflection": "Today, when you feel the urge to say something negative about someone, pause for a moment and let it pass unsaid; let your silence be a good deed.",
+        "dawahTip": "When backbiting begins in a gathering, gently change the subject or offer a kind word; setting an example without condemning is the most effective way.",
+        "questionAnswer": {
+          "question": "Is it still backbiting if what I say is true?",
+          "answer": "Yes; to speak behind someone's back of a real trait they would dislike being mentioned is also backbiting. Being true does not grant the right to speak of it."
+        },
+        "referenceNote": "This message draws on principles that counsel guarding the tongue from backbiting and suspicion, and not prying into the private matters of others.",
+        "shareText": "The easiest way to avoid wounding a heart is to guard your tongue from backbiting and suspicion."
+      },
+      "fr": {
+        "title": "Préserver sa langue de la médisance et du soupçon",
+        "shortDescription": "Souvent, l'endroit où nous portons atteinte au droit d'autrui sans nous en rendre compte, c'est notre langue. Éviter la médisance, le soupçon et les commérages préserve les cœurs et les relations.",
+        "mainPrinciple": "Parler d'une personne dans son dos est une atteinte invisible mais réelle à son droit.",
+        "summaryPoints": [
+          "Ne pas parler de ce qu'on ne sait pas avec certitude, c'est ne jeter le soupçon ni le blâme sur personne.",
+          "La médisance et les commérages blessent en silence la dignité d'une personne.",
+          "Ne pas fouiller les affaires privées d'autrui, c'est préserver autant ses yeux que sa langue."
+        ],
+        "dailyReflection": "Aujourd'hui, quand tu sens l'envie de dire quelque chose de négatif sur quelqu'un, marque une pause et laisse passer ces mots sans les dire ; que ton silence soit une bonne action.",
+        "dawahTip": "Quand la médisance commence dans une assemblée, change doucement de sujet ou dis une belle parole ; donner l'exemple sans condamner est la voie la plus efficace.",
+        "questionAnswer": {
+          "question": "Est-ce encore de la médisance si ce que je dis est vrai ?",
+          "answer": "Oui ; parler dans le dos de quelqu'un d'un trait réel qu'il n'aimerait pas voir mentionné, c'est aussi de la médisance. Être véridique ne donne pas le droit d'en parler."
+        },
+        "referenceNote": "Ce message s'inspire de principes qui conseillent de préserver la langue de la médisance et du soupçon, et de ne pas fouiller les affaires privées d'autrui.",
+        "shareText": "Le moyen le plus simple de ne pas blesser un cœur est de préserver sa langue de la médisance et du soupçon."
+      },
+      "pt-BR": {
+        "title": "Guardar a língua da maledicência e da suspeita",
+        "shortDescription": "Muitas vezes, o lugar onde tocamos no direito do outro sem perceber é a nossa língua. Evitar a maledicência, a suspeita e a fofoca protege tanto os corações quanto as relações.",
+        "mainPrinciple": "Falar de uma pessoa pelas costas é uma violação invisível, mas real, do seu direito.",
+        "summaryPoints": [
+          "Não falar daquilo que você não sabe com certeza é não lançar suspeita nem culpa sobre ninguém.",
+          "A maledicência e a fofoca ferem em silêncio a dignidade de uma pessoa.",
+          "Não bisbilhotar os assuntos privados do outro é guardar tanto os olhos quanto a língua."
+        ],
+        "dailyReflection": "Hoje, quando sentir vontade de dizer algo negativo sobre alguém, faça uma pausa e deixe essas palavras passarem sem dizê-las; que o seu silêncio seja uma boa ação.",
+        "dawahTip": "Quando a maledicência começa numa reunião, mude o assunto com gentileza ou diga uma boa palavra; dar o exemplo sem condenar é o caminho mais eficaz.",
+        "questionAnswer": {
+          "question": "Ainda é maledicência se o que digo é verdade?",
+          "answer": "Sim; falar pelas costas de alguém sobre um traço real que ele não gostaria que fosse mencionado também é maledicência. Ser verdadeiro não dá o direito de falar disso."
+        },
+        "referenceNote": "Esta mensagem inspira-se em princípios que aconselham guardar a língua da maledicência e da suspeita, e não bisbilhotar os assuntos privados dos outros.",
+        "shareText": "A forma mais simples de não ferir um coração é guardar a língua da maledicência e da suspeita."
+      },
+      "de": {
+        "title": "Die Zunge vor Nachrede und Argwohn bewahren",
+        "shortDescription": "Oft ist der Ort, an dem wir unbemerkt das Recht eines anderen antasten, unsere Zunge. Nachrede, Argwohn und Klatsch zu meiden, schützt sowohl Herzen als auch Beziehungen.",
+        "mainPrinciple": "Hinter dem Rücken eines Menschen über ihn zu sprechen, ist eine unsichtbare, aber wirkliche Verletzung seines Rechts.",
+        "summaryPoints": [
+          "Nicht über das zu sprechen, was du nicht sicher weißt, heißt, niemanden mit Argwohn oder Vorwurf zu belasten.",
+          "Nachrede und Klatsch verwunden still die Würde eines Menschen.",
+          "Nicht in fremde Privatangelegenheiten zu spähen, heißt, sowohl die Augen als auch die Zunge zu bewahren."
+        ],
+        "dailyReflection": "Halte heute, wenn dich der Drang überkommt, etwas Negatives über jemanden zu sagen, einen Augenblick inne und lass diese Worte ungesagt verstreichen; dein Schweigen sei eine gute Tat.",
+        "dawahTip": "Wenn in einer Runde Nachrede beginnt, wechsle behutsam das Thema oder sage ein gutes Wort; ein Beispiel zu geben, ohne zu verurteilen, ist der wirksamste Weg.",
+        "questionAnswer": {
+          "question": "Ist es noch Nachrede, wenn das, was ich sage, wahr ist?",
+          "answer": "Ja; hinter dem Rücken eines Menschen von einer wirklichen Eigenschaft zu sprechen, deren Erwähnung ihm unangenehm wäre, ist ebenfalls Nachrede. Wahr zu sein gibt nicht das Recht, davon zu sprechen."
+        },
+        "referenceNote": "Diese Botschaft schöpft aus Grundsätzen, die raten, die Zunge vor Nachrede und Argwohn zu bewahren und nicht in die Privatangelegenheiten anderer zu spähen.",
+        "shareText": "Der einfachste Weg, ein Herz nicht zu verletzen, ist, die Zunge vor Nachrede und Argwohn zu bewahren."
+      },
+      "es": {
+        "title": "Guardar la lengua de la murmuración y la sospecha",
+        "shortDescription": "Muchas veces, el lugar donde tocamos el derecho del otro sin darnos cuenta es nuestra lengua. Evitar la murmuración, la sospecha y el chisme protege tanto los corazones como las relaciones.",
+        "mainPrinciple": "Hablar de una persona a sus espaldas es una violación invisible, pero real, de su derecho.",
+        "summaryPoints": [
+          "No hablar de aquello que no sabes con certeza es no arrojar sospecha ni culpa sobre nadie.",
+          "La murmuración y el chisme hieren en silencio la dignidad de una persona.",
+          "No husmear en los asuntos privados del otro es guardar tanto los ojos como la lengua."
+        ],
+        "dailyReflection": "Hoy, cuando sientas el impulso de decir algo negativo sobre alguien, haz una pausa y deja pasar esas palabras sin decirlas; que tu silencio sea una buena acción.",
+        "dawahTip": "Cuando la murmuración comienza en una reunión, cambia de tema con amabilidad o di una buena palabra; dar el ejemplo sin condenar es el camino más eficaz.",
+        "questionAnswer": {
+          "question": "¿Sigue siendo murmuración si lo que digo es verdad?",
+          "answer": "Sí; hablar a espaldas de alguien sobre un rasgo real que no le gustaría que se mencionara también es murmuración. Ser veraz no da el derecho de hablar de ello."
+        },
+        "referenceNote": "Este mensaje se inspira en principios que aconsejan guardar la lengua de la murmuración y la sospecha, y no husmear en los asuntos privados de los demás.",
+        "shareText": "La forma más sencilla de no herir un corazón es guardar la lengua de la murmuración y la sospecha."
+      }
+    }
+  }
+]

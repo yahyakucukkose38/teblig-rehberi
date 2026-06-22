@@ -1,0 +1,474 @@
+[
+  {
+    "id": "ethics-moderation-and-balance",
+    "category": "ethics",
+    "icon": "options-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["ölçülülük", "moderation", "denge", "balance", "itidal"],
+    "content": {
+      "tr": {
+        "title": "Ölçülülük ve Denge",
+        "shortDescription": "Ölçülülük, her işte aşırılıktan ve ihmalden uzak orta yolu tutabilmektir. Güzel ahlak, abartıda değil dengededir.",
+        "mainPrinciple": "Hayrın iki ucu da yanlıştır; erdem, aşırılık ile ihmalin tam ortasındaki dengededir.",
+        "summaryPoints": [
+          "Cömertlik bile aşırıya kaçınca israfa, kısılınca cimriliğe döner; ölçü ikisini de dengeler.",
+          "Yeme, harcama, konuşma ve dinlenmede orta yol, hem bedeni hem kalbi korur.",
+          "Dengeli insan, bir gün coşkuyla bir gün bezginlikle değil, istikrarla yürür."
+        ],
+        "dailyReflection": "Bugün abarttığını sezdiğin bir alışkanlıkta, kendine küçük ve sürdürülebilir bir ölçü koy.",
+        "dawahTip": "Aşırılığı eleştirerek değil, ölçülü ve dengeli halinle örnek ol; dengeli bir hayat, en ikna edici sessiz davettir.",
+        "questionAnswer": {
+          "question": "Ölçülü olmak hevesi söndürmek mi demektir?",
+          "answer": "Hayır; ölçü, hevesi söndürmez, onu sürdürülebilir kılar. Aşırılık çabuk tükenir, denge ise uzun yolda taşır."
+        },
+        "referenceNote": "Bkz. Kutsal metinlerde orta yola ve aşırılıktan sakınmaya dair öğütler.",
+        "shareText": "Erdem, iki uçtan birinde değil, tam ortadadır. Ölçülü yürüyen yorulmadan en uzağa varır."
+      },
+      "en": {
+        "title": "Moderation and Balance",
+        "shortDescription": "Moderation is holding to the middle path, far from both excess and neglect. Good character lies not in extremes but in balance.",
+        "mainPrinciple": "Both ends of a good thing are wrong; virtue rests in the balance precisely between excess and neglect.",
+        "summaryPoints": [
+          "Even generosity, taken to excess, becomes waste, and held back, becomes stinginess; measure balances both.",
+          "The middle path in eating, spending, speaking, and resting protects both body and heart.",
+          "A balanced person walks with steadiness, not one day in zeal and the next in weariness."
+        ],
+        "dailyReflection": "Today, in a habit you sense you are overdoing, set yourself a small and sustainable measure.",
+        "dawahTip": "Be an example through your measured and balanced state rather than by criticizing excess; a balanced life is the most convincing silent invitation.",
+        "questionAnswer": {
+          "question": "Does being moderate mean snuffing out one's enthusiasm?",
+          "answer": "No; measure does not snuff out enthusiasm, it makes it sustainable. Excess burns out quickly, while balance carries you over the long road."
+        },
+        "referenceNote": "See the counsel in sacred scripture on the middle path and guarding against excess.",
+        "shareText": "Virtue is not at either extreme, but right in the middle. The one who walks in moderation reaches farthest without tiring."
+      },
+      "fr": {
+        "title": "La modération et l'équilibre",
+        "shortDescription": "La modération, c'est tenir le juste milieu, loin de l'excès comme de la négligence. Le beau caractère ne réside pas dans les extrêmes, mais dans l'équilibre.",
+        "mainPrinciple": "Les deux extrémités d'un bien sont fautives ; la vertu repose dans l'équilibre, exactement entre l'excès et la négligence.",
+        "summaryPoints": [
+          "Même la générosité, poussée à l'excès, devient gaspillage, et retenue, devient avarice ; la mesure équilibre les deux.",
+          "Le juste milieu dans le manger, la dépense, la parole et le repos protège le corps comme le cœur.",
+          "L'homme équilibré avance avec constance, non un jour dans la ferveur et le lendemain dans la lassitude."
+        ],
+        "dailyReflection": "Aujourd'hui, dans une habitude que tu sens excessive, fixe-toi une mesure petite et durable.",
+        "dawahTip": "Sois un exemple par ton état mesuré et équilibré plutôt qu'en critiquant l'excès ; une vie équilibrée est l'invitation silencieuse la plus convaincante.",
+        "questionAnswer": {
+          "question": "Être modéré signifie-t-il éteindre son enthousiasme ?",
+          "answer": "Non ; la mesure n'éteint pas l'enthousiasme, elle le rend durable. L'excès s'épuise vite, tandis que l'équilibre te porte sur le long chemin."
+        },
+        "referenceNote": "Voir les conseils des Écritures sacrées sur le juste milieu et la préservation contre l'excès.",
+        "shareText": "La vertu n'est à aucune des deux extrémités, mais au juste milieu. Celui qui avance avec mesure va le plus loin sans se fatiguer."
+      },
+      "pt-BR": {
+        "title": "Moderação e Equilíbrio",
+        "shortDescription": "A moderação é manter-se no caminho do meio, longe tanto do excesso quanto da negligência. O bom caráter não está nos extremos, mas no equilíbrio.",
+        "mainPrinciple": "Ambas as pontas de uma coisa boa são erradas; a virtude repousa no equilíbrio, exatamente entre o excesso e a negligência.",
+        "summaryPoints": [
+          "Até a generosidade, levada ao excesso, vira desperdício, e contida, vira mesquinhez; a medida equilibra as duas.",
+          "O caminho do meio no comer, no gastar, no falar e no descansar protege tanto o corpo quanto o coração.",
+          "A pessoa equilibrada caminha com constância, não um dia no entusiasmo e no outro no cansaço."
+        ],
+        "dailyReflection": "Hoje, num hábito que você sente estar exagerando, estabeleça para si uma medida pequena e sustentável.",
+        "dawahTip": "Seja exemplo pelo seu estado moderado e equilibrado, em vez de criticar o excesso; uma vida equilibrada é o convite silencioso mais convincente.",
+        "questionAnswer": {
+          "question": "Ser moderado significa apagar o próprio entusiasmo?",
+          "answer": "Não; a medida não apaga o entusiasmo, ela o torna sustentável. O excesso se esgota depressa, enquanto o equilíbrio te leva pelo longo caminho."
+        },
+        "referenceNote": "Ver os conselhos das escrituras sagradas sobre o caminho do meio e o resguardo contra o excesso.",
+        "shareText": "A virtude não está em nenhum dos extremos, mas bem no meio. Quem caminha com moderação chega mais longe sem se cansar."
+      },
+      "de": {
+        "title": "Maß und Gleichgewicht",
+        "shortDescription": "Mäßigung bedeutet, den mittleren Weg zu halten, fern von Übermaß wie von Nachlässigkeit. Guter Charakter liegt nicht in den Extremen, sondern im Gleichgewicht.",
+        "mainPrinciple": "Beide Enden einer guten Sache sind falsch; die Tugend ruht im Gleichgewicht, genau zwischen Übermaß und Nachlässigkeit.",
+        "summaryPoints": [
+          "Selbst Großzügigkeit wird im Übermaß zur Verschwendung und zurückgehalten zum Geiz; das rechte Maß bringt beides ins Gleichgewicht.",
+          "Der mittlere Weg beim Essen, Ausgeben, Reden und Ruhen schützt Leib und Herz zugleich.",
+          "Der ausgeglichene Mensch geht mit Beständigkeit, nicht einen Tag im Eifer und am nächsten in Erschöpfung."
+        ],
+        "dailyReflection": "Setze dir heute bei einer Gewohnheit, die du übertreibst, ein kleines und tragfähiges Maß.",
+        "dawahTip": "Sei ein Vorbild durch dein maßvolles und ausgeglichenes Wesen statt durch Kritik am Übermaß; ein ausgewogenes Leben ist die überzeugendste stille Einladung.",
+        "questionAnswer": {
+          "question": "Bedeutet Mäßigung, die eigene Begeisterung zu ersticken?",
+          "answer": "Nein; das Maß erstickt die Begeisterung nicht, es macht sie tragfähig. Übermaß brennt schnell aus, während das Gleichgewicht dich über den langen Weg trägt."
+        },
+        "referenceNote": "Siehe die Ermahnungen der heiligen Schrift über den mittleren Weg und das Bewahren vor Übermaß.",
+        "shareText": "Die Tugend liegt an keinem der Extreme, sondern genau in der Mitte. Wer maßvoll geht, kommt ohne zu ermüden am weitesten."
+      },
+      "es": {
+        "title": "Moderación y equilibrio",
+        "shortDescription": "La moderación es mantenerse en el camino del medio, lejos tanto del exceso como de la negligencia. El buen carácter no está en los extremos, sino en el equilibrio.",
+        "mainPrinciple": "Ambos extremos de algo bueno están equivocados; la virtud reposa en el equilibrio, justo entre el exceso y la negligencia.",
+        "summaryPoints": [
+          "Incluso la generosidad, llevada al exceso, se vuelve derroche, y contenida, se vuelve tacañería; la medida equilibra ambas.",
+          "El camino del medio en el comer, el gastar, el hablar y el descansar protege tanto el cuerpo como el corazón.",
+          "La persona equilibrada camina con constancia, no un día con entusiasmo y al siguiente con cansancio."
+        ],
+        "dailyReflection": "Hoy, en un hábito en el que sientes que te estás excediendo, ponte una medida pequeña y sostenible.",
+        "dawahTip": "Sé un ejemplo por tu estado mesurado y equilibrado, en vez de criticar el exceso; una vida equilibrada es la invitación silenciosa más convincente.",
+        "questionAnswer": {
+          "question": "¿Ser moderado significa apagar el propio entusiasmo?",
+          "answer": "No; la medida no apaga el entusiasmo, lo hace sostenible. El exceso se agota pronto, mientras que el equilibrio te lleva por el largo camino."
+        },
+        "referenceNote": "Ver los consejos de las escrituras sagradas sobre el camino del medio y el resguardo contra el exceso.",
+        "shareText": "La virtud no está en ninguno de los extremos, sino justo en el medio. Quien camina con moderación llega más lejos sin cansarse."
+      }
+    }
+  },
+  {
+    "id": "ethics-gratitude-and-contentment",
+    "category": "ethics",
+    "icon": "sparkles-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": ["şükür", "gratitude", "kanaat", "contentment", "bereket"],
+    "content": {
+      "tr": {
+        "title": "Şükür ve Kanaat",
+        "shortDescription": "Şükür, sahip olduğunu görüp değerini bilmektir. Kanaat ise gözünü başkasının elindekine değil, kendi nimetine çevirebilmektir.",
+        "mainPrinciple": "Zengin, çok malı olan değil, gönlü tok olandır; şükreden az ile huzur bulur.",
+        "summaryPoints": [
+          "Şükür, eksiğine üzülmeden önce var olana bakmayı öğretir.",
+          "Kanaat, daha azla yetinmek değil; sahip olduğunla huzurlu olmaktır.",
+          "Verilene şükreden el daima doludur; hep eksiğe bakan göz hiç doymaz."
+        ],
+        "dailyReflection": "Bugün gün sonunda, fark etmeden geçip gittiğin üç küçük nimeti adıyla say.",
+        "dawahTip": "Şükrü anlatmadan önce yaşa; nimet karşısında huzurlu ve müteşekkir bir kalp, en güzel ve en bulaşıcı örnektir.",
+        "questionAnswer": {
+          "question": "Kanaat, hayallerimden vazgeçmek mi demektir?",
+          "answer": "Hayır; kanaat, çalışmayı bırakmak değil, elindekiyle huzuru kaybetmemektir. Hem gayret eder hem de var olana şükredebilirsin."
+        },
+        "referenceNote": "Bkz. Kutsal metinlerde şükre ve kanaate dair öğütler.",
+        "shareText": "Mutluluk, daha çoğuna sahip olmakta değil, olana şükredebilmektedir. Şükreden kalp hiç fakir düşmez."
+      },
+      "en": {
+        "title": "Gratitude and Contentment",
+        "shortDescription": "Gratitude is seeing what you have and knowing its worth. Contentment is turning your gaze not to what is in another's hand, but to your own blessing.",
+        "mainPrinciple": "The rich one is not who has much wealth, but who is content at heart; the grateful find peace with little.",
+        "summaryPoints": [
+          "Gratitude teaches you to look at what exists before grieving over what is missing.",
+          "Contentment is not making do with less; it is being at peace with what you have.",
+          "The hand that thanks for what is given is always full; the eye fixed on the lack is never satisfied."
+        ],
+        "dailyReflection": "Today, at day's end, name three small blessings that slipped past you unnoticed.",
+        "dawahTip": "Live gratitude before speaking of it; a heart at peace and thankful before its blessings is the finest and most contagious example.",
+        "questionAnswer": {
+          "question": "Does contentment mean giving up on my dreams?",
+          "answer": "No; contentment is not abandoning effort, but not losing peace over what you have. You can strive and still be grateful for what already is."
+        },
+        "referenceNote": "See the counsel in sacred scripture on gratitude and contentment.",
+        "shareText": "Happiness is not in having more, but in being able to thank for what you have. A grateful heart is never poor."
+      },
+      "fr": {
+        "title": "La gratitude et le contentement",
+        "shortDescription": "La gratitude, c'est voir ce que tu possèdes et en connaître la valeur. Le contentement, c'est tourner ton regard non vers ce qui est dans la main d'autrui, mais vers ta propre grâce.",
+        "mainPrinciple": "Le riche n'est pas celui qui a beaucoup de biens, mais celui dont le cœur est comblé ; le reconnaissant trouve la paix avec peu.",
+        "summaryPoints": [
+          "La gratitude t'apprend à regarder ce qui existe avant de t'affliger de ce qui manque.",
+          "Le contentement n'est pas se résigner à moins ; c'est être en paix avec ce que tu as.",
+          "La main qui remercie pour ce qui est donné est toujours pleine ; l'œil fixé sur le manque n'est jamais rassasié."
+        ],
+        "dailyReflection": "Aujourd'hui, à la fin de la journée, nomme trois petites grâces qui sont passées sans que tu les remarques.",
+        "dawahTip": "Vis la gratitude avant d'en parler ; un cœur en paix et reconnaissant devant ses grâces est le plus bel exemple, et le plus contagieux.",
+        "questionAnswer": {
+          "question": "Le contentement signifie-t-il renoncer à mes rêves ?",
+          "answer": "Non ; le contentement n'est pas abandonner l'effort, mais ne pas perdre la paix à cause de ce que tu as. Tu peux te donner de la peine et rester reconnaissant pour ce qui est déjà là."
+        },
+        "referenceNote": "Voir les conseils des Écritures sacrées sur la gratitude et le contentement.",
+        "shareText": "Le bonheur n'est pas dans le fait d'avoir plus, mais dans le fait de pouvoir remercier pour ce qu'on a. Un cœur reconnaissant n'est jamais pauvre."
+      },
+      "pt-BR": {
+        "title": "Gratidão e Contentamento",
+        "shortDescription": "A gratidão é ver o que você tem e conhecer o seu valor. O contentamento é voltar o olhar não para o que está na mão do outro, mas para a sua própria bênção.",
+        "mainPrinciple": "O rico não é quem tem muitos bens, mas quem tem o coração contente; o grato encontra paz com pouco.",
+        "summaryPoints": [
+          "A gratidão te ensina a olhar para o que existe antes de te entristecer pelo que falta.",
+          "O contentamento não é conformar-se com menos; é estar em paz com o que você tem.",
+          "A mão que agradece pelo que recebe está sempre cheia; o olho fixo na falta nunca se satisfaz."
+        ],
+        "dailyReflection": "Hoje, ao fim do dia, nomeie três pequenas bênçãos que passaram por você sem ser notadas.",
+        "dawahTip": "Viva a gratidão antes de falar dela; um coração em paz e agradecido diante de suas bênçãos é o mais belo e mais contagiante exemplo.",
+        "questionAnswer": {
+          "question": "Contentamento significa desistir dos meus sonhos?",
+          "answer": "Não; o contentamento não é abandonar o esforço, mas não perder a paz por causa do que você tem. Você pode se empenhar e ainda assim ser grato pelo que já existe."
+        },
+        "referenceNote": "Ver os conselhos das escrituras sagradas sobre a gratidão e o contentamento.",
+        "shareText": "A felicidade não está em ter mais, mas em poder agradecer pelo que se tem. Um coração grato nunca é pobre."
+      },
+      "de": {
+        "title": "Dankbarkeit und Genügsamkeit",
+        "shortDescription": "Dankbarkeit bedeutet, zu sehen, was du hast, und seinen Wert zu erkennen. Genügsamkeit heißt, den Blick nicht auf das zu richten, was in der Hand eines anderen ist, sondern auf deine eigene Gabe.",
+        "mainPrinciple": "Reich ist nicht, wer viel Besitz hat, sondern wer im Herzen zufrieden ist; der Dankbare findet Frieden mit wenigem.",
+        "summaryPoints": [
+          "Dankbarkeit lehrt dich, auf das Vorhandene zu schauen, bevor du über das Fehlende trauerst.",
+          "Genügsamkeit heißt nicht, sich mit weniger abzufinden; sie heißt, mit dem, was du hast, im Frieden zu sein.",
+          "Die Hand, die für das Gegebene dankt, ist stets voll; das Auge, das auf den Mangel starrt, wird nie satt."
+        ],
+        "dailyReflection": "Benenne heute am Ende des Tages drei kleine Gaben, die unbemerkt an dir vorübergegangen sind.",
+        "dawahTip": "Lebe die Dankbarkeit, bevor du von ihr sprichst; ein Herz, das vor seinen Gaben im Frieden und dankbar ist, ist das schönste und ansteckendste Vorbild.",
+        "questionAnswer": {
+          "question": "Bedeutet Genügsamkeit, meine Träume aufzugeben?",
+          "answer": "Nein; Genügsamkeit heißt nicht, die Mühe aufzugeben, sondern den Frieden über dem, was du hast, nicht zu verlieren. Du kannst dich bemühen und dennoch für das bereits Vorhandene dankbar sein."
+        },
+        "referenceNote": "Siehe die Ermahnungen der heiligen Schrift über Dankbarkeit und Genügsamkeit.",
+        "shareText": "Glück liegt nicht im Mehrhaben, sondern darin, für das danken zu können, was man hat. Ein dankbares Herz wird nie arm."
+      },
+      "es": {
+        "title": "Gratitud y contentamiento",
+        "shortDescription": "La gratitud es ver lo que tienes y reconocer su valor. El contentamiento es dirigir la mirada no a lo que está en la mano del otro, sino a tu propia bendición.",
+        "mainPrinciple": "El rico no es quien tiene muchos bienes, sino quien tiene el corazón satisfecho; el agradecido encuentra paz con poco.",
+        "summaryPoints": [
+          "La gratitud te enseña a mirar lo que existe antes de entristecerte por lo que falta.",
+          "El contentamiento no es resignarse a menos; es estar en paz con lo que tienes.",
+          "La mano que agradece por lo que recibe siempre está llena; el ojo fijo en la carencia nunca se sacia."
+        ],
+        "dailyReflection": "Hoy, al final del día, nombra tres pequeñas bendiciones que pasaron junto a ti sin que las notaras.",
+        "dawahTip": "Vive la gratitud antes de hablar de ella; un corazón en paz y agradecido ante sus bendiciones es el ejemplo más bello y más contagioso.",
+        "questionAnswer": {
+          "question": "¿El contentamiento significa renunciar a mis sueños?",
+          "answer": "No; el contentamiento no es abandonar el esfuerzo, sino no perder la paz por lo que tienes. Puedes esforzarte y aun así ser agradecido por lo que ya existe."
+        },
+        "referenceNote": "Ver los consejos de las escrituras sagradas sobre la gratitud y el contentamiento.",
+        "shareText": "La felicidad no está en tener más, sino en poder agradecer por lo que se tiene. Un corazón agradecido nunca es pobre."
+      }
+    }
+  },
+  {
+    "id": "ethics-guarding-the-tongue-and-good-speech",
+    "category": "ethics",
+    "icon": "chatbubbles-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["güzel söz", "good-speech", "gıybet", "backbiting", "dil"],
+    "content": {
+      "tr": {
+        "title": "Dile Sahip Çıkmak ve Güzel Söz",
+        "shortDescription": "Dile sahip çıkmak, gıybet, zan ve kırıcı sözden uzak durmaktır. Güzel söz ise hiçbir bedel istemeden kalpleri yumuşatan bir iyiliktir.",
+        "mainPrinciple": "Söz bir oktur; çıktıktan sonra geri dönmez, bu yüzden ya hayır söyle ya da sus.",
+        "summaryPoints": [
+          "Gıybet, orada olmayan birini, duysa üzüleceği bir sözle anmaktır; en sessiz zarardır.",
+          "Güzel söz sadakadır; karşılık beklemeden verilir, kalpleri onarır.",
+          "Konuşmadan önce sözünü üç süzgeçten geçir: doğru mu, gerekli mi, kırıcı değil mi?"
+        ],
+        "dailyReflection": "Bugün biri hakkında olumsuz bir söz söylemek üzereyken dur ve o sözü sineye çek.",
+        "dawahTip": "İnsanları sözle değil, güzel sözünle kazan; tatlı ve yapıcı bir dil, en kapalı kalbi bile usulca aralar.",
+        "questionAnswer": {
+          "question": "Bir kişinin gerçek bir kusurunu söylemek de gıybet midir?",
+          "answer": "Evet; doğru olsa bile, duysa üzüleceği bir kusurunu arkasından anmak gıybettir. Gerçeği söylemek onu ardından konuşmak değil, gerektiğinde yüzüne nezaketle söylemektir."
+        },
+        "referenceNote": "Bkz. Kutsal metinlerde gıybetten sakınmaya ve güzel söze dair öğütler.",
+        "shareText": "Güzel söz bedava bir hediyedir, ama en çok onu söyleyeni zengin eder. Ya hayır söyle ya da sus."
+      },
+      "en": {
+        "title": "Guarding the Tongue and Good Speech",
+        "shortDescription": "Guarding the tongue is keeping away from backbiting, suspicion, and hurtful words. Good speech is a kindness that softens hearts without asking any price.",
+        "mainPrinciple": "A word is an arrow; once loosed it does not return, so either speak good or stay silent.",
+        "summaryPoints": [
+          "Backbiting is mentioning someone absent with words that would grieve them if heard; it is the quietest harm.",
+          "A good word is charity; it is given expecting no return and mends hearts.",
+          "Before speaking, pass your word through three sieves: is it true, is it needed, is it free of harm?"
+        ],
+        "dailyReflection": "Today, when you are about to say something negative about someone, stop and let that word go.",
+        "dawahTip": "Win people not with mere words but with your good word; a sweet, constructive tongue gently opens even the most closed heart.",
+        "questionAnswer": {
+          "question": "Is mentioning a person's real fault also backbiting?",
+          "answer": "Yes; even if true, mentioning behind their back a fault that would grieve them is backbiting. Telling the truth is not speaking behind someone, but, when needed, saying it to their face with courtesy."
+        },
+        "referenceNote": "See the counsel in sacred scripture on guarding against backbiting and on good speech.",
+        "shareText": "A good word is a free gift, yet it enriches most the one who speaks it. Either speak good or stay silent."
+      },
+      "fr": {
+        "title": "Préserver sa langue et la bonne parole",
+        "shortDescription": "Préserver sa langue, c'est se tenir loin de la médisance, du soupçon et des paroles blessantes. La bonne parole est une bonté qui adoucit les cœurs sans rien demander.",
+        "mainPrinciple": "La parole est une flèche ; une fois lancée, elle ne revient pas, alors dis du bien ou tais-toi.",
+        "summaryPoints": [
+          "La médisance, c'est évoquer un absent avec des mots qui l'attristeraient s'il les entendait ; c'est le tort le plus silencieux.",
+          "Une bonne parole est une aumône ; elle se donne sans attendre de retour et répare les cœurs.",
+          "Avant de parler, passe ta parole par trois tamis : est-elle vraie, est-elle nécessaire, est-elle sans blessure ?"
+        ],
+        "dailyReflection": "Aujourd'hui, quand tu es sur le point de dire quelque chose de négatif sur quelqu'un, arrête-toi et laisse passer cette parole.",
+        "dawahTip": "Gagne les gens non par de simples mots, mais par ta bonne parole ; une langue douce et constructive entrouvre doucement même le cœur le plus fermé.",
+        "questionAnswer": {
+          "question": "Mentionner un défaut réel d'une personne est-il aussi de la médisance ?",
+          "answer": "Oui ; même vrai, évoquer dans son dos un défaut qui l'attristerait est de la médisance. Dire la vérité, ce n'est pas parler derrière quelqu'un, mais, au besoin, le lui dire en face avec courtoisie."
+        },
+        "referenceNote": "Voir les conseils des Écritures sacrées sur la préservation contre la médisance et sur la bonne parole.",
+        "shareText": "Une bonne parole est un cadeau gratuit, et pourtant elle enrichit surtout celui qui la prononce. Dis du bien ou tais-toi."
+      },
+      "pt-BR": {
+        "title": "Guardar a Língua e a Boa Palavra",
+        "shortDescription": "Guardar a língua é manter-se longe da maledicência, da suspeita e das palavras que ferem. A boa palavra é uma bondade que abranda os corações sem cobrar preço algum.",
+        "mainPrinciple": "A palavra é uma flecha; uma vez lançada, não retorna, por isso diga o bem ou cale-se.",
+        "summaryPoints": [
+          "A maledicência é mencionar alguém ausente com palavras que o entristeceriam se as ouvisse; é o dano mais silencioso.",
+          "Uma boa palavra é caridade; é dada sem esperar retorno e restaura os corações.",
+          "Antes de falar, passe sua palavra por três peneiras: é verdadeira, é necessária, é livre de ofensa?"
+        ],
+        "dailyReflection": "Hoje, quando estiver prestes a dizer algo negativo sobre alguém, pare e deixe essa palavra ir embora.",
+        "dawahTip": "Conquiste as pessoas não com meras palavras, mas com a sua boa palavra; uma língua doce e construtiva entreabre com delicadeza até o coração mais fechado.",
+        "questionAnswer": {
+          "question": "Mencionar um defeito real de uma pessoa também é maledicência?",
+          "answer": "Sim; ainda que verdadeiro, mencionar pelas costas um defeito que a entristeceria é maledicência. Dizer a verdade não é falar por trás de alguém, mas, quando necessário, dizê-lo de frente, com cortesia."
+        },
+        "referenceNote": "Ver os conselhos das escrituras sagradas sobre o resguardo contra a maledicência e sobre a boa palavra.",
+        "shareText": "Uma boa palavra é um presente gratuito, e ainda assim enriquece mais quem a pronuncia. Diga o bem ou cale-se."
+      },
+      "de": {
+        "title": "Die Zunge hüten und das gute Wort",
+        "shortDescription": "Die Zunge zu hüten heißt, sich von übler Nachrede, Argwohn und verletzenden Worten fernzuhalten. Das gute Wort ist eine Güte, die Herzen erweicht, ohne einen Preis zu verlangen.",
+        "mainPrinciple": "Ein Wort ist ein Pfeil; einmal abgeschossen, kehrt es nicht zurück, darum sprich Gutes oder schweige.",
+        "summaryPoints": [
+          "Üble Nachrede heißt, einen Abwesenden mit Worten zu erwähnen, die ihn betrüben würden, hörte er sie; es ist der leiseste Schaden.",
+          "Ein gutes Wort ist eine Wohltat; es wird ohne Erwartung einer Gegenleistung gegeben und heilt Herzen.",
+          "Lass dein Wort vor dem Sprechen durch drei Siebe gehen: ist es wahr, ist es nötig, ist es frei von Verletzung?"
+        ],
+        "dailyReflection": "Halte heute inne, wenn du im Begriff bist, etwas Negatives über jemanden zu sagen, und lass dieses Wort ziehen.",
+        "dawahTip": "Gewinne die Menschen nicht durch bloße Worte, sondern durch dein gutes Wort; eine sanfte, aufbauende Zunge öffnet behutsam selbst das verschlossenste Herz.",
+        "questionAnswer": {
+          "question": "Ist es auch üble Nachrede, einen echten Fehler eines Menschen zu erwähnen?",
+          "answer": "Ja; selbst wenn es wahr ist, ist es üble Nachrede, hinter seinem Rücken einen Fehler zu erwähnen, der ihn betrüben würde. Die Wahrheit zu sagen heißt nicht, hinter jemandem zu reden, sondern sie ihm bei Bedarf höflich ins Gesicht zu sagen."
+        },
+        "referenceNote": "Siehe die Ermahnungen der heiligen Schrift über das Bewahren vor übler Nachrede und über das gute Wort.",
+        "shareText": "Ein gutes Wort ist ein kostenloses Geschenk und macht doch den am reichsten, der es spricht. Sprich Gutes oder schweige."
+      },
+      "es": {
+        "title": "Cuidar la lengua y la buena palabra",
+        "shortDescription": "Cuidar la lengua es mantenerse lejos de la murmuración, la sospecha y las palabras que hieren. La buena palabra es una bondad que ablanda los corazones sin pedir precio alguno.",
+        "mainPrinciple": "La palabra es una flecha; una vez lanzada, no regresa, por eso di el bien o calla.",
+        "summaryPoints": [
+          "La murmuración es mencionar a alguien ausente con palabras que lo entristecerían si las oyera; es el daño más silencioso.",
+          "Una buena palabra es caridad; se da sin esperar nada a cambio y repara los corazones.",
+          "Antes de hablar, pasa tu palabra por tres tamices: ¿es verdadera, es necesaria, está libre de ofensa?"
+        ],
+        "dailyReflection": "Hoy, cuando estés a punto de decir algo negativo sobre alguien, detente y deja ir esa palabra.",
+        "dawahTip": "Gana a las personas no con meras palabras, sino con tu buena palabra; una lengua dulce y constructiva entreabre con delicadeza incluso el corazón más cerrado.",
+        "questionAnswer": {
+          "question": "¿Mencionar un defecto real de una persona también es murmuración?",
+          "answer": "Sí; aunque sea cierto, mencionar a sus espaldas un defecto que lo entristecería es murmuración. Decir la verdad no es hablar detrás de alguien, sino, cuando es necesario, decírselo de frente con cortesía."
+        },
+        "referenceNote": "Ver los consejos de las escrituras sagradas sobre el resguardo contra la murmuración y sobre la buena palabra.",
+        "shareText": "Una buena palabra es un regalo gratuito, y aun así enriquece más a quien la pronuncia. Di el bien o calla."
+      }
+    }
+  },
+  {
+    "id": "ethics-forbearance-and-gentle-tolerance",
+    "category": "ethics",
+    "icon": "happy-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["hilim", "forbearance", "hoşgörü", "tolerance", "yumuşaklık"],
+    "content": {
+      "tr": {
+        "title": "Hilim ve Yumuşak Hoşgörü",
+        "shortDescription": "Hilim, güç sahibiyken bile yumuşak ve ağırbaşlı kalabilmektir. Hoşgörü ise insanların kusur ve farklılıklarını anlayışla karşılamaktır.",
+        "mainPrinciple": "Yumuşaklık girdiği her şeyi güzelleştirir, sertlik ise çıktığı her yeri çirkinleştirir.",
+        "summaryPoints": [
+          "Hilim, haksızlığa boyun eğmek değil; öfkeye kapılmadan vakarla karşılık verebilmektir.",
+          "Hoşgörü, herkesi onaylamak değil; farklılığa tahammül edip kabalıkla cevap vermemektir.",
+          "Yumuşak söz, en katı kalbi bile zamanla yumuşatır; sertlik ise kapıları kapatır."
+        ],
+        "dailyReflection": "Bugün seni kıran bir davranışa, aynı sertlikle değil, sakin ve yumuşak bir sözle karşılık ver.",
+        "dawahTip": "Doğruyu savunurken bile yumuşak ol; kaba bir hakikat çoğu zaman kapı kapatır, yumuşak bir tutum ise kalp kapısını aralar.",
+        "questionAnswer": {
+          "question": "Yumuşak olmak beni güçsüz ve ezilen biri yapmaz mı?",
+          "answer": "Hayır; asıl güç, öfkeye yenilmeden sakin kalabilmektir. Yumuşaklık zayıflık değil, kendine ve duruma hâkim olmanın işaretidir."
+        },
+        "referenceNote": "Bkz. Kutsal metinlerde hilme, yumuşaklığa ve hoşgörüye dair öğütler.",
+        "shareText": "Yumuşaklık, dokunduğu her şeyi güzelleştirir. Gerçek güç, bağırmakta değil, sakin kalabilmektedir."
+      },
+      "en": {
+        "title": "Forbearance and Gentle Tolerance",
+        "shortDescription": "Forbearance is staying gentle and composed even when you hold the power. Tolerance is meeting people's faults and differences with understanding.",
+        "mainPrinciple": "Gentleness beautifies everything it enters, while harshness disfigures every place it leaves.",
+        "summaryPoints": [
+          "Forbearance is not bowing to injustice; it is responding with dignity, without being seized by anger.",
+          "Tolerance is not approving of everyone; it is bearing difference and not answering it with rudeness.",
+          "A gentle word softens even the hardest heart in time, while harshness closes doors."
+        ],
+        "dailyReflection": "Today, to a behavior that hurt you, respond not with the same harshness, but with a calm and gentle word.",
+        "dawahTip": "Be gentle even while defending the truth; a harsh truth often shuts a door, while a gentle manner opens the door of the heart.",
+        "questionAnswer": {
+          "question": "Won't being gentle make me weak and trampled upon?",
+          "answer": "No; true strength is staying calm without being overcome by anger. Gentleness is not weakness, but a sign of mastery over yourself and the situation."
+        },
+        "referenceNote": "See the counsel in sacred scripture on forbearance, gentleness, and tolerance.",
+        "shareText": "Gentleness beautifies everything it touches. True strength is not in shouting, but in staying calm."
+      },
+      "fr": {
+        "title": "La mansuétude et la tolérance douce",
+        "shortDescription": "La mansuétude, c'est rester doux et posé même lorsqu'on détient le pouvoir. La tolérance, c'est accueillir les défauts et les différences des gens avec compréhension.",
+        "mainPrinciple": "La douceur embellit tout ce qu'elle pénètre, tandis que la dureté enlaidit tout lieu qu'elle quitte.",
+        "summaryPoints": [
+          "La mansuétude n'est pas se soumettre à l'injustice ; c'est répondre avec dignité, sans se laisser emporter par la colère.",
+          "La tolérance n'est pas approuver tout le monde ; c'est supporter la différence et ne pas y répondre par la grossièreté.",
+          "Une parole douce adoucit avec le temps même le cœur le plus dur, tandis que la dureté ferme les portes."
+        ],
+        "dailyReflection": "Aujourd'hui, à un comportement qui t'a blessé, réponds non par la même dureté, mais par une parole calme et douce.",
+        "dawahTip": "Sois doux même en défendant la vérité ; une vérité brutale ferme souvent une porte, tandis qu'une attitude douce entrouvre la porte du cœur.",
+        "questionAnswer": {
+          "question": "Être doux ne va-t-il pas me rendre faible et me faire piétiner ?",
+          "answer": "Non ; la vraie force, c'est rester calme sans se laisser vaincre par la colère. La douceur n'est pas faiblesse, mais signe de maîtrise de soi et de la situation."
+        },
+        "referenceNote": "Voir les conseils des Écritures sacrées sur la mansuétude, la douceur et la tolérance.",
+        "shareText": "La douceur embellit tout ce qu'elle touche. La vraie force n'est pas de crier, mais de rester calme."
+      },
+      "pt-BR": {
+        "title": "Brandura e Tolerância Suave",
+        "shortDescription": "A brandura é manter-se gentil e sereno mesmo quando se detém o poder. A tolerância é acolher os defeitos e as diferenças das pessoas com compreensão.",
+        "mainPrinciple": "A brandura embeleza tudo em que entra, enquanto a aspereza enfeia todo lugar de onde sai.",
+        "summaryPoints": [
+          "A brandura não é curvar-se à injustiça; é responder com dignidade, sem ser tomado pela raiva.",
+          "A tolerância não é aprovar todos; é suportar a diferença e não respondê-la com grosseria.",
+          "Uma palavra branda abranda com o tempo até o coração mais duro, enquanto a aspereza fecha portas."
+        ],
+        "dailyReflection": "Hoje, a um comportamento que te feriu, responda não com a mesma aspereza, mas com uma palavra calma e branda.",
+        "dawahTip": "Seja brando mesmo ao defender a verdade; uma verdade áspera muitas vezes fecha uma porta, enquanto uma atitude branda entreabre a porta do coração.",
+        "questionAnswer": {
+          "question": "Ser brando não vai me tornar fraco e pisoteado?",
+          "answer": "Não; a verdadeira força é permanecer calmo sem ser vencido pela raiva. A brandura não é fraqueza, mas sinal de domínio sobre si mesmo e sobre a situação."
+        },
+        "referenceNote": "Ver os conselhos das escrituras sagradas sobre a brandura, a gentileza e a tolerância.",
+        "shareText": "A brandura embeleza tudo o que toca. A verdadeira força não está em gritar, mas em permanecer calmo."
+      },
+      "de": {
+        "title": "Sanftmut und milde Duldsamkeit",
+        "shortDescription": "Sanftmut bedeutet, sanft und gefasst zu bleiben, selbst wenn man die Macht hat. Duldsamkeit heißt, den Fehlern und Unterschieden der Menschen mit Verständnis zu begegnen.",
+        "mainPrinciple": "Sanftheit verschönert alles, in das sie eintritt, während Härte jeden Ort entstellt, den sie verlässt.",
+        "summaryPoints": [
+          "Sanftmut heißt nicht, sich der Ungerechtigkeit zu beugen; es heißt, mit Würde zu antworten, ohne vom Zorn ergriffen zu werden.",
+          "Duldsamkeit heißt nicht, jeden gutzuheißen; es heißt, Verschiedenheit zu ertragen und ihr nicht mit Grobheit zu begegnen.",
+          "Ein sanftes Wort erweicht mit der Zeit selbst das härteste Herz, während Härte Türen verschließt."
+        ],
+        "dailyReflection": "Begegne heute einem Verhalten, das dich verletzt hat, nicht mit derselben Härte, sondern mit einem ruhigen und sanften Wort.",
+        "dawahTip": "Sei sanft, selbst wenn du die Wahrheit verteidigst; eine schroffe Wahrheit verschließt oft eine Tür, während eine sanfte Haltung die Tür des Herzens öffnet.",
+        "questionAnswer": {
+          "question": "Macht mich Sanftheit nicht schwach und zertreten?",
+          "answer": "Nein; wahre Stärke ist, ruhig zu bleiben, ohne vom Zorn überwältigt zu werden. Sanftheit ist keine Schwäche, sondern ein Zeichen der Herrschaft über dich selbst und die Lage."
+        },
+        "referenceNote": "Siehe die Ermahnungen der heiligen Schrift über Sanftmut, Milde und Duldsamkeit.",
+        "shareText": "Sanftheit verschönert alles, was sie berührt. Wahre Stärke liegt nicht im Schreien, sondern im Ruhigbleiben."
+      },
+      "es": {
+        "title": "Indulgencia y tolerancia apacible",
+        "shortDescription": "La indulgencia es mantenerse apacible y sereno aun cuando se tiene el poder. La tolerancia es acoger los defectos y las diferencias de las personas con comprensión.",
+        "mainPrinciple": "La mansedumbre embellece todo aquello en lo que entra, mientras que la dureza afea todo lugar del que sale.",
+        "summaryPoints": [
+          "La indulgencia no es doblegarse ante la injusticia; es responder con dignidad, sin dejarse llevar por la ira.",
+          "La tolerancia no es aprobar a todos; es soportar la diferencia y no responderla con descortesía.",
+          "Una palabra apacible ablanda con el tiempo hasta el corazón más duro, mientras que la dureza cierra puertas."
+        ],
+        "dailyReflection": "Hoy, ante un comportamiento que te hirió, responde no con la misma dureza, sino con una palabra calmada y apacible.",
+        "dawahTip": "Sé apacible incluso al defender la verdad; una verdad áspera muchas veces cierra una puerta, mientras que una actitud apacible entreabre la puerta del corazón.",
+        "questionAnswer": {
+          "question": "¿Ser apacible no me hará débil y pisoteado?",
+          "answer": "No; la verdadera fuerza es permanecer calmado sin ser vencido por la ira. La mansedumbre no es debilidad, sino señal de dominio sobre uno mismo y sobre la situación."
+        },
+        "referenceNote": "Ver los consejos de las escrituras sagradas sobre la indulgencia, la mansedumbre y la tolerancia.",
+        "shareText": "La mansedumbre embellece todo lo que toca. La verdadera fuerza no está en gritar, sino en permanecer calmado."
+      }
+    }
+  }
+]

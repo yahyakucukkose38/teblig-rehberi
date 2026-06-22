@@ -1,0 +1,250 @@
+[
+  {
+    "id": "youth-questions-with-patience",
+    "category": "youth",
+    "icon": "chatbubbles-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "sabır",
+      "patience",
+      "gençlik",
+      "questions",
+      "saygı"
+    ],
+    "content": {
+      "tr": {
+        "title": "Soru Soran Gence Sabırla Yaklaşmak",
+        "shortDescription": "Genç bir insan zor sorularla geldiğinde, sabır ve saygı en güzel cevabın başlangıcıdır. Soru, kapının kapanması değil, açılmasıdır.",
+        "mainPrinciple": "Samimi bir soruyu küçümsemek değil, onurlandırmak gerekir.",
+        "summaryPoints": [
+          "Her soru, anlamaya açık bir kalbin işaretidir.",
+          "Sabır, cevabın kendisinden daha çok güven kazandırır.",
+          "Bilmediğini dürüstçe söylemek, uydurmaktan daha değerlidir."
+        ],
+        "dailyReflection": "Bugün sana yöneltilen bir soruyu sözünü kesmeden, sonuna kadar dinle.",
+        "dawahTip": "Cevap vermeden önce 'Güzel bir soru' diyerek soran kişiyi rahatlat; bu, kalbi yumuşatır.",
+        "questionAnswer": {
+          "question": "Cevabını bilmediğim bir soru gelirse ne yapmalıyım?",
+          "answer": "Dürüstçe 'Bunu birlikte araştıralım' demek, en güvenilir ve en saygılı yoldur."
+        },
+        "referenceNote": "Bkz. Kur'an'da sabır ve güzel sözle çağırmaya dair ayetler.",
+        "shareText": "Bir gencin sorusu, kapanan değil açılan bir kapıdır. Sabırla dinle, saygıyla cevap ver."
+      },
+      "en": {
+        "title": "Meeting a Young Person's Questions with Patience",
+        "shortDescription": "When a young person comes with difficult questions, patience and respect are the start of the best answer. A question is an opening, not a closing.",
+        "mainPrinciple": "A sincere question should be honored, never belittled.",
+        "summaryPoints": [
+          "Every question is a sign of a heart open to understanding.",
+          "Patience builds more trust than the answer itself.",
+          "Honestly saying 'I don't know' is worth more than inventing a reply."
+        ],
+        "dailyReflection": "Today, listen to a question you are asked all the way through, without interrupting.",
+        "dawahTip": "Before answering, say 'That's a good question' to put the asker at ease; it softens the heart.",
+        "questionAnswer": {
+          "question": "What should I do if a question comes that I cannot answer?",
+          "answer": "Honestly saying 'Let's look into this together' is the most trustworthy and respectful path."
+        },
+        "referenceNote": "See Quranic verses on patience and calling to good with kind words.",
+        "shareText": "A young person's question is a door opening, not closing. Listen with patience, answer with respect."
+      },
+      "fr": {
+        "title": "Accueillir avec patience les questions d'un jeune",
+        "shortDescription": "Quand un jeune arrive avec des questions difficiles, la patience et le respect sont le début de la plus belle réponse. Une question est une ouverture, pas une fermeture.",
+        "mainPrinciple": "Une question sincère doit être honorée, jamais rabaissée.",
+        "summaryPoints": [
+          "Chaque question est le signe d'un cœur ouvert à la compréhension.",
+          "La patience inspire plus de confiance que la réponse elle-même.",
+          "Dire honnêtement « je ne sais pas » vaut mieux qu'inventer une réponse."
+        ],
+        "dailyReflection": "Aujourd'hui, écoute jusqu'au bout une question qu'on te pose, sans interrompre.",
+        "dawahTip": "Avant de répondre, dis « C'est une belle question » pour mettre la personne à l'aise ; cela adoucit le cœur.",
+        "questionAnswer": {
+          "question": "Que faire si une question dépasse mes connaissances ?",
+          "answer": "Dire honnêtement « Cherchons cela ensemble » est la voie la plus fiable et la plus respectueuse."
+        },
+        "referenceNote": "Voir les versets coraniques sur la patience et l'appel au bien par la douceur.",
+        "shareText": "La question d'un jeune est une porte qui s'ouvre, pas qui se ferme. Écoute avec patience, réponds avec respect."
+      },
+      "pt-BR": {
+        "title": "Acolher com paciência as perguntas de um jovem",
+        "shortDescription": "Quando um jovem chega com perguntas difíceis, paciência e respeito são o começo da melhor resposta. Uma pergunta é uma abertura, não um fechamento.",
+        "mainPrinciple": "Uma pergunta sincera deve ser honrada, nunca diminuída.",
+        "summaryPoints": [
+          "Toda pergunta é sinal de um coração aberto a compreender.",
+          "A paciência gera mais confiança do que a própria resposta.",
+          "Dizer com honestidade 'não sei' vale mais do que inventar uma resposta."
+        ],
+        "dailyReflection": "Hoje, ouça até o fim uma pergunta que lhe fizerem, sem interromper.",
+        "dawahTip": "Antes de responder, diga 'Que boa pergunta' para deixar a pessoa à vontade; isso suaviza o coração.",
+        "questionAnswer": {
+          "question": "O que fazer se vier uma pergunta que eu não sei responder?",
+          "answer": "Dizer com sinceridade 'Vamos pesquisar isso juntos' é o caminho mais confiável e respeitoso."
+        },
+        "referenceNote": "Veja versículos do Alcorão sobre paciência e o convite ao bem com palavras gentis.",
+        "shareText": "A pergunta de um jovem é uma porta que se abre, não que se fecha. Ouça com paciência, responda com respeito."
+      },
+      "de": {
+        "title": "Den Fragen eines jungen Menschen mit Geduld begegnen",
+        "shortDescription": "Wenn ein junger Mensch mit schwierigen Fragen kommt, sind Geduld und Respekt der Anfang der besten Antwort. Eine Frage ist eine Öffnung, kein Abschluss.",
+        "mainPrinciple": "Eine aufrichtige Frage soll geehrt, niemals abgewertet werden.",
+        "summaryPoints": [
+          "Jede Frage ist ein Zeichen eines Herzens, das verstehen möchte.",
+          "Geduld schafft mehr Vertrauen als die Antwort selbst.",
+          "Ehrlich 'Ich weiß es nicht' zu sagen ist mehr wert als eine erfundene Antwort."
+        ],
+        "dailyReflection": "Höre heute eine Frage, die dir gestellt wird, bis zum Ende an, ohne zu unterbrechen.",
+        "dawahTip": "Sage vor der Antwort 'Eine gute Frage', um den Fragenden zu beruhigen; das öffnet das Herz.",
+        "questionAnswer": {
+          "question": "Was soll ich tun, wenn eine Frage kommt, die ich nicht beantworten kann?",
+          "answer": "Ehrlich zu sagen 'Lass es uns gemeinsam herausfinden' ist der vertrauenswürdigste und respektvollste Weg."
+        },
+        "referenceNote": "Siehe die Verse des Korans über Geduld und das Einladen zum Guten mit freundlichen Worten.",
+        "shareText": "Die Frage eines jungen Menschen ist eine sich öffnende Tür, keine schließende. Höre mit Geduld zu, antworte mit Respekt."
+      },
+      "es": {
+        "title": "Acoger con paciencia las preguntas de un joven",
+        "shortDescription": "Cuando un joven llega con preguntas difíciles, la paciencia y el respeto son el inicio de la mejor respuesta. Una pregunta es una apertura, no un cierre.",
+        "mainPrinciple": "Una pregunta sincera debe ser honrada, nunca menospreciada.",
+        "summaryPoints": [
+          "Toda pregunta es señal de un corazón abierto a comprender.",
+          "La paciencia genera más confianza que la respuesta misma.",
+          "Decir con honestidad 'no lo sé' vale más que inventar una respuesta."
+        ],
+        "dailyReflection": "Hoy, escucha hasta el final una pregunta que te hagan, sin interrumpir.",
+        "dawahTip": "Antes de responder, di 'Qué buena pregunta' para que la persona se sienta cómoda; eso ablanda el corazón.",
+        "questionAnswer": {
+          "question": "¿Qué debo hacer si llega una pregunta que no sé responder?",
+          "answer": "Decir con sinceridad 'Investiguemos esto juntos' es el camino más confiable y respetuoso."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la paciencia y la invitación al bien con palabras amables.",
+        "shareText": "La pregunta de un joven es una puerta que se abre, no que se cierra. Escucha con paciencia, responde con respeto."
+      }
+    }
+  },
+  {
+    "id": "youth-identity-and-belonging",
+    "category": "youth",
+    "icon": "compass-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 4,
+    "tags": [
+      "kimlik",
+      "identity",
+      "anlam",
+      "belonging",
+      "gençlik"
+    ],
+    "content": {
+      "tr": {
+        "title": "Kimlik ve Anlam Arayışına Nazik Cevaplar",
+        "shortDescription": "Genç bir kalp 'Ben kimim, neye aitim?' diye sorduğunda, ona değerli olduğunu hatırlatmak en güzel cevaptır. Aidiyet, zorlamayla değil sevgiyle büyür.",
+        "mainPrinciple": "Her insan bir amaç için yaratılmış, kıymetli bir varlıktır.",
+        "summaryPoints": [
+          "Anlam arayışı bir zayıflık değil, içtenliğin işaretidir.",
+          "Aidiyet duygusu, sevildiğini hissetmekle başlar.",
+          "Kimlik, başkalarına benzemekle değil, özünü tanımakla bulunur."
+        ],
+        "dailyReflection": "Bugün çevrendeki bir gence, varlığının değerli olduğunu içten bir cümleyle hatırlat.",
+        "dawahTip": "Kendi yolculuğundaki bir arayış anını sade ve dürüstçe paylaş; gerçek hikâyeler kalbe daha çok dokunur.",
+        "questionAnswer": {
+          "question": "'Bir yere ait hissetmiyorum' diyen birine ne diyebilirim?",
+          "answer": "Önce onu yargılamadan dinle; sonra 'Sen kıymetlisin ve yalnız değilsin' demenin yolunu bul."
+        },
+        "referenceNote": "Bkz. Kur'an'da insanın yaratılışının değerine ve hayatın anlamına dair ayetler.",
+        "shareText": "Sen bir tesadüf değilsin; bir amaçla yaratıldın. Anlam arayışın, seni var edene açılan bir kapıdır."
+      },
+      "en": {
+        "title": "Gentle Answers to the Search for Identity and Meaning",
+        "shortDescription": "When a young heart asks 'Who am I, where do I belong?', reminding them of their worth is the best answer. Belonging grows through love, not pressure.",
+        "mainPrinciple": "Every person is a precious being created for a purpose.",
+        "summaryPoints": [
+          "Searching for meaning is not weakness but a sign of sincerity.",
+          "A sense of belonging begins with feeling loved.",
+          "Identity is found by knowing your core, not by imitating others."
+        ],
+        "dailyReflection": "Today, remind a young person near you, with a heartfelt sentence, that their presence matters.",
+        "dawahTip": "Share a moment of searching from your own journey, simply and honestly; real stories touch the heart more.",
+        "questionAnswer": {
+          "question": "What can I say to someone who feels they don't belong anywhere?",
+          "answer": "First listen without judging; then find a way to say 'You are precious and you are not alone.'"
+        },
+        "referenceNote": "See Quranic verses on the value of the human being's creation and the meaning of life.",
+        "shareText": "You are not an accident; you were created for a purpose. Your search for meaning is a door to the One who gave you being."
+      },
+      "fr": {
+        "title": "Des réponses douces à la quête d'identité et de sens",
+        "shortDescription": "Quand un jeune cœur demande « Qui suis-je, à quoi est-ce que j'appartiens ? », lui rappeler sa valeur est la plus belle réponse. L'appartenance grandit par l'amour, non par la contrainte.",
+        "mainPrinciple": "Chaque personne est un être précieux, créé pour un but.",
+        "summaryPoints": [
+          "Chercher un sens n'est pas une faiblesse, mais un signe de sincérité.",
+          "Le sentiment d'appartenance commence quand on se sent aimé.",
+          "L'identité se trouve en connaissant son essence, non en imitant les autres."
+        ],
+        "dailyReflection": "Aujourd'hui, rappelle à un jeune près de toi, par une phrase sincère, que sa présence compte.",
+        "dawahTip": "Partage simplement et honnêtement un moment de quête de ton propre parcours ; les vraies histoires touchent davantage le cœur.",
+        "questionAnswer": {
+          "question": "Que dire à quelqu'un qui sent qu'il n'appartient à aucun lieu ?",
+          "answer": "Écoute d'abord sans juger ; puis trouve le moyen de dire « Tu es précieux et tu n'es pas seul »."
+        },
+        "referenceNote": "Voir les versets coraniques sur la valeur de la création de l'être humain et le sens de la vie.",
+        "shareText": "Tu n'es pas un hasard ; tu as été créé dans un but. Ta quête de sens est une porte vers Celui qui t'a donné l'existence."
+      },
+      "pt-BR": {
+        "title": "Respostas gentis à busca por identidade e sentido",
+        "shortDescription": "Quando um coração jovem pergunta 'Quem sou eu, a quem pertenço?', lembrá-lo de seu valor é a melhor resposta. O pertencimento cresce com amor, não com pressão.",
+        "mainPrinciple": "Cada pessoa é um ser precioso, criado com um propósito.",
+        "summaryPoints": [
+          "Buscar sentido não é fraqueza, mas sinal de sinceridade.",
+          "O senso de pertencimento começa ao se sentir amado.",
+          "A identidade se encontra ao conhecer a própria essência, não ao imitar os outros."
+        ],
+        "dailyReflection": "Hoje, lembre a um jovem perto de você, com uma frase sincera, que a presença dele importa.",
+        "dawahTip": "Compartilhe um momento de busca da sua própria jornada, com simplicidade e honestidade; histórias reais tocam mais o coração.",
+        "questionAnswer": {
+          "question": "O que posso dizer a alguém que sente que não pertence a lugar nenhum?",
+          "answer": "Primeiro ouça sem julgar; depois encontre um jeito de dizer 'Você é precioso e não está sozinho.'"
+        },
+        "referenceNote": "Veja versículos do Alcorão sobre o valor da criação do ser humano e o sentido da vida.",
+        "shareText": "Você não é um acaso; foi criado com um propósito. Sua busca por sentido é uma porta para Aquele que lhe deu a existência."
+      },
+      "de": {
+        "title": "Sanfte Antworten auf die Suche nach Identität und Sinn",
+        "shortDescription": "Wenn ein junges Herz fragt 'Wer bin ich, wohin gehöre ich?', ist es die beste Antwort, es an seinen Wert zu erinnern. Zugehörigkeit wächst durch Liebe, nicht durch Druck.",
+        "mainPrinciple": "Jeder Mensch ist ein kostbares Wesen, für einen Zweck erschaffen.",
+        "summaryPoints": [
+          "Die Suche nach Sinn ist keine Schwäche, sondern ein Zeichen von Aufrichtigkeit.",
+          "Das Gefühl von Zugehörigkeit beginnt damit, sich geliebt zu fühlen.",
+          "Identität findet man, indem man seinen Kern kennt, nicht indem man andere nachahmt."
+        ],
+        "dailyReflection": "Erinnere heute einen jungen Menschen in deiner Nähe mit einem herzlichen Satz daran, dass seine Anwesenheit zählt.",
+        "dawahTip": "Teile einen Moment des Suchens aus deinem eigenen Weg, einfach und ehrlich; echte Geschichten berühren das Herz mehr.",
+        "questionAnswer": {
+          "question": "Was kann ich jemandem sagen, der sich nirgends zugehörig fühlt?",
+          "answer": "Höre zuerst ohne zu urteilen; finde dann einen Weg zu sagen 'Du bist kostbar und du bist nicht allein.'"
+        },
+        "referenceNote": "Siehe die Verse des Korans über den Wert der Erschaffung des Menschen und den Sinn des Lebens.",
+        "shareText": "Du bist kein Zufall; du wurdest mit einem Sinn erschaffen. Deine Suche nach Sinn ist eine Tür zu Dem, der dir das Dasein gab."
+      },
+      "es": {
+        "title": "Respuestas amables a la búsqueda de identidad y sentido",
+        "shortDescription": "Cuando un corazón joven pregunta '¿Quién soy, a dónde pertenezco?', recordarle su valor es la mejor respuesta. La pertenencia crece con amor, no con presión.",
+        "mainPrinciple": "Cada persona es un ser precioso, creado con un propósito.",
+        "summaryPoints": [
+          "Buscar sentido no es debilidad, sino señal de sinceridad.",
+          "El sentido de pertenencia comienza al sentirse amado.",
+          "La identidad se encuentra al conocer la propia esencia, no al imitar a los demás."
+        ],
+        "dailyReflection": "Hoy, recuérdale a un joven cercano a ti, con una frase sincera, que su presencia importa.",
+        "dawahTip": "Comparte un momento de búsqueda de tu propio camino, con sencillez y honestidad; las historias reales tocan más el corazón.",
+        "questionAnswer": {
+          "question": "¿Qué puedo decirle a alguien que siente que no pertenece a ningún lugar?",
+          "answer": "Primero escucha sin juzgar; luego encuentra la manera de decir 'Eres valioso y no estás solo.'"
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre el valor de la creación del ser humano y el sentido de la vida.",
+        "shareText": "No eres una casualidad; fuiste creado con un propósito. Tu búsqueda de sentido es una puerta hacia Aquel que te dio la existencia."
+      }
+    }
+  }
+]

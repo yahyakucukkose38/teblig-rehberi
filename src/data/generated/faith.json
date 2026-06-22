@@ -1,0 +1,710 @@
+[
+  {
+    "id": "faith-belief-in-allah-tawhid",
+    "category": "faith",
+    "icon": "sunny-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["tevhid", "tawhid", "iman", "faith", "yaratıcı"],
+    "content": {
+      "tr": {
+        "title": "Allah'a İman ve Tevhid",
+        "shortDescription": "Her şeyin tek bir Yaratıcı'dan geldiğine inanmak ve O'nu eşi benzeri olmayan tek varlık olarak tanımaktır.",
+        "mainPrinciple": "Var olan her şey bir sebebe dayanır; tüm sebeplerin sahibi olan Yaratıcı ise tektir ve benzersizdir.",
+        "summaryPoints": [
+          "Evrendeki düzen, bilinçsiz bir tesadüf değil, bilen ve dileyen bir iradenin eseridir.",
+          "Allah'ı tanımak akıl ile kalbin uyum içinde çalışmasıyla mümkün olur.",
+          "Tevhid, O'nu hiçbir tasavvura sığdırmadan, eksiklikten uzak yüceltmektir."
+        ],
+        "dailyReflection": "Bugün gördüğün bir tabiat sahnesine (bir yaprak, bir gün doğumu) bir an durup bak ve içinden 'bunu kim düzenledi?' diye sor.",
+        "dawahTip": "Tartışmak yerine merak uyandır; 'şu düzenin bir sahibi olmalı mı?' gibi açık bir soruyla karşındakini düşünmeye davet et.",
+        "questionAnswer": {
+          "question": "Görmediğimiz bir Yaratıcı'ya nasıl inanabiliriz?",
+          "answer": "Havayı, elektriği veya kendi aklımızı da göremeyiz ama eserleriyle varlıklarını biliriz. Yaratıcı da eserleriyle, evrendeki düzenle kendini gösterir."
+        },
+        "referenceNote": "Tevhid ve yaratılış üzerine düşünmeye çağıran temel öğretilerin ruhuna dayanır.",
+        "shareText": "Düzenli her şeyin bir düzenleyeni vardır. Tevhid, tüm güzelliğin tek kaynağını tanımaktır."
+      },
+      "en": {
+        "title": "Belief in God and Tawhid",
+        "shortDescription": "It means believing that everything comes from a single Creator and recognizing Him as the One who has no equal.",
+        "mainPrinciple": "Everything that exists rests on a cause; the Owner of all causes is One and without any likeness.",
+        "summaryPoints": [
+          "The order in the universe is the work of a knowing, willing intelligence, not blind chance.",
+          "Knowing God becomes possible when mind and heart work in harmony.",
+          "Tawhid is exalting Him beyond every imagined form and free of any deficiency."
+        ],
+        "dailyReflection": "Pause today before a scene in nature, a leaf, a sunrise, and quietly ask yourself, 'Who arranged all this?'",
+        "dawahTip": "Instead of arguing, awaken curiosity; invite reflection with an open question like, 'Should such an order have an Owner?'",
+        "questionAnswer": {
+          "question": "How can we believe in a Creator we cannot see?",
+          "answer": "We cannot see air, electricity, or even our own mind, yet we know they exist by their effects. The Creator likewise reveals Himself through His works and the order of the universe."
+        },
+        "referenceNote": "Drawn from the spirit of foundational teachings that call us to reflect on oneness and creation.",
+        "shareText": "Everything ordered has an orderer. Tawhid is recognizing the single source of all beauty."
+      },
+      "fr": {
+        "title": "La foi en Dieu et le Tawhid",
+        "shortDescription": "C'est croire que tout provient d'un seul Créateur et Le reconnaître comme l'Unique, sans égal.",
+        "mainPrinciple": "Tout ce qui existe repose sur une cause ; le Détenteur de toutes les causes est Unique et sans semblable.",
+        "summaryPoints": [
+          "L'ordre de l'univers est l'œuvre d'une intelligence qui sait et qui veut, non d'un hasard aveugle.",
+          "Connaître Dieu devient possible lorsque la raison et le cœur travaillent en harmonie.",
+          "Le Tawhid, c'est L'exalter au-delà de toute forme imaginée et de toute imperfection."
+        ],
+        "dailyReflection": "Arrête-toi aujourd'hui devant une scène de la nature, une feuille, un lever de soleil, et demande-toi en silence : « Qui a ordonné tout cela ? »",
+        "dawahTip": "Au lieu de discuter, éveille la curiosité ; invite à la réflexion par une question ouverte comme : « Un tel ordre devrait-il avoir un Auteur ? »",
+        "questionAnswer": {
+          "question": "Comment croire en un Créateur que nous ne voyons pas ?",
+          "answer": "Nous ne voyons ni l'air, ni l'électricité, ni même notre propre esprit, pourtant nous savons qu'ils existent par leurs effets. Le Créateur se révèle de même par Ses œuvres et l'ordre de l'univers."
+        },
+        "referenceNote": "Inspiré de l'esprit des enseignements fondamentaux qui invitent à méditer sur l'unicité et la création.",
+        "shareText": "Tout ce qui est ordonné a un ordonnateur. Le Tawhid, c'est reconnaître la source unique de toute beauté."
+      },
+      "pt-BR": {
+        "title": "A fé em Deus e o Tawhid",
+        "shortDescription": "É crer que tudo provém de um único Criador e reconhecê-Lo como o Único, sem igual.",
+        "mainPrinciple": "Tudo o que existe se apoia em uma causa; o Dono de todas as causas é Único e sem semelhante.",
+        "summaryPoints": [
+          "A ordem do universo é obra de uma inteligência que sabe e que quer, não de um acaso cego.",
+          "Conhecer a Deus torna-se possível quando a razão e o coração trabalham em harmonia.",
+          "O Tawhid é exaltá-Lo além de toda forma imaginada e livre de qualquer imperfeição."
+        ],
+        "dailyReflection": "Pare hoje diante de uma cena da natureza, uma folha, um nascer do sol, e pergunte-se em silêncio: 'Quem organizou tudo isto?'",
+        "dawahTip": "Em vez de discutir, desperte a curiosidade; convide à reflexão com uma pergunta aberta como: 'Será que tal ordem deveria ter um Autor?'",
+        "questionAnswer": {
+          "question": "Como podemos crer em um Criador que não vemos?",
+          "answer": "Não vemos o ar, a eletricidade ou mesmo a nossa própria mente, mas sabemos que existem por seus efeitos. O Criador também Se revela por Suas obras e pela ordem do universo."
+        },
+        "referenceNote": "Inspirado no espírito dos ensinamentos fundamentais que convidam a refletir sobre a unicidade e a criação.",
+        "shareText": "Tudo o que é ordenado tem um ordenador. O Tawhid é reconhecer a fonte única de toda beleza."
+      },
+      "de": {
+        "title": "Der Glaube an Gott und Tauhid",
+        "shortDescription": "Es bedeutet zu glauben, dass alles von einem einzigen Schöpfer kommt, und Ihn als den Einen ohne Seinesgleichen zu erkennen.",
+        "mainPrinciple": "Alles, was existiert, beruht auf einer Ursache; der Eigner aller Ursachen ist Einer und ohnegleichen.",
+        "summaryPoints": [
+          "Die Ordnung im Universum ist das Werk einer wissenden, wollenden Intelligenz, nicht eines blinden Zufalls.",
+          "Gott zu erkennen wird möglich, wenn Verstand und Herz in Einklang wirken.",
+          "Tauhid bedeutet, Ihn über jede vorgestellte Gestalt zu erheben und frei von jedem Mangel zu wissen."
+        ],
+        "dailyReflection": "Halte heute vor einer Szene der Natur inne, einem Blatt, einem Sonnenaufgang, und frage dich still: „Wer hat all das geordnet?“",
+        "dawahTip": "Statt zu streiten, wecke Neugier; lade mit einer offenen Frage zum Nachdenken ein, etwa: „Sollte eine solche Ordnung einen Urheber haben?“",
+        "questionAnswer": {
+          "question": "Wie können wir an einen Schöpfer glauben, den wir nicht sehen?",
+          "answer": "Wir sehen weder Luft noch Elektrizität noch unseren eigenen Verstand, dennoch wissen wir durch ihre Wirkungen, dass es sie gibt. Auch der Schöpfer zeigt sich durch Seine Werke und die Ordnung des Universums."
+        },
+        "referenceNote": "Angelehnt an den Geist grundlegender Lehren, die zum Nachdenken über Einheit und Schöpfung aufrufen.",
+        "shareText": "Alles Geordnete hat einen Ordner. Tauhid bedeutet, die eine Quelle aller Schönheit zu erkennen."
+      },
+      "es": {
+        "title": "La fe en Dios y el Tawhid",
+        "shortDescription": "Significa creer que todo proviene de un solo Creador y reconocerlo como el Único, sin igual.",
+        "mainPrinciple": "Todo lo que existe se apoya en una causa; el Dueño de todas las causas es Uno y sin semejante.",
+        "summaryPoints": [
+          "El orden del universo es obra de una inteligencia que sabe y que quiere, no de un azar ciego.",
+          "Conocer a Dios se vuelve posible cuando la razón y el corazón trabajan en armonía.",
+          "El Tawhid es exaltarlo más allá de toda forma imaginada y libre de cualquier imperfección."
+        ],
+        "dailyReflection": "Detente hoy ante una escena de la naturaleza, una hoja, un amanecer, y pregúntate en silencio: '¿Quién ordenó todo esto?'",
+        "dawahTip": "En lugar de discutir, despierta la curiosidad; invita a la reflexión con una pregunta abierta como: '¿Acaso semejante orden debería tener un Autor?'",
+        "questionAnswer": {
+          "question": "¿Cómo podemos creer en un Creador que no vemos?",
+          "answer": "No vemos el aire, la electricidad ni siquiera nuestra propia mente, pero sabemos que existen por sus efectos. El Creador también se revela por sus obras y por el orden del universo."
+        },
+        "referenceNote": "Inspirado en el espíritu de las enseñanzas fundamentales que invitan a reflexionar sobre la unicidad y la creación.",
+        "shareText": "Todo lo que está ordenado tiene quien lo ordene. El Tawhid es reconocer la fuente única de toda belleza."
+      }
+    }
+  },
+  {
+    "id": "faith-belief-in-angels",
+    "category": "faith",
+    "icon": "shield-checkmark-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["melekler", "angels", "gayb", "unseen", "iman"],
+    "content": {
+      "tr": {
+        "title": "Meleklere İman",
+        "shortDescription": "Gözle görülmeyen, nurdan yaratılmış ve Yaratıcı'nın emrini yerine getiren varlıklara inanmaktır.",
+        "mainPrinciple": "Algılayamadığımız varlıkların yok olduğu sonucu çıkmaz; melekler de görünmeyen âlemin gerçek varlıklarıdır.",
+        "summaryPoints": [
+          "Evren yalnız maddeyle sınırlı değildir; nurdan yaratılmış varlıklar da gerçektir.",
+          "Melekler, Yaratıcı'nın emrini koşulsuz yerine getiren itaat örnekleridir.",
+          "Yaptıklarımızın kaydedildiği bilinci, bizi daha sorumlu ve dikkatli kılar."
+        ],
+        "dailyReflection": "Bugün tek başına olduğunu sandığın bir anda, davranışına 'görülüyormuş gibi' özen göstermeyi dene.",
+        "dawahTip": "Görünmeyenin var olabileceğini, havayı veya yer çekimini örnek vererek nazikçe hatırlat; zorlamadan bir kapı arala.",
+        "questionAnswer": {
+          "question": "Melekler insanın iradesine müdahale eder mi?",
+          "answer": "Hayır. Melekler kalbe iyilik ilham edebilir, ama insanın seçimini asla elinden almaz. Tercih her zaman insana aittir."
+        },
+        "referenceNote": "Görünmeyen âleme ve meleklerin görevine işaret eden temel öğretilerin özüne dayanır.",
+        "shareText": "Görmediğimiz nice gerçek var. Meleklere iman, gözün ötesindeki düzene açılmaktır."
+      },
+      "en": {
+        "title": "Belief in Angels",
+        "shortDescription": "It means believing in beings created from light, unseen by the eye, who carry out the command of the Creator.",
+        "mainPrinciple": "What we cannot perceive is not therefore nonexistent; angels too are real beings of the unseen realm.",
+        "summaryPoints": [
+          "The universe is not limited to matter; beings created from light are also real.",
+          "Angels are models of obedience who fulfill the Creator's command without condition.",
+          "Knowing that our deeds are recorded makes us more responsible and careful."
+        ],
+        "dailyReflection": "Today, in a moment when you think you are alone, try to keep your conduct as careful as if you were being watched.",
+        "dawahTip": "Gently remind others that the unseen can exist, using air or gravity as an example; open a door without pushing.",
+        "questionAnswer": {
+          "question": "Do angels interfere with human free will?",
+          "answer": "No. Angels may inspire goodness in the heart, but they never take away a person's choice. The decision always belongs to the human being."
+        },
+        "referenceNote": "Drawn from the essence of core teachings that point to the unseen realm and the role of angels.",
+        "shareText": "Many realities exist that we never see. Belief in angels opens us to the order beyond sight."
+      },
+      "fr": {
+        "title": "La foi aux anges",
+        "shortDescription": "C'est croire en des êtres créés de lumière, invisibles à l'œil, qui accomplissent l'ordre du Créateur.",
+        "mainPrinciple": "Ce que nous ne percevons pas n'est pas pour autant inexistant ; les anges aussi sont des êtres réels du monde invisible.",
+        "summaryPoints": [
+          "L'univers ne se limite pas à la matière ; des êtres créés de lumière sont également réels.",
+          "Les anges sont des modèles d'obéissance qui accomplissent l'ordre du Créateur sans condition.",
+          "Savoir que nos actes sont consignés nous rend plus responsables et attentifs."
+        ],
+        "dailyReflection": "Aujourd'hui, dans un instant où tu te crois seul, efforce-toi de garder ta conduite aussi soignée que si l'on t'observait.",
+        "dawahTip": "Rappelle avec douceur que l'invisible peut exister, en prenant l'air ou la gravité pour exemple ; entrouvre une porte sans forcer.",
+        "questionAnswer": {
+          "question": "Les anges interfèrent-ils avec le libre arbitre de l'homme ?",
+          "answer": "Non. Les anges peuvent inspirer le bien dans le cœur, mais ils n'ôtent jamais le choix de la personne. La décision appartient toujours à l'être humain."
+        },
+        "referenceNote": "Inspiré de l'essence des enseignements fondamentaux évoquant le monde invisible et le rôle des anges.",
+        "shareText": "Bien des réalités existent que nous ne voyons jamais. La foi aux anges nous ouvre à l'ordre au-delà du regard."
+      },
+      "pt-BR": {
+        "title": "A fé nos anjos",
+        "shortDescription": "É crer em seres criados da luz, invisíveis aos olhos, que cumprem a ordem do Criador.",
+        "mainPrinciple": "Aquilo que não percebemos não é, por isso, inexistente; os anjos também são seres reais do mundo invisível.",
+        "summaryPoints": [
+          "O universo não se limita à matéria; seres criados da luz também são reais.",
+          "Os anjos são modelos de obediência que cumprem a ordem do Criador sem condição.",
+          "Saber que nossos atos são registrados nos torna mais responsáveis e atentos."
+        ],
+        "dailyReflection": "Hoje, em um momento em que você se julga sozinho, procure manter sua conduta tão cuidadosa como se estivesse sendo observado.",
+        "dawahTip": "Lembre com delicadeza que o invisível pode existir, usando o ar ou a gravidade como exemplo; entreabra uma porta sem forçar.",
+        "questionAnswer": {
+          "question": "Os anjos interferem no livre-arbítrio do ser humano?",
+          "answer": "Não. Os anjos podem inspirar o bem no coração, mas nunca tiram a escolha da pessoa. A decisão sempre pertence ao ser humano."
+        },
+        "referenceNote": "Inspirado na essência dos ensinamentos fundamentais que apontam para o mundo invisível e o papel dos anjos.",
+        "shareText": "Muitas realidades existem que nunca vemos. A fé nos anjos nos abre à ordem para além do olhar."
+      },
+      "de": {
+        "title": "Der Glaube an die Engel",
+        "shortDescription": "Es bedeutet, an Wesen zu glauben, die aus Licht erschaffen sind, dem Auge verborgen, die den Befehl des Schöpfers ausführen.",
+        "mainPrinciple": "Was wir nicht wahrnehmen, ist deshalb nicht nicht-existent; auch Engel sind wirkliche Wesen des Verborgenen.",
+        "summaryPoints": [
+          "Das Universum ist nicht auf Materie beschränkt; auch aus Licht erschaffene Wesen sind wirklich.",
+          "Engel sind Vorbilder des Gehorsams, die den Befehl des Schöpfers bedingungslos erfüllen.",
+          "Zu wissen, dass unsere Taten aufgezeichnet werden, macht uns verantwortungsvoller und achtsamer."
+        ],
+        "dailyReflection": "Versuche heute in einem Moment, in dem du dich allein glaubst, dein Verhalten so sorgsam zu halten, als würdest du beobachtet.",
+        "dawahTip": "Erinnere sanft daran, dass das Verborgene existieren kann, mit Luft oder Schwerkraft als Beispiel; öffne eine Tür, ohne zu drängen.",
+        "questionAnswer": {
+          "question": "Greifen Engel in den freien Willen des Menschen ein?",
+          "answer": "Nein. Engel können Gutes ins Herz eingeben, doch sie nehmen einem Menschen niemals die Wahl. Die Entscheidung gehört stets dem Menschen."
+        },
+        "referenceNote": "Angelehnt an das Wesen grundlegender Lehren, die auf das Verborgene und die Aufgabe der Engel hinweisen.",
+        "shareText": "Es gibt viele Wirklichkeiten, die wir nie sehen. Der Glaube an die Engel öffnet uns für die Ordnung jenseits des Blicks."
+      },
+      "es": {
+        "title": "La fe en los ángeles",
+        "shortDescription": "Es creer en seres creados de luz, invisibles a los ojos, que cumplen la orden del Creador.",
+        "mainPrinciple": "Aquello que no percibimos no es, por eso, inexistente; los ángeles también son seres reales del mundo invisible.",
+        "summaryPoints": [
+          "El universo no se limita a la materia; los seres creados de luz también son reales.",
+          "Los ángeles son modelos de obediencia que cumplen la orden del Creador sin condición.",
+          "Saber que nuestros actos quedan registrados nos vuelve más responsables y atentos."
+        ],
+        "dailyReflection": "Hoy, en un momento en que te creas a solas, procura mantener tu conducta tan cuidadosa como si estuvieras siendo observado.",
+        "dawahTip": "Recuerda con delicadeza que lo invisible puede existir, usando el aire o la gravedad como ejemplo; entreabre una puerta sin forzar.",
+        "questionAnswer": {
+          "question": "¿Los ángeles interfieren en el libre albedrío del ser humano?",
+          "answer": "No. Los ángeles pueden inspirar el bien en el corazón, pero nunca le quitan la elección a la persona. La decisión siempre pertenece al ser humano."
+        },
+        "referenceNote": "Inspirado en la esencia de las enseñanzas fundamentales que apuntan al mundo invisible y al papel de los ángeles.",
+        "shareText": "Existen muchas realidades que nunca vemos. La fe en los ángeles nos abre al orden más allá de la mirada."
+      }
+    }
+  },
+  {
+    "id": "faith-belief-in-divine-books",
+    "category": "faith",
+    "icon": "book-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["kitaplar", "books", "vahiy", "revelation", "iman"],
+    "content": {
+      "tr": {
+        "title": "Kitaplara İman",
+        "shortDescription": "Yaratıcı'nın farklı çağlarda gönderdiği ilahi kitaplara ve hepsinin özündeki ortak mesaja inanmaktır.",
+        "mainPrinciple": "Tüm ilahi kitaplar özde aynı çağrıyı taşır: Yaratıcı'ya iman, dürüstlük ve adaletli bir yaşam.",
+        "summaryPoints": [
+          "Yaratıcı, farklı toplumlara onların ihtiyaçlarına göre rehberlik göndermiştir.",
+          "Kitapların özü hep aynıdır; farklılıklar tarihsel koşullarda görülür.",
+          "Yazılı vahiy, doğru mesajın sonraki nesillere ulaşmasını güvence altına alır."
+        ],
+        "dailyReflection": "Bugün okuduğun ilahi bir cümleyi yalnızca bilgi olarak değil, hayatına bir tavsiye olarak düşün.",
+        "dawahTip": "Farklı kitaplara saygıyı vurgulayarak ortak değerlerden başla; ayrılıkları değil, paylaşılan hikmeti öne çıkar.",
+        "questionAnswer": {
+          "question": "Neden birden fazla ilahi kitap gönderildi?",
+          "answer": "İnsanlık kademeli olarak olgunlaştı. Her çağ ve topluma, kendi koşullarına uygun bir rehberlik geldi; mesajın özü ise hep aynı kaldı."
+        },
+        "referenceNote": "Vahyin gönderilişi ve kitaplar arasındaki birlik üzerine temel öğretilerin özünü yansıtır.",
+        "shareText": "Bütün ilahi kitaplar tek bir kalbe seslenir: iyilik, dürüstlük ve adalet."
+      },
+      "en": {
+        "title": "Belief in the Divine Books",
+        "shortDescription": "It means believing in the scriptures the Creator sent across different ages and in the shared message at their core.",
+        "mainPrinciple": "All divine scriptures carry the same call at their heart: faith in the Creator, honesty, and a just life.",
+        "summaryPoints": [
+          "The Creator sent guidance to different peoples according to their needs.",
+          "The essence of the scriptures is always the same; differences appear in historical circumstances.",
+          "Written revelation secures the true message so it reaches later generations."
+        ],
+        "dailyReflection": "Today, take one sacred sentence you read not merely as information, but as a piece of advice for your own life.",
+        "dawahTip": "Begin from shared values, emphasizing respect for different scriptures; highlight the common wisdom, not the divisions.",
+        "questionAnswer": {
+          "question": "Why was more than one divine book sent?",
+          "answer": "Humanity matured gradually. Each age and people received guidance suited to its circumstances, while the essence of the message always remained the same."
+        },
+        "referenceNote": "Reflects the essence of core teachings on the sending of revelation and the unity among the scriptures.",
+        "shareText": "All divine books speak to a single heart: goodness, honesty, and justice."
+      },
+      "fr": {
+        "title": "La foi aux Livres révélés",
+        "shortDescription": "C'est croire aux Écritures que le Créateur a envoyées à travers les âges et au message commun en leur cœur.",
+        "mainPrinciple": "Toutes les Écritures divines portent le même appel en leur cœur : la foi au Créateur, l'honnêteté et une vie juste.",
+        "summaryPoints": [
+          "Le Créateur a envoyé une guidance aux différents peuples selon leurs besoins.",
+          "L'essence des Écritures est toujours la même ; les différences tiennent aux circonstances historiques.",
+          "La révélation écrite préserve le message véritable pour qu'il parvienne aux générations futures."
+        ],
+        "dailyReflection": "Aujourd'hui, prends une phrase sacrée que tu lis non comme une simple information, mais comme un conseil pour ta propre vie.",
+        "dawahTip": "Pars des valeurs communes en soulignant le respect des différentes Écritures ; mets en avant la sagesse partagée, non les divisions.",
+        "questionAnswer": {
+          "question": "Pourquoi plus d'un Livre divin a-t-il été envoyé ?",
+          "answer": "L'humanité a mûri progressivement. Chaque époque et chaque peuple a reçu une guidance adaptée à ses circonstances, tandis que l'essence du message est toujours restée la même."
+        },
+        "referenceNote": "Reflète l'essence des enseignements fondamentaux sur l'envoi de la révélation et l'unité des Écritures.",
+        "shareText": "Tous les Livres divins parlent à un seul cœur : la bonté, l'honnêteté et la justice."
+      },
+      "pt-BR": {
+        "title": "A fé nos Livros revelados",
+        "shortDescription": "É crer nas escrituras que o Criador enviou ao longo das eras e na mensagem comum em seu cerne.",
+        "mainPrinciple": "Todas as escrituras divinas trazem o mesmo apelo em seu cerne: fé no Criador, honestidade e uma vida justa.",
+        "summaryPoints": [
+          "O Criador enviou orientação a diferentes povos conforme suas necessidades.",
+          "A essência das escrituras é sempre a mesma; as diferenças surgem nas circunstâncias históricas.",
+          "A revelação escrita preserva a mensagem verdadeira para que alcance as gerações futuras."
+        ],
+        "dailyReflection": "Hoje, tome uma frase sagrada que você ler não apenas como informação, mas como um conselho para a sua própria vida.",
+        "dawahTip": "Comece pelos valores comuns, ressaltando o respeito às diferentes escrituras; destaque a sabedoria compartilhada, não as divisões.",
+        "questionAnswer": {
+          "question": "Por que mais de um Livro divino foi enviado?",
+          "answer": "A humanidade amadureceu gradualmente. Cada época e cada povo recebeu uma orientação adequada às suas circunstâncias, enquanto a essência da mensagem sempre permaneceu a mesma."
+        },
+        "referenceNote": "Reflete a essência dos ensinamentos fundamentais sobre o envio da revelação e a unidade entre as escrituras.",
+        "shareText": "Todos os Livros divinos falam a um único coração: bondade, honestidade e justiça."
+      },
+      "de": {
+        "title": "Der Glaube an die offenbarten Bücher",
+        "shortDescription": "Es bedeutet, an die Schriften zu glauben, die der Schöpfer durch die Zeitalter sandte, und an die gemeinsame Botschaft in ihrem Kern.",
+        "mainPrinciple": "Alle göttlichen Schriften tragen in ihrem Kern denselben Ruf: Glaube an den Schöpfer, Ehrlichkeit und ein gerechtes Leben.",
+        "summaryPoints": [
+          "Der Schöpfer sandte verschiedenen Völkern Rechtleitung gemäß ihren Bedürfnissen.",
+          "Das Wesen der Schriften ist stets dasselbe; Unterschiede zeigen sich in den geschichtlichen Umständen.",
+          "Die schriftliche Offenbarung sichert die wahre Botschaft, damit sie spätere Generationen erreicht."
+        ],
+        "dailyReflection": "Nimm heute einen heiligen Satz, den du liest, nicht bloß als Information, sondern als Rat für dein eigenes Leben.",
+        "dawahTip": "Beginne bei gemeinsamen Werten und betone die Achtung vor verschiedenen Schriften; hebe die geteilte Weisheit hervor, nicht die Trennungen.",
+        "questionAnswer": {
+          "question": "Warum wurde mehr als ein göttliches Buch gesandt?",
+          "answer": "Die Menschheit reifte allmählich. Jedes Zeitalter und Volk erhielt eine seinen Umständen angemessene Rechtleitung, während das Wesen der Botschaft stets dasselbe blieb."
+        },
+        "referenceNote": "Spiegelt das Wesen grundlegender Lehren über die Sendung der Offenbarung und die Einheit der Schriften wider.",
+        "shareText": "Alle göttlichen Bücher sprechen zu einem einzigen Herzen: Güte, Ehrlichkeit und Gerechtigkeit."
+      },
+      "es": {
+        "title": "La fe en los Libros revelados",
+        "shortDescription": "Es creer en las escrituras que el Creador envió a lo largo de las eras y en el mensaje común en su esencia.",
+        "mainPrinciple": "Todas las escrituras divinas llevan el mismo llamado en su esencia: fe en el Creador, honestidad y una vida justa.",
+        "summaryPoints": [
+          "El Creador envió orientación a diferentes pueblos según sus necesidades.",
+          "La esencia de las escrituras es siempre la misma; las diferencias surgen en las circunstancias históricas.",
+          "La revelación escrita preserva el mensaje verdadero para que alcance a las generaciones futuras."
+        ],
+        "dailyReflection": "Hoy, toma una frase sagrada que leas no solo como información, sino como un consejo para tu propia vida.",
+        "dawahTip": "Comienza por los valores comunes, resaltando el respeto a las diferentes escrituras; destaca la sabiduría compartida, no las divisiones.",
+        "questionAnswer": {
+          "question": "¿Por qué se envió más de un Libro divino?",
+          "answer": "La humanidad maduró gradualmente. Cada época y cada pueblo recibió una orientación adecuada a sus circunstancias, mientras que la esencia del mensaje siempre permaneció la misma."
+        },
+        "referenceNote": "Refleja la esencia de las enseñanzas fundamentales sobre el envío de la revelación y la unidad entre las escrituras.",
+        "shareText": "Todos los Libros divinos le hablan a un solo corazón: bondad, honestidad y justicia."
+      }
+    }
+  },
+  {
+    "id": "faith-belief-in-prophets",
+    "category": "faith",
+    "icon": "people-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["peygamberler", "prophets", "örnek", "example", "iman"],
+    "content": {
+      "tr": {
+        "title": "Peygamberlere İman",
+        "shortDescription": "Yaratıcı'nın, insanlara doğru yönü göstersinler diye seçtiği güvenilir elçilere ve onların örnekliğine inanmaktır.",
+        "mainPrinciple": "Peygamberler, insanlarla aynı hayatı yaşayan, vahiy alan ve örneklik eden güvenilir rehberlerdir.",
+        "summaryPoints": [
+          "Peygamberler melek değil, insanların anlayıp izleyebileceği birer insandır.",
+          "Doğruluk, güvenilirlik ve emaneti korumak onların temel vasıflarıdır.",
+          "Müslüman, tüm peygamberlere ayrım yapmadan aynı saygıyla iman eder."
+        ],
+        "dailyReflection": "Bugün küçük bir sözünü tut ya da bir emaneti özenle koru; örnekliğin sessiz bir davet olduğunu hatırla.",
+        "dawahTip": "Bir peygamberin güzel ahlakından kısa bir örnek paylaş; tartışmadan, güzel davranışın kendisini konuştur.",
+        "questionAnswer": {
+          "question": "Neden Yaratıcı melek değil de insan peygamberler gönderdi?",
+          "answer": "Çünkü bir insanın, kendisi gibi yaşayan birini anlaması ve örnek alması daha kolaydır. Peygamberler bu yüzden taklit edilebilir rehberlerdir."
+        },
+        "referenceNote": "Peygamberlerin görevi ve örnekliği üzerine temel öğretilerin ruhunu yansıtır.",
+        "shareText": "En güzel öğüt, yaşanmış bir örnektir. Peygamberlere iman, o örnekliğe gönül vermektir."
+      },
+      "en": {
+        "title": "Belief in the Prophets",
+        "shortDescription": "It means believing in the trustworthy messengers the Creator chose to show people the right path, and in their example.",
+        "mainPrinciple": "Prophets are trustworthy guides who live the same human life, receive revelation, and set an example.",
+        "summaryPoints": [
+          "Prophets are not angels but human beings whom people can understand and follow.",
+          "Truthfulness, trustworthiness, and keeping a trust are their core qualities.",
+          "A Muslim believes in all the prophets with the same respect, making no distinction."
+        ],
+        "dailyReflection": "Today, keep a small promise or guard a trust with care; remember that a good example is a quiet invitation.",
+        "dawahTip": "Share a brief example of a prophet's beautiful character; without arguing, let the good conduct itself speak.",
+        "questionAnswer": {
+          "question": "Why did the Creator send human prophets rather than angels?",
+          "answer": "Because it is easier for a person to understand and follow someone who lives as they do. That is why prophets are guides who can be imitated."
+        },
+        "referenceNote": "Reflects the spirit of core teachings on the role and example of the prophets.",
+        "shareText": "The finest advice is a life that was lived. Belief in the prophets is to love that example."
+      },
+      "fr": {
+        "title": "La foi aux prophètes",
+        "shortDescription": "C'est croire aux messagers dignes de confiance que le Créateur a choisis pour montrer aux hommes le droit chemin, et à leur exemple.",
+        "mainPrinciple": "Les prophètes sont des guides fiables qui vivent la même vie humaine, reçoivent la révélation et donnent l'exemple.",
+        "summaryPoints": [
+          "Les prophètes ne sont pas des anges mais des êtres humains que les gens peuvent comprendre et suivre.",
+          "La véracité, la fiabilité et la garde d'un dépôt sont leurs qualités essentielles.",
+          "Le musulman croit en tous les prophètes avec le même respect, sans faire de distinction."
+        ],
+        "dailyReflection": "Aujourd'hui, tiens une petite promesse ou garde un dépôt avec soin ; souviens-toi qu'un bel exemple est une invitation silencieuse.",
+        "dawahTip": "Partage un bref exemple du beau caractère d'un prophète ; sans discuter, laisse la bonne conduite parler d'elle-même.",
+        "questionAnswer": {
+          "question": "Pourquoi le Créateur a-t-il envoyé des prophètes humains plutôt que des anges ?",
+          "answer": "Parce qu'il est plus facile pour une personne de comprendre et de suivre quelqu'un qui vit comme elle. C'est pourquoi les prophètes sont des guides que l'on peut imiter."
+        },
+        "referenceNote": "Reflète l'esprit des enseignements fondamentaux sur le rôle et l'exemple des prophètes.",
+        "shareText": "Le meilleur conseil est une vie qui a été vécue. La foi aux prophètes, c'est aimer cet exemple."
+      },
+      "pt-BR": {
+        "title": "A fé nos profetas",
+        "shortDescription": "É crer nos mensageiros dignos de confiança que o Criador escolheu para mostrar às pessoas o caminho reto, e em seu exemplo.",
+        "mainPrinciple": "Os profetas são guias confiáveis que vivem a mesma vida humana, recebem a revelação e dão o exemplo.",
+        "summaryPoints": [
+          "Os profetas não são anjos, mas seres humanos que as pessoas podem compreender e seguir.",
+          "A veracidade, a confiabilidade e a guarda de um depósito são suas qualidades essenciais.",
+          "O muçulmano crê em todos os profetas com o mesmo respeito, sem fazer distinção."
+        ],
+        "dailyReflection": "Hoje, cumpra uma pequena promessa ou guarde um depósito com cuidado; lembre que um bom exemplo é um convite silencioso.",
+        "dawahTip": "Compartilhe um breve exemplo do belo caráter de um profeta; sem discutir, deixe a boa conduta falar por si.",
+        "questionAnswer": {
+          "question": "Por que o Criador enviou profetas humanos em vez de anjos?",
+          "answer": "Porque é mais fácil para uma pessoa compreender e seguir alguém que vive como ela. Por isso os profetas são guias que se podem imitar."
+        },
+        "referenceNote": "Reflete o espírito dos ensinamentos fundamentais sobre o papel e o exemplo dos profetas.",
+        "shareText": "O melhor conselho é uma vida que foi vivida. A fé nos profetas é amar esse exemplo."
+      },
+      "de": {
+        "title": "Der Glaube an die Propheten",
+        "shortDescription": "Es bedeutet, an die vertrauenswürdigen Gesandten zu glauben, die der Schöpfer wählte, um den Menschen den rechten Weg zu zeigen, und an ihr Vorbild.",
+        "mainPrinciple": "Propheten sind vertrauenswürdige Führer, die dasselbe menschliche Leben leben, Offenbarung empfangen und ein Vorbild geben.",
+        "summaryPoints": [
+          "Propheten sind keine Engel, sondern Menschen, die die Menschen verstehen und denen sie folgen können.",
+          "Wahrhaftigkeit, Verlässlichkeit und das Bewahren eines Anvertrauten sind ihre Kerneigenschaften.",
+          "Ein Muslim glaubt an alle Propheten mit gleichem Respekt, ohne einen Unterschied zu machen."
+        ],
+        "dailyReflection": "Halte heute ein kleines Versprechen oder bewahre ein Anvertrautes sorgfältig; bedenke, dass ein gutes Vorbild eine stille Einladung ist.",
+        "dawahTip": "Teile ein kurzes Beispiel für den schönen Charakter eines Propheten; lass, ohne zu streiten, das gute Verhalten selbst sprechen.",
+        "questionAnswer": {
+          "question": "Warum sandte der Schöpfer menschliche Propheten statt Engel?",
+          "answer": "Weil es einem Menschen leichter fällt, jemanden zu verstehen und ihm zu folgen, der lebt wie er. Darum sind Propheten Führer, denen man nacheifern kann."
+        },
+        "referenceNote": "Spiegelt den Geist grundlegender Lehren über die Aufgabe und das Vorbild der Propheten wider.",
+        "shareText": "Der beste Rat ist ein gelebtes Leben. Der Glaube an die Propheten heißt, dieses Vorbild zu lieben."
+      },
+      "es": {
+        "title": "La fe en los profetas",
+        "shortDescription": "Es creer en los mensajeros dignos de confianza que el Creador eligió para mostrar a las personas el camino recto, y en su ejemplo.",
+        "mainPrinciple": "Los profetas son guías confiables que viven la misma vida humana, reciben la revelación y dan el ejemplo.",
+        "summaryPoints": [
+          "Los profetas no son ángeles, sino seres humanos a quienes las personas pueden comprender y seguir.",
+          "La veracidad, la confiabilidad y la guarda de lo que se les confía son sus cualidades esenciales.",
+          "El musulmán cree en todos los profetas con el mismo respeto, sin hacer distinción."
+        ],
+        "dailyReflection": "Hoy, cumple una pequeña promesa o guarda con cuidado algo que se te haya confiado; recuerda que un buen ejemplo es una invitación silenciosa.",
+        "dawahTip": "Comparte un breve ejemplo del hermoso carácter de un profeta; sin discutir, deja que la buena conducta hable por sí misma.",
+        "questionAnswer": {
+          "question": "¿Por qué el Creador envió profetas humanos en lugar de ángeles?",
+          "answer": "Porque para una persona es más fácil comprender y seguir a alguien que vive como ella. Por eso los profetas son guías que se pueden imitar."
+        },
+        "referenceNote": "Refleja el espíritu de las enseñanzas fundamentales sobre el papel y el ejemplo de los profetas.",
+        "shareText": "El mejor consejo es una vida que se vivió. La fe en los profetas es amar ese ejemplo."
+      }
+    }
+  },
+  {
+    "id": "faith-belief-in-the-hereafter",
+    "category": "faith",
+    "icon": "infinite-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["ahiret", "hereafter", "sorumluluk", "accountability", "iman"],
+    "content": {
+      "tr": {
+        "title": "Ahirete İman",
+        "shortDescription": "Bu hayatın bir sonu ve ötesinde adaletin tam tecelli edeceği bir hayatın olduğuna inanmaktır.",
+        "mainPrinciple": "Yaptığımız her iyilik ve kötülük boşa gitmez; ahiret, adaletin eksiksiz tamamlandığı yerdir.",
+        "summaryPoints": [
+          "Hayatın bir amacı vardır; gelişimiz ve gidişimiz başıboş değildir.",
+          "Davranışlarımızın bir karşılığı olması, sorumlu yaşamayı anlamlı kılar.",
+          "Ahirete iman, dünyada görülmeyen adaletin tamamlanacağına güvenmektir."
+        ],
+        "dailyReflection": "Bugün küçük bir iyiliği, kimse görmese de yalnızca kalıcı karşılığı için yap.",
+        "dawahTip": "Adalet özlemini hatırlat; bu dünyada bazen haksızlıkların karşılıksız kaldığını, vicdanın daha fazlasını beklediğini nazikçe dile getir.",
+        "questionAnswer": {
+          "question": "Ahirete iman bu dünyadaki hayatı nasıl etkiler?",
+          "answer": "İnsanı daha sorumlu, daha umutlu ve daha sabırlı kılar. Çünkü hiçbir iyiliğin boşa gitmeyeceğini, hiçbir zorluğun karşılıksız kalmayacağını bilir."
+        },
+        "referenceNote": "Hayatın amacı ve ahirette adaletin tecellisi üzerine temel öğretilerin özüne dayanır.",
+        "shareText": "Hiçbir iyilik boşa gitmez. Ahirete iman, adaletin tamamlanacağına duyulan huzurlu güvendir."
+      },
+      "en": {
+        "title": "Belief in the Hereafter",
+        "shortDescription": "It means believing that this life has an end, and beyond it a life where justice is fully realized.",
+        "mainPrinciple": "Every good and every wrong we do is never lost; the Hereafter is where justice is completed in full.",
+        "summaryPoints": [
+          "Life has a purpose; our coming and our going are not aimless.",
+          "That our deeds have a consequence gives responsible living its meaning.",
+          "Belief in the Hereafter is trusting that the justice unseen in this world will be completed."
+        ],
+        "dailyReflection": "Today, do one small act of kindness for its lasting reward alone, even if no one sees it.",
+        "dawahTip": "Recall the longing for justice; gently note that wrongs sometimes go unanswered in this world, while the conscience expects more.",
+        "questionAnswer": {
+          "question": "How does belief in the Hereafter affect life in this world?",
+          "answer": "It makes a person more responsible, more hopeful, and more patient, for they know that no good is wasted and no hardship goes unanswered."
+        },
+        "referenceNote": "Drawn from the essence of core teachings on the purpose of life and the unfolding of justice in the Hereafter.",
+        "shareText": "No good is ever lost. Belief in the Hereafter is the calm trust that justice will be completed."
+      },
+      "fr": {
+        "title": "La foi en l'au-delà",
+        "shortDescription": "C'est croire que cette vie a une fin et qu'au-delà existe une vie où la justice se réalise pleinement.",
+        "mainPrinciple": "Chaque bien et chaque mal que nous faisons n'est jamais perdu ; l'au-delà est là où la justice s'accomplit pleinement.",
+        "summaryPoints": [
+          "La vie a un but ; notre venue et notre départ ne sont pas sans dessein.",
+          "Que nos actes aient une conséquence donne tout son sens à une vie responsable.",
+          "La foi en l'au-delà, c'est avoir confiance que la justice invisible ici-bas s'accomplira."
+        ],
+        "dailyReflection": "Aujourd'hui, accomplis un petit acte de bonté pour sa seule récompense durable, même si personne ne le voit.",
+        "dawahTip": "Rappelle la soif de justice ; note avec douceur que les injustices restent parfois sans réponse ici-bas, alors que la conscience attend davantage.",
+        "questionAnswer": {
+          "question": "Comment la foi en l'au-delà influence-t-elle la vie ici-bas ?",
+          "answer": "Elle rend la personne plus responsable, plus pleine d'espoir et plus patiente, car elle sait qu'aucun bien n'est perdu et qu'aucune épreuve ne reste sans réponse."
+        },
+        "referenceNote": "Inspiré de l'essence des enseignements fondamentaux sur le but de la vie et l'accomplissement de la justice dans l'au-delà.",
+        "shareText": "Aucun bien n'est jamais perdu. La foi en l'au-delà est la confiance paisible que la justice s'accomplira."
+      },
+      "pt-BR": {
+        "title": "A fé na vida futura",
+        "shortDescription": "É crer que esta vida tem um fim e que, além dela, existe uma vida onde a justiça se realiza plenamente.",
+        "mainPrinciple": "Cada bem e cada mal que fazemos nunca se perde; a vida futura é onde a justiça se completa por inteiro.",
+        "summaryPoints": [
+          "A vida tem um propósito; nossa chegada e nossa partida não são sem rumo.",
+          "Que nossos atos tenham uma consequência dá sentido a uma vida responsável.",
+          "A fé na vida futura é confiar que a justiça invisível neste mundo será completada."
+        ],
+        "dailyReflection": "Hoje, faça um pequeno ato de bondade apenas por sua recompensa duradoura, mesmo que ninguém o veja.",
+        "dawahTip": "Lembre o anseio por justiça; observe com delicadeza que injustiças às vezes ficam sem resposta neste mundo, enquanto a consciência espera mais.",
+        "questionAnswer": {
+          "question": "Como a fé na vida futura influencia a vida neste mundo?",
+          "answer": "Torna a pessoa mais responsável, mais cheia de esperança e mais paciente, pois sabe que nenhum bem se perde e nenhuma dificuldade fica sem resposta."
+        },
+        "referenceNote": "Inspirado na essência dos ensinamentos fundamentais sobre o propósito da vida e a realização da justiça na vida futura.",
+        "shareText": "Nenhum bem se perde jamais. A fé na vida futura é a confiança serena de que a justiça será completada."
+      },
+      "de": {
+        "title": "Der Glaube an das Jenseits",
+        "shortDescription": "Es bedeutet zu glauben, dass dieses Leben ein Ende hat und jenseits davon ein Leben besteht, in dem Gerechtigkeit sich vollständig verwirklicht.",
+        "mainPrinciple": "Jedes Gute und jedes Unrecht, das wir tun, geht nie verloren; im Jenseits wird die Gerechtigkeit vollständig erfüllt.",
+        "summaryPoints": [
+          "Das Leben hat einen Sinn; unser Kommen und Gehen sind nicht ziellos.",
+          "Dass unsere Taten eine Folge haben, verleiht einem verantwortungsvollen Leben seinen Sinn.",
+          "Der Glaube an das Jenseits ist das Vertrauen, dass die in dieser Welt unsichtbare Gerechtigkeit vollendet wird."
+        ],
+        "dailyReflection": "Tu heute eine kleine gute Tat allein um ihres bleibenden Lohnes willen, auch wenn niemand sie sieht.",
+        "dawahTip": "Erinnere an die Sehnsucht nach Gerechtigkeit; merke sanft an, dass Unrecht in dieser Welt manchmal unbeantwortet bleibt, während das Gewissen mehr erwartet.",
+        "questionAnswer": {
+          "question": "Wie wirkt sich der Glaube an das Jenseits auf das Leben in dieser Welt aus?",
+          "answer": "Er macht den Menschen verantwortungsvoller, hoffnungsvoller und geduldiger, denn er weiß, dass kein Gutes verloren geht und keine Not unbeantwortet bleibt."
+        },
+        "referenceNote": "Angelehnt an das Wesen grundlegender Lehren über den Sinn des Lebens und das Sichentfalten der Gerechtigkeit im Jenseits.",
+        "shareText": "Kein Gutes geht je verloren. Der Glaube an das Jenseits ist das ruhige Vertrauen, dass Gerechtigkeit vollendet wird."
+      },
+      "es": {
+        "title": "La fe en la vida futura",
+        "shortDescription": "Es creer que esta vida tiene un fin y que, más allá de ella, existe una vida donde la justicia se realiza plenamente.",
+        "mainPrinciple": "Cada bien y cada mal que hacemos nunca se pierde; la vida futura es donde la justicia se cumple por completo.",
+        "summaryPoints": [
+          "La vida tiene un propósito; nuestra llegada y nuestra partida no son sin rumbo.",
+          "Que nuestros actos tengan una consecuencia le da sentido a una vida responsable.",
+          "La fe en la vida futura es confiar en que la justicia invisible en este mundo será completada."
+        ],
+        "dailyReflection": "Hoy, haz un pequeño acto de bondad solo por su recompensa duradera, aunque nadie lo vea.",
+        "dawahTip": "Recuerda el anhelo de justicia; señala con delicadeza que las injusticias a veces quedan sin respuesta en este mundo, mientras que la conciencia espera más.",
+        "questionAnswer": {
+          "question": "¿Cómo influye la fe en la vida futura en la vida de este mundo?",
+          "answer": "Vuelve a la persona más responsable, más llena de esperanza y más paciente, pues sabe que ningún bien se desperdicia y ninguna dificultad queda sin respuesta."
+        },
+        "referenceNote": "Inspirado en la esencia de las enseñanzas fundamentales sobre el propósito de la vida y la realización de la justicia en la vida futura.",
+        "shareText": "Ningún bien se pierde jamás. La fe en la vida futura es la confianza serena de que la justicia será completada."
+      }
+    }
+  },
+  {
+    "id": "faith-belief-in-divine-decree",
+    "category": "faith",
+    "icon": "compass-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 4,
+    "tags": ["kader", "decree", "tevekkül", "trust", "irade"],
+    "content": {
+      "tr": {
+        "title": "Kader ve Kazaya İman",
+        "shortDescription": "Yaratıcı'nın her şeyi bildiğine inanmak; aynı zamanda insanın hür iradesiyle seçim yaptığını ve sorumlu olduğunu kabul etmektir.",
+        "mainPrinciple": "Yaratıcı'nın her şeyi bilmesi, insanın özgür seçimini ortadan kaldırmaz; çaba bizden, sonuç O'ndandır.",
+        "summaryPoints": [
+          "İnsan, seçmediği şeylerden değil, kendi tercihlerinden sorumludur.",
+          "Elimizden geleni yapmak çabamız, sonucu teslim etmek tevekkülümüzdür.",
+          "Başa gelene değil, ona verdiğimiz tepkiye göre değer kazanırız; sabır bunun en güzel biçimidir."
+        ],
+        "dailyReflection": "Bugün elinde olan bir işte tüm çabanı göster, sonucu ise huzurla Yaratıcı'ya bırak.",
+        "dawahTip": "Kaderi bir bahane değil, bir denge olarak anlat; çaba ile teslimiyetin birlikte yürüdüğünü güzel bir örnekle göster.",
+        "questionAnswer": {
+          "question": "Her şey önceden biliniyorsa seçimlerimiz gerçekten özgür mü?",
+          "answer": "Evet. Yaratıcı'nın geleceği bilmesi, onu bizim adımıza seçmesi anlamına gelmez. Bilmek başka, zorlamak başkadır; tercih hâlâ bizimdir."
+        },
+        "referenceNote": "Hür irade, ilahi ilim ve tevekkül dengesi üzerine temel öğretilerin özünü yansıtır.",
+        "shareText": "Çaba senden, sonuç O'ndan. Kadere iman, gayretle teslimiyeti aynı kalpte buluşturmaktır."
+      },
+      "en": {
+        "title": "Belief in the Divine Decree",
+        "shortDescription": "It means believing that the Creator knows all things, while also affirming that the human being chooses freely and bears responsibility.",
+        "mainPrinciple": "The Creator's knowledge of all things does not remove human free choice; the effort is ours, the outcome is His.",
+        "summaryPoints": [
+          "A person is responsible for their own choices, not for what they did not choose.",
+          "Doing our utmost is our effort; entrusting the outcome is our reliance on God.",
+          "We gain worth not by what befalls us but by how we respond; patience is its finest form."
+        ],
+        "dailyReflection": "Today, give your full effort to a task within your reach, then leave the outcome to the Creator with peace.",
+        "dawahTip": "Present the decree as a balance, not an excuse; show with a good example that effort and trust walk together.",
+        "questionAnswer": {
+          "question": "If everything is known beforehand, are our choices truly free?",
+          "answer": "Yes. The Creator's knowing the future does not mean He chooses it for us. To know is one thing, to compel another; the choice still belongs to us."
+        },
+        "referenceNote": "Reflects the essence of core teachings on the balance of free will, divine knowledge, and reliance on God.",
+        "shareText": "The effort is yours, the outcome is His. Belief in the decree unites striving and surrender in one heart."
+      },
+      "fr": {
+        "title": "La foi au décret divin",
+        "shortDescription": "C'est croire que le Créateur connaît toute chose, tout en affirmant que l'être humain choisit librement et en porte la responsabilité.",
+        "mainPrinciple": "La science que le Créateur a de toute chose n'ôte pas le libre choix de l'homme ; l'effort est de nous, le résultat est de Lui.",
+        "summaryPoints": [
+          "Une personne est responsable de ses propres choix, non de ce qu'elle n'a pas choisi.",
+          "Faire de notre mieux est notre effort ; confier le résultat est notre remise à Dieu.",
+          "Nous prenons de la valeur non par ce qui nous arrive, mais par notre réponse ; la patience en est la plus belle forme."
+        ],
+        "dailyReflection": "Aujourd'hui, donne tout ton effort à une tâche à ta portée, puis confie le résultat au Créateur en paix.",
+        "dawahTip": "Présente le décret comme un équilibre, non comme une excuse ; montre par un bel exemple que l'effort et la confiance avancent ensemble.",
+        "questionAnswer": {
+          "question": "Si tout est connu d'avance, nos choix sont-ils vraiment libres ?",
+          "answer": "Oui. Que le Créateur connaisse l'avenir ne signifie pas qu'Il le choisit à notre place. Savoir est une chose, contraindre en est une autre ; le choix nous appartient toujours."
+        },
+        "referenceNote": "Reflète l'essence des enseignements fondamentaux sur l'équilibre entre le libre arbitre, la science divine et la remise à Dieu.",
+        "shareText": "L'effort est de toi, le résultat est de Lui. La foi au décret unit l'effort et l'abandon dans un même cœur."
+      },
+      "pt-BR": {
+        "title": "A fé no decreto divino",
+        "shortDescription": "É crer que o Criador conhece todas as coisas, ao mesmo tempo em que se afirma que o ser humano escolhe livremente e é responsável.",
+        "mainPrinciple": "O conhecimento que o Criador tem de tudo não retira a livre escolha do ser humano; o esforço é nosso, o resultado é Dele.",
+        "summaryPoints": [
+          "A pessoa é responsável por suas próprias escolhas, não por aquilo que não escolheu.",
+          "Fazer o nosso melhor é o nosso esforço; confiar o resultado é a nossa entrega a Deus.",
+          "Ganhamos valor não pelo que nos acontece, mas pela nossa resposta; a paciência é a sua forma mais bela."
+        ],
+        "dailyReflection": "Hoje, dê todo o seu esforço a uma tarefa ao seu alcance e depois entregue o resultado ao Criador com serenidade.",
+        "dawahTip": "Apresente o decreto como um equilíbrio, não como uma desculpa; mostre, com um bom exemplo, que esforço e confiança caminham juntos.",
+        "questionAnswer": {
+          "question": "Se tudo é conhecido de antemão, nossas escolhas são realmente livres?",
+          "answer": "Sim. O Criador conhecer o futuro não significa que Ele o escolhe por nós. Conhecer é uma coisa, obrigar é outra; a escolha ainda nos pertence."
+        },
+        "referenceNote": "Reflete a essência dos ensinamentos fundamentais sobre o equilíbrio entre o livre-arbítrio, o conhecimento divino e a entrega a Deus.",
+        "shareText": "O esforço é seu, o resultado é Dele. A fé no decreto une empenho e entrega em um só coração."
+      },
+      "de": {
+        "title": "Der Glaube an die göttliche Vorherbestimmung",
+        "shortDescription": "Es bedeutet zu glauben, dass der Schöpfer alle Dinge kennt, und zugleich zu bekräftigen, dass der Mensch frei wählt und Verantwortung trägt.",
+        "mainPrinciple": "Das Wissen des Schöpfers um alle Dinge hebt die freie Wahl des Menschen nicht auf; die Mühe ist unser, das Ergebnis ist Sein.",
+        "summaryPoints": [
+          "Ein Mensch ist für seine eigenen Entscheidungen verantwortlich, nicht für das, was er nicht gewählt hat.",
+          "Unser Bestes zu geben ist unsere Mühe; das Ergebnis anzuvertrauen ist unser Gottvertrauen.",
+          "Wir gewinnen Wert nicht durch das, was uns trifft, sondern durch unsere Antwort; Geduld ist ihre schönste Form."
+        ],
+        "dailyReflection": "Gib heute einer Aufgabe in deiner Reichweite deine ganze Mühe und überlasse das Ergebnis dann in Frieden dem Schöpfer.",
+        "dawahTip": "Stelle die Vorherbestimmung als Gleichgewicht dar, nicht als Ausrede; zeige mit einem guten Beispiel, dass Mühe und Vertrauen Hand in Hand gehen.",
+        "questionAnswer": {
+          "question": "Wenn alles im Voraus bekannt ist, sind unsere Entscheidungen dann wirklich frei?",
+          "answer": "Ja. Dass der Schöpfer die Zukunft kennt, heißt nicht, dass Er sie für uns wählt. Wissen ist das eine, Zwingen das andere; die Wahl gehört weiterhin uns."
+        },
+        "referenceNote": "Spiegelt das Wesen grundlegender Lehren über das Gleichgewicht von freiem Willen, göttlichem Wissen und Gottvertrauen wider.",
+        "shareText": "Die Mühe ist dein, das Ergebnis ist Sein. Der Glaube an die Vorherbestimmung vereint Streben und Hingabe in einem Herzen."
+      },
+      "es": {
+        "title": "La fe en el decreto divino",
+        "shortDescription": "Es creer que el Creador conoce todas las cosas, a la vez que se afirma que el ser humano elige libremente y es responsable.",
+        "mainPrinciple": "El conocimiento que el Creador tiene de todo no anula la libre elección del ser humano; el esfuerzo es nuestro, el resultado es de Él.",
+        "summaryPoints": [
+          "La persona es responsable de sus propias elecciones, no de aquello que no eligió.",
+          "Dar lo mejor de nosotros es nuestro esfuerzo; confiar el resultado es nuestra entrega a Dios.",
+          "Ganamos valor no por lo que nos sucede, sino por nuestra respuesta; la paciencia es su forma más hermosa."
+        ],
+        "dailyReflection": "Hoy, entrega todo tu esfuerzo a una tarea a tu alcance y luego deja el resultado al Creador con serenidad.",
+        "dawahTip": "Presenta el decreto como un equilibrio, no como una excusa; muestra con un buen ejemplo que el esfuerzo y la confianza caminan juntos.",
+        "questionAnswer": {
+          "question": "Si todo se conoce de antemano, ¿son nuestras elecciones realmente libres?",
+          "answer": "Sí. Que el Creador conozca el futuro no significa que lo elija por nosotros. Conocer es una cosa, obligar es otra; la elección sigue siendo nuestra."
+        },
+        "referenceNote": "Refleja la esencia de las enseñanzas fundamentales sobre el equilibrio entre el libre albedrío, el conocimiento divino y la entrega a Dios.",
+        "shareText": "El esfuerzo es tuyo, el resultado es de Él. La fe en el decreto une el empeño y la entrega en un solo corazón."
+      }
+    }
+  }
+]

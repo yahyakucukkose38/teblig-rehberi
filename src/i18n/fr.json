@@ -1,0 +1,148 @@
+{
+  "common": {
+    "appName": "Guide de la Daawa",
+    "start": "Commencer",
+    "next": "Suivant",
+    "back": "Retour",
+    "skip": "Passer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "done": "Terminé",
+    "search": "Rechercher",
+    "seeAll": "Tout voir",
+    "readMinutes": "{{count}} min de lecture",
+    "share": "Partager",
+    "loading": "Chargement…"
+  },
+  "tabs": {
+    "home": "Accueil",
+    "categories": "Catégories",
+    "search": "Rechercher",
+    "favorites": "Favoris",
+    "settings": "Réglages"
+  },
+  "onboarding": {
+    "title": "Inviter avec sagesse",
+    "subtitle": "Un guide bref pour transmettre l'islam d'une voix claire, douce et originale.",
+    "purposeTitle": "But",
+    "purpose": "Ce guide n'est pas fait pour contraindre, mais pour transmettre avec sagesse, donner le bon exemple, connaître son interlocuteur et dire la juste parole au bon moment.",
+    "point1Title": "Le comportement avant la parole",
+    "point1": "La plus forte invitation est d'être un bon exemple.",
+    "point2Title": "Avec sagesse et douceur",
+    "point2": "Ni dur ni accusateur, mais simple, respectueux et bienveillant.",
+    "point3Title": "Original et respectueux des sources",
+    "point3": "Des contenus brefs et originaux ; les versets et hadiths sont seulement référencés, jamais longuement cités.",
+    "chooseLanguage": "Choisissez votre langue",
+    "copyrightTitle": "Droits et sources",
+    "copyrightNote": "Les textes de cette application sont de courts contenus pédagogiques originaux, élaborés à partir de sources islamiques fondamentales et des ouvrages consultés. Aucun texte de livre n'a été copié à l'identique.",
+    "startButton": "Commencer"
+  },
+  "home": {
+    "greeting": "As-salâmu alaykum",
+    "intro": "Quelle belle chose aimeriez-vous partager aujourd'hui ?",
+    "todayNote": "Note du jour",
+    "openDailyNote": "Ouvrir la note du jour",
+    "exploreCategories": "Catégories",
+    "continueReading": "Lus récemment",
+    "favoritesShort": "Vos favoris",
+    "emptyRecents": "Vous n'avez encore lu aucun sujet.",
+    "emptyFavorites": "Vous n'avez encore ajouté aucun favori."
+  },
+  "categories": {
+    "title": "Catégories",
+    "subtitle": "Choisissez un sujet pour commencer.",
+    "topicsCount": "{{count}} sujets"
+  },
+  "topic": {
+    "shortDescription": "Aperçu",
+    "mainPrinciple": "Principe essentiel",
+    "summary": "Résumé",
+    "dailyReflection": "Dans la vie quotidienne",
+    "dawahTip": "Lors du partage",
+    "qa": "Question - Réponse",
+    "question": "Question",
+    "answer": "Réponse",
+    "reference": "Référence (verset / hadith)",
+    "shareMessage": "Message à partager",
+    "sourceNote": "Note de source",
+    "addFavorite": "Ajouter aux favoris",
+    "removeFavorite": "Retirer des favoris",
+    "notFound": "Sujet introuvable."
+  },
+  "search": {
+    "title": "Rechercher",
+    "placeholder": "Rechercher un titre, une description ou un tag…",
+    "empty": "Aucun résultat.",
+    "hint": "Commencez à taper pour rechercher.",
+    "resultsCount": "{{count}} résultats"
+  },
+  "favorites": {
+    "title": "Favoris",
+    "empty": "Vous n'avez encore aucun sujet favori.",
+    "emptyHint": "Touchez l'icône en forme de cœur sur un sujet pour l'ajouter à vos favoris."
+  },
+  "daily": {
+    "title": "Note du jour",
+    "subtitle": "Un court principe de daawa chaque jour.",
+    "share": "Partager la note"
+  },
+  "language": {
+    "title": "Langue",
+    "subtitle": "Choisissez la langue de l'application. Votre choix est enregistré sur l'appareil.",
+    "current": "Sélectionné"
+  },
+  "settings": {
+    "title": "Réglages",
+    "appearance": "Apparence",
+    "theme": "Thème",
+    "themeLight": "Clair",
+    "themeDark": "Sombre",
+    "themeSystem": "Système",
+    "fontSize": "Taille du texte",
+    "fontSmall": "Petite",
+    "fontMedium": "Moyenne",
+    "fontLarge": "Grande",
+    "content": "Contenu",
+    "language": "Langue",
+    "notifications": "Notifications",
+    "notificationsDesc": "Un rappel pour la note du jour.",
+    "about": "À propos",
+    "aboutTitle": "À propos",
+    "aboutBody": "Guide de la Daawa est un guide hors ligne pour celles et ceux qui souhaitent transmettre l'islam d'une voix simple, sage et douce. Les contenus prennent la forme de courtes leçons, de résumés, de principes et de conseils de partage.",
+    "sources": "Bibliographie",
+    "sourcesTitle": "Ouvrages consultés",
+    "sourcesIntro": "Les ouvrages suivants ont été consultés. Leurs textes ne sont pas affichés dans l'application ; le contenu a été réécrit de façon originale.",
+    "copyright": "Droits et sources",
+    "version": "Version",
+    "notificationTime": "Heure du rappel",
+    "permissionNeeded": "L'autorisation de notification a été refusée. Veuillez l'activer dans les réglages du téléphone."
+  },
+  "copyright": {
+    "title": "Droits et sources",
+    "body": "Les textes de cette application sont de courts contenus pédagogiques originaux, élaborés à partir de sources islamiques fondamentales et des ouvrages consultés. Aucun texte de livre n'a été copié à l'identique.",
+    "shortNote": "Ce contenu a été élaboré de façon originale à partir de sources islamiques fondamentales."
+  },
+  "card": {
+    "title": "Carte de partage",
+    "shareText": "Partager le texte",
+    "shareImage": "Partager en image",
+    "screenshotHint": "Astuce : faites une capture d'écran de cette carte pour la partager.",
+    "open": "Créer une carte"
+  },
+  "share": {
+    "cta": "Si tu souhaites découvrir l'islam d'une manière simple et bienveillante, notre porte est toujours ouverte. 🤍"
+  },
+  "notif": {
+    "title": "Note du jour 🌙",
+    "body": "Prends un instant avec le court principe du jour ; si tu le souhaites, partage-le avec bienveillance."
+  },
+  "disclaimer": {
+    "title": "Avertissement",
+    "body": "Ces contenus sont fournis à titre d'information et d'orientation générale ; ils ne constituent pas un avis religieux contraignant (fatwa). Pour les situations personnelles et les questions controversées, veuillez consulter un savant qualifié."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "La page que vous cherchez n'est pas ici.",
+    "goHome": "Aller à l'accueil"
+  }
+}

@@ -1,0 +1,592 @@
+[
+  {
+    "id": "CAT-worship-fasting-soul-discipline",
+    "category": "worship",
+    "icon": "moon-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["oruç", "fasting", "nefis", "self-discipline", "sabır"],
+    "content": {
+      "tr": {
+        "title": "Oruç ve Nefsin Terbiyesi",
+        "shortDescription": "Oruç yalnızca aç kalmak değil, en temel arzulara bile Allah için 'dur' diyebilmeyi öğrenmektir.",
+        "mainPrinciple": "Oruç, iradeyi nefsin isteklerine hâkim kılarak insanı sabırla olgunlaştırır.",
+        "summaryPoints": [
+          "Oruç, helal olan şeyden bile bir süre vazgeçerek iradeyi güçlendirir.",
+          "Açlık ve susuzluk, mahrum olanların hâlini anlamayı ve şükrü öğretir.",
+          "Asıl oruç; dili, gözü ve kalbi de kötülükten alıkoyabilmektir."
+        ],
+        "dailyReflection": "Bugün canının çok istediği küçük bir şeyi bilinçle erteleyip 'bunu Allah için bırakabiliyorum' de.",
+        "dawahTip": "Orucu bir yük gibi değil, kişinin kendi nefsine karşı kazandığı nazik bir zafer olarak anlat.",
+        "questionAnswer": {
+          "question": "Oruç sadece yemekten kesilmek midir?",
+          "answer": "Hayır. Oruç, midenin yanında dilin, gözün ve kalbin de kötülükten uzak durduğu bütüncül bir terbiyedir; faydası bu bilinçle tamamlanır."
+        },
+        "referenceNote": "Oruç ve nefis terbiyesi üzerine temel ibadet ilkelerinden.",
+        "shareText": "Oruç, en istediğine bile Allah için 'dur' diyebilmenin adıdır."
+      },
+      "en": {
+        "title": "Fasting and Disciplining the Soul",
+        "shortDescription": "Fasting is not merely going hungry; it is learning to say 'stop' to even our deepest cravings for the sake of God.",
+        "mainPrinciple": "Fasting matures a person through patience by placing the will above the desires of the self.",
+        "summaryPoints": [
+          "Fasting strengthens the will by giving up even what is lawful for a time.",
+          "Hunger and thirst teach gratitude and empathy for those who go without.",
+          "True fasting also keeps the tongue, the eyes and the heart away from harm."
+        ],
+        "dailyReflection": "Today, mindfully postpone a small thing you crave and say, 'I can let this go for God.'",
+        "dawahTip": "Present fasting not as a burden but as a gentle victory a person wins over their own self.",
+        "questionAnswer": {
+          "question": "Is fasting only abstaining from food?",
+          "answer": "No. Alongside the stomach, fasting trains the tongue, the eyes and the heart to stay away from harm; its benefit is completed through this awareness."
+        },
+        "referenceNote": "From core worship principles on fasting and disciplining the self.",
+        "shareText": "Fasting is learning to say 'stop' to even your strongest desire, for God."
+      },
+      "fr": {
+        "title": "Le jeûne et l'éducation de l'âme",
+        "shortDescription": "Le jeûne n'est pas seulement avoir faim ; c'est apprendre à dire 'stop' même à nos désirs les plus profonds, pour Dieu.",
+        "mainPrinciple": "Le jeûne fait mûrir l'être par la patience, en plaçant la volonté au-dessus des désirs de l'âme.",
+        "summaryPoints": [
+          "Le jeûne renforce la volonté en renonçant un temps même à ce qui est licite.",
+          "La faim et la soif enseignent la gratitude et l'empathie envers les démunis.",
+          "Le vrai jeûne éloigne aussi la langue, les yeux et le cœur du mal."
+        ],
+        "dailyReflection": "Aujourd'hui, reporte consciemment une petite envie et dis : 'je peux y renoncer pour Dieu.'",
+        "dawahTip": "Présente le jeûne non comme un fardeau, mais comme une douce victoire que l'on remporte sur soi-même.",
+        "questionAnswer": {
+          "question": "Le jeûne consiste-t-il seulement à s'abstenir de nourriture ?",
+          "answer": "Non. En plus du ventre, le jeûne éduque la langue, les yeux et le cœur à se tenir loin du mal ; son bienfait s'achève par cette conscience."
+        },
+        "referenceNote": "D'après les principes essentiels de l'adoration sur le jeûne et l'éducation de l'âme.",
+        "shareText": "Le jeûne, c'est apprendre à dire 'stop' même à son désir le plus fort, pour Dieu."
+      },
+      "pt-BR": {
+        "title": "O jejum e a educação da alma",
+        "shortDescription": "Jejuar não é apenas passar fome; é aprender a dizer 'pare' até aos nossos desejos mais profundos, por amor a Deus.",
+        "mainPrinciple": "O jejum amadurece a pessoa pela paciência, colocando a vontade acima dos desejos do ego.",
+        "summaryPoints": [
+          "O jejum fortalece a vontade ao abrir mão, por um tempo, até do que é lícito.",
+          "A fome e a sede ensinam gratidão e empatia por quem nada tem.",
+          "O verdadeiro jejum também afasta a língua, os olhos e o coração do mal."
+        ],
+        "dailyReflection": "Hoje, adie conscientemente algo pequeno que deseja e diga: 'posso abrir mão disto por Deus.'",
+        "dawahTip": "Apresente o jejum não como um fardo, mas como uma doce vitória que a pessoa conquista sobre si mesma.",
+        "questionAnswer": {
+          "question": "Jejuar é apenas abster-se de comida?",
+          "answer": "Não. Além do estômago, o jejum educa a língua, os olhos e o coração a se manterem longe do mal; seu benefício se completa por meio dessa consciência."
+        },
+        "referenceNote": "Dos princípios essenciais de adoração sobre o jejum e a educação da alma.",
+        "shareText": "Jejuar é aprender a dizer 'pare' até ao seu desejo mais forte, por Deus."
+      },
+      "de": {
+        "title": "Das Fasten und die Erziehung der Seele",
+        "shortDescription": "Fasten heißt nicht nur hungern; es heißt lernen, selbst zu den tiefsten Begierden um Gottes willen 'Halt' zu sagen.",
+        "mainPrinciple": "Das Fasten lässt den Menschen durch Geduld reifen, indem es den Willen über die Begierden des Selbst stellt.",
+        "summaryPoints": [
+          "Fasten stärkt den Willen, indem man eine Zeit lang sogar auf Erlaubtes verzichtet.",
+          "Hunger und Durst lehren Dankbarkeit und Mitgefühl für die Bedürftigen.",
+          "Wahres Fasten hält auch Zunge, Augen und Herz vom Schlechten fern."
+        ],
+        "dailyReflection": "Verschiebe heute bewusst eine kleine Lust und sage: 'Das kann ich für Gott loslassen.'",
+        "dawahTip": "Stelle das Fasten nicht als Last dar, sondern als einen sanften Sieg über das eigene Selbst.",
+        "questionAnswer": {
+          "question": "Ist Fasten nur der Verzicht auf Essen?",
+          "answer": "Nein. Neben dem Magen erzieht das Fasten Zunge, Augen und Herz dazu, sich vom Schlechten fernzuhalten; sein Nutzen vollendet sich durch dieses Bewusstsein."
+        },
+        "referenceNote": "Aus den grundlegenden Prinzipien der Anbetung über Fasten und Seelenerziehung.",
+        "shareText": "Fasten heißt lernen, selbst zur stärksten Begierde um Gottes willen 'Halt' zu sagen."
+      },
+      "es": {
+        "title": "El ayuno y la educación del alma",
+        "shortDescription": "Ayunar no es solo pasar hambre; es aprender a decir 'alto' incluso a nuestros deseos más profundos, por amor a Dios.",
+        "mainPrinciple": "El ayuno hace madurar a la persona mediante la paciencia, poniendo la voluntad por encima de los deseos del ego.",
+        "summaryPoints": [
+          "El ayuno fortalece la voluntad al renunciar por un tiempo incluso a lo que es lícito.",
+          "El hambre y la sed enseñan gratitud y empatía por quienes nada tienen.",
+          "El verdadero ayuno también aparta la lengua, los ojos y el corazón del mal."
+        ],
+        "dailyReflection": "Hoy, posterga conscientemente algo pequeño que desees y di: 'puedo dejar esto por Dios.'",
+        "dawahTip": "Presenta el ayuno no como una carga, sino como una dulce victoria que la persona logra sobre sí misma.",
+        "questionAnswer": {
+          "question": "¿Ayunar es solo abstenerse de comida?",
+          "answer": "No. Además del estómago, el ayuno educa la lengua, los ojos y el corazón para mantenerse lejos del mal; su beneficio se completa por medio de esa conciencia."
+        },
+        "referenceNote": "De los principios esenciales de adoración sobre el ayuno y la educación del alma.",
+        "shareText": "Ayunar es aprender a decir 'alto' incluso a tu deseo más fuerte, por Dios."
+      }
+    }
+  },
+  {
+    "id": "CAT-worship-hajj-journey-of-servitude",
+    "category": "worship",
+    "icon": "walk-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["hac", "hajj", "kulluk", "journey", "kardeşlik"],
+    "content": {
+      "tr": {
+        "title": "Hac ve Kulluk Yolculuğu",
+        "shortDescription": "Hac, dış görünüşten sıyrılıp tek bir niyetle Rabbe yönelen bir kalbin yolculuğudur.",
+        "mainPrinciple": "Hac, makam ve farkları geride bırakarak insana sadece kul olduğunu hatırlatan bir teslimiyet yolculuğudur.",
+        "summaryPoints": [
+          "Aynı sade kıyafet, zenginlik ve unvanların değil takvanın değerli olduğunu gösterir.",
+          "Hac, dünyanın dört bir yanından gelenleri tek kardeşlik çatısında buluşturur.",
+          "Asıl varış, bedenin değil kalbin Allah'a dönmesidir."
+        ],
+        "dailyReflection": "Bugün bir an dur ve 'sahip olduklarım değil, sadece kul oluşum beni tanımlar' diye düşün.",
+        "dawahTip": "Haccı, farklı dillerden insanları eşitleyen ortak bir yürüyüş olarak anlatmak çoğu gönle dokunur.",
+        "questionAnswer": {
+          "question": "Hacca gidemeyen biri bu bilinçten nasıl pay alır?",
+          "answer": "Haccın özü teslimiyet ve sadeliktir; bunu, gösterişi bırakıp kalbini Rabbe çevirerek ve insanlara kardeşçe davranarak her gün yaşayabilir."
+        },
+        "referenceNote": "Hac ve kulluk yolculuğuna dair temel ibadet ilkelerinden.",
+        "shareText": "Hacda herkes aynı sade örtüye bürünür; çünkü Allah katında ölçü unvan değil, takvadır."
+      },
+      "en": {
+        "title": "Hajj and the Journey of Servitude",
+        "shortDescription": "Hajj is the journey of a heart that sheds outward appearances and turns to its Lord with a single intention.",
+        "mainPrinciple": "Hajj is a journey of surrender that leaves rank and difference behind and reminds a person they are simply a servant.",
+        "summaryPoints": [
+          "The same plain garment shows that piety, not wealth or titles, is what matters.",
+          "Hajj gathers people from across the world under one roof of brotherhood.",
+          "The real arrival is the turning of the heart, not the body, toward God."
+        ],
+        "dailyReflection": "Pause for a moment today and reflect: 'It is not what I own, but being a servant, that defines me.'",
+        "dawahTip": "Describing Hajj as a shared walk that makes people of every language equal touches many hearts.",
+        "questionAnswer": {
+          "question": "How can someone unable to go on Hajj share in this awareness?",
+          "answer": "The essence of Hajj is surrender and simplicity; one can live it daily by setting aside show, turning the heart to God, and treating people as brothers and sisters."
+        },
+        "referenceNote": "From core worship principles on Hajj and the journey of servitude.",
+        "shareText": "On Hajj everyone wears the same plain cloth, for before God the measure is not titles but piety."
+      },
+      "fr": {
+        "title": "Le Hajj et le voyage de la servitude",
+        "shortDescription": "Le Hajj est le voyage d'un cœur qui se dépouille des apparences et se tourne vers son Seigneur avec une seule intention.",
+        "mainPrinciple": "Le Hajj est un voyage de soumission qui laisse derrière soi rang et différences et rappelle à l'homme qu'il n'est qu'un serviteur.",
+        "summaryPoints": [
+          "Le même vêtement simple montre que c'est la piété, et non la richesse ou les titres, qui compte.",
+          "Le Hajj réunit des gens du monde entier sous un même toit de fraternité.",
+          "La véritable arrivée est le retour du cœur vers Dieu, non celui du corps."
+        ],
+        "dailyReflection": "Arrête-toi un instant aujourd'hui et pense : 'ce n'est pas ce que je possède, mais le fait d'être serviteur qui me définit.'",
+        "dawahTip": "Décrire le Hajj comme une marche commune qui rend égaux les gens de toute langue touche bien des cœurs.",
+        "questionAnswer": {
+          "question": "Comment celui qui ne peut accomplir le Hajj partage-t-il cette conscience ?",
+          "answer": "L'essence du Hajj est la soumission et la simplicité ; on peut la vivre chaque jour en délaissant l'ostentation, en tournant son cœur vers Dieu et en traitant les gens en frères."
+        },
+        "referenceNote": "D'après les principes essentiels de l'adoration sur le Hajj et le voyage de la servitude.",
+        "shareText": "Au Hajj, tous portent le même tissu simple, car devant Dieu la mesure n'est pas le titre mais la piété."
+      },
+      "pt-BR": {
+        "title": "O Hajj e a jornada da servidão",
+        "shortDescription": "O Hajj é a jornada de um coração que se despe das aparências e se volta ao seu Senhor com uma única intenção.",
+        "mainPrinciple": "O Hajj é uma jornada de entrega que deixa para trás posição e diferenças e lembra à pessoa que ela é apenas um servo.",
+        "summaryPoints": [
+          "A mesma veste simples mostra que é a piedade, e não a riqueza ou os títulos, o que importa.",
+          "O Hajj reúne pessoas de todo o mundo sob um mesmo teto de irmandade.",
+          "A verdadeira chegada é o voltar-se do coração para Deus, não o do corpo."
+        ],
+        "dailyReflection": "Pare por um instante hoje e reflita: 'não é o que possuo, mas o ser servo, que me define.'",
+        "dawahTip": "Descrever o Hajj como uma caminhada comum que iguala pessoas de toda língua toca muitos corações.",
+        "questionAnswer": {
+          "question": "Como alguém que não pode ir ao Hajj participa dessa consciência?",
+          "answer": "A essência do Hajj é entrega e simplicidade; pode-se vivê-la diariamente deixando de lado a ostentação, voltando o coração a Deus e tratando as pessoas como irmãos."
+        },
+        "referenceNote": "Dos princípios essenciais de adoração sobre o Hajj e a jornada da servidão.",
+        "shareText": "No Hajj todos vestem o mesmo tecido simples, pois diante de Deus a medida não é o título, mas a piedade."
+      },
+      "de": {
+        "title": "Die Hadsch und die Reise der Dienerschaft",
+        "shortDescription": "Die Hadsch ist die Reise eines Herzens, das den äußeren Schein ablegt und sich mit einer einzigen Absicht seinem Herrn zuwendet.",
+        "mainPrinciple": "Die Hadsch ist eine Reise der Hingabe, die Rang und Unterschiede hinter sich lässt und den Menschen daran erinnert, dass er nur ein Diener ist.",
+        "summaryPoints": [
+          "Dasselbe schlichte Gewand zeigt, dass Frömmigkeit zählt, nicht Reichtum oder Titel.",
+          "Die Hadsch versammelt Menschen aus aller Welt unter einem Dach der Geschwisterlichkeit.",
+          "Die wahre Ankunft ist die Hinwendung des Herzens zu Gott, nicht die des Körpers."
+        ],
+        "dailyReflection": "Halte heute einen Augenblick inne und denke: 'Nicht was ich besitze, sondern dass ich Diener bin, macht mich aus.'",
+        "dawahTip": "Die Hadsch als gemeinsamen Gang zu beschreiben, der Menschen jeder Sprache gleichmacht, berührt viele Herzen.",
+        "questionAnswer": {
+          "question": "Wie hat jemand teil an diesem Bewusstsein, der die Hadsch nicht antreten kann?",
+          "answer": "Das Wesen der Hadsch ist Hingabe und Schlichtheit; man kann es täglich leben, indem man auf Zurschaustellung verzichtet, das Herz Gott zuwendet und Menschen geschwisterlich behandelt."
+        },
+        "referenceNote": "Aus den grundlegenden Prinzipien der Anbetung über die Hadsch und die Reise der Dienerschaft.",
+        "shareText": "Bei der Hadsch tragen alle dasselbe schlichte Tuch, denn vor Gott zählt nicht der Titel, sondern die Frömmigkeit."
+      },
+      "es": {
+        "title": "El Hayy y el camino de la servidumbre",
+        "shortDescription": "El Hayy es el viaje de un corazón que se despoja de las apariencias y se vuelve a su Señor con una sola intención.",
+        "mainPrinciple": "El Hayy es un viaje de entrega que deja atrás el rango y las diferencias y le recuerda a la persona que no es más que un siervo.",
+        "summaryPoints": [
+          "La misma vestimenta sencilla muestra que lo que importa es la piedad, no la riqueza ni los títulos.",
+          "El Hayy reúne a personas de todo el mundo bajo un mismo techo de hermandad.",
+          "La verdadera llegada es el volverse del corazón hacia Dios, no el del cuerpo."
+        ],
+        "dailyReflection": "Detente un instante hoy y reflexiona: 'no es lo que poseo, sino el ser siervo, lo que me define.'",
+        "dawahTip": "Describir el Hayy como una caminata común que iguala a personas de toda lengua conmueve muchos corazones.",
+        "questionAnswer": {
+          "question": "¿Cómo participa de esta conciencia alguien que no puede ir al Hayy?",
+          "answer": "La esencia del Hayy es entrega y sencillez; uno puede vivirla a diario dejando de lado la ostentación, volviendo el corazón a Dios y tratando a las personas como hermanos."
+        },
+        "referenceNote": "De los principios esenciales de adoración sobre el Hayy y el camino de la servidumbre.",
+        "shareText": "En el Hayy todos visten la misma tela sencilla, pues ante Dios la medida no es el título, sino la piedad."
+      }
+    }
+  },
+  {
+    "id": "CAT-worship-sacrifice-and-surrender",
+    "category": "worship",
+    "icon": "heart-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": ["kurban", "sacrifice", "teslimiyet", "surrender", "paylaşma"],
+    "content": {
+      "tr": {
+        "title": "Kurban ve Teslimiyet",
+        "shortDescription": "Kurban, Rabbe ulaşanın et ya da kan değil, kalpteki teslimiyet ve samimiyet olduğunu hatırlatır.",
+        "mainPrinciple": "Kurban, en sevileni bile Allah için gözden çıkarabilen bir gönlün teslimiyetidir.",
+        "summaryPoints": [
+          "Allah'a ulaşan etin kendisi değil, kulun niyetindeki takvadır.",
+          "Kurban, Hz. İbrahim'in teslimiyetini hatırlatan bir bağlılık nişanesidir.",
+          "Onun bereketi muhtaçla, komşuyla ve yetimle paylaşıldıkça artar."
+        ],
+        "dailyReflection": "Bugün gönlünden kopararak küçük bir şeyi karşılıksız paylaş ve bunu Allah için yaptığını hatırla.",
+        "dawahTip": "Kurbanı kan dökme değil, paylaşma ve teslimiyet bilinci olarak anlatmak yanlış anlaşılmayı önler.",
+        "questionAnswer": {
+          "question": "Kurbanda Allah'ın istediği nedir?",
+          "answer": "Kurbanın etine ya da kanına Allah'ın ihtiyacı yoktur; O'na ulaşan, kulun gönülden teslimiyeti ve ihlasıdır. Asıl maksat kalbin samimiyetidir."
+        },
+        "referenceNote": "Kurban ve teslimiyet üzerine temel ibadet ilkelerinden.",
+        "shareText": "Kurbanda Rabbe ulaşan et değil, kalbin teslimiyetidir."
+      },
+      "en": {
+        "title": "Sacrifice and Surrender",
+        "shortDescription": "Sacrifice reminds us that what reaches God is not meat or blood, but the surrender and sincerity in the heart.",
+        "mainPrinciple": "Sacrifice is the surrender of a heart willing to give up even what it loves most for the sake of God.",
+        "summaryPoints": [
+          "What reaches God is not the meat itself, but the piety in the servant's intention.",
+          "Sacrifice is a sign of devotion recalling the surrender of Abraham.",
+          "Its blessing grows as it is shared with the needy, the neighbor and the orphan."
+        ],
+        "dailyReflection": "Today, give away something small from the heart without expecting return, and remember you do it for God.",
+        "dawahTip": "Describing sacrifice as awareness of sharing and surrender, not the shedding of blood, prevents misunderstanding.",
+        "questionAnswer": {
+          "question": "What does God want from a sacrifice?",
+          "answer": "God has no need of the meat or blood of a sacrifice; what reaches Him is the servant's heartfelt surrender and sincerity. The real aim is the sincerity of the heart."
+        },
+        "referenceNote": "From core worship principles on sacrifice and surrender.",
+        "shareText": "In sacrifice, what reaches God is not the meat but the surrender of the heart."
+      },
+      "fr": {
+        "title": "Le sacrifice et la soumission",
+        "shortDescription": "Le sacrifice rappelle que ce qui parvient à Dieu n'est ni la viande ni le sang, mais la soumission et la sincérité du cœur.",
+        "mainPrinciple": "Le sacrifice est la soumission d'un cœur prêt à renoncer même à ce qu'il aime le plus, pour Dieu.",
+        "summaryPoints": [
+          "Ce qui parvient à Dieu n'est pas la viande elle-même, mais la piété dans l'intention du serviteur.",
+          "Le sacrifice est un signe de dévotion qui rappelle la soumission d'Abraham.",
+          "Sa bénédiction grandit lorsqu'on le partage avec le démuni, le voisin et l'orphelin."
+        ],
+        "dailyReflection": "Aujourd'hui, donne du fond du cœur une petite chose sans rien attendre, et rappelle-toi que tu le fais pour Dieu.",
+        "dawahTip": "Présenter le sacrifice comme une conscience de partage et de soumission, et non comme une effusion de sang, évite les malentendus.",
+        "questionAnswer": {
+          "question": "Que veut Dieu d'un sacrifice ?",
+          "answer": "Dieu n'a nul besoin de la viande ni du sang du sacrifice ; ce qui Lui parvient, c'est la soumission sincère du serviteur. Le but réel est la sincérité du cœur."
+        },
+        "referenceNote": "D'après les principes essentiels de l'adoration sur le sacrifice et la soumission.",
+        "shareText": "Dans le sacrifice, ce qui parvient à Dieu n'est pas la viande mais la soumission du cœur."
+      },
+      "pt-BR": {
+        "title": "O sacrifício e a entrega",
+        "shortDescription": "O sacrifício lembra que o que chega a Deus não é carne nem sangue, mas a entrega e a sinceridade do coração.",
+        "mainPrinciple": "O sacrifício é a entrega de um coração disposto a abrir mão até do que mais ama, por amor a Deus.",
+        "summaryPoints": [
+          "O que chega a Deus não é a carne em si, mas a piedade na intenção do servo.",
+          "O sacrifício é um sinal de devoção que recorda a entrega de Abraão.",
+          "Sua bênção cresce quando é partilhado com o necessitado, o vizinho e o órfão."
+        ],
+        "dailyReflection": "Hoje, dê do fundo do coração algo pequeno sem esperar retorno, e lembre-se de que o faz por Deus.",
+        "dawahTip": "Apresentar o sacrifício como consciência de partilha e entrega, e não como derramamento de sangue, evita mal-entendidos.",
+        "questionAnswer": {
+          "question": "O que Deus quer de um sacrifício?",
+          "answer": "Deus não precisa da carne nem do sangue do sacrifício; o que chega a Ele é a entrega sincera do servo. O verdadeiro objetivo é a sinceridade do coração."
+        },
+        "referenceNote": "Dos princípios essenciais de adoração sobre o sacrifício e a entrega.",
+        "shareText": "No sacrifício, o que chega a Deus não é a carne, mas a entrega do coração."
+      },
+      "de": {
+        "title": "Das Opfer und die Hingabe",
+        "shortDescription": "Das Opfer erinnert daran, dass nicht Fleisch oder Blut Gott erreicht, sondern die Hingabe und Aufrichtigkeit des Herzens.",
+        "mainPrinciple": "Das Opfer ist die Hingabe eines Herzens, das bereit ist, selbst das Liebste um Gottes willen herzugeben.",
+        "summaryPoints": [
+          "Was Gott erreicht, ist nicht das Fleisch selbst, sondern die Frömmigkeit in der Absicht des Dieners.",
+          "Das Opfer ist ein Zeichen der Hingabe, das an die Ergebenheit Abrahams erinnert.",
+          "Sein Segen wächst, wenn es mit Bedürftigen, Nachbarn und Waisen geteilt wird."
+        ],
+        "dailyReflection": "Gib heute von Herzen etwas Kleines, ohne Gegenleistung zu erwarten, und denke daran, dass du es für Gott tust.",
+        "dawahTip": "Das Opfer als Bewusstsein des Teilens und der Hingabe darzustellen, nicht als Blutvergießen, beugt Missverständnissen vor.",
+        "questionAnswer": {
+          "question": "Was möchte Gott von einem Opfer?",
+          "answer": "Gott bedarf weder des Fleisches noch des Blutes des Opfers; was Ihn erreicht, ist die aufrichtige Hingabe des Dieners. Das eigentliche Ziel ist die Aufrichtigkeit des Herzens."
+        },
+        "referenceNote": "Aus den grundlegenden Prinzipien der Anbetung über Opfer und Hingabe.",
+        "shareText": "Beim Opfer erreicht Gott nicht das Fleisch, sondern die Hingabe des Herzens."
+      },
+      "es": {
+        "title": "El sacrificio y la entrega",
+        "shortDescription": "El sacrificio nos recuerda que lo que llega a Dios no es la carne ni la sangre, sino la entrega y la sinceridad del corazón.",
+        "mainPrinciple": "El sacrificio es la entrega de un corazón dispuesto a renunciar incluso a lo que más ama, por amor a Dios.",
+        "summaryPoints": [
+          "Lo que llega a Dios no es la carne en sí, sino la piedad en la intención del siervo.",
+          "El sacrificio es una señal de devoción que recuerda la entrega de Abraham.",
+          "Su bendición crece cuando se comparte con el necesitado, el vecino y el huérfano."
+        ],
+        "dailyReflection": "Hoy, da de todo corazón algo pequeño sin esperar nada a cambio, y recuerda que lo haces por Dios.",
+        "dawahTip": "Presentar el sacrificio como una conciencia de compartir y entregarse, y no como un derramamiento de sangre, evita los malentendidos.",
+        "questionAnswer": {
+          "question": "¿Qué quiere Dios de un sacrificio?",
+          "answer": "Dios no necesita la carne ni la sangre del sacrificio; lo que llega a Él es la entrega sincera del siervo. El verdadero objetivo es la sinceridad del corazón."
+        },
+        "referenceNote": "De los principios esenciales de adoración sobre el sacrificio y la entrega.",
+        "shareText": "En el sacrificio, lo que llega a Dios no es la carne, sino la entrega del corazón."
+      }
+    }
+  },
+  {
+    "id": "CAT-worship-ablution-purity-readiness",
+    "category": "worship",
+    "icon": "water-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": ["abdest", "ablution", "temizlik", "purity", "hazırlık"],
+    "content": {
+      "tr": {
+        "title": "Abdest, Temizlik ve Hazırlık",
+        "shortDescription": "Abdest, bedeni yıkarken kalbi de huzura hazırlayan nazik bir başlangıçtır.",
+        "mainPrinciple": "Temizlik, ibadetin görünür kapısıdır; dış arınma kalbin iç hazırlığına eşlik eder.",
+        "summaryPoints": [
+          "Abdest, Rabbin huzuruna durmadan önce bedeni ve niyeti birlikte hazırlar.",
+          "Dış temizlik, iç dünyanın da kötülükten arınma isteğini hatırlatır.",
+          "Sade bir su ile yapılan bu hazırlık, kalbe sükûnet ve dinginlik verir."
+        ],
+        "dailyReflection": "Bir sonraki abdestinde aceleyi bırak; suyu hissederek 'kalbimi de temizliyorum' niyetiyle yıkan.",
+        "dawahTip": "Abdesti yalnızca kural değil, insanı sakinleştiren küçük bir arınma molası olarak anlat.",
+        "questionAnswer": {
+          "question": "Abdest sadece bedeni temizlemek için midir?",
+          "answer": "Abdest bedeni temizler, ama asıl maksat kalbi huzura ve niyeti ibadete hazırlamaktır; dış arınma içteki arınmanın bir hatırlatıcısıdır."
+        },
+        "referenceNote": "Temizlik, hazırlık ve ibadetin adabı üzerine temel ilkelerden.",
+        "shareText": "Abdest yalnızca eli yüzü değil, kalbi de huzura hazırlayan bir başlangıçtır."
+      },
+      "en": {
+        "title": "Ablution, Purity and Readiness",
+        "shortDescription": "Ablution is a gentle beginning that, while washing the body, also prepares the heart for peace.",
+        "mainPrinciple": "Purity is the visible gateway to worship; outward cleansing accompanies the inner preparation of the heart.",
+        "summaryPoints": [
+          "Ablution prepares both body and intention before standing in the presence of the Lord.",
+          "Outward cleanliness recalls the inner wish to be cleansed of harm as well.",
+          "This simple preparation with water brings the heart calm and serenity."
+        ],
+        "dailyReflection": "At your next ablution, let go of haste; feel the water and wash with the intention, 'I am cleansing my heart too.'",
+        "dawahTip": "Present ablution not merely as a rule but as a small cleansing pause that calms a person.",
+        "questionAnswer": {
+          "question": "Is ablution only for cleaning the body?",
+          "answer": "Ablution cleans the body, but its real aim is to prepare the heart for peace and the intention for worship; outward cleansing is a reminder of inner cleansing."
+        },
+        "referenceNote": "From core principles on purity, readiness and the manners of worship.",
+        "shareText": "Ablution prepares not only the hands and face but the heart itself for peace."
+      },
+      "fr": {
+        "title": "Les ablutions, la pureté et la préparation",
+        "shortDescription": "Les ablutions sont un doux commencement qui, en lavant le corps, préparent aussi le cœur à la paix.",
+        "mainPrinciple": "La pureté est la porte visible de l'adoration ; la purification extérieure accompagne la préparation intérieure du cœur.",
+        "summaryPoints": [
+          "Les ablutions préparent à la fois le corps et l'intention avant de se tenir devant le Seigneur.",
+          "La propreté extérieure rappelle le désir intérieur de se purifier du mal.",
+          "Cette simple préparation avec de l'eau apporte au cœur calme et sérénité."
+        ],
+        "dailyReflection": "Lors de tes prochaines ablutions, abandonne la hâte ; sens l'eau et lave-toi avec l'intention : 'je purifie aussi mon cœur.'",
+        "dawahTip": "Présente les ablutions non comme une simple règle, mais comme une petite pause purifiante qui apaise.",
+        "questionAnswer": {
+          "question": "Les ablutions ne servent-elles qu'à nettoyer le corps ?",
+          "answer": "Les ablutions nettoient le corps, mais leur vrai but est de préparer le cœur à la paix et l'intention à l'adoration ; la purification extérieure rappelle la purification intérieure."
+        },
+        "referenceNote": "D'après les principes essentiels sur la pureté, la préparation et les convenances de l'adoration.",
+        "shareText": "Les ablutions préparent non seulement les mains et le visage, mais aussi le cœur à la paix."
+      },
+      "pt-BR": {
+        "title": "A ablução, a pureza e o preparo",
+        "shortDescription": "A ablução é um começo suave que, ao lavar o corpo, também prepara o coração para a paz.",
+        "mainPrinciple": "A pureza é a porta visível da adoração; a purificação externa acompanha o preparo interior do coração.",
+        "summaryPoints": [
+          "A ablução prepara tanto o corpo quanto a intenção antes de se colocar diante do Senhor.",
+          "A limpeza externa recorda o desejo interior de também purificar-se do mal.",
+          "Esse preparo simples com água traz ao coração calma e serenidade."
+        ],
+        "dailyReflection": "Na sua próxima ablução, abandone a pressa; sinta a água e lave-se com a intenção: 'estou purificando também o meu coração.'",
+        "dawahTip": "Apresente a ablução não como mera regra, mas como uma pequena pausa de purificação que acalma a pessoa.",
+        "questionAnswer": {
+          "question": "A ablução serve apenas para limpar o corpo?",
+          "answer": "A ablução limpa o corpo, mas seu verdadeiro objetivo é preparar o coração para a paz e a intenção para a adoração; a purificação externa é um lembrete da purificação interior."
+        },
+        "referenceNote": "Dos princípios essenciais sobre pureza, preparo e a etiqueta da adoração.",
+        "shareText": "A ablução prepara não só as mãos e o rosto, mas o próprio coração para a paz."
+      },
+      "de": {
+        "title": "Die Gebetswaschung, Reinheit und Bereitschaft",
+        "shortDescription": "Die Waschung ist ein sanfter Anfang, der den Körper reinigt und zugleich das Herz auf Frieden vorbereitet.",
+        "mainPrinciple": "Reinheit ist das sichtbare Tor zur Anbetung; die äußere Reinigung begleitet die innere Vorbereitung des Herzens.",
+        "summaryPoints": [
+          "Die Waschung bereitet Körper und Absicht vor, bevor man vor den Herrn tritt.",
+          "Äußere Sauberkeit erinnert an den inneren Wunsch, sich auch vom Schlechten zu reinigen.",
+          "Diese schlichte Vorbereitung mit Wasser schenkt dem Herzen Ruhe und Gelassenheit."
+        ],
+        "dailyReflection": "Lass bei deiner nächsten Waschung die Eile los; spüre das Wasser und wasche dich mit der Absicht: 'Ich reinige auch mein Herz.'",
+        "dawahTip": "Stelle die Waschung nicht nur als Regel dar, sondern als kleine reinigende Pause, die den Menschen beruhigt.",
+        "questionAnswer": {
+          "question": "Dient die Waschung nur der Reinigung des Körpers?",
+          "answer": "Die Waschung reinigt den Körper, doch ihr eigentliches Ziel ist es, das Herz auf Frieden und die Absicht auf die Anbetung vorzubereiten; die äußere Reinigung erinnert an die innere."
+        },
+        "referenceNote": "Aus den grundlegenden Prinzipien über Reinheit, Bereitschaft und die Umgangsformen der Anbetung.",
+        "shareText": "Die Waschung bereitet nicht nur Hände und Gesicht, sondern das Herz selbst auf Frieden vor."
+      },
+      "es": {
+        "title": "La ablución, la pureza y la preparación",
+        "shortDescription": "La ablución es un comienzo suave que, al lavar el cuerpo, también prepara el corazón para la paz.",
+        "mainPrinciple": "La pureza es la puerta visible de la adoración; la purificación externa acompaña la preparación interior del corazón.",
+        "summaryPoints": [
+          "La ablución prepara tanto el cuerpo como la intención antes de presentarse ante el Señor.",
+          "La limpieza externa recuerda el deseo interior de purificarse también del mal.",
+          "Esta sencilla preparación con agua le da al corazón calma y serenidad."
+        ],
+        "dailyReflection": "En tu próxima ablución, deja la prisa; siente el agua y lávate con la intención: 'también estoy purificando mi corazón.'",
+        "dawahTip": "Presenta la ablución no como una mera regla, sino como una pequeña pausa de purificación que serena a la persona.",
+        "questionAnswer": {
+          "question": "¿La ablución sirve solo para limpiar el cuerpo?",
+          "answer": "La ablución limpia el cuerpo, pero su verdadero objetivo es preparar el corazón para la paz y la intención para la adoración; la purificación externa es un recordatorio de la purificación interior."
+        },
+        "referenceNote": "De los principios esenciales sobre la pureza, la preparación y la etiqueta de la adoración.",
+        "shareText": "La ablución prepara no solo las manos y el rostro, sino el corazón mismo para la paz."
+      }
+    }
+  },
+  {
+    "id": "CAT-worship-dhikr-remembering-god",
+    "category": "worship",
+    "icon": "infinite-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["zikir", "dhikr", "tesbih", "remembrance", "kalp"],
+    "content": {
+      "tr": {
+        "title": "Zikir ve Kalbin Allah'ı Anması",
+        "shortDescription": "Zikir, dili ve kalbi Allah'la meşgul ederek O'na olan sevgiyi sessizce ilan etmektir.",
+        "mainPrinciple": "Zikir, kulun her an Rabbinin huzurunda olduğunu hatırlamasıdır; Rabbini anan kulu Allah da anar.",
+        "summaryPoints": [
+          "Zikir, kalbi Allah'a bağlayan ve gönle sükûnet veren bir anmadır.",
+          "Birkaç kelimelik tesbih bile, günün ortasında insanı Rabbine yöneltir.",
+          "Asıl zikir, dilin söylediğini kalbin de hissetmesidir."
+        ],
+        "dailyReflection": "Bugün boş bir anında durup birkaç kez içtenlikle Allah'ı an ve kalbinin nasıl sakinleştiğini fark et.",
+        "dawahTip": "Zikri zorlayıcı bir ödev gibi değil, kalbe huzur veren küçük bir nefes molası olarak anlat.",
+        "questionAnswer": {
+          "question": "Zikir sadece belli sözleri tekrarlamak mıdır?",
+          "answer": "Sözler bir vesiledir; asıl zikir, kalbin Allah'a yönelmesi ve O'nu hatırdan çıkarmamasıdır. Dil söylerken kalp hissetmezse, anmanın özü eksik kalır."
+        },
+        "referenceNote": "Zikir ve kalbin Allah'ı anması üzerine temel ibadet ilkelerinden.",
+        "shareText": "Rabbini anan kulu Allah da anar; zikir, bu sessiz sevgi bağıdır."
+      },
+      "en": {
+        "title": "Dhikr and the Heart's Remembrance of God",
+        "shortDescription": "Dhikr is occupying the tongue and heart with God, quietly declaring one's love for Him.",
+        "mainPrinciple": "Dhikr is remembering that one stands in the presence of the Lord at every moment; the servant who remembers his Lord, his Lord remembers him.",
+        "summaryPoints": [
+          "Dhikr is a remembrance that binds the heart to God and brings the soul peace.",
+          "Even a few words of praise turn a person back to their Lord in the middle of the day.",
+          "True dhikr is the heart feeling what the tongue says."
+        ],
+        "dailyReflection": "Today, pause in a quiet moment, sincerely remember God a few times, and notice how your heart settles.",
+        "dawahTip": "Present dhikr not as a demanding duty but as a small breathing pause that brings the heart peace.",
+        "questionAnswer": {
+          "question": "Is dhikr just repeating certain words?",
+          "answer": "The words are a means; true dhikr is the heart turning to God and never letting Him slip from mind. If the tongue speaks while the heart does not feel, the essence of remembrance is missing."
+        },
+        "referenceNote": "From core worship principles on dhikr and the heart's remembrance of God.",
+        "shareText": "The servant who remembers his Lord, his Lord remembers him; dhikr is this quiet bond of love."
+      },
+      "fr": {
+        "title": "Le dhikr et le souvenir de Dieu dans le cœur",
+        "shortDescription": "Le dhikr, c'est occuper la langue et le cœur de Dieu, en déclarant en silence son amour pour Lui.",
+        "mainPrinciple": "Le dhikr, c'est se souvenir que l'on se tient à chaque instant devant le Seigneur ; le serviteur qui se souvient de son Seigneur, son Seigneur se souvient de lui.",
+        "summaryPoints": [
+          "Le dhikr est un souvenir qui relie le cœur à Dieu et apporte la paix à l'âme.",
+          "Même quelques mots de louange ramènent l'être vers son Seigneur au milieu du jour.",
+          "Le vrai dhikr, c'est que le cœur ressente ce que la langue prononce."
+        ],
+        "dailyReflection": "Aujourd'hui, arrête-toi dans un moment calme, évoque sincèrement Dieu quelques fois, et remarque comme ton cœur s'apaise.",
+        "dawahTip": "Présente le dhikr non comme un devoir exigeant, mais comme une petite pause respiratoire qui apaise le cœur.",
+        "questionAnswer": {
+          "question": "Le dhikr se résume-t-il à répéter certaines paroles ?",
+          "answer": "Les paroles sont un moyen ; le vrai dhikr, c'est que le cœur se tourne vers Dieu et ne L'oublie jamais. Si la langue parle sans que le cœur ressente, l'essence du souvenir manque."
+        },
+        "referenceNote": "D'après les principes essentiels de l'adoration sur le dhikr et le souvenir de Dieu dans le cœur.",
+        "shareText": "Le serviteur qui se souvient de son Seigneur, son Seigneur se souvient de lui ; le dhikr est ce lien d'amour silencieux."
+      },
+      "pt-BR": {
+        "title": "O dhikr e a lembrança de Deus no coração",
+        "shortDescription": "O dhikr é ocupar a língua e o coração com Deus, declarando em silêncio o amor por Ele.",
+        "mainPrinciple": "O dhikr é lembrar que se está a cada instante diante do Senhor; o servo que se lembra do seu Senhor, o seu Senhor se lembra dele.",
+        "summaryPoints": [
+          "O dhikr é uma lembrança que liga o coração a Deus e traz paz à alma.",
+          "Mesmo poucas palavras de louvor voltam a pessoa ao seu Senhor no meio do dia.",
+          "O verdadeiro dhikr é o coração sentir o que a língua diz."
+        ],
+        "dailyReflection": "Hoje, pare em um momento de quietude, lembre-se sinceramente de Deus algumas vezes e perceba como o seu coração se acalma.",
+        "dawahTip": "Apresente o dhikr não como um dever exigente, mas como uma pequena pausa de respiro que traz paz ao coração.",
+        "questionAnswer": {
+          "question": "O dhikr é apenas repetir certas palavras?",
+          "answer": "As palavras são um meio; o verdadeiro dhikr é o coração voltar-se a Deus e nunca deixá-Lo escapar da mente. Se a língua fala mas o coração não sente, falta a essência da lembrança."
+        },
+        "referenceNote": "Dos princípios essenciais de adoração sobre o dhikr e a lembrança de Deus no coração.",
+        "shareText": "O servo que se lembra do seu Senhor, o seu Senhor se lembra dele; o dhikr é esse vínculo silencioso de amor."
+      },
+      "de": {
+        "title": "Das Dhikr und das Gedenken Gottes im Herzen",
+        "shortDescription": "Dhikr heißt, Zunge und Herz mit Gott zu beschäftigen und so still seine Liebe zu Ihm zu bekunden.",
+        "mainPrinciple": "Dhikr heißt sich daran zu erinnern, dass man in jedem Augenblick vor dem Herrn steht; des Dieners, der seines Herrn gedenkt, gedenkt auch sein Herr.",
+        "summaryPoints": [
+          "Dhikr ist ein Gedenken, das das Herz an Gott bindet und der Seele Frieden schenkt.",
+          "Schon wenige Worte des Lobes wenden den Menschen mitten am Tag seinem Herrn zu.",
+          "Wahres Dhikr ist, dass das Herz fühlt, was die Zunge spricht."
+        ],
+        "dailyReflection": "Halte heute in einem stillen Augenblick inne, gedenke aufrichtig einige Male Gottes und bemerke, wie dein Herz zur Ruhe kommt.",
+        "dawahTip": "Stelle das Dhikr nicht als anspruchsvolle Pflicht dar, sondern als kleine Atempause, die dem Herzen Frieden schenkt.",
+        "questionAnswer": {
+          "question": "Ist Dhikr nur das Wiederholen bestimmter Worte?",
+          "answer": "Die Worte sind ein Mittel; wahres Dhikr ist, dass sich das Herz Gott zuwendet und Ihn nie aus dem Sinn lässt. Spricht die Zunge, ohne dass das Herz fühlt, fehlt der Kern des Gedenkens."
+        },
+        "referenceNote": "Aus den grundlegenden Prinzipien der Anbetung über das Dhikr und das Gedenken Gottes im Herzen.",
+        "shareText": "Des Dieners, der seines Herrn gedenkt, gedenkt auch sein Herr; Dhikr ist dieses stille Band der Liebe."
+      },
+      "es": {
+        "title": "El dhikr y el recuerdo de Dios en el corazón",
+        "shortDescription": "El dhikr es ocupar la lengua y el corazón con Dios, declarando en silencio el amor por Él.",
+        "mainPrinciple": "El dhikr es recordar que en cada instante uno está ante el Señor; al siervo que recuerda a su Señor, su Señor lo recuerda.",
+        "summaryPoints": [
+          "El dhikr es un recuerdo que une el corazón a Dios y le da paz al alma.",
+          "Incluso unas pocas palabras de alabanza vuelven a la persona a su Señor en medio del día.",
+          "El verdadero dhikr es que el corazón sienta lo que dice la lengua."
+        ],
+        "dailyReflection": "Hoy, detente en un momento de quietud, recuerda sinceramente a Dios unas cuantas veces y nota cómo se serena tu corazón.",
+        "dawahTip": "Presenta el dhikr no como un deber exigente, sino como una pequeña pausa de respiro que le da paz al corazón.",
+        "questionAnswer": {
+          "question": "¿El dhikr es solo repetir ciertas palabras?",
+          "answer": "Las palabras son un medio; el verdadero dhikr es que el corazón se vuelva a Dios y nunca lo deje escapar de la mente. Si la lengua habla pero el corazón no siente, falta la esencia del recuerdo."
+        },
+        "referenceNote": "De los principios esenciales de adoración sobre el dhikr y el recuerdo de Dios en el corazón.",
+        "shareText": "Al siervo que recuerda a su Señor, su Señor lo recuerda; el dhikr es ese vínculo silencioso de amor."
+      }
+    }
+  }
+]

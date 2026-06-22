@@ -1,0 +1,356 @@
+[
+  {
+    "id": "family-spouses-rights-love-shura",
+    "category": "family",
+    "icon": "heart-circle-outline",
+    "difficulty": "intermediate",
+    "estimatedReadMinutes": 3,
+    "tags": ["eşler", "spouses", "istişare", "consultation", "sevgi"],
+    "content": {
+      "tr": {
+        "title": "Eşler Arasında Hak, Sevgi ve İstişare",
+        "shortDescription": "Sağlam bir yuva, birinin diğerine üstünlüğüyle değil; karşılıklı hakka saygı, içten sevgi ve birlikte danışmayla ayakta kalır. Her eş, diğerinin huzuruna emanettir.",
+        "mainPrinciple": "Eşler birbirinin rakibi değil, aynı yükü omuzlayan iki yoldaştır.",
+        "summaryPoints": [
+          "Sevgi sadece söylenmez; her gün küçük inceliklerle yeniden hatırlatılır.",
+          "Önemli kararları istişareyle almak, evi iki kalbin ortak yuvası kılar.",
+          "Eşinin hakkını gözetmek, aynı zamanda kendi huzurunu korumaktır."
+        ],
+        "dailyReflection": "Bugün bir kararını eşinle paylaş, fikrini içtenlikle sor ve sözünü bölmeden dinle.",
+        "dawahTip": "Güzel evliliği anlatmaktan çok yaşat; eşine gösterdiğin nezaket, çevrene yapılmış en etkili sessiz davettir.",
+        "questionAnswer": {
+          "question": "Eşimle her konuda anlaşamıyorsak evliliğimiz zayıf mı demektir?",
+          "answer": "Hayır; farklı düşünmek olağandır. Asıl ölçü, anlaşmazlığı saygıyla konuşabilmek ve ortak bir zemin aramaktır. İstişare farkı çatışmaya değil, olgunluğa dönüştürür."
+        },
+        "referenceNote": "Eşler arasında sevgi, merhamet ve danışmayı öğütleyen temel İslami ilkelere dayanır.",
+        "shareText": "Evlilik bir yarış değil, aynı yolda yürüyen iki yoldaşın yürüyüşüdür. Bugün eşine bir incelik göster."
+      },
+      "en": {
+        "title": "Rights, Love, and Consultation Between Spouses",
+        "shortDescription": "A sound home stands not on one partner's superiority but on mutual respect for rights, sincere love, and shared consultation. Each spouse is entrusted with the other's peace.",
+        "mainPrinciple": "Spouses are not rivals but two companions carrying the same load.",
+        "summaryPoints": [
+          "Love is not only spoken; it is renewed each day through small kindnesses.",
+          "Making important decisions through consultation makes the home a shared nest of two hearts.",
+          "Honoring your spouse's rights is also how you safeguard your own peace."
+        ],
+        "dailyReflection": "Today, share one of your decisions with your spouse, sincerely ask their view, and listen without interrupting.",
+        "dawahTip": "Rather than preaching about a good marriage, live it; the kindness you show your spouse is the most effective silent invitation to those around you.",
+        "questionAnswer": {
+          "question": "If my spouse and I disagree on many things, does that mean our marriage is weak?",
+          "answer": "No; thinking differently is natural. What truly matters is discussing disagreement with respect and seeking common ground. Consultation turns difference into maturity rather than conflict."
+        },
+        "referenceNote": "Rooted in the core Islamic principles of love, mercy, and mutual consultation between spouses.",
+        "shareText": "Marriage is not a race but two companions walking the same road. Show your spouse a kindness today."
+      },
+      "fr": {
+        "title": "Droits, amour et concertation entre les époux",
+        "shortDescription": "Un foyer solide ne repose pas sur la supériorité de l'un, mais sur le respect mutuel des droits, un amour sincère et la concertation. Chaque époux est dépositaire de la paix de l'autre.",
+        "mainPrinciple": "Les époux ne sont pas des rivaux, mais deux compagnons portant la même charge.",
+        "summaryPoints": [
+          "L'amour ne se dit pas seulement ; il se renouvelle chaque jour par de petites attentions.",
+          "Prendre les décisions importantes par la concertation fait de la maison le nid commun de deux cœurs.",
+          "Veiller sur les droits de ton conjoint, c'est aussi préserver ta propre paix."
+        ],
+        "dailyReflection": "Aujourd'hui, partage l'une de tes décisions avec ton conjoint, demande sincèrement son avis et écoute sans l'interrompre.",
+        "dawahTip": "Plutôt que de prêcher un bon mariage, vis-le ; la délicatesse que tu montres à ton conjoint est la plus efficace des invitations silencieuses pour ton entourage.",
+        "questionAnswer": {
+          "question": "Si mon conjoint et moi sommes souvent en désaccord, cela veut-il dire que notre mariage est fragile ?",
+          "answer": "Non ; penser différemment est naturel. L'essentiel est de pouvoir parler du désaccord avec respect et de chercher un terrain d'entente. La concertation transforme la différence en maturité plutôt qu'en conflit."
+        },
+        "referenceNote": "Fondé sur les principes islamiques essentiels d'amour, de miséricorde et de concertation entre les époux.",
+        "shareText": "Le mariage n'est pas une course, mais deux compagnons marchant sur la même route. Montre une attention à ton conjoint aujourd'hui."
+      },
+      "pt-BR": {
+        "title": "Direitos, amor e consulta entre os cônjuges",
+        "shortDescription": "Um lar firme não se sustenta na superioridade de um, mas no respeito mútuo aos direitos, no amor sincero e na consulta partilhada. Cada cônjuge é guardião da paz do outro.",
+        "mainPrinciple": "Os cônjuges não são rivais, mas dois companheiros que carregam a mesma carga.",
+        "summaryPoints": [
+          "O amor não é apenas dito; é renovado a cada dia com pequenas gentilezas.",
+          "Tomar as decisões importantes por meio da consulta faz do lar um ninho comum de dois corações.",
+          "Zelar pelos direitos do seu cônjuge é também proteger a sua própria paz."
+        ],
+        "dailyReflection": "Hoje, compartilhe uma de suas decisões com seu cônjuge, peça sinceramente a opinião dele e ouça sem interromper.",
+        "dawahTip": "Em vez de pregar sobre um bom casamento, viva-o; a gentileza que você mostra ao seu cônjuge é o convite silencioso mais eficaz para quem está ao seu redor.",
+        "questionAnswer": {
+          "question": "Se eu e meu cônjuge discordamos em muitas coisas, isso significa que nosso casamento é fraco?",
+          "answer": "Não; pensar de forma diferente é natural. O que importa é conseguir conversar sobre a discordância com respeito e buscar um terreno comum. A consulta transforma a diferença em maturidade, e não em conflito."
+        },
+        "referenceNote": "Baseia-se nos princípios islâmicos essenciais de amor, misericórdia e consulta mútua entre os cônjuges.",
+        "shareText": "O casamento não é uma corrida, mas dois companheiros caminhando na mesma estrada. Mostre uma gentileza ao seu cônjuge hoje."
+      },
+      "de": {
+        "title": "Rechte, Liebe und Beratung zwischen Eheleuten",
+        "shortDescription": "Ein festes Zuhause beruht nicht auf der Überlegenheit des einen, sondern auf gegenseitiger Achtung der Rechte, aufrichtiger Liebe und gemeinsamer Beratung. Jeder Ehepartner ist dem Frieden des anderen anvertraut.",
+        "mainPrinciple": "Eheleute sind keine Rivalen, sondern zwei Weggefährten, die dieselbe Last tragen.",
+        "summaryPoints": [
+          "Liebe wird nicht nur ausgesprochen; sie wird jeden Tag durch kleine Aufmerksamkeiten erneuert.",
+          "Wichtige Entscheidungen durch Beratung zu treffen, macht das Heim zum gemeinsamen Nest zweier Herzen.",
+          "Die Rechte deines Ehepartners zu wahren, schützt zugleich deinen eigenen Frieden."
+        ],
+        "dailyReflection": "Teile heute eine deiner Entscheidungen mit deinem Ehepartner, frage aufrichtig nach seiner Meinung und höre zu, ohne zu unterbrechen.",
+        "dawahTip": "Statt über eine gute Ehe zu predigen, lebe sie; die Freundlichkeit, die du deinem Ehepartner zeigst, ist die wirksamste stille Einladung an dein Umfeld.",
+        "questionAnswer": {
+          "question": "Wenn mein Ehepartner und ich in vielen Dingen uneinig sind, bedeutet das, dass unsere Ehe schwach ist?",
+          "answer": "Nein; unterschiedlich zu denken ist natürlich. Entscheidend ist, Uneinigkeit respektvoll besprechen zu können und gemeinsame Lösungen zu suchen. Beratung verwandelt Unterschied in Reife statt in Streit."
+        },
+        "referenceNote": "Gestützt auf die grundlegenden islamischen Prinzipien von Liebe, Barmherzigkeit und gegenseitiger Beratung zwischen Eheleuten.",
+        "shareText": "Ehe ist kein Wettlauf, sondern zwei Weggefährten auf demselben Weg. Zeige deinem Ehepartner heute eine Aufmerksamkeit."
+      },
+      "es": {
+        "title": "Derechos, amor y consulta entre los cónyuges",
+        "shortDescription": "Un hogar firme no se sostiene en la superioridad de uno, sino en el respeto mutuo de los derechos, el amor sincero y la consulta compartida. Cada cónyuge es guardián de la paz del otro.",
+        "mainPrinciple": "Los cónyuges no son rivales, sino dos compañeros que cargan el mismo peso.",
+        "summaryPoints": [
+          "El amor no solo se dice; se renueva cada día con pequeños gestos de bondad.",
+          "Tomar las decisiones importantes por medio de la consulta hace del hogar un nido común de dos corazones.",
+          "Velar por los derechos de tu cónyuge es también proteger tu propia paz."
+        ],
+        "dailyReflection": "Hoy, comparte una de tus decisiones con tu cónyuge, pídele con sinceridad su opinión y escucha sin interrumpir.",
+        "dawahTip": "En lugar de predicar sobre un buen matrimonio, vívelo; la amabilidad que muestras a tu cónyuge es la invitación silenciosa más eficaz para quienes te rodean.",
+        "questionAnswer": {
+          "question": "Si mi cónyuge y yo discrepamos en muchas cosas, ¿significa que nuestro matrimonio es débil?",
+          "answer": "No; pensar distinto es natural. Lo que de verdad importa es poder conversar el desacuerdo con respeto y buscar un terreno común. La consulta convierte la diferencia en madurez, no en conflicto."
+        },
+        "referenceNote": "Se fundamenta en los principios islámicos esenciales del amor, la misericordia y la consulta mutua entre los cónyuges.",
+        "shareText": "El matrimonio no es una carrera, sino dos compañeros caminando por el mismo sendero. Muéstrale hoy un gesto de bondad a tu cónyuge."
+      }
+    }
+  },
+  {
+    "id": "family-rights-of-relatives-and-neighbors",
+    "category": "family",
+    "icon": "people-circle-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 2,
+    "tags": ["akraba", "relatives", "komşu", "neighbor", "hak"],
+    "content": {
+      "tr": {
+        "title": "Akraba ve Komşu Hakkı",
+        "shortDescription": "Aile dört duvarla sınırlı değildir; akrabaya bağlılık ve komşuya iyilik, ailenin sıcaklığını topluma taşır. Yakınlık, hak ve sorumluluk demektir.",
+        "mainPrinciple": "Akrabayı görüp gözetmek ve komşuyu incitmemek, sağlam bir toplumun ilk taşıdır.",
+        "summaryPoints": [
+          "Akrabayla bağı kesmemek, küçük bir selam ve hâl hatır sormakla bile başlar.",
+          "Komşunun hakkı yalnız zarar vermemek değil, ihtiyacında yanında olmaktır.",
+          "Uzak ya da yakın, her komşunun bizden bir hayır beklemeye hakkı vardır."
+        ],
+        "dailyReflection": "Bugün uzun süredir aramadığın bir akrabanı ara ya da bir komşuna küçük bir iyilik yap.",
+        "dawahTip": "Komşusuna güven veren bir insan, dininin güzelliğini sözsüz anlatır; iyiliğin kapıyı çalsın, vaazın değil.",
+        "questionAnswer": {
+          "question": "Bana ilgisiz davranan akrabama yine de iyilik etmeli miyim?",
+          "answer": "Asıl erdem, kesilen bağı yeniden kurmaktır. İyiliğe iyilikle karşılık vermek herkesin yapabileceği bir şeydir; ilgisizliğe sabırla güzellik göstermek ise kalbi yumuşatır ve hayrı çoğaltır."
+        },
+        "referenceNote": "Akrabalık bağını gözetmeyi ve komşu hakkını korumayı öğütleyen İslami ilkelere dayanır.",
+        "shareText": "Akrabanı ara, komşunu unutma. Bir tebessüm ve bir iyilik, en yakın davettir."
+      },
+      "en": {
+        "title": "The Rights of Relatives and Neighbors",
+        "shortDescription": "Family is not bound by four walls; keeping ties with kin and showing kindness to neighbors carries the warmth of home into society. Closeness means rights and responsibility.",
+        "mainPrinciple": "Caring for relatives and never harming a neighbor is the first stone of a sound society.",
+        "summaryPoints": [
+          "Keeping ties with kin can begin with something as small as a greeting and asking how they are.",
+          "A neighbor's right is not merely to avoid harm but to be present in their need.",
+          "Near or far, every neighbor has a right to expect some good from us."
+        ],
+        "dailyReflection": "Today, call a relative you haven't reached in a long time, or do a small kindness for a neighbor.",
+        "dawahTip": "A person who gives their neighbor a sense of safety conveys the beauty of their faith without words; let your goodness knock at the door, not your sermon.",
+        "questionAnswer": {
+          "question": "Should I still be kind to a relative who is indifferent toward me?",
+          "answer": "The real virtue is to restore a broken bond. Returning kindness for kindness is something anyone can do; meeting indifference with patient goodness softens hearts and multiplies good."
+        },
+        "referenceNote": "Rooted in the Islamic principles of maintaining kinship ties and protecting the rights of neighbors.",
+        "shareText": "Call your relative, don't forget your neighbor. A smile and a kindness are the nearest invitation."
+      },
+      "fr": {
+        "title": "Les droits des proches et des voisins",
+        "shortDescription": "La famille ne se limite pas à quatre murs ; entretenir les liens avec les proches et être bon avec ses voisins prolonge la chaleur du foyer dans la société. La proximité signifie des droits et une responsabilité.",
+        "mainPrinciple": "Prendre soin de ses proches et ne jamais nuire à son voisin est la première pierre d'une société saine.",
+        "summaryPoints": [
+          "Garder le lien avec ses proches peut commencer par un simple salut et une question sur leur état.",
+          "Le droit du voisin n'est pas seulement de ne pas lui nuire, mais d'être présent dans son besoin.",
+          "Proche ou éloigné, chaque voisin a le droit d'attendre de nous un peu de bien."
+        ],
+        "dailyReflection": "Aujourd'hui, appelle un proche que tu n'as pas contacté depuis longtemps, ou rends un petit service à un voisin.",
+        "dawahTip": "Celui qui inspire la sécurité à son voisin transmet la beauté de sa foi sans un mot ; que ce soit ta bonté qui frappe à la porte, non ton sermon.",
+        "questionAnswer": {
+          "question": "Dois-je rester bon avec un proche qui se montre indifférent envers moi ?",
+          "answer": "La véritable vertu est de renouer un lien rompu. Rendre le bien pour le bien, tout le monde peut le faire ; répondre à l'indifférence par une bonté patiente adoucit les cœurs et multiplie le bien."
+        },
+        "referenceNote": "Fondé sur les principes islamiques du maintien des liens de parenté et de la protection des droits du voisin.",
+        "shareText": "Appelle ton proche, n'oublie pas ton voisin. Un sourire et une bonté sont l'invitation la plus proche."
+      },
+      "pt-BR": {
+        "title": "Os direitos dos parentes e dos vizinhos",
+        "shortDescription": "A família não se limita a quatro paredes; manter os laços com os parentes e ser bondoso com os vizinhos leva o calor do lar para a sociedade. Proximidade significa direitos e responsabilidade.",
+        "mainPrinciple": "Cuidar dos parentes e nunca prejudicar o vizinho é a primeira pedra de uma sociedade saudável.",
+        "summaryPoints": [
+          "Manter o laço com os parentes pode começar com algo tão simples quanto um cumprimento e perguntar como estão.",
+          "O direito do vizinho não é apenas não ser prejudicado, mas ter alguém presente em sua necessidade.",
+          "Perto ou longe, todo vizinho tem o direito de esperar algo de bom de nós."
+        ],
+        "dailyReflection": "Hoje, ligue para um parente com quem você não fala há muito tempo, ou faça uma pequena gentileza a um vizinho.",
+        "dawahTip": "Quem transmite segurança ao vizinho comunica a beleza de sua fé sem palavras; deixe que a sua bondade bata à porta, não o seu sermão.",
+        "questionAnswer": {
+          "question": "Devo continuar sendo bondoso com um parente que é indiferente comigo?",
+          "answer": "A verdadeira virtude é restaurar um laço rompido. Retribuir bondade com bondade qualquer um pode fazer; responder à indiferença com bondade paciente amolece os corações e multiplica o bem."
+        },
+        "referenceNote": "Baseia-se nos princípios islâmicos de manter os laços de parentesco e proteger os direitos do vizinho.",
+        "shareText": "Ligue para seu parente, não esqueça seu vizinho. Um sorriso e uma gentileza são o convite mais próximo."
+      },
+      "de": {
+        "title": "Die Rechte von Verwandten und Nachbarn",
+        "shortDescription": "Familie ist nicht auf vier Wände beschränkt; die Verbindung zu Verwandten zu pflegen und Nachbarn Güte zu zeigen, trägt die Wärme des Zuhauses in die Gesellschaft. Nähe bedeutet Rechte und Verantwortung.",
+        "mainPrinciple": "Für Verwandte zu sorgen und einem Nachbarn nie zu schaden, ist der erste Stein einer gesunden Gesellschaft.",
+        "summaryPoints": [
+          "Die Verbindung zu Verwandten zu halten, kann mit etwas so Kleinem wie einem Gruß und der Frage nach ihrem Befinden beginnen.",
+          "Das Recht des Nachbarn ist nicht nur, ihm nicht zu schaden, sondern in seiner Not da zu sein.",
+          "Nah oder fern, jeder Nachbar hat das Recht, etwas Gutes von uns zu erwarten."
+        ],
+        "dailyReflection": "Ruf heute einen Verwandten an, von dem du lange nichts gehört hast, oder tu einem Nachbarn eine kleine Wohltat.",
+        "dawahTip": "Wer seinem Nachbarn Sicherheit gibt, vermittelt die Schönheit seines Glaubens ohne Worte; lass deine Güte an die Tür klopfen, nicht deine Predigt.",
+        "questionAnswer": {
+          "question": "Soll ich auch zu einem Verwandten gütig sein, der mir gleichgültig begegnet?",
+          "answer": "Die wahre Tugend ist, eine zerrissene Bindung wiederherzustellen. Güte mit Güte zu vergelten, kann jeder; Gleichgültigkeit mit geduldiger Güte zu begegnen, erweicht Herzen und mehrt das Gute."
+        },
+        "referenceNote": "Gestützt auf die islamischen Prinzipien, die Verwandtschaftsbande zu wahren und die Rechte des Nachbarn zu schützen.",
+        "shareText": "Ruf deinen Verwandten an, vergiss deinen Nachbarn nicht. Ein Lächeln und eine Wohltat sind die nächste Einladung."
+      },
+      "es": {
+        "title": "Los derechos de los parientes y los vecinos",
+        "shortDescription": "La familia no se limita a cuatro paredes; mantener los lazos con los parientes y ser bondadoso con los vecinos lleva el calor del hogar a la sociedad. La cercanía significa derechos y responsabilidad.",
+        "mainPrinciple": "Cuidar de los parientes y nunca perjudicar al vecino es la primera piedra de una sociedad sana.",
+        "summaryPoints": [
+          "Mantener el lazo con los parientes puede empezar con algo tan sencillo como un saludo y preguntar cómo están.",
+          "El derecho del vecino no es solo no perjudicarlo, sino estar presente en su necesidad.",
+          "Cerca o lejos, todo vecino tiene derecho a esperar algo bueno de nosotros."
+        ],
+        "dailyReflection": "Hoy, llama a un pariente con quien hace mucho que no hablas, o tenle un pequeño gesto de bondad a un vecino.",
+        "dawahTip": "Quien le transmite seguridad a su vecino comunica la belleza de su fe sin palabras; deja que sea tu bondad la que toque a la puerta, no tu sermón.",
+        "questionAnswer": {
+          "question": "¿Debo seguir siendo bondadoso con un pariente que es indiferente conmigo?",
+          "answer": "La verdadera virtud es restaurar un lazo roto. Devolver bondad por bondad cualquiera puede hacerlo; responder a la indiferencia con bondad paciente ablanda los corazones y multiplica el bien."
+        },
+        "referenceNote": "Se fundamenta en los principios islámicos de mantener los lazos de parentesco y proteger los derechos del vecino.",
+        "shareText": "Llama a tu pariente, no olvides a tu vecino. Una sonrisa y una bondad son la invitación más cercana."
+      }
+    }
+  },
+  {
+    "id": "family-valuing-children-and-being-an-example",
+    "category": "family",
+    "icon": "happy-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": ["çocuk", "children", "örneklik", "example", "terbiye"],
+    "content": {
+      "tr": {
+        "title": "Çocuğa Değer Vermek ve Örnek Olmak",
+        "shortDescription": "Çocuk bir nimettir; ona en güzel miras maldan çok güzel ahlak ve gerçek bir örnekliktir. Çocuklar duydukları sözden çok gördükleri davranışı öğrenir.",
+        "mainPrinciple": "Çocuğa söylediğin değil, önünde yaşadığın hayat öğretir.",
+        "summaryPoints": [
+          "Çocuğu dinlemek, ona değer verdiğini gösteren en güçlü sözdür.",
+          "Çocuğa karşı bile olsa yalandan kaçınmak, güveni ve örnekliği korur.",
+          "Söz ile davranışın uyumlu olması, en kalıcı terbiye yöntemidir."
+        ],
+        "dailyReflection": "Bugün bir çocuğu telefonu bir yana bırakıp sözünü bölmeden, gözünün içine bakarak dinle.",
+        "dawahTip": "Güzel ahlakı çocuğuna yaşatan ebeveyn, gelecek nesle en sessiz ve en kalıcı daveti ulaştırır.",
+        "questionAnswer": {
+          "question": "Çocuğuma doğruyu anlatıyorum ama dinlemiyor; sorun nerede?",
+          "answer": "Çoğu zaman çocuk anlattığımızı değil, yaptığımızı taklit eder. Önce kendi davranışımızı söze uydurmak, en etkili öğüttür. Tutarlılık gördüğünde söz de yerini bulur."
+        },
+        "referenceNote": "Çocuğa merhamet, adalet ve davranışla örnek olmayı öğütleyen İslami terbiye ilkelerine dayanır.",
+        "shareText": "Çocuklar dinlediklerini değil, gördüklerini büyütür. Bugün ona iyi bir örnek ol."
+      },
+      "en": {
+        "title": "Valuing Children and Being an Example",
+        "shortDescription": "A child is a blessing; the finest inheritance you leave is not wealth but good character and a true example. Children learn far more from what they see than from what they are told.",
+        "mainPrinciple": "It is not what you tell your child but the life you live before them that teaches.",
+        "summaryPoints": [
+          "Listening to a child is the strongest way to show that you value them.",
+          "Avoiding lies even toward a child preserves trust and your role as an example.",
+          "Harmony between word and deed is the most lasting method of upbringing."
+        ],
+        "dailyReflection": "Today, set your phone aside and listen to a child fully, looking into their eyes without interrupting.",
+        "dawahTip": "A parent who embodies good character for their child passes the quietest and most lasting invitation to the next generation.",
+        "questionAnswer": {
+          "question": "I keep telling my child what is right, but they don't listen; where is the problem?",
+          "answer": "Often a child imitates what we do, not what we say. Aligning our own behavior with our words first is the most effective advice. When they see consistency, the words find their place too."
+        },
+        "referenceNote": "Rooted in the Islamic principles of upbringing through mercy, justice, and leading by example.",
+        "shareText": "Children grow from what they see, not what they hear. Be a good example for one today."
+      },
+      "fr": {
+        "title": "Valoriser l'enfant et être un exemple",
+        "shortDescription": "Un enfant est une bénédiction ; le plus bel héritage n'est pas la richesse, mais un bon caractère et un véritable exemple. Les enfants apprennent bien plus de ce qu'ils voient que de ce qu'on leur dit.",
+        "mainPrinciple": "Ce n'est pas ce que tu dis à ton enfant, mais la vie que tu mènes devant lui qui l'éduque.",
+        "summaryPoints": [
+          "Écouter un enfant est la plus forte manière de lui montrer qu'il compte.",
+          "Éviter le mensonge, même envers un enfant, préserve la confiance et ton rôle d'exemple.",
+          "L'accord entre la parole et l'acte est la méthode d'éducation la plus durable."
+        ],
+        "dailyReflection": "Aujourd'hui, pose ton téléphone et écoute pleinement un enfant, en le regardant dans les yeux sans l'interrompre.",
+        "dawahTip": "Un parent qui incarne un bon caractère pour son enfant transmet à la génération suivante l'invitation la plus discrète et la plus durable.",
+        "questionAnswer": {
+          "question": "Je répète à mon enfant ce qui est juste, mais il n'écoute pas ; où est le problème ?",
+          "answer": "Souvent, l'enfant imite ce que nous faisons, pas ce que nous disons. Accorder d'abord notre comportement à nos paroles est le conseil le plus efficace. Lorsqu'il voit la cohérence, les mots trouvent aussi leur place."
+        },
+        "referenceNote": "Fondé sur les principes islamiques d'éducation par la miséricorde, la justice et l'exemple.",
+        "shareText": "Les enfants grandissent de ce qu'ils voient, non de ce qu'ils entendent. Sois un bon exemple pour l'un d'eux aujourd'hui."
+      },
+      "pt-BR": {
+        "title": "Valorizar a criança e ser um exemplo",
+        "shortDescription": "Uma criança é uma bênção; a melhor herança não é a riqueza, mas o bom caráter e um verdadeiro exemplo. As crianças aprendem muito mais com o que veem do que com o que lhes dizem.",
+        "mainPrinciple": "Não é o que você diz ao seu filho, mas a vida que você vive diante dele que educa.",
+        "summaryPoints": [
+          "Ouvir uma criança é a forma mais forte de mostrar que ela tem valor para você.",
+          "Evitar a mentira, mesmo com uma criança, preserva a confiança e o seu papel de exemplo.",
+          "A harmonia entre palavra e ação é o método de educação mais duradouro."
+        ],
+        "dailyReflection": "Hoje, deixe o celular de lado e ouça uma criança por inteiro, olhando em seus olhos sem interromper.",
+        "dawahTip": "Um pai ou mãe que incorpora o bom caráter para seu filho transmite à próxima geração o convite mais silencioso e duradouro.",
+        "questionAnswer": {
+          "question": "Eu sempre digo ao meu filho o que é certo, mas ele não escuta; onde está o problema?",
+          "answer": "Muitas vezes a criança imita o que fazemos, não o que dizemos. Alinhar primeiro o nosso comportamento às nossas palavras é o conselho mais eficaz. Quando ela vê coerência, as palavras também encontram seu lugar."
+        },
+        "referenceNote": "Baseia-se nos princípios islâmicos de educação pela misericórdia, justiça e exemplo.",
+        "shareText": "As crianças crescem com o que veem, não com o que ouvem. Seja um bom exemplo para uma delas hoje."
+      },
+      "de": {
+        "title": "Kinder wertschätzen und ein Vorbild sein",
+        "shortDescription": "Ein Kind ist ein Segen; das schönste Erbe ist nicht Reichtum, sondern guter Charakter und ein echtes Vorbild. Kinder lernen weit mehr aus dem, was sie sehen, als aus dem, was man ihnen sagt.",
+        "mainPrinciple": "Nicht was du deinem Kind sagst, sondern das Leben, das du vor ihm führst, erzieht es.",
+        "summaryPoints": [
+          "Einem Kind zuzuhören ist die stärkste Art zu zeigen, dass es dir wichtig ist.",
+          "Lügen selbst gegenüber einem Kind zu vermeiden, bewahrt Vertrauen und deine Rolle als Vorbild.",
+          "Der Einklang von Wort und Tat ist die nachhaltigste Methode der Erziehung."
+        ],
+        "dailyReflection": "Leg heute dein Handy beiseite und höre einem Kind ganz zu, schau ihm in die Augen, ohne zu unterbrechen.",
+        "dawahTip": "Eltern, die ihrem Kind guten Charakter vorleben, geben der nächsten Generation die leiseste und beständigste Einladung weiter.",
+        "questionAnswer": {
+          "question": "Ich sage meinem Kind immer wieder, was richtig ist, aber es hört nicht zu; wo liegt das Problem?",
+          "answer": "Oft ahmt ein Kind nach, was wir tun, nicht was wir sagen. Zuerst das eigene Verhalten mit den Worten in Einklang zu bringen, ist der wirksamste Rat. Wenn es Beständigkeit sieht, finden auch die Worte ihren Platz."
+        },
+        "referenceNote": "Gestützt auf die islamischen Erziehungsprinzipien von Barmherzigkeit, Gerechtigkeit und Vorbild durch das eigene Handeln.",
+        "shareText": "Kinder wachsen an dem, was sie sehen, nicht an dem, was sie hören. Sei heute für eines ein gutes Vorbild."
+      },
+      "es": {
+        "title": "Valorar a los hijos y ser un ejemplo",
+        "shortDescription": "Un hijo es una bendición; la mejor herencia no es la riqueza, sino el buen carácter y un verdadero ejemplo. Los niños aprenden mucho más de lo que ven que de lo que se les dice.",
+        "mainPrinciple": "No es lo que le dices a tu hijo, sino la vida que vives delante de él lo que lo educa.",
+        "summaryPoints": [
+          "Escuchar a un niño es la forma más fuerte de mostrarle que tiene valor para ti.",
+          "Evitar la mentira, incluso con un niño, preserva la confianza y tu papel de ejemplo.",
+          "La armonía entre la palabra y la acción es el método de crianza más duradero."
+        ],
+        "dailyReflection": "Hoy, deja el celular a un lado y escucha a un niño por completo, mirándolo a los ojos sin interrumpir.",
+        "dawahTip": "Un padre o una madre que encarna el buen carácter para su hijo transmite a la próxima generación la invitación más silenciosa y duradera.",
+        "questionAnswer": {
+          "question": "Siempre le digo a mi hijo lo que es correcto, pero no escucha; ¿dónde está el problema?",
+          "answer": "Muchas veces el niño imita lo que hacemos, no lo que decimos. Alinear primero nuestra propia conducta con nuestras palabras es el consejo más eficaz. Cuando ve coherencia, las palabras también encuentran su lugar."
+        },
+        "referenceNote": "Se fundamenta en los principios islámicos de crianza mediante la misericordia, la justicia y el ejemplo.",
+        "shareText": "Los niños crecen con lo que ven, no con lo que oyen. Sé hoy un buen ejemplo para uno de ellos."
+      }
+    }
+  }
+]

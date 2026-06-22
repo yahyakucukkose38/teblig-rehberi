@@ -1,0 +1,46 @@
+# Bağımlılıklar
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Hata ayıklama
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+
+# Ortam değişkenleri
+.env*.local
+
+# IDE
+.idea/
+.vscode/
+
+# Telifli kaynak kitaplar (Diyanet) ve planlama notları — yalnızca KÖK dizindeki
+# .md dosyaları dışlanır (docs/, store/ altındaki proje .md'leri etkilenmez).
+/*.md
+!/README.md
+
+# Kaynak içerik metni (telifli)
+/source_content.txt
+
+# Yapı çıktıları (build artifacts) — depoda tutulmaz
+*.apk
+*.aab

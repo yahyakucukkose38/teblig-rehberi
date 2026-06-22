@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Bağımlılıkları kur
+        run: npm ci
+
+      - name: TypeScript tip kontrolü
+        run: npm run typecheck
+
+      - name: İçeriği derle ve güncelliğini doğrula
+        run: |
+          npm run build:content
+          git diff --exit-code src/data/generatedTopics.ts \
+            || (echo "::error::generatedTopics.ts güncel değil. 'npm run build:content' çalıştırıp commit'leyin." && exit 1)
+
+      - name: Telif / birebir örtüşme denetimi
+        run: npm run check:overlap
+
+      - name: Çok-dil parite denetimi (6 dil tam + çevrilmemiş kopya yok)
+        run: npm run check:parity
+
+      - name: Uygulama tamlık denetimi (i18n paritesi, içerik, route, asset)
+        run: npm run verify

@@ -1,0 +1,1366 @@
+[
+  {
+    "id": "dawah-niyet-ve-ihlas",
+    "category": "dawah-principles",
+    "icon": "heart-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "niyet",
+      "ihlas",
+      "intention",
+      "sincerity",
+      "tebliğ"
+    ],
+    "content": {
+      "tr": {
+        "title": "Niyet ve İhlas: Tebliğin Kalbi",
+        "shortDescription": "Davetin gerçek değeri, söylenen sözden önce o sözün ardındaki samimi niyetten gelir. İhlas, çağrının görünmeyen ama en güçlü temelidir.",
+        "mainPrinciple": "Tebliğ yalnızca Allah'ın rızası için yapılır; gerisini hidayet olarak Allah'a bırakmak gönüle huzur verir.",
+        "summaryPoints": [
+          "Niyet her amelin ruhudur; samimi olmayan bir çağrı, ne kadar güzel görünse de gerçek kıymetini yitirir.",
+          "Hidayet Allah'ın elindedir; bize düşen hakikati en güzel ve zarif şekilde paylaşmaktır, kabul ettirmek değil.",
+          "Sonuca değil sürece odaklanmak, davetçiyi başarısızlık kaygısından kurtarır ve onu samimiyete yöneltir."
+        ],
+        "dailyReflection": "Bugün bir iyiliği paylaşırken kalbine dön ve sor: bunu beğenilmek için mi, yoksa gerçekten faydalı olmak için mi yapıyorum?",
+        "dawahTip": "Karşındakini bir sonuca ulaştırma telaşına kapılma; sadece güzel örnek ol ve gerisini Rabbine bırak, bu rahatlık sözüne de yansır.",
+        "questionAnswer": {
+          "question": "Anlattıklarım kabul görmezse başarısız mı oldum?",
+          "answer": "Hayır. Senin görevin hakikati güzelce ulaştırmaktır; kalplerin açılması Allah'ın işidir. Samimiyetle yaptıysan vazifeni tamamlamışsındır."
+        },
+        "referenceNote": "Bkz. Kur'an'da niyetin samimiyeti ve ameli yalnızca Allah için yapmaya dair ayetler.",
+        "shareText": "Davetin gücü sözde değil, sözün ardındaki temiz niyettedir. Sen güzelce anlat, gerisini gönül rahatlığıyla Allah'a bırak."
+      },
+      "en": {
+        "title": "Intention and Sincerity: The Heart of Dawah",
+        "shortDescription": "The real worth of an invitation comes not from the words spoken but from the sincere intention behind them. Sincerity is the unseen yet strongest foundation of the call.",
+        "mainPrinciple": "Dawah is offered for the pleasure of God alone; leaving guidance in His hands brings peace to the heart.",
+        "summaryPoints": [
+          "Intention is the soul of every deed; a call without sincerity loses its true value no matter how lovely it appears.",
+          "Guidance rests with God; our task is to share the truth in the most beautiful and gracious way, not to force acceptance.",
+          "Focusing on the process rather than the outcome frees the caller from the fear of failure and turns the heart toward sincerity."
+        ],
+        "dailyReflection": "Today, as you share something good, pause and ask your heart: am I doing this to be praised, or truly to be of benefit?",
+        "dawahTip": "Do not rush to make the other person reach a conclusion; simply be a beautiful example and leave the rest to your Lord. That ease will shine through your words.",
+        "questionAnswer": {
+          "question": "If what I share is not accepted, have I failed?",
+          "answer": "No. Your task is to convey the truth beautifully; opening hearts belongs to God. If you acted with sincerity, you have fulfilled your duty."
+        },
+        "referenceNote": "See Quranic verses on the sincerity of intention and doing deeds for God alone.",
+        "shareText": "The strength of an invitation is not in the words, but in the pure intention behind them. Share beautifully, and entrust the rest to God with a peaceful heart."
+      },
+      "fr": {
+        "title": "Intention et sincérité : le cœur de la dawah",
+        "shortDescription": "La vraie valeur d'une invitation ne vient pas des mots prononcés, mais de l'intention sincère qui les porte. La sincérité est le fondement invisible mais le plus solide de l'appel.",
+        "mainPrinciple": "La dawah se fait uniquement pour l'agrément de Dieu ; confier la guidée à Ses mains apaise le cœur.",
+        "summaryPoints": [
+          "L'intention est l'âme de chaque acte ; un appel dénué de sincérité perd sa vraie valeur, aussi beau soit-il en apparence.",
+          "La guidée appartient à Dieu ; notre rôle est de transmettre la vérité de la plus belle et plus délicate manière, non d'imposer son acceptation.",
+          "Se concentrer sur le cheminement plutôt que sur le résultat libère celui qui appelle de la peur de l'échec et l'oriente vers la sincérité."
+        ],
+        "dailyReflection": "Aujourd'hui, en partageant un bien, interroge ton cœur : est-ce pour être apprécié, ou vraiment pour être utile ?",
+        "dawahTip": "Ne te précipite pas pour amener l'autre à une conclusion ; sois simplement un bel exemple et laisse le reste à ton Seigneur. Cette quiétude transparaîtra dans tes paroles.",
+        "questionAnswer": {
+          "question": "Si ce que je partage n'est pas accepté, ai-je échoué ?",
+          "answer": "Non. Ton rôle est de transmettre la vérité avec beauté ; ouvrir les cœurs appartient à Dieu. Si tu as agi avec sincérité, tu as accompli ton devoir."
+        },
+        "referenceNote": "Voir les versets coraniques sur la sincérité de l'intention et l'accomplissement des actes pour Dieu seul.",
+        "shareText": "La force d'une invitation ne réside pas dans les mots, mais dans l'intention pure qui les porte. Partage avec beauté et confie le reste à Dieu, le cœur serein."
+      },
+      "pt-BR": {
+        "title": "Intenção e Sinceridade: O Coração do Convite",
+        "shortDescription": "O verdadeiro valor de um convite não vem das palavras ditas, mas da intenção sincera por trás delas. A sinceridade é o alicerce invisível, porém mais firme, do chamado.",
+        "mainPrinciple": "O convite é feito apenas para agradar a Deus; deixar a orientação em Suas mãos traz paz ao coração.",
+        "summaryPoints": [
+          "A intenção é a alma de cada ato; um chamado sem sinceridade perde seu verdadeiro valor, por mais belo que pareça.",
+          "A orientação pertence a Deus; nosso papel é transmitir a verdade da forma mais bela e delicada, não forçar a aceitação.",
+          "Concentrar-se no caminho, e não no resultado, livra quem convida do medo do fracasso e o conduz à sinceridade."
+        ],
+        "dailyReflection": "Hoje, ao partilhar algo bom, faça uma pausa e pergunte ao seu coração: estou fazendo isto para ser elogiado ou realmente para ser útil?",
+        "dawahTip": "Não tenha pressa em levar o outro a uma conclusão; seja apenas um belo exemplo e deixe o resto com o seu Senhor. Essa serenidade transparecerá em suas palavras.",
+        "questionAnswer": {
+          "question": "Se o que partilho não for aceito, eu fracassei?",
+          "answer": "Não. Seu papel é transmitir a verdade com beleza; abrir corações pertence a Deus. Se você agiu com sinceridade, cumpriu o seu dever."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre a sinceridade da intenção e a prática de atos apenas por Deus.",
+        "shareText": "A força de um convite não está nas palavras, mas na intenção pura por trás delas. Partilhe com beleza e confie o resto a Deus, com o coração em paz."
+      },
+      "de": {
+        "title": "Absicht und Aufrichtigkeit: Das Herz der Einladung",
+        "shortDescription": "Der wahre Wert einer Einladung kommt nicht aus den gesprochenen Worten, sondern aus der aufrichtigen Absicht dahinter. Aufrichtigkeit ist das unsichtbare, doch stärkste Fundament des Rufs.",
+        "mainPrinciple": "Die Einladung geschieht allein um Gottes Wohlgefallen willen; die Rechtleitung in Seine Hände zu legen, schenkt dem Herzen Frieden.",
+        "summaryPoints": [
+          "Die Absicht ist die Seele jeder Tat; ein Ruf ohne Aufrichtigkeit verliert seinen wahren Wert, so schön er auch erscheinen mag.",
+          "Die Rechtleitung liegt bei Gott; unsere Aufgabe ist es, die Wahrheit auf schönste und feinfühligste Weise zu vermitteln, nicht ihre Annahme zu erzwingen.",
+          "Sich auf den Weg statt auf das Ergebnis zu konzentrieren, befreit den Einladenden von der Angst vor dem Scheitern und führt ihn zur Aufrichtigkeit."
+        ],
+        "dailyReflection": "Halte heute inne, wenn du etwas Gutes teilst, und frage dein Herz: Tue ich das, um gelobt zu werden, oder wirklich, um nützlich zu sein?",
+        "dawahTip": "Dränge nicht darauf, den anderen zu einem Schluss zu bringen; sei einfach ein schönes Vorbild und überlasse den Rest deinem Herrn. Diese Gelassenheit wird in deinen Worten spürbar sein.",
+        "questionAnswer": {
+          "question": "Wenn das, was ich teile, nicht angenommen wird, bin ich dann gescheitert?",
+          "answer": "Nein. Deine Aufgabe ist es, die Wahrheit schön zu vermitteln; Herzen zu öffnen liegt bei Gott. Wenn du aufrichtig gehandelt hast, hast du deine Pflicht erfüllt."
+        },
+        "referenceNote": "Siehe die Verse des Korans über die Aufrichtigkeit der Absicht und das Handeln allein für Gott.",
+        "shareText": "Die Kraft einer Einladung liegt nicht in den Worten, sondern in der reinen Absicht dahinter. Teile auf schöne Weise und überlasse den Rest mit ruhigem Herzen Gott."
+      },
+      "es": {
+        "title": "Intención y sinceridad: el corazón de la invitación",
+        "shortDescription": "El verdadero valor de una invitación no viene de las palabras dichas, sino de la intención sincera que hay detrás de ellas. La sinceridad es el cimiento invisible, pero más firme, del llamado.",
+        "mainPrinciple": "La invitación se hace solo para agradar a Dios; dejar la guía en Sus manos trae paz al corazón.",
+        "summaryPoints": [
+          "La intención es el alma de cada acto; un llamado sin sinceridad pierde su verdadero valor, por más hermoso que parezca.",
+          "La guía pertenece a Dios; nuestro papel es transmitir la verdad de la forma más bella y delicada, no forzar su aceptación.",
+          "Concentrarse en el camino, y no en el resultado, libra a quien invita del miedo al fracaso y lo conduce a la sinceridad."
+        ],
+        "dailyReflection": "Hoy, al compartir algo bueno, haz una pausa y pregúntale a tu corazón: ¿hago esto para ser elogiado o de verdad para ser útil?",
+        "dawahTip": "No tengas prisa por llevar al otro a una conclusión; sé tan solo un bello ejemplo y deja el resto en manos de tu Señor. Esa serenidad se reflejará en tus palabras.",
+        "questionAnswer": {
+          "question": "Si lo que comparto no es aceptado, ¿he fracasado?",
+          "answer": "No. Tu papel es transmitir la verdad con belleza; abrir los corazones le pertenece a Dios. Si actuaste con sinceridad, has cumplido tu deber."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre la sinceridad de la intención y la práctica de actos solo por Dios.",
+        "shareText": "La fuerza de una invitación no está en las palabras, sino en la intención pura que hay detrás de ellas. Comparte con belleza y confía el resto a Dios, con el corazón en paz."
+      }
+    }
+  },
+  {
+    "id": "dawah-hal-ve-orneklik",
+    "category": "dawah-principles",
+    "icon": "walk-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "hal",
+      "orneklik",
+      "example",
+      "lifestyle",
+      "ahlak"
+    ],
+    "content": {
+      "tr": {
+        "title": "Önce Yaşamak: Hâl ile Tebliğ",
+        "shortDescription": "En tesirli davet, söylenen sözle değil yaşanan hayatla yapılır. Güzel ahlak, bin cümleden daha derin konuşur.",
+        "mainPrinciple": "Anlattığını önce kendin yaşa; hâlin, sözünden önce konuşsun.",
+        "summaryPoints": [
+          "İnsanlar anlatılana değil yaşanana bakar; söz ile eylem arasında çelişki güveni zedeler.",
+          "Davetçinin örnek duruşu, vakarla birleşen tevazuu sessiz ama derin bir tesir bırakır.",
+          "Her Müslüman, sözlü çağrı yapmasa bile dürüstlüğü ve güzel ahlakıyla dininin temsilcisidir."
+        ],
+        "dailyReflection": "Bugün başkasına öğütlemeden önce, o güzelliği kendi davranışınla bir kez sessizce yaşa.",
+        "dawahTip": "Bir hakikati söze dökmeden önce onu hâlinle göster; çoğu zaman en güzel davet, hiç laf etmeden verilen örnektir.",
+        "questionAnswer": {
+          "question": "Söz mü daha tesirlidir, hâl mi?",
+          "answer": "İkisi de gereklidir; ama yaşanmayan söz havada kalır. Hâl, sözü doğrular ve kalbe taşır."
+        },
+        "referenceNote": "Bkz. Kur'an'da güzel örneklik ve sözle eylemin uyumuna dair ayetler",
+        "shareText": "En güzel davet, hiç konuşmadan verdiğin örnektir. Önce yaşa, sonra anlat."
+      },
+      "en": {
+        "title": "Live It First: Inviting Through Example",
+        "shortDescription": "The most powerful invitation is made not with words but with a life well lived. Good character speaks deeper than a thousand sentences.",
+        "mainPrinciple": "Live what you teach first; let your conduct speak before your words.",
+        "summaryPoints": [
+          "People look at what is lived, not merely what is said; a gap between word and deed erodes trust.",
+          "An inviter's exemplary bearing, humility joined with dignity, leaves a quiet yet deep impression.",
+          "Every Muslim represents their faith through honesty and good character, even without a single spoken call."
+        ],
+        "dailyReflection": "Today, before advising anyone, quietly live that good quality once through your own behavior.",
+        "dawahTip": "Before putting a truth into words, show it through your conduct; often the finest invitation is an example given without a single remark.",
+        "questionAnswer": {
+          "question": "Which is more effective, words or example?",
+          "answer": "Both are needed; but words that are not lived stay in the air. Example confirms the word and carries it to the heart."
+        },
+        "referenceNote": "See Quranic verses on beautiful example and the harmony of word and deed",
+        "shareText": "The finest invitation is the example you give without speaking. Live it first, then tell it."
+      },
+      "fr": {
+        "title": "Vivre d'abord : inviter par l'exemple",
+        "shortDescription": "L'invitation la plus puissante ne se fait pas par les mots mais par une vie bien vécue. Un bon caractère parle plus profondément que mille phrases.",
+        "mainPrinciple": "Vis d'abord ce que tu enseignes ; que ta conduite parle avant tes paroles.",
+        "summaryPoints": [
+          "Les gens regardent ce qui est vécu, non ce qui est seulement dit ; l'écart entre la parole et l'acte ronge la confiance.",
+          "L'attitude exemplaire de l'invitant, l'humilité unie à la dignité, laisse une empreinte discrète mais profonde.",
+          "Chaque musulman représente sa foi par son honnêteté et son bon caractère, même sans un seul appel prononcé."
+        ],
+        "dailyReflection": "Aujourd'hui, avant de conseiller quelqu'un, vis discrètement cette belle qualité une fois par ton propre comportement.",
+        "dawahTip": "Avant de mettre une vérité en mots, montre-la par ta conduite ; souvent la plus belle invitation est un exemple donné sans une seule remarque.",
+        "questionAnswer": {
+          "question": "Qu'est-ce qui est plus efficace, les paroles ou l'exemple ?",
+          "answer": "Les deux sont nécessaires ; mais une parole non vécue reste en l'air. L'exemple confirme la parole et la porte au cœur."
+        },
+        "referenceNote": "Voir les versets coraniques sur le bel exemple et l'accord entre la parole et l'acte",
+        "shareText": "La plus belle invitation est l'exemple que tu donnes sans parler. Vis-le d'abord, puis raconte-le."
+      },
+      "pt-BR": {
+        "title": "Viver primeiro: convidar pelo exemplo",
+        "shortDescription": "O convite mais poderoso não se faz com palavras, mas com uma vida bem vivida. Um bom caráter fala mais fundo do que mil frases.",
+        "mainPrinciple": "Viva primeiro o que ensina; que sua conduta fale antes de suas palavras.",
+        "summaryPoints": [
+          "As pessoas olham para o que é vivido, não apenas para o que é dito; a distância entre palavra e ato corrói a confiança.",
+          "A postura exemplar de quem convida, a humildade unida à dignidade, deixa uma marca silenciosa, mas profunda.",
+          "Todo muçulmano representa sua fé pela honestidade e pelo bom caráter, mesmo sem um único chamado falado."
+        ],
+        "dailyReflection": "Hoje, antes de aconselhar alguém, viva em silêncio aquela boa qualidade uma vez por meio do seu próprio comportamento.",
+        "dawahTip": "Antes de colocar uma verdade em palavras, mostre-a pela sua conduta; muitas vezes o convite mais belo é um exemplo dado sem nenhum comentário.",
+        "questionAnswer": {
+          "question": "O que é mais eficaz, as palavras ou o exemplo?",
+          "answer": "Ambos são necessários; mas a palavra não vivida fica no ar. O exemplo confirma a palavra e a leva ao coração."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre o belo exemplo e a harmonia entre palavra e ação",
+        "shareText": "O convite mais belo é o exemplo que você dá sem falar. Viva primeiro, depois conte."
+      },
+      "de": {
+        "title": "Zuerst leben: Einladen durch das Vorbild",
+        "shortDescription": "Die wirkungsvollste Einladung geschieht nicht durch Worte, sondern durch ein gelebtes Leben. Ein guter Charakter spricht tiefer als tausend Sätze.",
+        "mainPrinciple": "Lebe zuerst, was du lehrst; lass dein Verhalten vor deinen Worten sprechen.",
+        "summaryPoints": [
+          "Menschen schauen auf das Gelebte, nicht nur auf das Gesagte; eine Kluft zwischen Wort und Tat untergräbt das Vertrauen.",
+          "Die vorbildliche Haltung des Einladenden, Demut verbunden mit Würde, hinterlässt einen leisen, aber tiefen Eindruck.",
+          "Jeder Muslim vertritt seinen Glauben durch Ehrlichkeit und guten Charakter, auch ohne einen einzigen gesprochenen Ruf."
+        ],
+        "dailyReflection": "Lebe heute, bevor du jemandem einen Rat gibst, jene gute Eigenschaft einmal still durch dein eigenes Verhalten.",
+        "dawahTip": "Bevor du eine Wahrheit in Worte fasst, zeige sie durch dein Verhalten; oft ist die schönste Einladung ein Vorbild, das ohne ein einziges Wort gegeben wird.",
+        "questionAnswer": {
+          "question": "Was ist wirksamer, Worte oder das Vorbild?",
+          "answer": "Beides ist nötig; aber ein nicht gelebtes Wort bleibt in der Luft. Das Vorbild bestätigt das Wort und trägt es ins Herz."
+        },
+        "referenceNote": "Siehe die Koranverse über das schöne Vorbild und den Einklang von Wort und Tat",
+        "shareText": "Die schönste Einladung ist das Vorbild, das du ohne Worte gibst. Lebe es zuerst, dann erzähle davon."
+      },
+      "es": {
+        "title": "Vivirlo primero: invitar con el ejemplo",
+        "shortDescription": "La invitación más poderosa no se hace con palabras, sino con una vida bien vivida. Un buen carácter habla más hondo que mil frases.",
+        "mainPrinciple": "Vive primero lo que enseñas; que tu conducta hable antes que tus palabras.",
+        "summaryPoints": [
+          "Las personas miran lo que se vive, no solo lo que se dice; la distancia entre la palabra y el acto desgasta la confianza.",
+          "La postura ejemplar de quien invita, la humildad unida a la dignidad, deja una huella silenciosa, pero profunda.",
+          "Todo musulmán representa su fe con la honestidad y el buen carácter, aun sin un solo llamado pronunciado."
+        ],
+        "dailyReflection": "Hoy, antes de aconsejar a alguien, vive en silencio esa buena cualidad una vez a través de tu propio comportamiento.",
+        "dawahTip": "Antes de poner una verdad en palabras, muéstrala con tu conducta; muchas veces la invitación más bella es un ejemplo dado sin ningún comentario.",
+        "questionAnswer": {
+          "question": "¿Qué es más eficaz, las palabras o el ejemplo?",
+          "answer": "Ambos son necesarios; pero la palabra no vivida queda en el aire. El ejemplo confirma la palabra y la lleva al corazón."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre el bello ejemplo y la armonía entre la palabra y la acción.",
+        "shareText": "La invitación más bella es el ejemplo que das sin hablar. Vívelo primero, luego cuéntalo."
+      }
+    }
+  },
+  {
+    "id": "dawah-uslup-dil-nezaket",
+    "category": "dawah-principles",
+    "icon": "chatbubbles-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "üslup",
+      "nezaket",
+      "yumuşak söz",
+      "gentleness",
+      "kindness"
+    ],
+    "content": {
+      "tr": {
+        "title": "Üslup ve Nezaket: Yumuşak Söz",
+        "shortDescription": "Davet baştan sona yumuşak, nazik ve merhamet dolu bir dille yapılır. Yumuşak söz, en katı gönülleri bile aralayan tesirli bir vasıtadır.",
+        "mainPrinciple": "Sertlik çağrının tesirini giderir; yumuşak ve saygılı söz ise kalplere yol bulur.",
+        "summaryPoints": [
+          "Söz hem akla hem gönle hitap etsin; net ve incitmeyen bir dil seçilsin.",
+          "Kibirli ve üstenci ifadeler uzaklaştırır; tevazu ile söylenen söz yakınlaştırır.",
+          "Ton, vurgu ve hâl; bağırıp çağırmadan, mesajın ruhuna uygun olsun."
+        ],
+        "dailyReflection": "Bugün bir görüş ayrılığında, cevabına yumuşak bir cümleyle başla; sesini değil, sözünün güzelliğini yükselt.",
+        "dawahTip": "Önce muhatabını dinle ve değer verdiğini hissettir; düzeltmek istediğin şeyi suçlamadan, nazik bir soruyla araladığında kalp kapısı kendiliğinden açılır.",
+        "questionAnswer": {
+          "question": "Karşımdaki sertçe konuşuyorsa ben de aynı tonla cevap vermeli miyim?",
+          "answer": "Hayır. En uzlaşmaz muhataba dahi incitici olmayan bir dille seslenilir; yumuşaklık zaaf değil, en güçlü tesir aracıdır."
+        },
+        "referenceNote": "Bkz. Kur'an'da yumuşak söz ve güzel öğütle davete dair ayetler.",
+        "shareText": "Yumuşak söz, en katı gönülleri bile aralar. Davette üslup, çoğu zaman sözün kendisinden daha çok konuşur."
+      },
+      "en": {
+        "title": "Style and Courtesy: The Gentle Word",
+        "shortDescription": "An invitation is carried, from start to finish, in gentle, kind and compassionate language. A soft word can open even the hardest of hearts.",
+        "mainPrinciple": "Harshness drains an invitation of its power; a gentle, respectful word finds its way into hearts.",
+        "summaryPoints": [
+          "Let speech address both mind and heart; choose words that are clear and never wounding.",
+          "Arrogant, condescending tones push people away; words spoken with humility draw them near.",
+          "Tone, emphasis and manner should suit the spirit of the message, without raising the voice."
+        ],
+        "dailyReflection": "Today, in a disagreement, begin your reply with one gentle sentence; raise not your voice but the beauty of your words.",
+        "dawahTip": "First listen, and let the other person feel valued; when you raise the point you wish to correct through a kind question rather than blame, the door of the heart opens on its own.",
+        "questionAnswer": {
+          "question": "If someone speaks to me harshly, should I answer in the same tone?",
+          "answer": "No. Even the most resistant listener is addressed without wounding words; gentleness is not weakness but the most powerful means of influence."
+        },
+        "referenceNote": "See Quranic verses on inviting with a gentle word and beautiful counsel.",
+        "shareText": "A soft word opens even the hardest hearts. In inviting others, manner often speaks louder than the words themselves."
+      },
+      "fr": {
+        "title": "Style et courtoisie : la parole douce",
+        "shortDescription": "L'invitation se fait, du début à la fin, dans un langage doux, aimable et plein de compassion. Une parole douce peut ouvrir même les cœurs les plus durs.",
+        "mainPrinciple": "La dureté ôte à l'invitation toute sa force ; une parole douce et respectueuse trouve son chemin vers les cœurs.",
+        "summaryPoints": [
+          "Que la parole s'adresse à la fois à la raison et au cœur ; choisissez des mots clairs et jamais blessants.",
+          "Un ton orgueilleux et condescendant éloigne ; les mots dits avec humilité rapprochent.",
+          "Le ton, l'accent et l'attitude doivent convenir à l'esprit du message, sans élever la voix."
+        ],
+        "dailyReflection": "Aujourd'hui, lors d'un désaccord, commencez votre réponse par une phrase douce ; élevez non votre voix, mais la beauté de vos paroles.",
+        "dawahTip": "Écoutez d'abord et faites sentir à l'autre qu'il compte ; lorsque vous abordez le point à corriger par une question bienveillante plutôt que par un reproche, la porte du cœur s'ouvre d'elle-même.",
+        "questionAnswer": {
+          "question": "Si l'on me parle durement, dois-je répondre sur le même ton ?",
+          "answer": "Non. Même l'interlocuteur le plus réticent se voit adresser des paroles non blessantes ; la douceur n'est pas faiblesse, mais le plus puissant moyen d'influence."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'invitation par la parole douce et le beau conseil.",
+        "shareText": "Une parole douce ouvre même les cœurs les plus durs. Dans l'invitation, la manière parle souvent plus fort que les mots eux-mêmes."
+      },
+      "pt-BR": {
+        "title": "Estilo e cortesia: a palavra branda",
+        "shortDescription": "O convite é feito, do início ao fim, com uma linguagem branda, gentil e cheia de compaixão. Uma palavra suave pode abrir até os corações mais duros.",
+        "mainPrinciple": "A dureza retira do convite toda a sua força; uma palavra branda e respeitosa encontra o caminho até os corações.",
+        "summaryPoints": [
+          "Que a fala se dirija tanto à razão quanto ao coração; escolha palavras claras e que nunca firam.",
+          "Um tom arrogante e condescendente afasta; palavras ditas com humildade aproximam.",
+          "O tom, a ênfase e a postura devem condizer com o espírito da mensagem, sem levantar a voz."
+        ],
+        "dailyReflection": "Hoje, em uma divergência, comece sua resposta com uma frase branda; eleve não a sua voz, mas a beleza de suas palavras.",
+        "dawahTip": "Primeiro ouça e faça o outro sentir que é valorizado; quando você levanta o ponto a corrigir por meio de uma pergunta gentil, e não de uma acusação, a porta do coração se abre por si mesma.",
+        "questionAnswer": {
+          "question": "Se alguém fala comigo com aspereza, devo responder no mesmo tom?",
+          "answer": "Não. Mesmo o interlocutor mais resistente é abordado sem palavras que firam; a brandura não é fraqueza, mas o mais poderoso meio de influência."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre convidar com a palavra branda e o belo conselho.",
+        "shareText": "Uma palavra suave abre até os corações mais duros. No convite, a maneira muitas vezes fala mais alto do que as próprias palavras."
+      },
+      "de": {
+        "title": "Stil und Höflichkeit: das sanfte Wort",
+        "shortDescription": "Die Einladung wird von Anfang bis Ende in sanfter, freundlicher und barmherziger Sprache vorgetragen. Ein sanftes Wort kann selbst die härtesten Herzen öffnen.",
+        "mainPrinciple": "Härte nimmt der Einladung ihre Kraft; ein sanftes, achtsames Wort findet den Weg in die Herzen.",
+        "summaryPoints": [
+          "Die Rede spreche zugleich den Verstand und das Herz an; wähle Worte, die klar sind und niemals verletzen.",
+          "Hochmütige, herablassende Töne stoßen Menschen ab; mit Demut gesprochene Worte ziehen sie heran.",
+          "Ton, Betonung und Haltung sollen dem Geist der Botschaft entsprechen, ohne die Stimme zu erheben."
+        ],
+        "dailyReflection": "Beginne heute bei einer Meinungsverschiedenheit deine Antwort mit einem sanften Satz; erhebe nicht deine Stimme, sondern die Schönheit deiner Worte.",
+        "dawahTip": "Höre zuerst zu und lass den anderen spüren, dass er geschätzt wird; wenn du das, was du richtigstellen möchtest, durch eine freundliche Frage statt durch Vorwurf ansprichst, öffnet sich die Tür des Herzens von selbst.",
+        "questionAnswer": {
+          "question": "Soll ich im selben Ton antworten, wenn jemand schroff zu mir spricht?",
+          "answer": "Nein. Selbst den widerstrebendsten Gesprächspartner spricht man ohne verletzende Worte an; Sanftmut ist keine Schwäche, sondern das wirksamste Mittel der Einflussnahme."
+        },
+        "referenceNote": "Siehe die koranischen Verse über das Einladen mit sanftem Wort und schönem Rat.",
+        "shareText": "Ein sanftes Wort öffnet selbst die härtesten Herzen. Beim Einladen spricht die Art oft lauter als die Worte selbst."
+      },
+      "es": {
+        "title": "Estilo y cortesía: la palabra suave",
+        "shortDescription": "La invitación se hace, de principio a fin, con un lenguaje suave, amable y lleno de compasión. Una palabra suave puede abrir hasta los corazones más duros.",
+        "mainPrinciple": "La dureza le quita a la invitación toda su fuerza; una palabra suave y respetuosa encuentra el camino hacia los corazones.",
+        "summaryPoints": [
+          "Que la palabra se dirija tanto a la razón como al corazón; elige palabras claras y que nunca hieran.",
+          "Un tono arrogante y condescendiente aleja; las palabras dichas con humildad acercan.",
+          "El tono, el énfasis y la actitud deben armonizar con el espíritu del mensaje, sin levantar la voz."
+        ],
+        "dailyReflection": "Hoy, en un desacuerdo, comienza tu respuesta con una frase suave; no eleves la voz, sino la belleza de tus palabras.",
+        "dawahTip": "Primero escucha y haz que el otro sienta que es valorado; cuando planteas lo que deseas corregir mediante una pregunta amable, y no una acusación, la puerta del corazón se abre por sí sola.",
+        "questionAnswer": {
+          "question": "Si alguien me habla con aspereza, ¿debo responder en el mismo tono?",
+          "answer": "No. Incluso al interlocutor más resistente se le habla sin palabras que hieran; la suavidad no es debilidad, sino el medio de influencia más poderoso."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre invitar con la palabra suave y el bello consejo.",
+        "shareText": "Una palabra suave abre hasta los corazones más duros. En la invitación, la manera muchas veces habla más alto que las propias palabras."
+      }
+    }
+  },
+  {
+    "id": "dawah-muhatabi-tanimak-tedric",
+    "category": "dawah-principles",
+    "icon": "people-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "muhatap",
+      "tedric",
+      "audience",
+      "gradual",
+      "empati"
+    ],
+    "content": {
+      "tr": {
+        "title": "Muhatabı Tanımak ve Tedric",
+        "shortDescription": "Karşımızdaki insanı tanıyıp dilimizi ona göre seçmek ve hakikati adım adım, aceleye getirmeden paylaşmak.",
+        "mainPrinciple": "Sözü muhatabın hâline göre söyle; bildiğinden bilmediğine, kolaydan zora doğru sabırla ilerle.",
+        "summaryPoints": [
+          "Muhatabın yaşını, kültürünü ve ruh hâlini gözeterek üslubunu ona göre yumuşat.",
+          "Mesajı onun gerçek ihtiyacına dokunacak şekilde, doğru zaman ve zeminde sun.",
+          "Her şeyi bir anda yüklemek yerine tedricen, hazmedilebilir adımlarla anlat."
+        ],
+        "dailyReflection": "Bugün bir şey paylaşmadan önce kendine sor: 'Bu, onun şu anki hâline ve ihtiyacına uygun mu?'",
+        "dawahTip": "Önce dinle ve anla; muhatabın değer gördüğünü hissettiğinde sözün kalbine çok daha kolay ulaşır.",
+        "questionAnswer": {
+          "question": "Neden her şeyi bir anda anlatmamalıyız?",
+          "answer": "Çünkü hazmedilemeyen bilgi muhatabı zorlar ve uzaklaştırır; tedric, kalbi adım adım hazırlar."
+        },
+        "referenceNote": "Bkz. Kur'an'da hikmetle ve güzel öğütle davete dair ayetler.",
+        "shareText": "Hakikati paylaşırken karşındakini tanı: kolaydan zora, sabırla ve onun hâline göre konuş."
+      },
+      "en": {
+        "title": "Knowing Your Audience and Gradualness",
+        "shortDescription": "Understanding the person before you, choosing your words for them, and sharing truth step by step without rushing.",
+        "mainPrinciple": "Speak according to your listener's state; move patiently from the known to the unknown, from easy to difficult.",
+        "summaryPoints": [
+          "Soften your tone to suit the person's age, culture, and state of mind.",
+          "Offer the message where it meets a real need, at the right time and place.",
+          "Share gradually in digestible steps instead of unloading everything at once."
+        ],
+        "dailyReflection": "Before sharing today, ask yourself: 'Does this fit where this person is right now and what they need?'",
+        "dawahTip": "Listen and understand first; when someone feels valued, your words reach the heart far more easily.",
+        "questionAnswer": {
+          "question": "Why shouldn't we explain everything at once?",
+          "answer": "Because knowledge that can't be absorbed overwhelms and pushes people away; gradualness prepares the heart step by step."
+        },
+        "referenceNote": "See Quranic verses on inviting with wisdom and beautiful counsel.",
+        "shareText": "When you share truth, know your listener: speak from easy to hard, patiently, and to their condition."
+      },
+      "fr": {
+        "title": "Connaître son interlocuteur et la progression",
+        "shortDescription": "Comprendre la personne en face de soi, choisir ses mots pour elle et transmettre la vérité pas à pas, sans précipitation.",
+        "mainPrinciple": "Parle selon l'état de ton interlocuteur ; avance avec patience du connu vers l'inconnu, du facile au difficile.",
+        "summaryPoints": [
+          "Adoucis ton ton selon l'âge, la culture et l'état d'esprit de la personne.",
+          "Présente le message là où il répond à un vrai besoin, au bon moment et au bon endroit.",
+          "Transmets progressivement, par étapes assimilables, plutôt que tout d'un coup."
+        ],
+        "dailyReflection": "Avant de partager aujourd'hui, demande-toi : « Cela correspond-il à là où cette personne en est et à ce dont elle a besoin ? »",
+        "dawahTip": "Écoute et comprends d'abord ; quand une personne se sent valorisée, tes mots atteignent bien plus facilement son cœur.",
+        "questionAnswer": {
+          "question": "Pourquoi ne pas tout expliquer d'un seul coup ?",
+          "answer": "Parce qu'un savoir non assimilable accable et éloigne ; la progression prépare le cœur pas à pas."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'appel avec sagesse et belle exhortation.",
+        "shareText": "Quand tu partages la vérité, connais ton interlocuteur : parle du facile au difficile, avec patience et selon son état."
+      },
+      "pt-BR": {
+        "title": "Conhecer o interlocutor e a gradualidade",
+        "shortDescription": "Compreender a pessoa diante de você, escolher as palavras para ela e partilhar a verdade passo a passo, sem pressa.",
+        "mainPrinciple": "Fale conforme o estado de quem ouve; avance com paciência do conhecido ao desconhecido, do fácil ao difícil.",
+        "summaryPoints": [
+          "Suavize o tom conforme a idade, a cultura e o estado de espírito da pessoa.",
+          "Ofereça a mensagem onde ela atende a uma necessidade real, no tempo e lugar certos.",
+          "Partilhe gradualmente, em etapas assimiláveis, em vez de despejar tudo de uma vez."
+        ],
+        "dailyReflection": "Antes de partilhar hoje, pergunte-se: 'Isto se encaixa em onde esta pessoa está agora e no que ela precisa?'",
+        "dawahTip": "Ouça e compreenda primeiro; quando alguém se sente valorizado, suas palavras chegam ao coração com muito mais facilidade.",
+        "questionAnswer": {
+          "question": "Por que não devemos explicar tudo de uma vez?",
+          "answer": "Porque o conhecimento que não pode ser absorvido sobrecarrega e afasta; a gradualidade prepara o coração passo a passo."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre convidar com sabedoria e belo conselho.",
+        "shareText": "Ao partilhar a verdade, conheça quem ouve: fale do fácil ao difícil, com paciência e conforme o estado dele."
+      },
+      "de": {
+        "title": "Den Gesprächspartner kennen und Schrittweise vorgehen",
+        "shortDescription": "Den Menschen vor sich verstehen, die Worte für ihn wählen und die Wahrheit Schritt für Schritt ohne Eile teilen.",
+        "mainPrinciple": "Sprich gemäß dem Zustand deines Gegenübers; gehe geduldig vom Bekannten zum Unbekannten, vom Leichten zum Schweren.",
+        "summaryPoints": [
+          "Mildere deinen Ton entsprechend dem Alter, der Kultur und der Gemütslage des Menschen.",
+          "Biete die Botschaft dort an, wo sie ein echtes Bedürfnis trifft, zur rechten Zeit und am rechten Ort.",
+          "Teile schrittweise in verdaulichen Etappen, statt alles auf einmal abzuladen."
+        ],
+        "dailyReflection": "Frage dich heute vor dem Teilen: 'Passt das zu dem, wo dieser Mensch gerade steht und was er braucht?'",
+        "dawahTip": "Höre zuerst zu und verstehe; wenn sich jemand wertgeschätzt fühlt, erreichen deine Worte das Herz weit leichter.",
+        "questionAnswer": {
+          "question": "Warum sollten wir nicht alles auf einmal erklären?",
+          "answer": "Weil Wissen, das nicht aufgenommen werden kann, überfordert und entfremdet; das schrittweise Vorgehen bereitet das Herz Schritt für Schritt vor."
+        },
+        "referenceNote": "Siehe die koranischen Verse über das Einladen mit Weisheit und schöner Ermahnung.",
+        "shareText": "Wenn du die Wahrheit teilst, kenne dein Gegenüber: sprich vom Leichten zum Schweren, geduldig und seinem Zustand gemäß."
+      },
+      "es": {
+        "title": "Conocer al interlocutor y la gradualidad",
+        "shortDescription": "Comprender a la persona que tienes delante, elegir las palabras para ella y compartir la verdad paso a paso, sin prisa.",
+        "mainPrinciple": "Habla según el estado de quien escucha; avanza con paciencia de lo conocido a lo desconocido, de lo fácil a lo difícil.",
+        "summaryPoints": [
+          "Suaviza el tono según la edad, la cultura y el estado de ánimo de la persona.",
+          "Ofrece el mensaje donde responde a una necesidad real, en el momento y el lugar adecuados.",
+          "Comparte gradualmente, en etapas asimilables, en lugar de soltar todo de una vez."
+        ],
+        "dailyReflection": "Antes de compartir hoy, pregúntate: '¿Esto se ajusta a donde esta persona está ahora y a lo que necesita?'",
+        "dawahTip": "Escucha y comprende primero; cuando alguien se siente valorado, tus palabras llegan al corazón con mucha más facilidad.",
+        "questionAnswer": {
+          "question": "¿Por qué no debemos explicar todo de una vez?",
+          "answer": "Porque el conocimiento que no puede asimilarse abruma y aleja; la gradualidad prepara el corazón paso a paso."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre invitar con sabiduría y buen consejo.",
+        "shareText": "Al compartir la verdad, conoce a quien escucha: habla de lo fácil a lo difícil, con paciencia y según su estado."
+      }
+    }
+  },
+  {
+    "id": "dawah-bilgi-liyakat-ehliyet",
+    "category": "dawah-principles",
+    "icon": "school-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "bilgi",
+      "ehliyet",
+      "knowledge",
+      "competence",
+      "liyakat"
+    ],
+    "content": {
+      "tr": {
+        "title": "Bilgi ve Ehliyet: Sağlam Temel",
+        "shortDescription": "Davet, cahillikle değil sağlam bilgiyle yürür. Davetçi bilmediği konuya girmez, öğrenmeyi hiç bırakmaz.",
+        "mainPrinciple": "İyi niyet kadar doğru bilgi de gerekir; bilmediğini söylemek, yanlış konuşmaktan üstündür.",
+        "summaryPoints": [
+          "Anlattığın ayet, kıssa ve örnekler sahih ve muteber olsun; uydurmadan ve şüpheli bilgiden uzak dur.",
+          "Bilmediğin konuya girme; 'bilmiyorum, araştırayım' demek samimiyetin işaretidir.",
+          "Öğrenmeyi hiç kesme; çağını ve insanı tanıyan bir davetçi daha tesirli olur."
+        ],
+        "dailyReflection": "Bugün paylaşmadan önce bir bilgiyi gerçekten doğru bilip bilmediğini durup bir kez kontrol et.",
+        "dawahTip": "Emin olmadığın bir soruda 'çok güzel soru, bunu birlikte araştıralım' demek, güveni güçlendirir.",
+        "questionAnswer": {
+          "question": "Bir soruya cevabı bilmiyorsam ne yapmalıyım?",
+          "answer": "Tahmin yürütmek yerine sakince 'bilmiyorum' de ve doğru kaynaktan öğrenip dön; bu zaaf değil, dürüstlüktür."
+        },
+        "referenceNote": "Bkz. Kur'an'da bilgiye dayanmadan konuşmama ve hikmetle davete dair ayetler.",
+        "shareText": "Güzel davetin temeli sağlam bilgidir: Bilmediğimizi söylemek, yanlış söylemekten daha hayırlıdır."
+      },
+      "en": {
+        "title": "Knowledge and Competence: A Solid Foundation",
+        "shortDescription": "Inviting others rests on sound knowledge, not guesswork. A caller never speaks on what he does not know and never stops learning.",
+        "mainPrinciple": "Good intentions need accurate knowledge; saying 'I do not know' is better than speaking wrongly.",
+        "summaryPoints": [
+          "Make sure the verses, stories and examples you share are authentic and trustworthy; stay away from fabrications and doubtful claims.",
+          "Do not speak on what you do not know; saying 'I'm not sure, let me look into it' is a sign of sincerity.",
+          "Never stop learning; a caller who understands his age and people becomes more effective."
+        ],
+        "dailyReflection": "Before sharing something today, pause once to check whether you truly know it correctly.",
+        "dawahTip": "When unsure of a question, saying 'great question, let's explore it together' builds trust.",
+        "questionAnswer": {
+          "question": "What should I do if I don't know the answer to a question?",
+          "answer": "Rather than guessing, calmly say 'I don't know,' learn from a reliable source, and return; this is honesty, not weakness."
+        },
+        "referenceNote": "See Quranic verses on not speaking without knowledge and on inviting with wisdom.",
+        "shareText": "Beautiful invitation rests on solid knowledge: admitting we don't know is better than speaking wrongly."
+      },
+      "fr": {
+        "title": "Savoir et compétence : un socle solide",
+        "shortDescription": "L'appel repose sur un savoir sûr, non sur des suppositions. Celui qui invite ne parle pas de ce qu'il ignore et n'arrête jamais d'apprendre.",
+        "mainPrinciple": "La bonne intention a besoin d'un savoir juste ; dire « je ne sais pas » vaut mieux que parler à tort.",
+        "summaryPoints": [
+          "Veille à ce que les versets, récits et exemples que tu partages soient authentiques et fiables ; éloigne-toi des inventions et des propos douteux.",
+          "Ne parle pas de ce que tu ne connais pas ; dire « je ne suis pas sûr, je vais me renseigner » est un signe de sincérité.",
+          "N'arrête jamais d'apprendre ; celui qui comprend son époque et les gens devient plus efficace."
+        ],
+        "dailyReflection": "Avant de partager quelque chose aujourd'hui, arrête-toi un instant pour vérifier si tu le sais vraiment correctement.",
+        "dawahTip": "Face à une question incertaine, dire « belle question, explorons-la ensemble » renforce la confiance.",
+        "questionAnswer": {
+          "question": "Que faire si je ne connais pas la réponse à une question ?",
+          "answer": "Au lieu de deviner, dis calmement « je ne sais pas », apprends auprès d'une source fiable, puis reviens ; c'est de l'honnêteté, non une faiblesse."
+        },
+        "referenceNote": "Voir les versets coraniques sur le fait de ne pas parler sans savoir et d'inviter avec sagesse.",
+        "shareText": "Un bel appel repose sur un savoir solide : reconnaître qu'on ne sait pas vaut mieux que parler à tort."
+      },
+      "pt-BR": {
+        "title": "Conhecimento e competência: um alicerce firme",
+        "shortDescription": "O convite se apoia em conhecimento sólido, não em suposições. Quem convida não fala do que não sabe e nunca deixa de aprender.",
+        "mainPrinciple": "A boa intenção precisa de conhecimento correto; dizer 'não sei' é melhor do que falar errado.",
+        "summaryPoints": [
+          "Certifique-se de que os versículos, relatos e exemplos que você compartilha sejam autênticos e confiáveis; afaste-se de invenções e afirmações duvidosas.",
+          "Não fale sobre o que não conhece; dizer 'não tenho certeza, vou pesquisar' é sinal de sinceridade.",
+          "Nunca pare de aprender; quem convida e entende seu tempo e as pessoas se torna mais eficaz."
+        ],
+        "dailyReflection": "Antes de compartilhar algo hoje, pare um instante para verificar se você realmente sabe disso corretamente.",
+        "dawahTip": "Diante de uma pergunta incerta, dizer 'ótima pergunta, vamos pesquisar juntos' fortalece a confiança.",
+        "questionAnswer": {
+          "question": "O que devo fazer se não souber a resposta de uma pergunta?",
+          "answer": "Em vez de adivinhar, diga com calma 'não sei', aprenda de uma fonte confiável e volte; isso é honestidade, não fraqueza."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre não falar sem conhecimento e convidar com sabedoria.",
+        "shareText": "Um belo convite se apoia em conhecimento sólido: admitir que não sabemos é melhor do que falar errado."
+      },
+      "de": {
+        "title": "Wissen und Eignung: ein festes Fundament",
+        "shortDescription": "Die Einladung beruht auf solidem Wissen, nicht auf Vermutungen. Wer einlädt, spricht nicht über Unbekanntes und hört nie auf zu lernen.",
+        "mainPrinciple": "Gute Absicht braucht richtiges Wissen; 'Ich weiß es nicht' zu sagen ist besser, als falsch zu reden.",
+        "summaryPoints": [
+          "Achte darauf, dass die Verse, Geschichten und Beispiele, die du teilst, authentisch und verlässlich sind; halte dich von Erfindungen und zweifelhaften Aussagen fern.",
+          "Sprich nicht über das, was du nicht kennst; 'Ich bin mir nicht sicher, ich schaue nach' zu sagen ist ein Zeichen von Aufrichtigkeit.",
+          "Höre nie auf zu lernen; wer seine Zeit und die Menschen versteht, wirkt überzeugender."
+        ],
+        "dailyReflection": "Halte heute vor dem Teilen einmal inne und prüfe, ob du es wirklich richtig weißt.",
+        "dawahTip": "Bei einer unsicheren Frage stärkt es das Vertrauen, zu sagen: 'Schöne Frage, das erforschen wir gemeinsam.'",
+        "questionAnswer": {
+          "question": "Was soll ich tun, wenn ich die Antwort auf eine Frage nicht kenne?",
+          "answer": "Statt zu raten, sage ruhig 'Ich weiß es nicht', lerne aus einer verlässlichen Quelle und komm zurück; das ist Ehrlichkeit, keine Schwäche."
+        },
+        "referenceNote": "Siehe die Koranverse darüber, nicht ohne Wissen zu sprechen und mit Weisheit einzuladen.",
+        "shareText": "Eine schöne Einladung beruht auf solidem Wissen: einzugestehen, dass wir etwas nicht wissen, ist besser, als falsch zu reden."
+      },
+      "es": {
+        "title": "Conocimiento y competencia: un cimiento firme",
+        "shortDescription": "La invitación se apoya en un conocimiento sólido, no en suposiciones. Quien invita no habla de lo que no sabe y nunca deja de aprender.",
+        "mainPrinciple": "La buena intención necesita un conocimiento correcto; decir 'no lo sé' es mejor que hablar de forma errónea.",
+        "summaryPoints": [
+          "Asegúrate de que los versículos, relatos y ejemplos que compartes sean auténticos y confiables; aléjate de invenciones y afirmaciones dudosas.",
+          "No hables de lo que no conoces; decir 'no estoy seguro, déjame investigarlo' es señal de sinceridad.",
+          "Nunca dejes de aprender; quien invita y comprende su época y a las personas se vuelve más eficaz."
+        ],
+        "dailyReflection": "Antes de compartir algo hoy, detente un instante para verificar si de verdad lo sabes correctamente.",
+        "dawahTip": "Ante una pregunta incierta, decir 'excelente pregunta, investiguémosla juntos' fortalece la confianza.",
+        "questionAnswer": {
+          "question": "¿Qué debo hacer si no sé la respuesta a una pregunta?",
+          "answer": "En lugar de adivinar, di con calma 'no lo sé', aprende de una fuente confiable y regresa; esto es honestidad, no debilidad."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre no hablar sin conocimiento e invitar con sabiduría.",
+        "shareText": "Una bella invitación se apoya en un conocimiento sólido: admitir que no sabemos es mejor que hablar de forma errónea."
+      }
+    }
+  },
+  {
+    "id": "dawah-hikmet-guzel-ogut",
+    "category": "dawah-principles",
+    "icon": "bulb-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "hikmet",
+      "wisdom",
+      "öğüt",
+      "kindness",
+      "davet"
+    ],
+    "content": {
+      "tr": {
+        "title": "Hikmet ve Güzel Öğüt",
+        "shortDescription": "Davet, bilgi yığmakla değil; her sözü en uygun yerine koyan hikmet ve gönle dokunan güzel öğütle yapılır.",
+        "mainPrinciple": "Hakikati hikmetle, güzel öğütle ve en güzel biçimde paylaşmak, zorlamaktan daha tesirlidir.",
+        "summaryPoints": [
+          "Amaç bilgi aktarmak değil, kalbi rahatlatan ve aklı tatmin eden hikmetli cevaplar vermektir.",
+          "Tartışmada en güzel yöntem seçilir; muhatabın görüşünün güçlü yanı saygıyla dinlenir.",
+          "Sözün doğru anını kollamak hikmettir; yerinde birkaç cümle, vakitsiz uzun konuşmadan değerlidir."
+        ],
+        "dailyReflection": "Bugün bir konuyu açıklamadan önce dur ve sor: Bunu söylemenin doğru anı şimdi mi?",
+        "dawahTip": "Karşındakini ikna etmeye çalışmadan önce onun haklı olduğu yanı içtenlikle teslim et; bu, kalbin kapısını aralar.",
+        "questionAnswer": {
+          "question": "Hikmetle davet ne demektir?",
+          "answer": "Doğru sözü, doğru kişiye, doğru zamanda ve en güzel üslupla, aceleye ve tepkiye kapılmadan söylemektir."
+        },
+        "referenceNote": "Bkz. Kur'an'da hikmet ve güzel öğütle davete dair ayetler.",
+        "shareText": "Birkaç hikmetli söz, vakitsiz uzun konuşmalardan daha çok kalbe dokunur."
+      },
+      "en": {
+        "title": "Wisdom and Beautiful Counsel",
+        "shortDescription": "Inviting others is not about piling up information, but about wisdom that places things rightly and counsel that reaches the heart.",
+        "mainPrinciple": "Sharing the truth with wisdom and beautiful counsel is far more effective than forcing it.",
+        "summaryPoints": [
+          "The goal is not to transfer information, but to give wise answers that ease the heart and satisfy the mind.",
+          "Choose the most gracious way in dialogue; listen respectfully to the strongest part of the other's view.",
+          "Watching for the right moment is wisdom; a few timely words outweigh long, untimely speeches."
+        ],
+        "dailyReflection": "Today, before explaining something, pause and ask: Is this the right moment to say it?",
+        "dawahTip": "Before trying to convince someone, sincerely acknowledge where they are right; this gently opens the heart.",
+        "questionAnswer": {
+          "question": "What does inviting with wisdom mean?",
+          "answer": "Saying the right word to the right person at the right time in the kindest manner, without haste or reactivity."
+        },
+        "referenceNote": "See Quranic verses on inviting with wisdom and beautiful counsel.",
+        "shareText": "A few wise words touch the heart more than long, untimely speeches."
+      },
+      "fr": {
+        "title": "Sagesse et Bon Conseil",
+        "shortDescription": "Inviter autrui ne consiste pas à accumuler des informations, mais à user de sagesse qui met chaque chose à sa place et d'un conseil qui touche le cœur.",
+        "mainPrinciple": "Partager la vérité avec sagesse et un beau conseil est bien plus efficace que de l'imposer.",
+        "summaryPoints": [
+          "Le but n'est pas de transmettre des informations, mais de donner des réponses sages qui apaisent le cœur et satisfont l'esprit.",
+          "Choisis la plus belle manière dans le dialogue ; écoute avec respect le point le plus fort de l'avis de l'autre.",
+          "Guetter le bon moment relève de la sagesse ; quelques mots opportuns valent mieux que de longs discours inopportuns."
+        ],
+        "dailyReflection": "Aujourd'hui, avant d'expliquer quelque chose, arrête-toi et demande : est-ce le bon moment pour le dire ?",
+        "dawahTip": "Avant de chercher à convaincre, reconnais sincèrement ce en quoi l'autre a raison ; cela entrouvre doucement le cœur.",
+        "questionAnswer": {
+          "question": "Que signifie inviter avec sagesse ?",
+          "answer": "Dire la juste parole à la bonne personne au bon moment, de la plus belle manière, sans précipitation ni réaction."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'appel avec sagesse et bon conseil.",
+        "shareText": "Quelques mots empreints de sagesse touchent le cœur plus que de longs discours inopportuns."
+      },
+      "pt-BR": {
+        "title": "Sabedoria e Bom Conselho",
+        "shortDescription": "Convidar o outro não é acumular informação, mas usar a sabedoria que coloca cada coisa em seu lugar e um conselho que alcança o coração.",
+        "mainPrinciple": "Compartilhar a verdade com sabedoria e belo conselho é muito mais eficaz do que impô-la.",
+        "summaryPoints": [
+          "O objetivo não é transmitir informação, mas dar respostas sábias que acalmam o coração e satisfazem a mente.",
+          "Escolha a maneira mais bela no diálogo; ouça com respeito o ponto mais forte da opinião do outro.",
+          "Aguardar o momento certo é sabedoria; poucas palavras oportunas valem mais que longos discursos fora de hora."
+        ],
+        "dailyReflection": "Hoje, antes de explicar algo, pare e pergunte: este é o momento certo para dizê-lo?",
+        "dawahTip": "Antes de tentar convencer alguém, reconheça com sinceridade onde a pessoa tem razão; isso abre suavemente o coração.",
+        "questionAnswer": {
+          "question": "O que significa convidar com sabedoria?",
+          "answer": "Dizer a palavra certa à pessoa certa no momento certo, da maneira mais gentil, sem pressa nem reação impulsiva."
+        },
+        "referenceNote": "Veja os versículos corânicos sobre convidar com sabedoria e bom conselho.",
+        "shareText": "Poucas palavras sábias tocam o coração mais do que longos discursos fora de hora."
+      },
+      "de": {
+        "title": "Weisheit und Schöner Rat",
+        "shortDescription": "Andere einzuladen heißt nicht, Wissen anzuhäufen, sondern mit Weisheit jedes Ding an seinen Platz zu setzen und mit Rat das Herz zu erreichen.",
+        "mainPrinciple": "Die Wahrheit mit Weisheit und schönem Rat zu teilen, wirkt weit mehr als sie zu erzwingen.",
+        "summaryPoints": [
+          "Das Ziel ist nicht, Wissen zu übermitteln, sondern weise Antworten zu geben, die das Herz beruhigen und den Verstand zufriedenstellen.",
+          "Wähle im Gespräch die schönste Art; höre dem stärksten Punkt der Ansicht des anderen mit Respekt zu.",
+          "Den rechten Augenblick abzupassen ist Weisheit; wenige passende Worte wiegen mehr als lange, unpassende Reden."
+        ],
+        "dailyReflection": "Halte heute inne, bevor du etwas erklärst, und frage: Ist jetzt der richtige Moment, es zu sagen?",
+        "dawahTip": "Bevor du jemanden überzeugen willst, erkenne aufrichtig an, worin er recht hat; das öffnet das Herz behutsam.",
+        "questionAnswer": {
+          "question": "Was bedeutet es, mit Weisheit einzuladen?",
+          "answer": "Das richtige Wort der richtigen Person zur richtigen Zeit auf die schönste Weise zu sagen, ohne Eile und Gereiztheit."
+        },
+        "referenceNote": "Siehe die Koranverse über das Einladen mit Weisheit und schönem Rat.",
+        "shareText": "Wenige weise Worte berühren das Herz mehr als lange, unpassende Reden."
+      },
+      "es": {
+        "title": "Sabiduría y buen consejo",
+        "shortDescription": "Invitar al otro no es acumular información, sino usar la sabiduría que pone cada cosa en su lugar y un consejo que alcanza el corazón.",
+        "mainPrinciple": "Compartir la verdad con sabiduría y buen consejo es mucho más eficaz que imponerla.",
+        "summaryPoints": [
+          "El objetivo no es transmitir información, sino dar respuestas sabias que calman el corazón y satisfacen la mente.",
+          "Elige la manera más bella en el diálogo; escucha con respeto el punto más fuerte de la opinión del otro.",
+          "Aguardar el momento adecuado es sabiduría; pocas palabras oportunas valen más que largos discursos fuera de lugar."
+        ],
+        "dailyReflection": "Hoy, antes de explicar algo, detente y pregunta: ¿es este el momento adecuado para decirlo?",
+        "dawahTip": "Antes de intentar convencer a alguien, reconoce con sinceridad en qué tiene razón; eso abre suavemente el corazón.",
+        "questionAnswer": {
+          "question": "¿Qué significa invitar con sabiduría?",
+          "answer": "Decir la palabra correcta a la persona correcta en el momento correcto, de la manera más amable, sin prisa ni reacción impulsiva."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre invitar con sabiduría y buen consejo.",
+        "shareText": "Pocas palabras sabias tocan el corazón más que largos discursos fuera de lugar."
+      }
+    }
+  },
+  {
+    "id": "dawah-sabir-tahammul-sureklilik",
+    "category": "dawah-principles",
+    "icon": "time-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "sabır",
+      "süreklilik",
+      "patience",
+      "perseverance",
+      "tahammül"
+    ],
+    "content": {
+      "tr": {
+        "title": "Sabır ve Süreklilik",
+        "shortDescription": "Tebliğ uzun soluklu bir yoldur. Hemen sonuç beklemeden, güzel örnek olarak kararlılıkla devam etmek esastır.",
+        "mainPrinciple": "Davet, vazgeçmeyi değil, vazife bilinciyle sabırla sürdürmeyi gerektirir.",
+        "summaryPoints": [
+          "Hemen sonuç bekleme; kalplerin değişimi zaman ister.",
+          "Tepki ve umursamazlık karşısında bile nazikçe devam et.",
+          "Düşüş anlarında kendini muhasebeye çek, yenilenerek yola dön."
+        ],
+        "dailyReflection": "Bugün sonuç almak istediğin bir kişiye karşı acele etmeyi bırak; sadece güzel bir söz veya davranışla bir tohum ek.",
+        "dawahTip": "Karşındaki yavaş değişiyorsa sıkılma; anlayışla ve sürekli bir nezaketle yanında ol, zorlamak yerine örnek ol.",
+        "questionAnswer": {
+          "question": "Davetimden hemen sonuç alamıyorsam ne yapmalıyım?",
+          "answer": "Sonuç senin elinde değildir; senin görevin sabırla ve güzellikle devam etmektir. Tohumu ekmek sana, yeşertmek Allah'a aittir."
+        },
+        "referenceNote": "Bkz. Kur'an'da sabır ve güzel öğütle davete dair ayetler.",
+        "shareText": "Davet bir maraton, sprint değil. Sabırla atılan her güzel adım, bir gün meyvesini verir."
+      },
+      "en": {
+        "title": "Patience and Perseverance",
+        "shortDescription": "Inviting others is a long journey. Rather than expecting quick results, we continue steadily as a good example.",
+        "mainPrinciple": "Dawah calls not for giving up, but for persevering patiently with a sense of duty.",
+        "summaryPoints": [
+          "Do not expect instant results; hearts change slowly.",
+          "Continue gently even in the face of indifference or pushback.",
+          "When you stumble, reflect, renew yourself, and return to the path."
+        ],
+        "dailyReflection": "Today, stop rushing the person you hope to reach; simply plant a seed with one kind word or deed.",
+        "dawahTip": "If someone changes slowly, do not grow weary; stay beside them with understanding and constant kindness, leading by example rather than pressure.",
+        "questionAnswer": {
+          "question": "What should I do if my invitation brings no immediate result?",
+          "answer": "The outcome is not in your hands; your task is to continue with patience and beauty. Sowing the seed is yours, making it grow belongs to God."
+        },
+        "referenceNote": "See Quranic verses on inviting with patience and gentle counsel.",
+        "shareText": "Dawah is a marathon, not a sprint. Every kind step taken with patience bears fruit one day."
+      },
+      "fr": {
+        "title": "Patience et persévérance",
+        "shortDescription": "Inviter les autres est un long chemin. Plutôt que d'attendre des résultats immédiats, nous avançons avec constance, en montrant le bon exemple.",
+        "mainPrinciple": "L'invitation ne demande pas d'abandonner, mais de persévérer avec patience et conscience du devoir.",
+        "summaryPoints": [
+          "N'attends pas de résultats immédiats ; les cœurs changent lentement.",
+          "Continue avec douceur, même face à l'indifférence ou au rejet.",
+          "Quand tu chutes, fais ton bilan, renouvelle-toi et reprends le chemin."
+        ],
+        "dailyReflection": "Aujourd'hui, cesse de presser la personne que tu espères toucher ; sème simplement une graine par une bonne parole ou un bon geste.",
+        "dawahTip": "Si quelqu'un change lentement, ne te lasse pas ; reste à ses côtés avec compréhension et une bonté constante, en montrant l'exemple plutôt qu'en forçant.",
+        "questionAnswer": {
+          "question": "Que faire si mon invitation ne donne aucun résultat immédiat ?",
+          "answer": "Le résultat n'est pas entre tes mains ; ta tâche est de continuer avec patience et beauté. Semer la graine t'appartient, la faire croître appartient à Dieu."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'invitation avec patience et bon conseil.",
+        "shareText": "L'invitation est un marathon, pas un sprint. Chaque pas bienveillant posé avec patience portera un jour ses fruits."
+      },
+      "pt-BR": {
+        "title": "Paciência e perseverança",
+        "shortDescription": "Convidar os outros é uma jornada longa. Em vez de esperar resultados imediatos, seguimos com firmeza, sendo um bom exemplo.",
+        "mainPrinciple": "O convite não pede que desistamos, mas que perseveremos com paciência e consciência do dever.",
+        "summaryPoints": [
+          "Não espere resultados imediatos; os corações mudam devagar.",
+          "Continue com gentileza, mesmo diante da indiferença ou da resistência.",
+          "Quando tropeçar, reflita, renove-se e volte ao caminho."
+        ],
+        "dailyReflection": "Hoje, pare de apressar a pessoa que deseja alcançar; apenas plante uma semente com uma palavra ou um gesto bom.",
+        "dawahTip": "Se alguém muda devagar, não se canse; fique ao lado dela com compreensão e gentileza constante, dando o exemplo em vez de pressionar.",
+        "questionAnswer": {
+          "question": "O que fazer se meu convite não traz resultado imediato?",
+          "answer": "O resultado não está em suas mãos; sua tarefa é continuar com paciência e beleza. Semear a semente é seu, fazê-la crescer pertence a Deus."
+        },
+        "referenceNote": "Veja os versículos corânicos sobre convidar com paciência e bom conselho.",
+        "shareText": "O convite é uma maratona, não uma corrida curta. Cada passo gentil dado com paciência um dia dará frutos."
+      },
+      "de": {
+        "title": "Geduld und Beständigkeit",
+        "shortDescription": "Andere einzuladen ist ein langer Weg. Statt schnelle Ergebnisse zu erwarten, gehen wir beständig voran und sind ein gutes Vorbild.",
+        "mainPrinciple": "Die Einladung verlangt kein Aufgeben, sondern beständiges Durchhalten mit Pflichtbewusstsein und Geduld.",
+        "summaryPoints": [
+          "Erwarte keine sofortigen Ergebnisse; Herzen wandeln sich langsam.",
+          "Fahre auch bei Gleichgültigkeit oder Ablehnung sanft fort.",
+          "Wenn du strauchelst, halte inne, erneuere dich und kehre auf den Weg zurück."
+        ],
+        "dailyReflection": "Höre heute auf, den Menschen zu drängen, den du erreichen möchtest; pflanze einfach mit einem guten Wort oder einer guten Tat einen Samen.",
+        "dawahTip": "Wenn sich jemand langsam wandelt, werde nicht müde; bleibe mit Verständnis und beständiger Freundlichkeit an seiner Seite und gehe mit gutem Beispiel voran, statt Druck auszuüben.",
+        "questionAnswer": {
+          "question": "Was soll ich tun, wenn meine Einladung kein sofortiges Ergebnis bringt?",
+          "answer": "Das Ergebnis liegt nicht in deiner Hand; deine Aufgabe ist es, mit Geduld und Schönheit fortzufahren. Den Samen zu säen ist dein, ihn wachsen zu lassen gehört Gott."
+        },
+        "referenceNote": "Siehe die koranischen Verse über das Einladen mit Geduld und gutem Rat.",
+        "shareText": "Die Einladung ist ein Marathon, kein Sprint. Jeder freundliche Schritt, der mit Geduld getan wird, trägt eines Tages Frucht."
+      },
+      "es": {
+        "title": "Paciencia y perseverancia",
+        "shortDescription": "Invitar a los demás es un camino largo. En lugar de esperar resultados inmediatos, seguimos con firmeza, siendo un buen ejemplo.",
+        "mainPrinciple": "La invitación no pide que desistamos, sino que perseveremos con paciencia y conciencia del deber.",
+        "summaryPoints": [
+          "No esperes resultados inmediatos; los corazones cambian despacio.",
+          "Continúa con gentileza, incluso ante la indiferencia o la resistencia.",
+          "Cuando tropieces, reflexiona, renuévate y vuelve al camino."
+        ],
+        "dailyReflection": "Hoy, deja de apresurar a la persona que deseas alcanzar; simplemente planta una semilla con una palabra o un gesto bueno.",
+        "dawahTip": "Si alguien cambia despacio, no te canses; permanece a su lado con comprensión y una gentileza constante, dando el ejemplo en vez de presionar.",
+        "questionAnswer": {
+          "question": "¿Qué hago si mi invitación no trae un resultado inmediato?",
+          "answer": "El resultado no está en tus manos; tu tarea es continuar con paciencia y belleza. Sembrar la semilla es tuyo, hacerla crecer le pertenece a Dios."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre invitar con paciencia y buen consejo.",
+        "shareText": "La invitación es una maratón, no una carrera corta. Cada paso gentil dado con paciencia algún día dará frutos."
+      }
+    }
+  },
+  {
+    "id": "dawah-rahmet-kolaylik-mujde",
+    "category": "dawah-principles",
+    "icon": "happy-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "rahmet",
+      "kolaylik",
+      "mujde",
+      "mercy",
+      "ease"
+    ],
+    "content": {
+      "tr": {
+        "title": "Rahmet, Kolaylık ve Müjde",
+        "shortDescription": "Tebliğde insanı yormak yerine kolaylaştırmak, korkutmaktan önce ümit vermek ve herkese ayrım gözetmeden merhametle yaklaşmak esastır.",
+        "mainPrinciple": "Davet, zorlaştırmadan kolaylaştıran, korkutmadan müjdeleyen merhametli bir dille yapılır.",
+        "summaryPoints": [
+          "Dini yaşanmaz kılan katılıktan kaç; kolaylaştır, zorlaştırma.",
+          "Müjde ile uyarıyı dengede tut; sadece korkutmak da, sadece avutmak da eksiktir.",
+          "Yakın-uzak, herkese ayrım gözetmeden iyilik ve merhametle yaklaş."
+        ],
+        "dailyReflection": "Bugün birine bir konuyu anlatırken, ona zorlukları değil önce bir kolaylığı ve güzel bir müjdeyi göster.",
+        "dawahTip": "Hakikati anlatırken kabul-ret kararını muhatabın özgür vicdanına bırak; ısrar yerine güzel örnek ol.",
+        "questionAnswer": {
+          "question": "İnsanları korkutarak inandırmak daha etkili değil mi?",
+          "answer": "Yalnız korkutmak kalbi kapatır; müjde ile uyarıyı dengeleyen merhametli bir dil kalbi açar ve davete güç katar."
+        },
+        "referenceNote": "Bkz. Kur'an'da kolaylık ve müjde temalı ayetler ile Hz. Peygamber ﷺ'in kolaylaştırma ve müjdeleme yönündeki rehberliği.",
+        "shareText": "Davet zorlaştırmak değil kolaylaştırmaktır; korkutmadan önce ümit ver, herkese merhametle yaklaş."
+      },
+      "en": {
+        "title": "Mercy, Ease and Glad Tidings",
+        "shortDescription": "In sharing faith, the key is to make things easy rather than burdensome, to give hope before warning, and to treat everyone with mercy without discrimination.",
+        "mainPrinciple": "Invitation is offered through a merciful tone that eases rather than burdens and gives glad tidings rather than only fear.",
+        "summaryPoints": [
+          "Avoid the harshness that makes faith unlivable; make it easy, not hard.",
+          "Balance glad tidings with warning; fear alone or comfort alone is incomplete.",
+          "Approach everyone, near or far, with kindness and mercy without discrimination."
+        ],
+        "dailyReflection": "Today, when you explain something to someone, show them an ease and a good tiding first, not the difficulties.",
+        "dawahTip": "When you share the truth, leave acceptance or refusal to the other person's free conscience; be a beautiful example instead of insisting.",
+        "questionAnswer": {
+          "question": "Isn't it more effective to make people believe through fear?",
+          "answer": "Fear alone closes the heart; a merciful tone that balances glad tidings with warning opens the heart and strengthens the invitation."
+        },
+        "referenceNote": "See Quranic themes of ease and glad tidings, and the Prophet's guidance to make things easy and to give glad tidings.",
+        "shareText": "Invitation means making things easy, not hard; give hope before fear and approach everyone with mercy."
+      },
+      "fr": {
+        "title": "Misericorde, facilite et bonne nouvelle",
+        "shortDescription": "Dans le partage de la foi, l'essentiel est de faciliter plutot que d'alourdir, de donner espoir avant d'avertir, et de traiter chacun avec misericorde sans distinction.",
+        "mainPrinciple": "L'invitation se fait avec un ton misericordieux qui facilite au lieu d'alourdir et qui annonce une bonne nouvelle plutot que la seule crainte.",
+        "summaryPoints": [
+          "Evite la durete qui rend la foi invivable; facilite, ne complique pas.",
+          "Equilibre la bonne nouvelle et l'avertissement; la seule peur ou le seul reconfort est incomplet.",
+          "Approche chacun, proche ou lointain, avec bonte et misericorde sans distinction."
+        ],
+        "dailyReflection": "Aujourd'hui, lorsque tu expliques quelque chose a quelqu'un, montre-lui d'abord une facilite et une bonne nouvelle, pas les difficultes.",
+        "dawahTip": "En partageant la verite, laisse l'acceptation ou le refus a la libre conscience de l'autre; sois un bel exemple au lieu d'insister.",
+        "questionAnswer": {
+          "question": "N'est-il pas plus efficace de faire croire les gens par la peur?",
+          "answer": "La seule peur ferme le coeur; un ton misericordieux qui equilibre bonne nouvelle et avertissement ouvre le coeur et renforce l'invitation."
+        },
+        "referenceNote": "Voir les thèmes coraniques de facilité et de bonne nouvelle, ainsi que la guidance du Prophète à faciliter et à annoncer la bonne nouvelle.",
+        "shareText": "Inviter, c'est faciliter et non compliquer; donne l'espoir avant la crainte et approche chacun avec misericorde."
+      },
+      "pt-BR": {
+        "title": "Misericordia, facilidade e boas-novas",
+        "shortDescription": "Ao compartilhar a fe, o essencial e facilitar em vez de sobrecarregar, dar esperanca antes de advertir e tratar todos com misericordia sem distincao.",
+        "mainPrinciple": "O convite e feito com um tom misericordioso que facilita em vez de sobrecarregar e que anuncia boas-novas em vez de apenas o medo.",
+        "summaryPoints": [
+          "Evite a dureza que torna a fe insustentavel; facilite, nao dificulte.",
+          "Equilibre as boas-novas com a advertencia; so o medo ou so o conforto e incompleto.",
+          "Aproxime-se de todos, proximos ou distantes, com bondade e misericordia sem distincao."
+        ],
+        "dailyReflection": "Hoje, ao explicar algo a alguem, mostre primeiro uma facilidade e uma boa noticia, e nao as dificuldades.",
+        "dawahTip": "Ao compartilhar a verdade, deixe a aceitacao ou recusa a livre consciencia do outro; seja um belo exemplo em vez de insistir.",
+        "questionAnswer": {
+          "question": "Nao e mais eficaz fazer as pessoas crerem pelo medo?",
+          "answer": "So o medo fecha o coracao; um tom misericordioso que equilibra boas-novas e advertencia abre o coracao e fortalece o convite."
+        },
+        "referenceNote": "Veja os temas alcorânicos de facilidade e boas-novas, e a orientação do Profeta de facilitar e dar boas-novas.",
+        "shareText": "Convidar e facilitar, nao dificultar; de esperanca antes do medo e aproxime-se de todos com misericordia."
+      },
+      "de": {
+        "title": "Barmherzigkeit, Erleichterung und frohe Botschaft",
+        "shortDescription": "Beim Weitergeben des Glaubens ist es entscheidend, zu erleichtern statt zu belasten, vor der Warnung Hoffnung zu schenken und allen ohne Unterschied mit Barmherzigkeit zu begegnen.",
+        "mainPrinciple": "Die Einladung geschieht in einem barmherzigen Ton, der erleichtert statt belastet und frohe Botschaft schenkt statt nur Furcht.",
+        "summaryPoints": [
+          "Vermeide die Harte, die den Glauben unlebbar macht; erleichtere, erschwere nicht.",
+          "Halte frohe Botschaft und Warnung im Gleichgewicht; nur Furcht oder nur Trost ist unvollstandig.",
+          "Begegne jedem, ob nah oder fern, mit Gute und Barmherzigkeit ohne Unterschied."
+        ],
+        "dailyReflection": "Zeige heute jemandem, dem du etwas erklarst, zuerst eine Erleichterung und eine gute Botschaft, nicht die Schwierigkeiten.",
+        "dawahTip": "Wenn du die Wahrheit teilst, uberlasse Annahme oder Ablehnung dem freien Gewissen des anderen; sei ein schones Vorbild statt zu drangen.",
+        "questionAnswer": {
+          "question": "Ist es nicht wirksamer, Menschen durch Furcht zum Glauben zu bringen?",
+          "answer": "Furcht allein verschliesst das Herz; ein barmherziger Ton, der frohe Botschaft und Warnung ausbalanciert, offnet das Herz und starkt die Einladung."
+        },
+        "referenceNote": "Siehe die koranischen Themen von Erleichterung und froher Botschaft sowie die Anleitung des Propheten, es leicht zu machen und frohe Botschaft zu verkünden.",
+        "shareText": "Einladen heisst erleichtern, nicht erschweren; schenke Hoffnung vor Furcht und begegne allen mit Barmherzigkeit."
+      },
+      "es": {
+        "title": "Misericordia, facilidad y buenas nuevas",
+        "shortDescription": "Al compartir la fe, lo esencial es facilitar en lugar de cargar, dar esperanza antes de advertir y tratar a todos con misericordia sin distinción.",
+        "mainPrinciple": "La invitación se hace con un tono misericordioso que facilita en lugar de cargar y que anuncia buenas nuevas en vez de solo el miedo.",
+        "summaryPoints": [
+          "Evita la dureza que hace insostenible la fe; facilita, no dificultes.",
+          "Equilibra las buenas nuevas con la advertencia; solo el miedo o solo el consuelo es incompleto.",
+          "Acércate a todos, cercanos o lejanos, con bondad y misericordia sin distinción."
+        ],
+        "dailyReflection": "Hoy, al explicarle algo a alguien, muéstrale primero una facilidad y una buena noticia, y no las dificultades.",
+        "dawahTip": "Al compartir la verdad, deja la aceptación o el rechazo a la libre conciencia del otro; sé un bello ejemplo en vez de insistir.",
+        "questionAnswer": {
+          "question": "¿No es más eficaz hacer que las personas crean por medio del miedo?",
+          "answer": "Solo el miedo cierra el corazón; un tono misericordioso que equilibra las buenas nuevas y la advertencia abre el corazón y fortalece la invitación."
+        },
+        "referenceNote": "Véanse los temas del Corán sobre la facilidad y las buenas nuevas, y la guía del Profeta de facilitar y dar buenas nuevas.",
+        "shareText": "Invitar es facilitar, no dificultar; da esperanza antes que miedo y acércate a todos con misericordia."
+      }
+    }
+  },
+  {
+    "id": "dawah-sosyal-medyada-teblig",
+    "category": "dawah-principles",
+    "icon": "phone-portrait-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "sosyal medya",
+      "social media",
+      "tebliğ",
+      "niyet",
+      "edep"
+    ],
+    "content": {
+      "tr": {
+        "title": "Sosyal Medyada Tebliğ Edebi",
+        "shortDescription": "Ekran başında da güzel bir örnek olabiliriz. Sosyal medyada paylaşımı, beğeni peşinde koşmadan, samimiyet ve niteliğe önem vererek yapmak hem mesajı hem de niyeti korur.",
+        "mainPrinciple": "Paylaştığın her şeyden önce niyetini ve doğruluğunu gözden geçir; popülarite değil, hakikate ve güzel örnek olmaya talip ol.",
+        "summaryPoints": [
+          "Niyetini koru: beğeni ve takipçi peşinde değil, gerçek hayatınla tutarlı paylaş.",
+          "Yalnızca doğruladığın, güvendiğin bilgiyi paylaş; tartışmalı ve uzmanlık dışı konularda sus.",
+          "Eleştiriye nezaketle, çatışmadan cevap ver ve kuşatıcı, ayrıştırmayan bir dil kullan."
+        ],
+        "dailyReflection": "Bugün bir şey paylaşmadan önce kendine sor: 'Bunu kim için ve hangi niyetle paylaşıyorum?' Emin değilsen, paylaşmadan bekle.",
+        "dawahTip": "Bilgiyi paylaşmadan önce kaynağını sessizce doğrula; doğruladığın küçük bir hakikat, doğrulanmamış büyük bir iddiadan daha tesirlidir.",
+        "questionAnswer": {
+          "question": "Bir paylaşımın niyetimi bozup bozmadığını nasıl anlarım?",
+          "answer": "Beğeni gelmese de aynı şeyi paylaşır mıydın diye sor; cevabın 'evet' ise niyetin yerindedir."
+        },
+        "referenceNote": "Bkz. Kur'an'da güzel söz, hikmetli öğüt ve davete dair ayetler.",
+        "shareText": "Sosyal medyada da güzel örnek olabiliriz: önce niyet, sonra doğruluk, hep nezaket."
+      },
+      "en": {
+        "title": "Etiquette of Dawah on Social Media",
+        "shortDescription": "We can be a good example even behind a screen. Posting on social media without chasing likes, while valuing sincerity and quality, protects both the message and our intention.",
+        "mainPrinciple": "Before anything you share, examine your intention and its truth; seek reality and being a good example, not popularity.",
+        "summaryPoints": [
+          "Guard your intention: post in harmony with your real life, not for likes and followers.",
+          "Share only verified, trusted knowledge; stay silent on disputed matters and topics outside your expertise.",
+          "Respond to criticism with kindness, without conflict, using inclusive language that does not divide."
+        ],
+        "dailyReflection": "Before sharing anything today, ask yourself: 'For whom and with what intention am I sharing this?' If unsure, wait before posting.",
+        "dawahTip": "Quietly verify a source before sharing; a small verified truth is more effective than an unverified grand claim.",
+        "questionAnswer": {
+          "question": "How do I know if a post is corrupting my intention?",
+          "answer": "Ask whether you would still share it even with no likes; if your answer is 'yes,' your intention is sound."
+        },
+        "referenceNote": "See Quranic verses on inviting with wisdom and good words.",
+        "shareText": "We can be a good example on social media too: intention first, then truth, and always kindness."
+      },
+      "fr": {
+        "title": "L'éthique de l'appel sur les réseaux sociaux",
+        "shortDescription": "On peut être un bon exemple même derrière un écran. Publier sur les réseaux sans courir après les mentions « j'aime », en valorisant la sincérité et la qualité, protège à la fois le message et l'intention.",
+        "mainPrinciple": "Avant chaque partage, examine ton intention et sa véracité ; recherche la vérité et le bon exemple, non la popularité.",
+        "summaryPoints": [
+          "Préserve ton intention : publie en accord avec ta vie réelle, non pour les « j'aime » et les abonnés.",
+          "Ne partage que des informations vérifiées et fiables ; garde le silence sur les sujets controversés ou hors de ta compétence.",
+          "Réponds aux critiques avec douceur, sans conflit, en employant un langage rassembleur qui ne divise pas."
+        ],
+        "dailyReflection": "Avant de partager quoi que ce soit aujourd'hui, demande-toi : « Pour qui et avec quelle intention est-ce que je partage cela ? » En cas de doute, attends avant de publier.",
+        "dawahTip": "Vérifie discrètement la source avant de partager ; une petite vérité vérifiée est plus efficace qu'une grande affirmation non vérifiée.",
+        "questionAnswer": {
+          "question": "Comment savoir si une publication corrompt mon intention ?",
+          "answer": "Demande-toi si tu la partagerais quand même sans aucune mention « j'aime » ; si ta réponse est « oui », ton intention est saine."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'appel avec sagesse et belle parole.",
+        "shareText": "On peut aussi être un bon exemple sur les réseaux : d'abord l'intention, puis la vérité, et toujours la douceur."
+      },
+      "pt-BR": {
+        "title": "A ética do convite nas redes sociais",
+        "shortDescription": "Podemos ser um bom exemplo mesmo atrás de uma tela. Publicar nas redes sem buscar curtidas, valorizando a sinceridade e a qualidade, protege tanto a mensagem quanto a intenção.",
+        "mainPrinciple": "Antes de tudo o que você compartilha, examine sua intenção e a veracidade; busque a verdade e o bom exemplo, não a popularidade.",
+        "summaryPoints": [
+          "Guarde sua intenção: publique em harmonia com sua vida real, não por curtidas e seguidores.",
+          "Compartilhe apenas informações verificadas e confiáveis; cale-se sobre temas polêmicos e fora da sua especialidade.",
+          "Responda às críticas com gentileza, sem conflito, usando uma linguagem acolhedora que não divide."
+        ],
+        "dailyReflection": "Antes de compartilhar algo hoje, pergunte a si mesmo: 'Para quem e com que intenção estou compartilhando isto?' Se não tiver certeza, espere antes de publicar.",
+        "dawahTip": "Verifique a fonte em silêncio antes de compartilhar; uma pequena verdade verificada é mais eficaz do que uma grande afirmação não verificada.",
+        "questionAnswer": {
+          "question": "Como sei se uma publicação está corrompendo minha intenção?",
+          "answer": "Pergunte se você ainda a compartilharia mesmo sem nenhuma curtida; se a resposta for 'sim', sua intenção está correta."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre convidar com sabedoria e boa palavra.",
+        "shareText": "Também podemos ser um bom exemplo nas redes sociais: primeiro a intenção, depois a verdade, e sempre a gentileza."
+      },
+      "de": {
+        "title": "Die Etikette der Einladung in den sozialen Medien",
+        "shortDescription": "Wir können auch hinter einem Bildschirm ein gutes Vorbild sein. In den sozialen Medien zu posten, ohne Likes nachzujagen, und dabei Aufrichtigkeit und Qualität zu schätzen, schützt sowohl die Botschaft als auch die Absicht.",
+        "mainPrinciple": "Prüfe vor allem, was du teilst, deine Absicht und ihre Wahrheit; strebe nach Wahrheit und einem guten Vorbild, nicht nach Beliebtheit.",
+        "summaryPoints": [
+          "Bewahre deine Absicht: poste im Einklang mit deinem wirklichen Leben, nicht für Likes und Follower.",
+          "Teile nur geprüftes, vertrauenswürdiges Wissen; schweige bei umstrittenen Themen und außerhalb deines Fachgebiets.",
+          "Begegne Kritik mit Freundlichkeit, ohne Streit, und verwende eine einbindende Sprache, die nicht spaltet."
+        ],
+        "dailyReflection": "Bevor du heute etwas teilst, frage dich: 'Für wen und mit welcher Absicht teile ich das?' Wenn du unsicher bist, warte mit dem Posten.",
+        "dawahTip": "Prüfe die Quelle still, bevor du teilst; eine kleine geprüfte Wahrheit ist wirksamer als eine ungeprüfte große Behauptung.",
+        "questionAnswer": {
+          "question": "Woran erkenne ich, ob ein Beitrag meine Absicht verdirbt?",
+          "answer": "Frage dich, ob du ihn auch ganz ohne Likes teilen würdest; lautet die Antwort 'ja', ist deine Absicht aufrichtig."
+        },
+        "referenceNote": "Siehe die Koranverse über das Einladen mit Weisheit und gutem Wort.",
+        "shareText": "Auch in den sozialen Medien können wir ein gutes Vorbild sein: zuerst die Absicht, dann die Wahrheit und immer Freundlichkeit."
+      },
+      "es": {
+        "title": "La ética del convite en las redes sociales",
+        "shortDescription": "Podemos ser un buen ejemplo incluso detrás de una pantalla. Publicar en las redes sin buscar 'me gusta', valorando la sinceridad y la calidad, protege tanto el mensaje como la intención.",
+        "mainPrinciple": "Antes de compartir cualquier cosa, examina tu intención y la veracidad de lo que vas a publicar; busca la verdad y el buen ejemplo, no la popularidad.",
+        "summaryPoints": [
+          "Cuida tu intención: publica en armonía con tu vida real, no por 'me gusta' y seguidores.",
+          "Comparte solo información verificada y confiable; calla sobre los temas polémicos y fuera de tu especialidad.",
+          "Responde a las críticas con gentileza, sin conflicto, usando un lenguaje acogedor que no divide."
+        ],
+        "dailyReflection": "Antes de compartir algo hoy, pregúntate: '¿Para quién y con qué intención estoy compartiendo esto?' Si no estás seguro, espera antes de publicar.",
+        "dawahTip": "Verifica la fuente en silencio antes de compartir; una pequeña verdad verificada es más eficaz que una gran afirmación sin verificar.",
+        "questionAnswer": {
+          "question": "¿Cómo sé si una publicación está corrompiendo mi intención?",
+          "answer": "Pregúntate si la compartirías igual aun sin ningún 'me gusta'; si tu respuesta es 'sí', tu intención está en orden."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre invitar con sabiduría y buena palabra.",
+        "shareText": "También podemos ser un buen ejemplo en las redes sociales: primero la intención, luego la verdad, y siempre la gentileza."
+      }
+    }
+  },
+  {
+    "id": "dawah-yasa-gore-iletisim",
+    "category": "dawah-principles",
+    "icon": "chatbubble-ellipses-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "iletisim",
+      "communication",
+      "cocuk",
+      "genc",
+      "yetiskin"
+    ],
+    "content": {
+      "tr": {
+        "title": "Her Yaşa Uygun Dil",
+        "shortDescription": "Çocuğa, gence ve yetişkine aynı şekilde değil; her birinin gönlüne uygun bir dille yaklaşmak gerekir.",
+        "mainPrinciple": "Muhatabın yaşını ve hâlini gözeten, sevgi ve samimiyetle örülmüş bir dil her zaman zorlamadan daha tesirlidir.",
+        "summaryPoints": [
+          "Çocukla önce sevgi ve güven bağı kur; dini korkuyla değil, sevgiyle ve güzel kıssalarla tanıt.",
+          "Gence üstenci nasihat yerine bir iki söz söyle, düşünmesi için alan bırak; suçluluk değil ümit aşıla.",
+          "Yetişkine yaklaşımı kişiye göre uyarla; samimiyet ve içtenlik tüm tekniklerden önce gelir."
+        ],
+        "dailyReflection": "Bugün konuştuğun bir çocuğun, gencin veya büyüğün hâline göre bir cümleni yumuşat; karşındakinin yaşını gözeterek konuş.",
+        "dawahTip": "Israr etme; sözünü kısa tut ve karşındakine düşünme alanı bırak. Israr kabulü neredeyse imkânsız kılar.",
+        "questionAnswer": {
+          "question": "Herkese aynı dille mi konuşmalıyım?",
+          "answer": "Hayır. Mesajın özü aynı kalsa da çocuğa, gence ve yetişkine ayrı ayrı, hâline uygun bir dille yaklaşmak gerekir."
+        },
+        "referenceNote": "Bkz. Kur'an'da güzel öğüt ve hikmetle davete dair ayetler.",
+        "shareText": "Sözün gücü, karşındakinin yaşına ve gönlüne uygun konuşmaktan gelir. Zorlamak değil, güzel örnek olmak kalpleri açar."
+      },
+      "en": {
+        "title": "A Word Fit for Every Age",
+        "shortDescription": "Children, youth, and adults should not be addressed the same way; each deserves a language suited to their heart.",
+        "mainPrinciple": "Speech shaped by the listener's age and state, woven with love and sincerity, is always more effective than pressure.",
+        "summaryPoints": [
+          "With a child, first build a bond of love and trust; introduce faith through warmth and beautiful stories, never through fear.",
+          "With youth, offer a word or two instead of lecturing, and leave room to reflect; inspire hope rather than guilt.",
+          "With adults, adapt your approach to the person; sincerity and warmth come before every technique."
+        ],
+        "dailyReflection": "Today, soften one sentence to match whether you are speaking to a child, a young person, or an elder; mind their age as you speak.",
+        "dawahTip": "Do not insist; keep your words short and leave space for the other to think. Insistence makes acceptance nearly impossible.",
+        "questionAnswer": {
+          "question": "Should I speak to everyone in the same way?",
+          "answer": "No. Though the essence of the message stays the same, children, youth, and adults each deserve a language suited to their state."
+        },
+        "referenceNote": "See Quranic verses on inviting with wisdom and beautiful counsel.",
+        "shareText": "The power of a word comes from speaking to the age and heart before you. Not pressure, but a beautiful example opens hearts."
+      },
+      "fr": {
+        "title": "Une parole adaptée à chaque âge",
+        "shortDescription": "On ne s'adresse pas de la même façon à un enfant, à un jeune et à un adulte; chacun mérite un langage qui touche son coeur.",
+        "mainPrinciple": "Une parole adaptée à l'âge et à l'état de l'interlocuteur, tissée d'amour et de sincérité, est toujours plus efficace que la contrainte.",
+        "summaryPoints": [
+          "Avec l'enfant, crée d'abord un lien d'amour et de confiance; fais découvrir la foi par la tendresse et de belles histoires, jamais par la peur.",
+          "Avec le jeune, dis un mot ou deux au lieu de faire la morale et laisse de l'espace pour réfléchir; inspire l'espoir plutôt que la culpabilité.",
+          "Avec l'adulte, adapte ton approche à la personne; la sincérité et la chaleur priment sur toute technique."
+        ],
+        "dailyReflection": "Aujourd'hui, adoucis une phrase selon que tu parles à un enfant, à un jeune ou à un aîné; tiens compte de son âge en parlant.",
+        "dawahTip": "N'insiste pas; garde tes mots brefs et laisse à l'autre l'espace de réfléchir. L'insistance rend l'acceptation presque impossible.",
+        "questionAnswer": {
+          "question": "Dois-je parler à tout le monde de la même manière?",
+          "answer": "Non. Bien que l'essence du message reste la même, l'enfant, le jeune et l'adulte méritent chacun un langage adapté à leur état."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'invitation avec sagesse et belle exhortation.",
+        "shareText": "La force d'une parole vient de s'adresser à l'âge et au coeur de l'autre. Non la contrainte, mais le bel exemple ouvre les coeurs."
+      },
+      "pt-BR": {
+        "title": "Uma palavra para cada idade",
+        "shortDescription": "Criancas, jovens e adultos nao devem ser abordados da mesma forma; cada um merece uma linguagem que toque seu coracao.",
+        "mainPrinciple": "Uma fala moldada pela idade e pelo estado do ouvinte, tecida com amor e sinceridade, e sempre mais eficaz do que a pressao.",
+        "summaryPoints": [
+          "Com a crianca, construa primeiro um laco de amor e confianca; apresente a fe com carinho e belas historias, nunca pelo medo.",
+          "Com o jovem, diga uma ou duas palavras em vez de dar sermao e deixe espaco para refletir; inspire esperanca, nao culpa.",
+          "Com o adulto, adapte sua abordagem a pessoa; a sinceridade e a calidez vem antes de qualquer tecnica."
+        ],
+        "dailyReflection": "Hoje, suavize uma frase conforme voce fale com uma crianca, um jovem ou um idoso; considere a idade dele ao falar.",
+        "dawahTip": "Nao insista; mantenha suas palavras curtas e deixe espaco para o outro pensar. A insistencia torna a aceitacao quase impossivel.",
+        "questionAnswer": {
+          "question": "Devo falar com todos da mesma maneira?",
+          "answer": "Nao. Embora a essencia da mensagem permaneca a mesma, criancas, jovens e adultos merecem cada um uma linguagem adequada ao seu estado."
+        },
+        "referenceNote": "Veja os versiculos do Alcorao sobre convidar com sabedoria e bela exortacao.",
+        "shareText": "A forca de uma palavra vem de falar a idade e ao coracao de quem esta diante de voce. Nao a pressao, mas o belo exemplo abre coracoes."
+      },
+      "de": {
+        "title": "Ein Wort fuer jedes Alter",
+        "shortDescription": "Kinder, Jugendliche und Erwachsene sollten nicht auf dieselbe Weise angesprochen werden; jeder verdient eine Sprache, die sein Herz erreicht.",
+        "mainPrinciple": "Eine Rede, die sich nach Alter und Zustand des Zuhoerers richtet und von Liebe und Aufrichtigkeit getragen wird, ist immer wirksamer als Zwang.",
+        "summaryPoints": [
+          "Baue beim Kind zuerst ein Band aus Liebe und Vertrauen auf; vermittle den Glauben durch Waerme und schoene Geschichten, niemals durch Angst.",
+          "Sage dem Jugendlichen ein, zwei Worte statt zu belehren, und lass ihm Raum zum Nachdenken; weck Hoffnung statt Schuldgefuehl.",
+          "Passe beim Erwachsenen deine Herangehensweise der Person an; Aufrichtigkeit und Waerme kommen vor jeder Technik."
+        ],
+        "dailyReflection": "Mildere heute einen Satz, je nachdem, ob du mit einem Kind, einem Jugendlichen oder einem aelteren Menschen sprichst; achte beim Reden auf sein Alter.",
+        "dawahTip": "Draenge nicht; halte deine Worte kurz und lass dem anderen Raum zum Nachdenken. Beharren macht Annahme nahezu unmoeglich.",
+        "questionAnswer": {
+          "question": "Soll ich mit allen auf dieselbe Weise sprechen?",
+          "answer": "Nein. Obwohl der Kern der Botschaft derselbe bleibt, verdienen Kinder, Jugendliche und Erwachsene je eine Sprache, die ihrem Zustand entspricht."
+        },
+        "referenceNote": "Siehe die Koranverse ueber das Einladen mit Weisheit und schoener Ermahnung.",
+        "shareText": "Die Kraft eines Wortes entsteht, wenn man zum Alter und Herzen des Gegenuebers spricht. Nicht Zwang, sondern das schoene Beispiel oeffnet Herzen."
+      },
+      "es": {
+        "title": "Una palabra adecuada para cada edad",
+        "shortDescription": "A un niño, a un joven y a un adulto no se les aborda de la misma forma; cada uno merece un lenguaje que toque su corazón.",
+        "mainPrinciple": "Una palabra moldeada por la edad y el estado de quien escucha, tejida con amor y sinceridad, siempre es más eficaz que la presión.",
+        "summaryPoints": [
+          "Con el niño, crea primero un lazo de amor y confianza; presenta la fe con cariño y bellas historias, nunca con miedo.",
+          "Con el joven, di una o dos palabras en vez de sermonear y deja espacio para reflexionar; inspira esperanza, no culpa.",
+          "Con el adulto, adapta tu enfoque a la persona; la sinceridad y la calidez van antes que cualquier técnica."
+        ],
+        "dailyReflection": "Hoy, suaviza una frase según hables con un niño, un joven o un mayor; ten en cuenta su edad al hablar.",
+        "dawahTip": "No insistas; mantén tus palabras breves y deja espacio para que el otro piense. La insistencia hace que la aceptación sea casi imposible.",
+        "questionAnswer": {
+          "question": "¿Debo hablarle a todos de la misma manera?",
+          "answer": "No. Aunque la esencia del mensaje permanezca igual, los niños, los jóvenes y los adultos merecen cada uno un lenguaje adecuado a su estado."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre invitar con sabiduría y bella exhortación.",
+        "shareText": "La fuerza de una palabra viene de hablarle a la edad y al corazón de quien tienes delante. No la presión, sino el bello ejemplo abre los corazones."
+      }
+    }
+  },
+  {
+    "id": "dawah-kacinilmasi-gerekenler",
+    "category": "dawah-principles",
+    "icon": "shield-checkmark-outline",
+    "difficulty": "beginner",
+    "estimatedReadMinutes": 3,
+    "tags": [
+      "tebliğ",
+      "davet",
+      "nezaket",
+      "avoid",
+      "wisdom"
+    ],
+    "content": {
+      "tr": {
+        "title": "Tebliğde Kaçınılması Gerekenler",
+        "shortDescription": "Güzel bir çağrıyı gölgeleyen tutumlardan uzak durmak, en az doğru söz söylemek kadar önemlidir. Bazı davranışlar mesajın değerini düşürür.",
+        "mainPrinciple": "Söylediğini yaşamak, yumuşak konuşmak ve zorlamamak; hakikati en güzel hâliyle ulaştırmanın yoludur.",
+        "summaryPoints": [
+          "Sözle eylem arasında çelişkiye düşmekten ve gösteriş için yapmaktan kaçın.",
+          "Sert, alaycı, üstenci üsluptan ve inançta zorlamadan uzak dur.",
+          "Bilmediğin konuda konuşma; sonucu kendine mal edip kaygıya kapılma, hidayet Allah'ındır."
+        ],
+        "dailyReflection": "Bugün biriyle din üzerine konuşurken sesini yumuşat ve cümleni bir öğütle sınırla; karşındakine düşünmesi için alan bırak.",
+        "dawahTip": "Bir hatayı düzeltmek istediğinde önce kendi hâlinle örnek ol; zorlamak yerine güzel davranışınla kapı arala.",
+        "questionAnswer": {
+          "question": "Tebliğde en çok hangi tutumdan kaçınmalıyız?",
+          "answer": "Anlattığını yaşamamaktan ve insanı zorlamaktan; çünkü çelişki güveni, baskı ise gönlü kırar."
+        },
+        "referenceNote": "Bkz. Kur'an'da güzel öğüt, hikmet ve dinde zorlamanın olmadığına dair ayetler.",
+        "shareText": "Güzel çağrı; yumuşak söz, tutarlı hâl ve zorlamamakla olur. Kalpleri Allah açar, biz yalnızca güzel örnek oluruz."
+      },
+      "en": {
+        "title": "What to Avoid When Inviting",
+        "shortDescription": "Avoiding the attitudes that overshadow a beautiful call is as important as saying the right words. Some behaviors diminish the message's worth.",
+        "mainPrinciple": "Living what you preach, speaking gently, and never forcing is the way to convey truth in its most beautiful form.",
+        "summaryPoints": [
+          "Avoid contradicting your words with your deeds, and acting for show.",
+          "Stay away from a harsh, mocking, or condescending tone and from coercion in faith.",
+          "Do not speak on what you do not know; do not claim the outcome as yours, for guidance belongs to God."
+        ],
+        "dailyReflection": "Today, when speaking about faith with someone, soften your voice and limit yourself to a single piece of advice, leaving them room to reflect.",
+        "dawahTip": "When you wish to correct a fault, first set an example with your own conduct; open the door with kindness rather than pressure.",
+        "questionAnswer": {
+          "question": "Which attitude should we most avoid when inviting?",
+          "answer": "Not living what we preach, and forcing others; contradiction breaks trust, and pressure wounds the heart."
+        },
+        "referenceNote": "See Quranic verses on inviting with wisdom and good counsel, and on there being no compulsion in religion.",
+        "shareText": "A beautiful call rests on gentle words, consistent conduct, and no compulsion. God opens hearts; we simply set a good example."
+      },
+      "fr": {
+        "title": "Ce qu'il faut éviter en invitant",
+        "shortDescription": "Éviter les attitudes qui ternissent un bel appel est aussi important que dire les bonnes paroles. Certains comportements amoindrissent la valeur du message.",
+        "mainPrinciple": "Vivre ce que l'on prêche, parler avec douceur et ne jamais contraindre : voilà la voie pour transmettre la vérité sous sa plus belle forme.",
+        "summaryPoints": [
+          "Évite de contredire tes paroles par tes actes et d'agir par ostentation.",
+          "Écarte-toi d'un ton dur, moqueur ou condescendant, et de toute contrainte dans la foi.",
+          "Ne parle pas de ce que tu ignores ; ne t'attribue pas le résultat, car la guidée appartient à Dieu."
+        ],
+        "dailyReflection": "Aujourd'hui, en parlant de foi avec quelqu'un, adoucis ta voix et limite-toi à un seul conseil, en lui laissant l'espace de réfléchir.",
+        "dawahTip": "Quand tu veux corriger un défaut, montre d'abord l'exemple par ta propre conduite ; ouvre la porte par la bienveillance plutôt que par la pression.",
+        "questionAnswer": {
+          "question": "Quelle attitude faut-il le plus éviter en invitant ?",
+          "answer": "Ne pas vivre ce que l'on prêche et contraindre autrui ; la contradiction brise la confiance et la pression blesse le cœur."
+        },
+        "referenceNote": "Voir les versets coraniques sur l'appel avec sagesse et bonne exhortation, et sur l'absence de contrainte en religion.",
+        "shareText": "Un bel appel repose sur la douceur des paroles, la cohérence de la conduite et l'absence de contrainte. Dieu ouvre les cœurs ; nous donnons seulement le bon exemple."
+      },
+      "pt-BR": {
+        "title": "O que evitar ao convidar",
+        "shortDescription": "Evitar as atitudes que ofuscam um belo convite é tão importante quanto dizer as palavras certas. Alguns comportamentos diminuem o valor da mensagem.",
+        "mainPrinciple": "Viver o que se prega, falar com gentileza e nunca forçar é o caminho para transmitir a verdade em sua forma mais bela.",
+        "summaryPoints": [
+          "Evite contradizer suas palavras com seus atos e agir por ostentação.",
+          "Afaste-se de um tom duro, zombeteiro ou arrogante e de qualquer coerção na fé.",
+          "Não fale sobre o que não conhece; não tome o resultado para si, pois a orientação pertence a Deus."
+        ],
+        "dailyReflection": "Hoje, ao falar sobre fé com alguém, suavize a voz e limite-se a um único conselho, deixando-lhe espaço para refletir.",
+        "dawahTip": "Quando quiser corrigir um erro, primeiro dê o exemplo com sua própria conduta; abra a porta com bondade, em vez de pressão.",
+        "questionAnswer": {
+          "question": "Qual atitude devemos mais evitar ao convidar?",
+          "answer": "Não viver o que pregamos e forçar os outros; a contradição quebra a confiança e a pressão fere o coração."
+        },
+        "referenceNote": "Veja os versículos do Alcorão sobre convidar com sabedoria e bom conselho, e sobre não haver coerção na religião.",
+        "shareText": "Um belo convite se apoia em palavras gentis, conduta coerente e ausência de coerção. Deus abre os corações; nós apenas damos o bom exemplo."
+      },
+      "de": {
+        "title": "Was beim Einladen zu vermeiden ist",
+        "shortDescription": "Die Haltungen zu meiden, die einen schönen Aufruf trüben, ist ebenso wichtig wie die richtigen Worte zu sprechen. Manches Verhalten mindert den Wert der Botschaft.",
+        "mainPrinciple": "Das zu leben, was man verkündet, sanft zu sprechen und niemals zu zwingen, ist der Weg, die Wahrheit in ihrer schönsten Gestalt zu vermitteln.",
+        "summaryPoints": [
+          "Vermeide es, deinen Worten durch deine Taten zu widersprechen und aus Geltungssucht zu handeln.",
+          "Halte dich von einem harten, spöttischen oder herablassenden Ton und von jedem Zwang im Glauben fern.",
+          "Sprich nicht über das, was du nicht weißt; schreibe dir das Ergebnis nicht zu, denn die Rechtleitung gehört Gott."
+        ],
+        "dailyReflection": "Wenn du heute mit jemandem über den Glauben sprichst, mach deine Stimme sanft und beschränke dich auf einen einzigen Rat, der ihm Raum zum Nachdenken lässt.",
+        "dawahTip": "Wenn du einen Fehler verbessern willst, geh zuerst mit deinem eigenen Verhalten als Beispiel voran; öffne die Tür mit Güte statt mit Druck.",
+        "questionAnswer": {
+          "question": "Welche Haltung sollten wir beim Einladen am meisten vermeiden?",
+          "answer": "Nicht zu leben, was wir verkünden, und andere zu zwingen; Widerspruch zerstört das Vertrauen und Druck verletzt das Herz."
+        },
+        "referenceNote": "Siehe die Verse des Korans über das Einladen mit Weisheit und gutem Rat und darüber, dass es im Glauben keinen Zwang gibt.",
+        "shareText": "Ein schöner Aufruf beruht auf sanften Worten, beständigem Verhalten und ohne Zwang. Gott öffnet die Herzen; wir geben nur ein gutes Beispiel."
+      },
+      "es": {
+        "title": "Lo que hay que evitar al invitar",
+        "shortDescription": "Evitar las actitudes que opacan un bello llamado es tan importante como decir las palabras correctas. Algunos comportamientos disminuyen el valor del mensaje.",
+        "mainPrinciple": "Vivir lo que se predica, hablar con gentileza y nunca forzar es el camino para transmitir la verdad en su forma más bella.",
+        "summaryPoints": [
+          "Evita contradecir tus palabras con tus actos y actuar por ostentación.",
+          "Aléjate de un tono duro, burlón o arrogante y de toda coacción en la fe.",
+          "No hables de lo que no conoces; no te atribuyas el resultado, pues la guía le pertenece a Dios."
+        ],
+        "dailyReflection": "Hoy, al hablar de fe con alguien, suaviza la voz y limítate a un solo consejo, dejándole espacio para reflexionar.",
+        "dawahTip": "Cuando quieras corregir un error, primero da el ejemplo con tu propia conducta; abre la puerta con bondad, en lugar de presión.",
+        "questionAnswer": {
+          "question": "¿Qué actitud debemos evitar más al invitar?",
+          "answer": "No vivir lo que predicamos y forzar a los demás; la contradicción quiebra la confianza y la presión hiere el corazón."
+        },
+        "referenceNote": "Véanse los versículos del Corán sobre invitar con sabiduría y buen consejo, y sobre que no hay coacción en la religión.",
+        "shareText": "Un bello llamado se apoya en palabras gentiles, conducta coherente y ausencia de coacción. Dios abre los corazones; nosotros solo damos el buen ejemplo."
+      }
+    }
+  }
+]
