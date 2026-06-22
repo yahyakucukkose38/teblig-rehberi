@@ -25,6 +25,9 @@ geliştirilmiştir.
 > içermemeli); aksi halde geliştirme sunucusu bazı yollarda hata verebilir.
 
 ```bash
+# Ortam değişkenleri şablonunu oluşturun
+cp .env.example .env
+
 # Bağımlılıkları yükleyin (.npmrc'deki legacy-peer-deps ayarı kullanılır)
 npm install
 
@@ -47,6 +50,13 @@ npm run android    # Android'de aç
 npm run ios        # iOS'ta aç
 npm run lint       # tsc --noEmit (tür kontrolü)
 ```
+
+## Ortam Değişkenleri
+
+`.env.example` repoda güvenli şablon olarak tutulur. Gerçek `.env` dosyası
+yereldedir ve git'e eklenmez. `app.config.js`, uygulama adı, scheme, Android
+package, iOS bundle id, EAS project id, destek e-postası ve gizlilik politikası
+URL'sini bu dosyadan okuyabilir.
 
 ---
 

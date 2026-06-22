@@ -26,8 +26,15 @@ yarn-error.*
 # macOS
 .DS_Store
 
-# Ortam değişkenleri
-.env*.local
+# Ortam değişkenleri / secrets
+.env
+.env.*
+!.env.example
+
+# Google Play / EAS servis hesapları
+google-service-account*.json
+play-store-credentials*.json
+eas-credentials*.json
 
 # IDE
 .idea/
