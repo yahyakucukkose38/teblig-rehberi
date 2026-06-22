@@ -31,6 +31,7 @@
     ],
     "ios": {
       "supportsTablet": true,
+      "requireFullScreen": true,
       "bundleIdentifier": "com.tebligrehberi.app"
     },
     "android": {

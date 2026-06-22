@@ -165,6 +165,28 @@ Build bitince çıkan **QR / indirme bağlantısından** APK'yı telefona kurun.
 
 > Kalan eksik: **ekran görüntüleri** (en az 2 telefon görseli).
 
+## App Store (iOS)
+
+Apple App Store'a yükleme için Expo/EAS ve Apple Developer hesaplarına giriş
+gerekir. iPad tarafında uygulama portre kullanımını korumak için
+`ios.requireFullScreen: true` ayarlıdır; bu, iPad multitasking orientation
+reddini önler.
+
+```bash
+npx eas-cli@latest login
+npx eas-cli@latest build --platform ios --profile production
+npx eas-cli@latest submit --platform ios --profile production
+```
+
+App Store Connect'te uygulama kaydı oluştururken bundle id:
+
+```text
+com.tebligrehberi.app
+```
+
+EAS submit sırasında Apple ID, App Store Connect app id ve takım bilgileri
+istenirse Apple Developer hesabındaki değerlerle girilmelidir.
+
 ---
 
 ## Telif ve Kaynakça
