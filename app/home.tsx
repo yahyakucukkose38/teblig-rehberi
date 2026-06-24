@@ -90,6 +90,90 @@ export default function Home() {
           </View>
         </View>
 
+        {/* 6 Sıfat — öne çıkan giriş */}
+        <Pressable
+          onPress={() => router.push('/six-attributes')}
+          accessibilityRole="button"
+          accessibilityLabel="6 Sıfat"
+          style={({ pressed }) => ({
+            flexDirection: 'row',
+            alignItems: 'center',
+            backgroundColor: theme.colors.primary,
+            borderRadius: theme.radius.lg,
+            paddingVertical: theme.spacing.lg,
+            paddingHorizontal: theme.spacing.lg,
+            marginBottom: theme.spacing.lg,
+            opacity: pressed ? 0.9 : 1,
+            ...theme.shadow.card,
+          })}
+        >
+          <View
+            style={{
+              width: 44,
+              height: 44,
+              borderRadius: 22,
+              backgroundColor: 'rgba(255,255,255,0.15)',
+              alignItems: 'center',
+              justifyContent: 'center',
+              marginRight: theme.spacing.md,
+            }}
+          >
+            <Ionicons name="sparkles" size={22} color={theme.colors.accent} />
+          </View>
+          <View style={{ flex: 1 }}>
+            <Text style={{ fontSize: theme.font('title'), fontWeight: '700', color: theme.colors.onPrimary }}>
+              6 Sıfat
+            </Text>
+            <Text style={{ fontSize: theme.font('small'), color: 'rgba(255,255,255,0.8)', marginTop: 2 }}>
+              Dinimizi yaşatan altı esas
+            </Text>
+          </View>
+          <Ionicons name="chevron-forward" size={22} color="rgba(255,255,255,0.85)" />
+        </Pressable>
+
+        {/* Tebliğ Çerçevesi — öne çıkan giriş */}
+        <Pressable
+          onPress={() => router.push('/dawah-framework')}
+          accessibilityRole="button"
+          accessibilityLabel="Tebliğ Çerçevesi"
+          style={({ pressed }) => ({
+            flexDirection: 'row',
+            alignItems: 'center',
+            backgroundColor: theme.colors.surface,
+            borderWidth: 1,
+            borderColor: theme.colors.border,
+            borderRadius: theme.radius.lg,
+            paddingVertical: theme.spacing.lg,
+            paddingHorizontal: theme.spacing.lg,
+            marginBottom: theme.spacing.lg,
+            opacity: pressed ? 0.9 : 1,
+            ...theme.shadow.card,
+          })}
+        >
+          <View
+            style={{
+              width: 44,
+              height: 44,
+              borderRadius: 22,
+              backgroundColor: theme.colors.accentSoft,
+              alignItems: 'center',
+              justifyContent: 'center',
+              marginRight: theme.spacing.md,
+            }}
+          >
+            <Ionicons name="compass-outline" size={22} color={theme.colors.accent} />
+          </View>
+          <View style={{ flex: 1 }}>
+            <Text style={{ fontSize: theme.font('title'), fontWeight: '700', color: theme.colors.text }}>
+              Tebliğ Çerçevesi
+            </Text>
+            <Text style={{ fontSize: theme.font('small'), color: theme.colors.textMuted, marginTop: 2 }}>
+              Tebliğde ana çerçeve ve konuşma metni
+            </Text>
+          </View>
+          <Ionicons name="chevron-forward" size={22} color={theme.colors.textMuted} />
+        </Pressable>
+
         {/* Günün notu */}
         <DailyNoteCard
           text={dailyText}

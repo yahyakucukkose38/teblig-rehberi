@@ -35,7 +35,7 @@ export function AppErrorBoundary({ retry }: ErrorBoundaryProps) {
           textAlign: 'center',
         }}
       >
-        Bir şeyler ters gitti
+        Bir şeyler ters gitti · Something went wrong
       </Text>
       <Text
         style={{
@@ -46,8 +46,8 @@ export function AppErrorBoundary({ retry }: ErrorBoundaryProps) {
           lineHeight: 22,
         }}
       >
-        Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin.{'\n'}
-        Something went wrong. Please try again.
+        Lütfen tekrar deneyin.{'\n'}
+        Please try again.
       </Text>
       <Pressable
         onPress={() => retry()}
